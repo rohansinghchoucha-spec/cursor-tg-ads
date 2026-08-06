@@ -84,6 +84,7 @@ def run(force_id: str | None = None, with_video: bool = True) -> dict:
         title=item["image_title"],
         subtitle=item["image_subtitle"],
         filename=f"{item['id']}.png",
+        post_id=item["id"],
     )
     video_path = None
     if with_video:

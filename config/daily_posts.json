@@ -1,57 +1,58 @@
 {
   "timezone": "America/Caracas",
   "channel": "@p2pupdatescheck",
+  "brand": "Nexa Desk",
   "posts_per_day": 1,
   "preferred_hour_local": 9,
   "rotation": [
     {
       "id": "trust_escrow",
-      "title": "Confianza primero",
-      "text": "🔒 Regla de oro del P2P\n\n1) Opera dentro de la DApp (Trust Wallet)\n2) Verifica el pago en tu banco, no por captura\n3) Empieza con montos pequeños\n4) Nadie te pedirá la seed phrase\n\nLa tasa importa — la seguridad más.\nNo es asesoría financiera.",
-      "image_title": "Confianza primero",
-      "image_subtitle": "Proceso claro · Trust Wallet · sin seed"
+      "title": "Confianza",
+      "text": "Nexa Desk · USDT P2P Venezuela\n\nOperamos con una regla simple: el proceso importa más que la promesa.\n\n• Solo flujo oficial en la DApp (Trust Wallet)\n• Verifica el pago en tu banco — nunca por captura\n• Los admins no piden seed phrase ni pagos por DM\n• Empieza con montos pequeños\n\nCanal oficial: @p2pupdatescheck\nNo es asesoría financiera.",
+      "image_title": "Confianza",
+      "image_subtitle": "Sin seed. Sin DM. Solo flujo oficial."
     },
     {
       "id": "pago_movil",
       "title": "Pago Móvil",
-      "text": "📱 Pago Móvil en Venezuela\n\nEs el riel local más usado en P2P USDT↔Bs.\nTen tu app bancaria lista antes de abrir la orden.\n\nCuando la DApp esté enlazada aquí, el flujo será: orden → pago local → liberación según reglas del producto.\n\nNo cierres tratos por DM.",
-      "image_title": "Pago Móvil + USDT",
-      "image_subtitle": "Riel local para órdenes P2P"
+      "text": "Pago Móvil es el riel local más usado para USDT ↔ bolívares.\n\nAntes de abrir una orden:\n1) App del banco lista\n2) Datos correctos\n3) Confirmar saldo real en la app — no en el chat\n\nCuando publiques o aceptes una orden en la DApp, el pago local debe cuadrar con las reglas del producto.\n\nNexa Desk · @p2pupdatescheck",
+      "image_title": "Pago Móvil",
+      "image_subtitle": "Riel local para USDT"
     },
     {
       "id": "trust_wallet",
       "title": "Trust Wallet",
-      "text": "🧭 Cómo entrar a la DApp\n\n1) Abre Trust Wallet\n2) Usa el navegador del wallet\n3) Entra solo con el enlace oficial de este canal\n4) Conecta y crea/acepta tu orden USDT\n\nSi alguien te manda otro link por privado — ignóralo.",
-      "image_title": "Trust Wallet DApp",
-      "image_subtitle": "Solo enlaces oficiales del canal"
+      "text": "Cómo entrar (cuando el enlace esté publicado aquí):\n\n1) Abre Trust Wallet\n2) Navegador del wallet\n3) Solo el enlace oficial de este canal\n4) Conecta y opera la orden\n\nSi te escriben otro enlace por privado, ignóralo.\n\nNexa Desk · USDT P2P Venezuela",
+      "image_title": "USDT · Venezuela",
+      "image_subtitle": "P2P desde tu wallet"
     },
     {
       "id": "tasa_vs_binance",
       "title": "Tasa",
-      "text": "📊 Sobre la tasa vs Binance\n\nEn VE mucha gente mira “dólar Binance” como referencia.\nNosotros apuntamos a tasa competitiva y transparente — compárala en vivo en la DApp cuando esté publicada.\n\nNo prometemos “siempre mejor que Binance”. Mostramos números claros.\n\nNo es asesoría financiera.",
+      "text": "En Venezuela, mucha gente usa Binance P2P como referencia de tasa.\n\nNuestra posición es clara:\nno vendemos eslóganes de “siempre mejor”.\nMostraremos la tasa en vivo en la DApp para que compares tú mismo.\n\nTasa competitiva + proceso transparente.\n\nNo es asesoría financiera.\nNexa Desk · @p2pupdatescheck",
       "image_title": "Tasa transparente",
-      "image_subtitle": "Compara en vivo · sin promesas vacías"
+      "image_subtitle": "Compara en vivo"
     },
     {
       "id": "scams",
-      "title": "Estafas",
-      "text": "⚠️ Estafas comunes en P2P\n\n• Captura falsa de Pago Móvil\n• Te sacan del escrow / chat oficial\n• “Soporte” pidiendo seed\n• Tasa gancho imposible\n\nSi te presionan o te sacan de la DApp — cancela.\nEste canal solo publica información oficial.",
-      "image_title": "Evita estafas",
-      "image_subtitle": "No seed · no DM raros · verifica pago"
+      "title": "Seguridad",
+      "text": "Señales de alerta en P2P:\n\n• Te sacan del flujo oficial a WhatsApp/Telegram DM\n• Piden seed phrase o “verificación” rara\n• Captura de pago en lugar de saldo en el banco\n• Tasa imposible de un perfil nuevo\n\nSi hay presión, cancela.\nSolo publicamos información oficial en este canal.",
+      "image_title": "Confianza",
+      "image_subtitle": "Sin seed. Sin DM. Solo flujo oficial."
     },
     {
       "id": "trc20",
-      "title": "TRC-20",
-      "text": "🔗 Red USDT\n\nPara uso diario en VE, TRC-20 suele ser la opción de bajo costo.\nConfirma siempre la red dentro de la DApp antes de enviar.\n\nEnviar a la red incorrecta puede significar pérdida de fondos.",
-      "image_title": "USDT TRC-20",
+      "title": "Red",
+      "text": "USDT y la red importan.\n\nPara uso diario en Venezuela, TRC-20 suele ser la opción de bajo costo — pero confirma siempre la red dentro de la DApp antes de enviar.\n\nRed incorrecta = riesgo de pérdida.\n\nNexa Desk · @p2pupdatescheck",
+      "image_title": "USDT · Venezuela",
       "image_subtitle": "Confirma la red antes de enviar"
     },
     {
       "id": "sell_order",
       "title": "Vender USDT",
-      "text": "💵 Vender USDT (orden de venta)\n\nObjetivo del producto: publicar/aceptar órdenes P2P desde Trust Wallet.\n\nFlujo esperado:\n1) Conecta wallet\n2) Crea orden de venta\n3) Espera contraparte / sigue pasos de pago\n4) Libera solo cuando el pago esté confirmado en tu banco\n\nGuía detallada + link oficial: próximamente fijados aquí.",
-      "image_title": "Orden de venta USDT",
-      "image_subtitle": "P2P desde Trust Wallet"
+      "text": "Orden de venta (visión del producto):\n\n1) Conecta wallet en Trust Wallet\n2) Crea la orden de venta USDT\n3) Sigue el pago local (Pago Móvil / transferencia)\n4) Libera solo cuando el pago esté confirmado en tu banco\n\nEl enlace oficial de la DApp se fijará en este canal.\n\nNexa Desk · USDT P2P Venezuela",
+      "image_title": "Orden de venta",
+      "image_subtitle": "USDT desde tu wallet"
     }
   ]
 }

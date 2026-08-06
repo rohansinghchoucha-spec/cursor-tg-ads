@@ -1,0 +1,57 @@
+{
+  "timezone": "America/Caracas",
+  "channel": "@p2pupdatescheck",
+  "posts_per_day": 1,
+  "preferred_hour_local": 9,
+  "rotation": [
+    {
+      "id": "trust_escrow",
+      "title": "Confianza primero",
+      "text": "🔒 Regla de oro del P2P\n\n1) Opera dentro de la DApp (Trust Wallet)\n2) Verifica el pago en tu banco, no por captura\n3) Empieza con montos pequeños\n4) Nadie te pedirá la seed phrase\n\nLa tasa importa — la seguridad más.\nNo es asesoría financiera.",
+      "image_title": "Confianza primero",
+      "image_subtitle": "Proceso claro · Trust Wallet · sin seed"
+    },
+    {
+      "id": "pago_movil",
+      "title": "Pago Móvil",
+      "text": "📱 Pago Móvil en Venezuela\n\nEs el riel local más usado en P2P USDT↔Bs.\nTen tu app bancaria lista antes de abrir la orden.\n\nCuando la DApp esté enlazada aquí, el flujo será: orden → pago local → liberación según reglas del producto.\n\nNo cierres tratos por DM.",
+      "image_title": "Pago Móvil + USDT",
+      "image_subtitle": "Riel local para órdenes P2P"
+    },
+    {
+      "id": "trust_wallet",
+      "title": "Trust Wallet",
+      "text": "🧭 Cómo entrar a la DApp\n\n1) Abre Trust Wallet\n2) Usa el navegador del wallet\n3) Entra solo con el enlace oficial de este canal\n4) Conecta y crea/acepta tu orden USDT\n\nSi alguien te manda otro link por privado — ignóralo.",
+      "image_title": "Trust Wallet DApp",
+      "image_subtitle": "Solo enlaces oficiales del canal"
+    },
+    {
+      "id": "tasa_vs_binance",
+      "title": "Tasa",
+      "text": "📊 Sobre la tasa vs Binance\n\nEn VE mucha gente mira “dólar Binance” como referencia.\nNosotros apuntamos a tasa competitiva y transparente — compárala en vivo en la DApp cuando esté publicada.\n\nNo prometemos “siempre mejor que Binance”. Mostramos números claros.\n\nNo es asesoría financiera.",
+      "image_title": "Tasa transparente",
+      "image_subtitle": "Compara en vivo · sin promesas vacías"
+    },
+    {
+      "id": "scams",
+      "title": "Estafas",
+      "text": "⚠️ Estafas comunes en P2P\n\n• Captura falsa de Pago Móvil\n• Te sacan del escrow / chat oficial\n• “Soporte” pidiendo seed\n• Tasa gancho imposible\n\nSi te presionan o te sacan de la DApp — cancela.\nEste canal solo publica información oficial.",
+      "image_title": "Evita estafas",
+      "image_subtitle": "No seed · no DM raros · verifica pago"
+    },
+    {
+      "id": "trc20",
+      "title": "TRC-20",
+      "text": "🔗 Red USDT\n\nPara uso diario en VE, TRC-20 suele ser la opción de bajo costo.\nConfirma siempre la red dentro de la DApp antes de enviar.\n\nEnviar a la red incorrecta puede significar pérdida de fondos.",
+      "image_title": "USDT TRC-20",
+      "image_subtitle": "Confirma la red antes de enviar"
+    },
+    {
+      "id": "sell_order",
+      "title": "Vender USDT",
+      "text": "💵 Vender USDT (orden de venta)\n\nObjetivo del producto: publicar/aceptar órdenes P2P desde Trust Wallet.\n\nFlujo esperado:\n1) Conecta wallet\n2) Crea orden de venta\n3) Espera contraparte / sigue pasos de pago\n4) Libera solo cuando el pago esté confirmado en tu banco\n\nGuía detallada + link oficial: próximamente fijados aquí.",
+      "image_title": "Orden de venta USDT",
+      "image_subtitle": "P2P desde Trust Wallet"
+    }
+  ]
+}

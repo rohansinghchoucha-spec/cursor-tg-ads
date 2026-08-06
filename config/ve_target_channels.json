@@ -1,0 +1,79 @@
+{
+  "geo": "VE",
+  "purpose": "Telegram Ads channel targeting + competitive research (public info only)",
+  "updated": "2026-08-06",
+  "priority_targets": [
+    {
+      "username": "@monitorvenezuela",
+      "name": "Monitor Dolar Venezuela",
+      "niche": "tasa_paralela_usdt",
+      "why": "Daily Binance/Bybit/Zelle/PayPal rates — high P2P intent",
+      "priority": 1
+    },
+    {
+      "username": "@DolarBCV",
+      "name": "Monitor del Dolar BCV",
+      "niche": "bcv_vs_digital",
+      "why": "Official vs digital USDT gap audience",
+      "priority": 1
+    },
+    {
+      "username": "@bcvtasa",
+      "name": "Precio dolar BCV",
+      "niche": "bcv_rate",
+      "why": "BCV watchers who also track parallel/USDT",
+      "priority": 2
+    },
+    {
+      "username": "@monitordolarparalelovenezuela",
+      "name": "Monitor Dolar Paralelo Venezuela",
+      "niche": "paralelo",
+      "why": "Parallel FX audience overlapping USDT P2P",
+      "priority": 1
+    },
+    {
+      "username": "@MonitorDolarVeOFICIAL",
+      "name": "Monitor Dolar Paralelo VE Oficial",
+      "niche": "paralelo",
+      "why": "Large paralelo monitor community",
+      "priority": 2
+    },
+    {
+      "username": "@RadarEconomicoVzla",
+      "name": "Radar de Noticias Venezuela",
+      "niche": "economia_news",
+      "why": "Broad VE economy readers",
+      "priority": 2
+    },
+    {
+      "username": "@e_positivo",
+      "name": "E+ economia",
+      "niche": "economia_crypto",
+      "why": "BCV + crypto market updates VE",
+      "priority": 2
+    },
+    {
+      "username": "@VEMIOficial",
+      "name": "VEMI Valores Economicos",
+      "niche": "mercados",
+      "why": "Markets/intel audience",
+      "priority": 3
+    },
+    {
+      "username": "@BCVZLA",
+      "name": "Banco Central de Venezuela (unofficial community hub listed publicly)",
+      "niche": "bcv_news",
+      "why": "Macro/official rate followers",
+      "priority": 3
+    }
+  ],
+  "ad_keywords_es": [
+    "USDT", "P2P", "Binance P2P", "Bybit P2P", "Pago Movil", "tasa paralela",
+    "Trust Wallet", "TRC20", "bolivares", "Zelle Venezuela", "Monitor Dolar"
+  ],
+  "notes": [
+    "Verify each channel still public and compliant before spending ads.",
+    "Do not impersonate these brands in creatives.",
+    "Primary product CTA should go to Trust Wallet DApp / our channel only."
+  ]
+}

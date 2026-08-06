@@ -18,3 +18,5 @@ tools/telegram_ads_mcp/
 tools/
 tools/telegram-user-mcp/
 data/channels.json
+data/media/
+data/posts/

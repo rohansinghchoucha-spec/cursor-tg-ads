@@ -17,3 +17,4 @@ tools/telegram_ads_mcp/
 .cursor/mcp.json
 tools/
 tools/telegram-user-mcp/
+data/channels.json

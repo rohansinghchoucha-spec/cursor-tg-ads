@@ -28,7 +28,7 @@ BRAND_MAP = {
     "tasa_vs_binance": "brand_hero_usdt_ve.png",
     "scams": "brand_confianza.png",
     "trc20": "brand_hero_usdt_ve.png",
-    "sell_order": "brand_orden_venta.png",
+    "sell_order": "brand_vende_usdt.png",
 }
 
 

@@ -1,58 +1,58 @@
 {
   "timezone": "America/Caracas",
   "channel": "@p2pupdatescheck",
-  "brand": "Nexa Desk",
+  "brand": "Vende USDT · Venezuela",
   "posts_per_day": 1,
   "preferred_hour_local": 9,
   "rotation": [
     {
-      "id": "trust_escrow",
-      "title": "Confianza",
-      "text": "Nexa Desk · USDT P2P Venezuela\n\nOperamos con una regla simple: el proceso importa más que la promesa.\n\n• Solo flujo oficial en la DApp (Trust Wallet)\n• Verifica el pago en tu banco — nunca por captura\n• Los admins no piden seed phrase ni pagos por DM\n• Empieza con montos pequeños\n\nCanal oficial: @p2pupdatescheck\nNo es asesoría financiera.",
-      "image_title": "Confianza",
-      "image_subtitle": "Sin seed. Sin DM. Solo flujo oficial."
+      "id": "sell_order",
+      "title": "Vender",
+      "text": "Si tienes USDT y necesitas bolívares — esto es para ti.\n\nFlujo:\n1) Abres el enlace oficial (solo de este canal)\n2) Se abre la DApp en el navegador\n3) Al operar, te lleva a Trust Wallet\n4) Creas tu orden de venta\n5) Cobras por Pago Móvil / transferencia\n\nSin seed por DM. Sin trato raro afuera del flujo.\n\nCuando el enlace esté fijado arriba — ese es el camino.\nNo es asesoría financiera.",
+      "image_title": "Vende tu USDT",
+      "image_subtitle": "Cobra en bolívares · Pago Móvil"
+    },
+    {
+      "id": "trust_wallet",
+      "title": "Flujo",
+      "text": "El click que importa\n\nEnlace oficial → navegador → Trust Wallet → orden de venta.\n\nSi te mandan “el mismo link” por privado, no.\nSolo lo que está fijado en este canal.\n\nAsí vendes con cabeza — no con prisa.",
+      "image_title": "Abre · Vende · Cobra",
+      "image_subtitle": "Navegador → Trust Wallet"
     },
     {
       "id": "pago_movil",
       "title": "Pago Móvil",
-      "text": "Pago Móvil es el riel local más usado para USDT ↔ bolívares.\n\nAntes de abrir una orden:\n1) App del banco lista\n2) Datos correctos\n3) Confirmar saldo real en la app — no en el chat\n\nCuando publiques o aceptes una orden en la DApp, el pago local debe cuadrar con las reglas del producto.\n\nNexa Desk · @p2pupdatescheck",
+      "text": "Vas a vender USDT. Quieres bolívares en tu banco.\n\nPago Móvil es el riel de todos los días.\nTen la app lista. Verifica el saldo real — no una captura.\n\nLa orden vive en la DApp / Trust Wallet.\nEl cobro, en tu banco.",
       "image_title": "Pago Móvil",
-      "image_subtitle": "Riel local para USDT"
+      "image_subtitle": "Riel local para cobrar"
     },
     {
-      "id": "trust_wallet",
-      "title": "Trust Wallet",
-      "text": "Cómo entrar (cuando el enlace esté publicado aquí):\n\n1) Abre Trust Wallet\n2) Navegador del wallet\n3) Solo el enlace oficial de este canal\n4) Conecta y opera la orden\n\nSi te escriben otro enlace por privado, ignóralo.\n\nNexa Desk · USDT P2P Venezuela",
-      "image_title": "USDT · Venezuela",
-      "image_subtitle": "P2P desde tu wallet"
-    },
-    {
-      "id": "tasa_vs_binance",
-      "title": "Tasa",
-      "text": "En Venezuela, mucha gente usa Binance P2P como referencia de tasa.\n\nNuestra posición es clara:\nno vendemos eslóganes de “siempre mejor”.\nMostraremos la tasa en vivo en la DApp para que compares tú mismo.\n\nTasa competitiva + proceso transparente.\n\nNo es asesoría financiera.\nNexa Desk · @p2pupdatescheck",
-      "image_title": "Tasa transparente",
-      "image_subtitle": "Compara en vivo"
-    },
-    {
-      "id": "scams",
-      "title": "Seguridad",
-      "text": "Señales de alerta en P2P:\n\n• Te sacan del flujo oficial a WhatsApp/Telegram DM\n• Piden seed phrase o “verificación” rara\n• Captura de pago en lugar de saldo en el banco\n• Tasa imposible de un perfil nuevo\n\nSi hay presión, cancela.\nSolo publicamos información oficial en este canal.",
+      "id": "trust_escrow",
+      "title": "Confianza",
+      "text": "Nadie aquí te pide la seed.\nNadie te obliga a cerrar por DM.\n\nSi sientes presión, sales.\nSi el pago no está en tu banco, no liberas.\n\nVender USDT no es una carrera.\nEs un proceso que puedes entender.",
       "image_title": "Confianza",
       "image_subtitle": "Sin seed. Sin DM. Solo flujo oficial."
     },
     {
-      "id": "trc20",
-      "title": "Red",
-      "text": "USDT y la red importan.\n\nPara uso diario en Venezuela, TRC-20 suele ser la opción de bajo costo — pero confirma siempre la red dentro de la DApp antes de enviar.\n\nRed incorrecta = riesgo de pérdida.\n\nNexa Desk · @p2pupdatescheck",
-      "image_title": "USDT · Venezuela",
-      "image_subtitle": "Confirma la red antes de enviar"
+      "id": "tasa_vs_binance",
+      "title": "Tasa",
+      "text": "Todos miran la tasa.\nTambién miran si el trato es limpio.\n\nAquí la idea es tasa clara en la DApp — para que compares tú — y un camino a Trust Wallet para vender.\n\nNo slogans vacíos.\nNúmeros + proceso.",
+      "image_title": "Tasa transparente",
+      "image_subtitle": "Compara · luego vende"
     },
     {
-      "id": "sell_order",
-      "title": "Vender USDT",
-      "text": "Orden de venta (visión del producto):\n\n1) Conecta wallet en Trust Wallet\n2) Crea la orden de venta USDT\n3) Sigue el pago local (Pago Móvil / transferencia)\n4) Libera solo cuando el pago esté confirmado en tu banco\n\nEl enlace oficial de la DApp se fijará en este canal.\n\nNexa Desk · USDT P2P Venezuela",
-      "image_title": "Orden de venta",
-      "image_subtitle": "USDT desde tu wallet"
+      "id": "scams",
+      "title": "Cuidado",
+      "text": "Si alguien te dice “te doy mejor tasa por WhatsApp” — frena.\n\nLas estafas viven fuera del flujo.\nEste canal existe para que vendas dentro del enlace oficial → Trust Wallet.\n\nSeed = nunca.\nCaptura de pago = no basta.",
+      "image_title": "Confianza",
+      "image_subtitle": "Vende dentro del flujo oficial"
+    },
+    {
+      "id": "trc20",
+      "title": "Red",
+      "text": "Antes de mover USDT: confirma la red en la DApp.\nTRC-20 suele ser barata para el día a día — pero la red incorrecta duele.\n\nVender bien también es no perder fondos en el camino.",
+      "image_title": "USDT · Venezuela",
+      "image_subtitle": "Confirma la red antes de enviar"
     }
   ]
 }

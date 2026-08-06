@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.auth_state.json
+auth_state.json
+data/dry_run_campaigns.json
+data/plan_*.json
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store

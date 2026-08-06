@@ -29,6 +29,7 @@ BRAND_MAP = {
     "scams": "brand_confianza.png",
     "trc20": "brand_hero_usdt_ve.png",
     "sell_order": "brand_vende_usdt.png",
+    "pago_form": "brand_pago_movil_form.png",
 }
 
 

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "telegram-ads": {
+      "command": "/workspace/tools/telegram_ads_mcp/.venv/bin/telegram-ads-mcp",
+      "env": {
+        "TELEGRAM_ADS_AUTH_STATE": "/home/ubuntu/.config/telegram-ads-mcp/auth_state.json",
+        "TELEGRAM_ADS_ACCOUNT": "REPLACE_WITH_ACCOUNT_NAME_IF_MULTIPLE"
+      }
+    }
+  }
+}

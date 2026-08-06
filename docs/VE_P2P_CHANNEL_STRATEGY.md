@@ -105,3 +105,59 @@ Caveats:
 - Ads-safe Spanish pins + description
 - Post calendar templates in `docs/` + scripts
 - Never post guarantee/scam language (compliance filter)
+
+---
+
+## How people trust (VE P2P research)
+
+Binance wins not only on brand — on **escrow + habit + “dólar Binance” as the street rate**. Users fear:
+- Fake Pago Móvil screenshots
+- Off-app Telegram/WhatsApp “better rate” scams
+- Admins asking for seed / rush release
+
+### Trust stack you must show (in product + channel)
+
+1. **Escrow / lock USDT** until payment verified (El Dorado / Binance pattern)
+2. **Live rate board** vs reference (people compare to Binance P2P — hide nothing)
+3. **Small first trade** allowed (prove before volume)
+4. **Public rules**: never release on screenshot; verify in bank app
+5. **Official links only** pinned; admins never DM for seed
+6. **Dispute / support path** stated clearly
+7. **Proof posts**: completed order counts, uptime, how-to videos — not “we are #1”
+
+### “Better rate than Binance” — careful
+
+Reality: in VE, *better than Binance* often sounds like a **bait scam** (OpenRate-style research on off-platform P2P).
+
+**Do:**
+- In DApp: show your rate next to reference / explain fee math
+- In channel: “Compara la tasa en vivo en la DApp”
+- Ads: “Tasa competitiva · Pago Móvil · Trust Wallet” (factual)
+
+**Don’t (ads decline + trust kill):**
+- “Mejor que Binance garantizado”
+- “Siempre mejor tasa”
+- Huge spread with no escrow story
+
+Better rate wins **after** trust. Lead with safety + process; rate is the closer.
+
+## Where to target (priority)
+
+| Priority | Place | Why |
+|----------|-------|-----|
+| 1 | Telegram Ads → Spanish crypto/finance/VE news channels | High intent, TG is money chat in VE |
+| 2 | Channels about USDT, P2P, tasa paralela, Pago Móvil | Exact job-to-be-done |
+| 3 | Trust Wallet / wallet how-to audiences | Your DApp lives there |
+| 4 | Diaspora remittance (Zelle→Bs / USDT) corridors | Secondary volume |
+| 5 | Cities: Caracas, Maracaibo, Valencia, Barquisimeto | Dense digital users |
+
+Avoid as primary: Facebook crypto ads (heavy restrictions), random spam groups.
+
+Cabinet: **TON** for crypto intent; **Stars** if creatives get sensitive; Euro later for finer geo if KYC path opens.
+
+## Client quality filter (good clients)
+
+Want: repeat sellers/buyers with clear Pago Móvil, normal ticket sizes, complete in-app.  
+Avoid: “best rate in DM”, off-escrow, third-party payments, rush pressure.
+
+Channel + bot should push: **only trade inside DApp**.

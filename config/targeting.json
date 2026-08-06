@@ -1,0 +1,88 @@
+{
+  "niches": [
+    {
+      "id": "usdt_p2p",
+      "label": "USDT Buy/Sell P2P",
+      "priority": 1,
+      "keywords": [
+        "USDT", "P2P", "OTC", "TRC20", "buy USDT", "sell USDT",
+        "USDT seller", "USDT buyer", "stablecoin", "Tether"
+      ],
+      "example_channels": [
+        "@usdt_buyer_crypto_cr",
+        "@sum_usdt"
+      ],
+      "notes": "Highest intent for desk clients. Verify channel quality before spend."
+    },
+    {
+      "id": "local_rails",
+      "label": "Local fiat rails ↔ USDT",
+      "priority": 1,
+      "keywords": [
+        "INR USDT", "UPI USDT", "NGN USDT", "ARS USDT", "PKR USDT",
+        "GCash USDT", "MoMo crypto", "bank transfer USDT"
+      ],
+      "example_channels": [],
+      "notes": "Match copy to local payment method of the geo."
+    },
+    {
+      "id": "crypto_traders",
+      "label": "Active crypto traders",
+      "priority": 2,
+      "keywords": [
+        "crypto signals", "BTC USDT", "futures", "spot trading",
+        "Binance", "Bybit", "DEX", "memecoin"
+      ],
+      "example_channels": [],
+      "notes": "Good top-of-funnel; convert via bot qualification."
+    },
+    {
+      "id": "wallets_onramps",
+      "label": "Wallets & on-ramps",
+      "priority": 2,
+      "keywords": [
+        "crypto wallet", "onramp", "offramp", "custodial wallet",
+        "non-custodial", "TON wallet"
+      ],
+      "example_channels": [],
+      "notes": "Users already moving money — strong for OTC."
+    },
+    {
+      "id": "remittance",
+      "label": "Remittance / diaspora",
+      "priority": 3,
+      "keywords": [
+        "send money abroad", "remittance", "diaspora", "cross border USDT"
+      ],
+      "example_channels": [],
+      "notes": "LATAM, MENA, SEA, Africa corridors perform for USDT rails."
+    }
+  ],
+  "geo_playbooks": [
+    {
+      "geo": "IN",
+      "payment_hooks": ["UPI", "IMPS", "INR"],
+      "languages": ["hi", "en"]
+    },
+    {
+      "geo": "NG",
+      "payment_hooks": ["NGN", "bank transfer", "Opay"],
+      "languages": ["en"]
+    },
+    {
+      "geo": "AR",
+      "payment_hooks": ["ARS", "Mercado Pago"],
+      "languages": ["es"]
+    },
+    {
+      "geo": "MENA",
+      "payment_hooks": ["bank transfer", "local AED/EGP"],
+      "languages": ["ar", "en"]
+    }
+  ],
+  "channel_allowlist_template": [
+    "Replace with real public channel usernames (max 100 per TG Ads campaign)",
+    "Prefer 5k–200k subs, active daily posts, trader/P2P topic fit",
+    "Avoid scam flash-USDT spam channels for brand safety"
+  ]
+}

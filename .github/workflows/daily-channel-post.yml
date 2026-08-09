@@ -1,0 +1,62 @@
+# Durable daily poster for @p2pupdatescheck
+# Runs on GitHub-hosted runners (survives Cloud Agent VM shutdown).
+name: Daily Telegram channel post
+
+on:
+  schedule:
+    # 09:00 America/Caracas ≈ 13:00 UTC
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: "Optional rotation id (e.g. trust_escrow, pago_movil)"
+        required: false
+        default: ""
+      no_video:
+        description: "Skip short video follow-up"
+        type: boolean
+        default: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Post to Telegram channel
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+          PYTHONPATH: ${{ github.workspace }}
+          TZ: America/Caracas
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
+            echo "TELEGRAM_BOT_TOKEN secret missing — add it in repo Settings → Secrets"
+            exit 1
+          fi
+          export TELEGRAM_CHANNEL="${TELEGRAM_CHANNEL:-@p2pupdatescheck}"
+          ARGS=()
+          if [ -n "${{ inputs.post_id }}" ]; then
+            ARGS+=(--id "${{ inputs.post_id }}")
+          fi
+          if [ "${{ inputs.no_video }}" = "true" ]; then
+            ARGS+=(--no-video)
+          fi
+          python -m src.bot.daily_poster "${ARGS[@]}"

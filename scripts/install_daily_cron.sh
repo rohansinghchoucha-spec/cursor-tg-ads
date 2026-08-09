@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 # Install / refresh daily cron for VE channel auto-posts (America/Caracas ~09:00)
+#
+# WARNING: Cloud Agent / ephemeral VMs pe yeh durable NAHI hai — VM band = cron dead.
+# Production schedule: .github/workflows/daily-channel-post.yml (GitHub Actions).
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 PY="$ROOT/.venv/bin/python"

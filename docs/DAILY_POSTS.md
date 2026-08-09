@@ -4,10 +4,27 @@
 - `@p2pupdatescheck` — USDT P2P Venezuela
 - Bot: `@Rohanmcpbot`
 
+## Why posts stopped (important)
+Pehle Cloud Agent VM pe `cron` + `tmux` lagaya gaya tha. **Woh VM temporary hoti hai** — agent session band / expire hone ke baad cron/tmux mar jate hain. Isliye “daily maintain” chalna band ho gaya.
+
+**Durable schedule ab GitHub Actions pe hai:**
+[`.github/workflows/daily-channel-post.yml`](../.github/workflows/daily-channel-post.yml) — har din **13:00 UTC (~09:00 Caracas)**.
+
+### Enable checklist
+1. Merge this branch / PR to `main` (ya Actions ko is branch pe allow karo)
+2. Repo → **Settings → Secrets and variables → Actions** me add karo:
+   - `TELEGRAM_BOT_TOKEN` (BotFather → `@Rohanmcpbot`)
+   - optional `TELEGRAM_CHANNEL` = `@p2pupdatescheck`
+3. **Actions → Daily Telegram channel post → Run workflow** se ek baar manual test
+
+Cursor Automations bhi use kar sakte ho (daily scheduled agent) — lekin is repo me durable runner GitHub Actions hai.
+
 ## What runs automatically
-1. `src/bot/daily_poster.py` — picks rotating Spanish post, generates PNG + short MP4, sends photo (+ video)
-2. Cron (13:00 UTC ≈ 09:00 Caracas) via `scripts/install_daily_cron.sh`
-3. Backup loop: `scripts/daily_scheduler_loop.sh` in tmux `ve-daily-poster`
+1. `src/bot/daily_poster.py` — rotating Spanish post + PNG (+ short MP4)
+2. **GitHub Actions cron** (primary, durable)
+3. Local helpers (dev / one-off only — **not durable on Cloud Agent VMs**):
+   - `scripts/install_daily_cron.sh`
+   - `scripts/daily_scheduler_loop.sh` (tmux `ve-daily-poster`)
 
 Manual test:
 ```bash

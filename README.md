@@ -25,6 +25,7 @@ World research: [`docs/WORLD_RESEARCH.md`](docs/WORLD_RESEARCH.md)
 4. **Dry-run backend** — bina paisa jalaaye plan/launch/optimize simulate
 5. **Lead bot** — Telegram `/start` funnel (volume → network → contact → admin notify)
 6. **Integration notes** — ADSLY / MCP / Telega wire-up
+7. **Daily channel poster** — `@p2pupdatescheck` ke liye GitHub Actions cron (details: [`docs/DAILY_POSTS.md`](docs/DAILY_POSTS.md))
 
 ## Quick start
 

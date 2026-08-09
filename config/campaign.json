@@ -1,0 +1,35 @@
+{
+  "product": {
+    "name": "USDT Desk Lead Engine",
+    "offer": "Verified USDT P2P / OTC desk — fast buy & sell, TRC20/BEP20/ERC20",
+    "cta_url": "https://t.me/YOUR_LEAD_BOT",
+    "brand": "YOUR_BRAND",
+    "languages": ["en", "hi", "ar", "es", "ru"]
+  },
+  "cabinet": {
+    "preferred": "TON",
+    "fallback": "Stars",
+    "min_cpm_ton": 0.1,
+    "default_budget_ton": 5,
+    "daily_spend_cap_ton": 20
+  },
+  "optimizer": {
+    "poll_minutes": 60,
+    "pause_if_ctr_below": 0.25,
+    "pause_after_impressions": 5000,
+    "scale_if_ctr_above": 1.2,
+    "cpm_bump_percent": 10,
+    "max_cpm_ton": 2.0,
+    "rewrite_on_moderation_fail": true
+  },
+  "llm": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.7
+  },
+  "compliance": {
+    "forbid_guaranteed_returns": true,
+    "forbid_unlicensed_investment_claims": true,
+    "require_honest_desk_copy": true
+  }
+}

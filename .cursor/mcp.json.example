@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "telegram-ads": {
+      "command": "/workspace/tools/telegram_ads_mcp/.venv/bin/telegram-ads-mcp",
+      "env": {
+        "TELEGRAM_ADS_AUTH_STATE": "/home/ubuntu/.config/telegram-ads-mcp/auth_state.json",
+        "TELEGRAM_ADS_ACCOUNT": "Rohan"
+      }
+    },
+    "mcp-telegram": {
+      "command": "/home/ubuntu/.local/bin/mcp-telegram",
+      "args": ["start"],
+      "env": {
+        "API_ID": "REPLACE_FROM_my.telegram.org",
+        "API_HASH": "REPLACE_FROM_my.telegram.org"
+      }
+    }
+  }
+}

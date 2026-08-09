@@ -1,10 +1,12 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-09  
+**Last updated:** 2026-08-09 (new-ad shortlist + live re-audit)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
 - Audit of activation: `bc-fe52cbc5-8e0f-5e18-9b5e-2d0d15df195e`
+
+**Access note:** Is environment me Telegram Ads MCP / logged-in ads.telegram.org **nahi** hai. Per-channel exact joins Ads Manager login ke bina nahi milte. Delivery proxy = spy placement share + live `t.me/s` audits.
 
 Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recommend → baad me drop wala gyan yahan locked hai.
 
@@ -99,42 +101,71 @@ Pehle FINAL / Tier A recommend → baad me band: views high, joins/sellers weak.
 **Status (as of ~2026-08-09):** Active  
 **CPM:** 4.00 TON | **Budget:** 30 TON | Daily views/user: 1  
 **Results snapshot:** Views ~1,967 | Clicks ~159 (~8% CTR) | Actions ~26 | Spent ~7.9 TON | Left ~22.13 TON | CPA ~0.30 TON/action → **good vs prior fails**  
-**Destination growth:** ~20 → ~34 members (modest; real KPI = DMs/deals)
+**Destination growth:** ~20 → ~50 members on `@safepathdeals` (2026-08-09 live check). Real KPI = DMs/deals.
 
-| # | Handle | Notes / delivery share |
-|---|---|---|
-| 1 | `@uupay_captain` | China-pay cohort |
-| 2 | `@quickcashwins` (WingsAPP) | Mid delivery |
-| 3 | `@loots_pay` | Lower delivery but keep |
-| 4 | `@txtpayz` | Mid-high |
-| 5 | `@base_pay` | Lower; UltraPay family cousin |
-| 6 | `@usdt_buy_seller_binance_p2p` | **Highest delivery** (mixed history — watch quality) |
-| 7 | `@skypay_payment_backup_01` | High delivery |
-| 8 | `@kunal_loots` | Mid-high |
+| # | Handle | Live (2026-08-09) | Delivery share proxy |
+|---|---|---|---|
+| 1 | `@uupay_captain` | ~live views 1.6–8.5k | Mid |
+| 2 | `@quickcashwins` | views 1.3–11k | Mid |
+| 3 | `@loots_pay` | views 150–1.1k | Lower |
+| 4 | `@txtpayz` | views ~196 only (weak organic now) | Mid-high delivery earlier |
+| 5 | `@base_pay` | views 125–1.7k | Lower |
+| 6 | `@usdt_buy_seller_binance_p2p` | ~37.7k subs; public preview restricted | **Highest delivery** |
+| 7 | `@skypay_payment_backup_01` | ~10.6k subs; public preview restricted | High |
+| 8 | `@kunal_loots` | views 400–1k | Mid-high |
 
-**Older ad “7”:** On Hold — 171 views, 42 clicks, 7 actions.
+**Joins / Actions attribution (best available without Ads login):**  
+Exact “kis channel se kitne joins” Ads Manager channel breakdown ke bina **nahi** milta. Closest proxy = impression delivery share:  
+`usdt_buy_seller_binance_p2p` → `skypay_payment_backup_01` → `kunal_loots` / `txtpayz` → `quickcashwins` / `uupay_captain` → `loots_pay` / `base_pay`.  
+Matlab zyada traffic likely top-delivery channels se; join quality alag ho sakti hai.
 
-**Spy placement share (highest → lower):**  
-`usdt_buy_seller_binance_p2p` → `skypay` → `kunal_loots`/`txtpayz` → `quickcashwins`/`uupay` → `loots_pay`, `base_pay`
+**Older ad “7”:** On Hold — 171 views, 42 clicks, 7 actions.  
+**Rule:** Purana “8 channel testing” **chalne do** — naya ad alag banao, overlap mat karo.
 
 ---
 
-## 3) Next expansion (NOT in current 8) — TEST next
+## 3) NEW AD shortlist (NOT in current 8) — live audited 2026-08-09
 
-Same creative + ~4 TON CPM. Split remaining budget (~12 current / ~10 new) suggested.
+Same creative + ~4 TON CPM. Purane 8 ko **repeat mat karna**.
 
-| Priority | Handle | Why |
-|---|---|---|
-| 1 | `@diwapay` | Best: real live views 3k–7k + USDT-rate competitor ads (earn-app early drop se alag — re-qualified) |
-| 2 | `@wallet_999pay` | China-pay / seller lane |
-| 3 | `@linkxwalletnow` | Long-standing keep through Final NEW 10 |
-| 4 | `@cocopayplus` | Optional only if live revived — otherwise skip |
-| 5 | `@jaypay_8` | Chinese pay; was noise once — small test ok |
-| 6 | `@atg_india` | Keep in Final NEW 10 |
-| Optional weak | `@diwapay_support_crypto` | Weaker live views |
-| Also historically good | `@linkpay8`, `@Ez_india`, `@hoyopay` / `@hoyopay_offical`, `@showpayindia`, `@xwalletcorporate`, `@bestpay`, `@paisabase_official`, `@atgofficiale`, `@atgpay_iop` | Replacements / backup pack — re-check live before spend |
+### Primary 8 (naya ad me yehi lagao)
 
-**Skip for expansion:** `@ultra_pay0_family` (near-dead now), inflated mega gaming, famous crypto lane.
+| # | Handle | Subs | Live views | Why fit |
+|---|---|---|---|---|
+| 1 | `@diwapay` | ~54k | ~7–10k | Best; MobiusPe / CryptoMarketHub USDT-rate ads active |
+| 2 | `@linkxwalletnow` | ~31k | ~2–3.3k | USDT–INR wallet; heavy competitor rate ads |
+| 3 | `@linkpay8` | ~17k | ~11–17k | Daily sell orders language; very strong live |
+| 4 | `@wallet_999pay` | ~26k | ~870–1.1k | China-pay seller cohort |
+| 5 | `@atgpay_iop` | ~2k | ~2–5.7k | Fast sell / USDT token language |
+| 6 | `@showpayindia` | ~6.9k | ~1.2–1.6k | INR trading for game cos (seller-adjacent) |
+| 7 | `@hoyopay` | ~2.5k | ~1.2–1.7k | USDT commission / quick sell orders |
+| 8 | `@bestpay` | ~2.2k | ~0.9–1.8k | Indian payment co needing corporate accounts |
+
+### Backup / swap (agar reject / low delivery)
+
+| Handle | Subs | Views | Note |
+|---|---|---|---|
+| `@atg_india` | ~7.9k | ~0.8–1.9k | USDT–INR exchange |
+| `@Ez_india` | ~4.5k | ~1–1.6k | EZPay sell/register |
+| `@jaypay_8` | ~6.7k | ~0.4–1.3k | Small test ok |
+| `@ultrapay_official` | ~2.2k | ~1–1.7k | UltraPay gateway revived |
+| `@ultra_pay0_family` | ~1.1k | ~1.3–2.4k | Re-qualified live (was DROP) |
+| `@quickpayoffical1` | ~1.6k | ~500–670 | QuickPay official updates |
+| `@sharkpaypayment` | ~3.3k | ~0.8–1.2k | NEW: India game-pay co |
+| `@gnspay_upi` | ~3.1k | ~0.8–2.6k | NEW: gaming funds / accounts |
+| `@wiseway_payment` | ~2.3k | ~2.4–3.3k | NEW: payment desk, strong views |
+| `@xpay0088` | ~1.2k | ~1.2–1.9k | NEW: needs Indian accounts |
+| `@usdt_buyer_crypto_cr` | ~6k | ~500–990 | OTC desk survivor |
+
+### Explicit SKIP (is research wave)
+
+- Famous crypto again: `@startfromzerofamily`, `@CryptoHindiO`, `@technovasu`, `@bitcoinexpertindia`, `@cryptoheadlines365` — pehle galat lane
+- Loot/rummy earn: `@earningsupport2`, `@lootwitharkaofficial`, `@dailyincome_club`, `@yonno_rummy_00`
+- Deal spam: `@falcondeal2231`, `@dracodeall`, `@crazyonlinedeals666`, `@supremedealx122`
+- Weak/dead: `@paisabase_official` (~100 views), `@xwalletcorporate` (~150–200), `@cocopayplus` (no views), `@xd_payman` (~250), `@diwapay_support_crypto` (~250), `@lgpay_official` (no public views verify)
+- Mega gaming deposit product as primary: `@tivrapay` (90k / high views but wrong product lane)
+- Borderline junk: `@buysellvip` (loot business contact)
+- Current RUNNING 8 — **naye ad me mat daalna** (overlap waste)
 
 ---
 

@@ -100,8 +100,10 @@ Pehle FINAL / Tier A recommend → baad me band: views high, joins/sellers weak.
 **Ad:** “8 channel testing”  
 **Status (as of ~2026-08-09):** Active  
 **CPM:** 4.00 TON | **Budget:** 30 TON | Daily views/user: 1  
-**Results snapshot:** Views ~1,967 | Clicks ~159 (~8% CTR) | Actions ~26 | Spent ~7.9 TON | Left ~22.13 TON | CPA ~0.30 TON/action → **good vs prior fails**  
-**Destination growth:** ~20 → ~50 members on `@safepathdeals` (2026-08-09 live check). Real KPI = DMs/deals.
+**Results snapshot (2026-08-11 Ads login):** Views **3,174** | Clicks **285** (~9% CTR) | Actions **48** | Budget left **€17.30** | CPM €4.05 | CPA ~€0.26 → **still strong**  
+**Earlier snapshot (Aug 9):** Views ~1,967 | Clicks ~159 | Actions ~26 | Left ~22 TON  
+**Destination:** `@safepathdeals` ~50 members (Aug 9). Real KPI = DMs/deals.  
+**Ads note:** Telegram Ads me per-channel joins breakdown **nahi** milta — sirf aggregate + target channel list.
 
 | # | Handle | Live (2026-08-09) | Delivery share proxy |
 |---|---|---|---|

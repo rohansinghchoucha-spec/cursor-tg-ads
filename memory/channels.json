@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09",
+  "updated_at": "2026-08-11",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -20,10 +20,10 @@
     "budget_ton": 30,
     "spent_approx_ton": 7.9,
     "left_approx_ton": 22.13,
-    "views": 1967,
-    "clicks": 159,
-    "actions": 26,
-    "ctr_approx": 0.08,
+    "views": 3174,
+    "clicks": 285,
+    "actions": 48,
+    "ctr_approx": 0.0898,
     "cpa_ton_approx": 0.3,
     "destination_members_approx": "20→50",
     "channels": [
@@ -45,7 +45,14 @@
       "uupay_captain",
       "loots_pay",
       "base_pay"
-    ]
+    ],
+    "budget_left_eur": 17.3,
+    "cpm_eur": 4.05,
+    "cpa_eur_approx": 0.265,
+    "spent_approx_eur": 12.69,
+    "account_budget_eur": 3.29,
+    "checked_at": "2026-08-11",
+    "ads_login": "ok"
   },
   "channels": {
     "uupay_captain": {
@@ -624,5 +631,5 @@
     "xpay0088",
     "usdt_buyer_crypto_cr"
   ],
-  "access_note": "No Telegram Ads MCP; ads.telegram.org not logged in — exact joins-per-channel unavailable"
+  "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI"
 }

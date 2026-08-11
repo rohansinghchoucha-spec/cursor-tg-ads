@@ -6,7 +6,7 @@
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
 - Audit of activation: `bc-fe52cbc5-8e0f-5e18-9b5e-2d0d15df195e`
 
-**Access note:** Is environment me Telegram Ads MCP / logged-in ads.telegram.org **nahi** hai. Per-channel exact joins Ads Manager login ke bina nahi milte. Delivery proxy = spy placement share + live `t.me/s` audits.
+**Access note:** Ads login OK (2026-08-11). Per-channel joins still unavailable in TG Ads UI. Delivery proxy = spy share + live audits.
 
 Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recommend → baad me drop wala gyan yahan locked hai.
 
@@ -314,3 +314,17 @@ Ruthless shortlist — live `t.me/s` done. Still need Ads eligibility + CPA watc
 | `BLOCK` | Wrong intent / scam / policy risk |
 
 Update date stamp at top whenever this file changes.
+
+
+## 9) Who holds sellable USDT in India (as of 2026-08-11)
+
+1. **China-pay / game-pay order takers** — best proven lane for this desk.
+2. **Gaming-fund / account suppliers on USDT rails** — good adjacent.
+3. **P2P/OTC micro merchants** — good if live, not inflated.
+4. **Freelancers/export paid in USDT** — real sellers, scarce clean TG inventory.
+5. **Forex / prop traders** — mostly **buy** USDT for challenge fees; rare payout cashout. **Do not primary-target forex signal/prop channels.**
+
+### Joins high / seller DMs low — ops fix
+- Destination pin: sellers only, min size, DM `@BussinessMen0` with amount+network.
+- Creative sharpen: `Sellers only · Min 100 USDT · Instant UPI`.
+- Next ad = Primary 8 China-pay (already audited), plus extras `@upaywalle_mahagames`, `@team_11_dream01`, `@atgofficiale`.

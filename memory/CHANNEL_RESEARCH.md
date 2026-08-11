@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-09 (new-ad shortlist + live re-audit)  
+**Last updated:** 2026-08-11 (India USDT seller personas + NEW live-check list)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -190,9 +190,92 @@ Reference only — some since reclassified:
 
 ## 5) Competitor advertisers to reverse-spy
 
-ShowxPay, MobiusPe, Laxmi, QuickPay, CryptoMarketHub, Trust Pay, and similar USDT⇄INR / China-pay desks.
+ShowxPay (`@showxpay`), MobiusPe (`@mobiuspe0`), Laxmi (`@LaxmiFundsCommunity`), QuickPay (`@quickpayoffical1`), CryptoMarketHub (`@CryptoMarketHubb`), Trust Pay (`@usdt_market_trustpay` / `@COME_Channel_0`), UltraPay / LinkX / Diwa style desks, plus OLOPay/PayX (account-recruit ads), SPRO DEAL, Bhaaratpay, RS Wallet (`@network_public`).
 
 Method: TGAdsSpy → their placements → live `t.me/s/` check → only keep if recent posts have real views + recent sponsored USDT ads.
+
+### Competitor ads land on which channel TYPES (Aug 2026 spy)
+
+| Type | Evidence | Verdict for Nexa |
+|---|---|---|
+| China-pay / wallet rate channels | CryptoMarketHub on `@diwapay` `@linkxwalletnow` `@wallet_999pay` `@skypay_payment_backup_01` `@txtpayz` `@atgpay_iop` `@atg_india` `@loots_pay` | **Primary** |
+| Deal / sell-order clones | TrustPay / MobiusPe on `@elitedealll` `@jaypay_8` `@kunal_loots` `@quickcashwins` | **Test** (intent ok; quality varies) |
+| Gaming-fund / India-account desks | OLOPay/PayX on `@gnspay_upi` `@magicpay_168gns` `@xd_payman` | **Adjacent** — operators + order-takers |
+| Inflated OTC / flash | ShowxPay heavy on `@flashusdtbuysell` `@crypto_coins_seller` `@buyer_usdt_seller_crypto_binance` | **Avoid** |
+| Famous crypto / loot earn | ShowxPay also on `@cryptoheadlines365` `@dailyincome_club` | **Avoid** (proven weak) |
+| Forex signal shells | `@PrimeForex1121` running same “4% commission / USDT rate” creative | **Avoid** — cloaked inventory, not sellers |
+
+---
+
+## 5b) WHERE USDT sits in India now (personas, Aug 2026)
+
+**Market fact:** Binance/OKX-style INR P2P remains the main retail USDT⇄INR rail (UPI/IMPS/bank). Local premium still spikes when payment/remittance channels get enforcement pressure (WazirX noted ~8.5% premium June 2026). Desk buyers compete with P2P merchants for the same seller float.
+
+### Ranked personas who actually HOLD sellable USDT
+
+| Rank | Persona | Hold USDT? | Sell for INR? | TG niche fit |
+|---|---|---|---|---|
+| 1 | **China-pay / game-pay order-takers** (deposit USDT → take INR orders → earn %) | Yes — working capital | Constant | Best: Diwa/LinkX/ATG/999Pay-style |
+| 2 | **Gaming-fund settlers / UPI account suppliers** linked to offshore game cash desks | Yes — settlement asset | Daily/T+0–1 | China–India payment / MagicPay / ZkPay / U8Pay / GoldPay |
+| 3 | **Gray OTC / P2P merchants** (Binance P2P + Telegram desks) | Yes — inventory | High volume | OTC rate channels (watch inflation) |
+| 4 | **eRupee / wallet-app depositors** (Bhaaratpay / eRupee trading lanes) | Yes | High | eRupee + USDT rate channels |
+| 5 | **Freelancers / Web3 contractors paid in USDT** | Yes | When cashing out | Hard to buy on TG Ads; sparse |
+| 6 | **Remittance / OTC money-changer float** | Yes | Continuous | Small desks (`@moneychangerIN` etc.) — tiny inventory |
+| 7 | **Prop-funded traders with crypto payout** | Sometimes | When converting | Niche real holders; TG prop/forex channels ≠ them |
+| 8 | **Forex / signal / CFD audience** | Mostly **no** | Mostly INR/UPI broker rails | **Weak** — do not primary-target |
+| — | Famous crypto education / exchange announce | Speculative / none | Rare | Already failed |
+| — | Flash USDT / earn-app / shopping loot | Fake or wrong | No | Block |
+
+### Forex / prop honesty check
+
+- Retail FX in India on Exness/Octa-class brokers is largely **UPI / local-payment / e-wallet / card**, with crypto withdrawal as an *optional* rail — not the default audience behavior on Telegram signal channels.
+- Prop firms *can* pay USDT, and tax blogs treat USDT receipt as income — so a thin real seller slice exists.
+- But TG inventory tagged forex/prop/signals is dominated by tip-seekers and INR-settled CFD watchers. Memory already dropped `@FundedNextOfficialCommunity` / `@bullishbull`. Spy now shows forex shells carrying China-pay creatives (`@PrimeForex1121`) — that is advertiser cloaking, not seller proof.
+- **Verdict: forex/prop Telegram = weak for USDT sellers. Do not spend primary budget there.**
+
+### Niches to TARGET
+
+1. China-pay / USDT–INR wallet / sell-order channels with live competitor rate ads  
+2. Gaming-fund / India payment-company channels that post USDT↔INR rates or “INR orders / fast sell”  
+3. eRupee trading / digital-rupee USDT desks  
+4. Small OTC P2P desks with real views (not inflated megas)
+
+### Niches to AVOID
+
+1. Famous crypto YouTube / education / exchange announce  
+2. Flash USDT + fake mega OTC  
+3. Shopping loot / rummy earn / signup-bonus  
+4. Inflated lottery / color-game deposit megas as primary  
+5. Forex signals / prop communities as primary  
+6. Pure Chinese operator “need Indian bank account” recruit chats as primary (mule risk; wrong KPI) — use only if live USDT-sell language + real views
+
+---
+
+## 5c) NEW live-check list (NOT in user exclude; audited 2026-08-11)
+
+Ruthless shortlist — live `t.me/s` done. Still need Ads eligibility + CPA watch before spend.
+
+| Priority | Handle | Live snapshot | Why |
+|---|---|---|---|
+| A | `@erupeetradingofficialchannel` | ~3.8k; views ~2.0–2.1k; USDT→eRupee 106.5 posts | Same intent as China-pay wallets |
+| A | `@atgofficiale` | ~3.4k; views ~0.7–0.95k; USDT deposit rewards | ATG family; already TEST in memory |
+| A | `@t_zkpay_999pay` | ~7.4k; views ~0.5–0.87k; gaming-fund USDT/INR | Seller-adjacent settlement |
+| A | `@mobiuspayofficial1` | ~1.9k; views ~0.7–0.9k; “INR orders / faster sales” | Mobius lane, retail sell language |
+| A | `@bhaartpay` | ~1.3k; views ~0.2–0.35k; USDT→eRupee advertiser | Competitor desk audience |
+| B | `@elitedealll` | ~0.9k; views ~0.4–0.6k; night sell / INR orders | TrustPay carrier; confirm ≥1k + ads accept |
+| B | `@cowpayqrcodescanningchannel` | ~2.3k; views ~0.16–0.39k; USDT→INR hub | Cow brand dead elsewhere; this node still live |
+| B | `@ygpay147` | ~1.5k; views ~75–270; posts gaming/stock fund USDT rates | Intent perfect; views mid |
+| B | `@goldpay666888` | ~4.3k; views ~0.48–0.65k; China–India game settle | Settlement cohort |
+| B | `@magicpay_168gns` | ~0.9k; views 0.6–6.7k; OLOPay carrier | Account/payin heavy — quality TBD |
+| B | `@u8payindia` | ~1.3k; views 2.4–10k; pure gaming fund | Operator-facing; high views — CPA watch |
+| B | `@alexpay_channel` | ~4.8k; views 0.5–15k; game-token buy/sell | Same order-taker pattern |
+| B | `@Lm_P2P` | ~7.5k; views ~1.6–1.9k; CDM/P2P rates | OTC; watch bank-freeze risk |
+| C | `@toppay_officialchannel` | ~1.5k; views mostly ~10–220; Atgpay ads ran here | Weak organic; spy-only |
+| C | `@network_public` | ~0.6k; views ~1.9k; RS Wallet USDT-rate ads Aug 11 | Tiny; may fail 1k rule |
+| C | `@winmoneygrey` | ~2.0k; views ~55–392; SuperpayZ Hindi | Earn-app bleed risk |
+| C | `@come_channel_0` | ~6.1k; views ~0.4–0.6k; now TRUST PAY branded | Was DROP (IPL); fresh audit shows TrustPay — WATCH only |
+| SKIP | `@showxpay` itself | ~21k; organic views ~57–236 | Advertiser shell, weak engagement |
+| SKIP | `@CryptoMarketHubb` / `@PrimeForex1121` / `@dracodeall` / `@LuckyDayPAY88` | inflated or wrong content | Cloak / loot / news |
 
 ---
 

@@ -173,7 +173,7 @@
     "atgofficiale": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "Dropped then replacement again — re-check live"
+      "note": "2026-08-11 live ~3.4k views~0.7-0.95k USDT rewards; NEW live-check A"
     },
     "atgpay_iop": {
       "status": "NEW_AD",
@@ -183,7 +183,7 @@
     "elitedealll": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "Confirm 1k+ and ads accept"
+      "note": "TrustPay carrier; ~0.9k views~0.4-0.6k INR sell language; confirm 1k+ ads accept"
     },
     "turbodeal100": {
       "status": "WATCH",
@@ -262,8 +262,8 @@
     },
     "showxpay": {
       "status": "DROP",
-      "lane": "earn_app",
-      "note": "Weak/fake feel; ≠ showpayindia"
+      "lane": "advertiser_shell",
+      "note": "Competitor destination; 21k but organic views ~57-236 — skip as inventory"
     },
     "DiwaPay": {
       "status": "DROP",
@@ -296,9 +296,9 @@
       "note": "<1k / weak"
     },
     "COME_Channel_0": {
-      "status": "DROP",
-      "lane": "noise",
-      "note": "IPL noise"
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "Was IPL DROP; 2026-08-11 rebranded TRUST PAY views~0.4-0.6k — WATCH only not primary"
     },
     "cryptoamanclub": {
       "status": "DROP",
@@ -589,6 +589,141 @@
       "status": "WATCH",
       "lane": "china_pay",
       "note": "11.5k subs but no public views verify"
+    },
+    "come_channel_0": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "Alias of COME_Channel_0; TrustPay branded re-audit"
+    },
+    "erupeetradingofficialchannel": {
+      "status": "TEST",
+      "lane": "erupee_china_pay",
+      "note": "2026-08-11 live ~3.8k views~2k; USDT→eRupee rates; NEW live-check A"
+    },
+    "t_zkpay_999pay": {
+      "status": "TEST",
+      "lane": "gaming_fund",
+      "note": "Zkpay gaming fund USDT/INR; ~7.4k views~0.5-0.9k; NEW A"
+    },
+    "mobiuspayofficial1": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "Mobius exchange; INR orders/fast sell; ~1.9k; NEW A"
+    },
+    "bhaartpay": {
+      "status": "TEST",
+      "lane": "erupee_china_pay",
+      "note": "Competitor USDT→eRupee advertiser; ~1.3k views~0.2-0.35k; NEW A"
+    },
+    "cowpayqrcodescanningchannel": {
+      "status": "TEST",
+      "lane": "otc_p2p",
+      "note": "CowCoin USDT→INR hub still live; cowpay brand dead elsewhere; NEW B"
+    },
+    "ygpay147": {
+      "status": "TEST",
+      "lane": "gaming_fund",
+      "note": "Posts gaming/stock fund USDT→INR rates; views mid; NEW B"
+    },
+    "goldpay666888": {
+      "status": "TEST",
+      "lane": "gaming_fund",
+      "note": "China-India game company settle; NEW B"
+    },
+    "magicpay_168gns": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "OLOPay carrier; account/payin heavy; NEW B"
+    },
+    "u8payindia": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "Pure gaming fund; operator-facing high views; NEW B"
+    },
+    "alexpay_channel": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "Game-token buy/sell commissions; NEW B"
+    },
+    "Lm_P2P": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "India CDM/P2P; high views; bank-freeze risk; NEW B"
+    },
+    "toppay_officialchannel": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "Atgpay ads ran here; weak organic; NEW C"
+    },
+    "network_public": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "RS Wallet USDT-rate ads Aug11; <1k subs; NEW C"
+    },
+    "winmoneygrey": {
+      "status": "WATCH",
+      "lane": "earn_app",
+      "note": "SuperpayZ Hindi; earn bleed risk; NEW C"
+    },
+    "CryptoMarketHubb": {
+      "status": "DROP",
+      "lane": "advertiser_shell",
+      "note": "Competitor; inflated/created posts; not seller inventory"
+    },
+    "PrimeForex1121": {
+      "status": "DROP",
+      "lane": "forex_signals",
+      "note": "Forex shell carrying China-pay creatives — cloak, not sellers"
+    },
+    "LuckyDayPAY88": {
+      "status": "DROP",
+      "lane": "noise",
+      "note": "Crypto news/gambling mix"
+    },
+    "pewalletpay": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "19k members but 0 public views on audit"
+    },
+    "LaxmiFundsCommunity": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "Competitor advertiser; no public views on 2026-08-11"
+    },
+    "usdt_market_trustpay": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "TrustPay advertiser; no public views"
+    },
+    "mobiuspe0": {
+      "status": "DROP",
+      "lane": "advertiser_shell",
+      "note": "MobiusPe ads dest; channel content sports news"
+    },
+    "sprodeal_official": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "~30 subs too small"
+    },
+    "moneychangerIN": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "Real P2P USDT/INR but ~147 subs"
+    },
+    "dreampay1998": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "India game payment; public preview weak"
+    },
+    "superpay15": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "Indian payments co; preview weak"
+    },
+    "Superpay33": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "SuperPay Official; no public views"
     }
   },
   "competitors_to_spy": [
@@ -597,7 +732,13 @@
     "Laxmi",
     "QuickPay",
     "CryptoMarketHub",
-    "Trust Pay"
+    "Trust Pay",
+    "UltraPay",
+    "Bhaaratpay",
+    "OLOPay",
+    "PayX",
+    "SPRO DEAL",
+    "RS Wallet"
   ],
   "rules": [
     "Members != audience; if mega members and ~1-100 live views → DROP",
@@ -631,5 +772,67 @@
     "xpay0088",
     "usdt_buyer_crypto_cr"
   ],
-  "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI"
+  "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
+  "persona_research": {
+    "as_of": "2026-08-11",
+    "ranked_holders": [
+      "china_pay_order_takers",
+      "gaming_fund_settlers",
+      "otc_p2p_merchants",
+      "erupee_wallet_depositors",
+      "usdt_paid_freelancers",
+      "remittance_otc",
+      "prop_usdt_payout_thin",
+      "forex_signal_audience_WEAK"
+    ],
+    "forex_verdict": "WEAK for USDT sellers — retail FX mostly UPI/INR settled; TG forex/prop inventory is tip-seekers not holders",
+    "target_niches": [
+      "china_pay_wallet_rate",
+      "gaming_fund_payment",
+      "erupee_usdt",
+      "small_otc_p2p"
+    ],
+    "avoid_niches": [
+      "famous_crypto_edu",
+      "flash_usdt",
+      "loot_earn",
+      "inflated_lottery",
+      "forex_signals_primary",
+      "pure_bank_account_mule_recruit"
+    ]
+  },
+  "new_livecheck_2026_08_11": {
+    "A": [
+      "erupeetradingofficialchannel",
+      "atgofficiale",
+      "t_zkpay_999pay",
+      "mobiuspayofficial1",
+      "bhaartpay"
+    ],
+    "B": [
+      "elitedealll",
+      "cowpayqrcodescanningchannel",
+      "ygpay147",
+      "goldpay666888",
+      "magicpay_168gns",
+      "u8payindia",
+      "alexpay_channel",
+      "Lm_P2P"
+    ],
+    "C": [
+      "toppay_officialchannel",
+      "network_public",
+      "winmoneygrey",
+      "come_channel_0"
+    ],
+    "skip": [
+      "showxpay",
+      "CryptoMarketHubb",
+      "PrimeForex1121",
+      "dracodeall",
+      "LuckyDayPAY88",
+      "dexpaycards",
+      "pewalletpay"
+    ]
+  }
 }

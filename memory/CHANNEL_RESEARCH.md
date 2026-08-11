@@ -73,7 +73,7 @@ Pehle FINAL / Tier A recommend → baad me band: views high, joins/sellers weak.
 - `@smartwallet0` — dead; exact Smartwallet Official handle confirm pehle mat laga
 - `@usdt7` — China cash OTC, mat laga
 - `@cbpay` — &lt;1k / weak, mat laga
-- `@COME_Channel_0` — IPL noise
+- `@COME_Channel_0` — was IPL noise DROP; **2026-08-11 re-audit** shows TRUST PAY branding / views ~0.4–0.6k → `WATCH` only (not primary)
 - `@ultra_pay0_family` — late chat me “winner” bola gaya tha, **is research wave me near-dead** → skip for now unless live check passes
 
 ### Earn-app / flash / wrong intent — DROP as primary

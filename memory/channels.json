@@ -20,12 +20,12 @@
     "budget_ton": 30,
     "spent_approx_ton": 7.9,
     "left_approx_ton": 22.13,
-    "views": 3174,
+    "views": 3177,
     "clicks": 285,
     "actions": 48,
     "ctr_approx": 0.0898,
     "cpa_ton_approx": 0.3,
-    "destination_members_approx": "20→50",
+    "destination_members_approx": "20→71",
     "channels": [
       "uupay_captain",
       "quickcashwins",
@@ -46,7 +46,7 @@
       "loots_pay",
       "base_pay"
     ],
-    "budget_left_eur": 17.3,
+    "budget_left_eur": 17.29,
     "cpm_eur": 4.05,
     "cpa_eur_approx": 0.265,
     "spent_approx_eur": 12.69,
@@ -589,6 +589,71 @@
       "status": "WATCH",
       "lane": "china_pay",
       "note": "11.5k subs but no public views verify"
+    },
+    "upaywalle_mahagames": {
+      "status": "TEST",
+      "lane": "gaming_wallet",
+      "note": "Aug11 NEW ~19k views~2k"
+    },
+    "team_11_dream01": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "SHORT Pay USDT token sell"
+    },
+    "erupeetradingofficialchannel": {
+      "status": "TEST",
+      "lane": "erupee_token",
+      "note": "~2.1k views token trading"
+    },
+    "t_zkpay_999pay": {
+      "status": "TEST",
+      "lane": "gaming_fund",
+      "note": "ZkPay INR/USDT exchange"
+    },
+    "mobiuspayofficial1": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "India digital swap"
+    },
+    "alexpay_channel": {
+      "status": "TEST",
+      "lane": "gaming_wallet",
+      "note": "game token buy/sell ~3-5k views"
+    },
+    "u8payindia": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "high views; verify ads-accept"
+    },
+    "Lm_P2P": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "P2P service watch noise"
+    },
+    "infinityforexchannel": {
+      "status": "DROP",
+      "lane": "forex",
+      "note": "wrong side buy USDT"
+    },
+    "tradinghubreal": {
+      "status": "DROP",
+      "lane": "forex",
+      "note": "forex not sellers"
+    },
+    "goatfundedtradergft": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "prop buyers"
+    },
+    "fundingcrusherofficial": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "prop/EA"
+    },
+    "forexpropfirm": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "prop promo"
     }
   },
   "competitors_to_spy": [
@@ -631,5 +696,42 @@
     "xpay0088",
     "usdt_buyer_crypto_cr"
   ],
-  "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI"
+  "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
+  "seller_personas_2026_08": [
+    {
+      "rank": 1,
+      "persona": "China-pay / game-pay order takers",
+      "tg_fit": "best"
+    },
+    {
+      "rank": 2,
+      "persona": "Gaming-fund / UPI suppliers on USDT rails",
+      "tg_fit": "good"
+    },
+    {
+      "rank": 3,
+      "persona": "P2P/OTC micro merchants",
+      "tg_fit": "good if live"
+    },
+    {
+      "rank": 4,
+      "persona": "Freelancers/export paid in USDT",
+      "tg_fit": "scarce channels"
+    },
+    {
+      "rank": 5,
+      "persona": "Forex/prop traders",
+      "tg_fit": "avoid primary — mostly buy USDT"
+    }
+  ],
+  "new_ad_extra_aug11": [
+    "upaywalle_mahagames",
+    "team_11_dream01",
+    "atgofficiale",
+    "erupeetradingofficialchannel",
+    "t_zkpay_999pay",
+    "mobiuspayofficial1",
+    "alexpay_channel",
+    "u8payindia"
+  ]
 }

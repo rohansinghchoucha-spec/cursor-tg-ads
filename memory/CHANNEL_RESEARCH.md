@@ -1,12 +1,12 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-09 (new-ad shortlist + live re-audit)  
+**Last updated:** 2026-08-11 (Ads live + seller persona refresh)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
 - Audit of activation: `bc-fe52cbc5-8e0f-5e18-9b5e-2d0d15df195e`
 
-**Access note:** Is environment me Telegram Ads MCP / logged-in ads.telegram.org **nahi** hai. Per-channel exact joins Ads Manager login ke bina nahi milte. Delivery proxy = spy placement share + live `t.me/s` audits.
+**Access note:** Ads login OK (2026-08-11). Per-channel joins still unavailable in TG Ads UI. Delivery proxy = spy share + live audits.
 
 Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recommend → baad me drop wala gyan yahan locked hai.
 
@@ -100,9 +100,9 @@ Pehle FINAL / Tier A recommend → baad me band: views high, joins/sellers weak.
 **Ad:** “8 channel testing”  
 **Status (as of ~2026-08-09):** Active  
 **CPM:** 4.00 TON | **Budget:** 30 TON | Daily views/user: 1  
-**Results snapshot (2026-08-11 Ads login):** Views **3,174** | Clicks **285** (~9% CTR) | Actions **48** | Budget left **€17.30** | CPM €4.05 | CPA ~€0.26 → **still strong**  
+**Results snapshot (2026-08-11 Ads login):** Views **3,177** | Clicks **285** (~9% CTR) | Actions **48** | Budget left **€17.29** | CPM €4.00 | CPA ~€0.26 → **joins strong**  
 **Earlier snapshot (Aug 9):** Views ~1,967 | Clicks ~159 | Actions ~26 | Left ~22 TON  
-**Destination:** `@safepathdeals` ~50 members (Aug 9). Real KPI = DMs/deals.  
+**Destination:** `@safepathdeals` ~**71** members (Aug 11). Real KPI = seller DMs/deals (user: joins aa rahe, seller msgs kam).  
 **Ads note:** Telegram Ads me per-channel joins breakdown **nahi** milta — sirf aggregate + target channel list.
 
 | # | Handle | Live (2026-08-09) | Delivery share proxy |
@@ -158,15 +158,25 @@ Same creative + ~4 TON CPM. Purane 8 ko **repeat mat karna**.
 | `@wiseway_payment` | ~2.3k | ~2.4–3.3k | NEW: payment desk, strong views |
 | `@xpay0088` | ~1.2k | ~1.2–1.9k | NEW: needs Indian accounts |
 | `@usdt_buyer_crypto_cr` | ~6k | ~500–990 | OTC desk survivor |
+| `@upaywalle_mahagames` | ~19k | ~1.8–2.2k | Aug11 NEW: gaming wallet buy/sell |
+| `@team_11_dream01` | ~2.9k | ~600–790 | Aug11 NEW: SHORT Pay / USDT token sell |
+| `@atgofficiale` | ~3.4k | ~670–950 | USDT deposit rewards language |
+| `@erupeetradingofficialchannel` | ~3.9k | ~2.1k | eRupee↔token trading |
+| `@t_zkpay_999pay` | ~7.4k | ~650–870 | ZkPay green gaming fund INR/USDT |
+| `@mobiuspayofficial1` | ~1.9k | ~780–940 | India digital currency swap |
+| `@alexpay_channel` | ~4.8k | ~3.3–4.8k | game token buy/sell commissions |
+| `@u8payindia` | ~1.3k | ~5.3–5.6k | India pay desk (verify ads-accept) |
+| `@Lm_P2P` | ~7.5k | ~1.7–2.0k | P2P service (watch scam/noise) |
 
 ### Explicit SKIP (is research wave)
 
 - Famous crypto again: `@startfromzerofamily`, `@CryptoHindiO`, `@technovasu`, `@bitcoinexpertindia`, `@cryptoheadlines365` — pehle galat lane
-- Loot/rummy earn: `@earningsupport2`, `@lootwitharkaofficial`, `@dailyincome_club`, `@yonno_rummy_00`
-- Deal spam: `@falcondeal2231`, `@dracodeall`, `@crazyonlinedeals666`, `@supremedealx122`
-- Weak/dead: `@paisabase_official` (~100 views), `@xwalletcorporate` (~150–200), `@cocopayplus` (no views), `@xd_payman` (~250), `@diwapay_support_crypto` (~250), `@lgpay_official` (no public views verify)
-- Mega gaming deposit product as primary: `@tivrapay` (90k / high views but wrong product lane)
-- Borderline junk: `@buysellvip` (loot business contact)
+- **Forex / prop (wrong side of trade):** `@infinityforexchannel`, `@tradinghubreal`, `@goatfundedtradergft`, `@fundingcrusherofficial`, `@forexpropfirm` — mostly **buy** USDT for fees, not sell inventory
+- Loot/rummy earn: `@earningsupport2`, `@lootwitharkaofficial`, `@dailyincome_club`, `@yonno_rummy_00`, `@per_task_55`
+- Deal spam: `@falcondeal2231`, `@dracodeall`, `@crazyonlinedeals666`, `@supremedealx122`, `@razordeal760`
+- Weak/dead: `@paisabase_official`, `@xwalletcorporate`, `@cocopayplus`, `@xd_payman`, `@diwapay_support_crypto`, `@lgpay_official`, `@bhaartpay`, `@qqpaysuryall`, `@magicpay_paymenthome168`, `@superpayofficial` (no posts)
+- Mega gaming deposit product as primary: `@tivrapay`
+- Borderline junk: `@buysellvip`
 - Current RUNNING 8 — **naye ad me mat daalna** (overlap waste)
 
 ---
@@ -231,3 +241,18 @@ Method: TGAdsSpy → their placements → live `t.me/s/` check → only keep if 
 | `BLOCK` | Wrong intent / scam / policy risk |
 
 Update date stamp at top whenever this file changes.
+
+---
+
+## 9) Who holds sellable USDT in India (as of 2026-08-11)
+
+1. **China-pay / game-pay order takers** — best proven lane for this desk (current ad joins yahi se).
+2. **Gaming-fund / account suppliers on USDT rails** — good adjacent.
+3. **P2P/OTC micro merchants** — good if live, not inflated.
+4. **Freelancers/export paid in USDT** — real sellers, scarce clean TG inventory.
+5. **Forex / prop traders** — mostly **buy** USDT for challenge/prop fees; rare payout cashout. **Primary pe mat laga.**
+
+### Joins high / seller DMs low — ops fix
+- Destination pin: `Sellers only · Min 100 USDT · DM @BussinessMen0 with amount + TRC20`
+- Creative sharpen: `We Buy USDT · Sellers only · Instant UPI`
+- Next ad = Primary 8 + extras (`upaywalle_mahagames`, `team_11_dream01`, `atgofficiale`, `erupeetradingofficialchannel`, `t_zkpay_999pay`, `alexpay_channel`) — loot/forex mix hatao.

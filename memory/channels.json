@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11",
+  "updated_at": "2026-08-14",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -675,13 +675,13 @@
   ],
   "new_ad_primary": [
     "diwapay",
-    "linkxwalletnow",
     "linkpay8",
-    "wallet_999pay",
+    "linkxwalletnow",
+    "alexpay_channel",
     "atgpay_iop",
-    "showpayindia",
-    "hoyopay",
-    "bestpay"
+    "upaywalle_mahagames",
+    "wiseway_payment",
+    "showpayindia"
   ],
   "new_ad_backup": [
     "atg_india",
@@ -732,6 +732,18 @@
     "t_zkpay_999pay",
     "mobiuspayofficial1",
     "alexpay_channel",
+    "u8payindia"
+  ],
+  "new_ad_backup_aug14": [
+    "wallet_999pay",
+    "hoyopay",
+    "bestpay",
+    "u8payindia",
+    "erupeetradingofficialchannel",
+    "ultrapay_official",
+    "Ez_india",
+    "t_zkpay_999pay",
+    "atgofficiale",
     "u8payindia"
   ]
 }

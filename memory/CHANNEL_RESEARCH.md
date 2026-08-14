@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-11 (Ads live + seller persona refresh)  
+**Last updated:** 2026-08-14 (final new-ad list live re-audit)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -130,18 +130,20 @@ Matlab zyada traffic likely top-delivery channels se; join quality alag ho sakti
 
 Same creative + ~4 TON CPM. Purane 8 ko **repeat mat karna**.
 
-### Primary 8 (naya ad me yehi lagao)
+### Primary 8 (naya ad me yehi lagao) — FINAL 2026-08-14 live re-audit
 
-| # | Handle | Subs | Live views | Why fit |
+| # | Handle | Subs | Live avg views | Why fit |
 |---|---|---|---|---|
-| 1 | `@diwapay` | ~54k | ~7–10k | Best; MobiusPe / CryptoMarketHub USDT-rate ads active |
-| 2 | `@linkxwalletnow` | ~31k | ~2–3.3k | USDT–INR wallet; heavy competitor rate ads |
-| 3 | `@linkpay8` | ~17k | ~11–17k | Daily sell orders language; very strong live |
-| 4 | `@wallet_999pay` | ~26k | ~870–1.1k | China-pay seller cohort |
-| 5 | `@atgpay_iop` | ~2k | ~2–5.7k | Fast sell / USDT token language |
-| 6 | `@showpayindia` | ~6.9k | ~1.2–1.6k | INR trading for game cos (seller-adjacent) |
-| 7 | `@hoyopay` | ~2.5k | ~1.2–1.7k | USDT commission / quick sell orders |
-| 8 | `@bestpay` | ~2.2k | ~0.9–1.8k | Indian payment co needing corporate accounts |
+| 1 | `@diwapay` | ~55k | ~9.4k | Best China-pay; still hottest |
+| 2 | `@linkpay8` | ~18.7k | ~18k | Strongest live sell-order channel |
+| 3 | `@linkxwalletnow` | ~31.6k | ~2.5k | USDT–INR wallet cohort |
+| 4 | `@alexpay_channel` | ~4.8k | ~4.3k | Game-token buy/sell commissions (NEW upgrade) |
+| 5 | `@atgpay_iop` | ~2.1k | ~3.3k | Fast sell / USDT token |
+| 6 | `@upaywalle_mahagames` | ~19k | ~2.0k | Gaming wallet buy/sell (NEW upgrade) |
+| 7 | `@wiseway_payment` | ~2.7k | ~3.5k | Payment desk, strong live (NEW upgrade) |
+| 8 | `@showpayindia` | ~6.9k | ~1.5k | Game-INR trading sellers |
+
+**Demoted from primary (still backup):** `@wallet_999pay` (avg views ~790), `@hoyopay`, `@bestpay`
 
 ### Backup / swap (agar reject / low delivery)
 

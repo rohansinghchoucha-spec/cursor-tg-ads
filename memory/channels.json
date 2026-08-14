@@ -96,9 +96,9 @@
       "note": "Current 8-set"
     },
     "diwapay": {
-      "status": "NEW_AD",
+      "status": "NEW_AD_LIVE",
       "lane": "china_pay",
-      "note": "Primary new-ad #1; ~54k; views 7-10k; competitor USDT ads"
+      "note": "Primary new-ad #1; ~54k; views 7-10k; competitor USDT ads; in 8 new china pay Aug14"
     },
     "wallet_999pay": {
       "status": "NEW_AD",
@@ -106,14 +106,14 @@
       "note": "Primary #4"
     },
     "linkxwalletnow": {
-      "status": "NEW_AD",
+      "status": "NEW_AD_LIVE",
       "lane": "china_pay",
-      "note": "Primary #2; USDT-INR; competitor rate ads"
+      "note": "Primary #2; USDT-INR; competitor rate ads; in 8 new china pay Aug14"
     },
     "linkpay8": {
-      "status": "NEW_AD",
+      "status": "NEW_AD_LIVE",
       "lane": "china_pay",
-      "note": "Primary #3; views 11-17k; sell orders"
+      "note": "Primary #3; views 11-17k; sell orders; in 8 new china pay Aug14"
     },
     "jaypay_8": {
       "status": "TEST",
@@ -151,9 +151,9 @@
       "note": "439 subs but views ~0.7-1.2k; prefer hoyopay"
     },
     "showpayindia": {
-      "status": "NEW_AD",
+      "status": "NEW_AD_LIVE",
       "lane": "china_pay",
-      "note": "Primary #6"
+      "note": "Primary #6; in 8 new china pay Aug14"
     },
     "xwalletcorporate": {
       "status": "DROP",
@@ -176,9 +176,9 @@
       "note": "Dropped then replacement again — re-check live"
     },
     "atgpay_iop": {
-      "status": "NEW_AD",
+      "status": "NEW_AD_LIVE",
       "lane": "china_pay",
-      "note": "Primary #5; fast sell USDT"
+      "note": "Primary #5; fast sell USDT; in 8 new china pay Aug14"
     },
     "elitedealll": {
       "status": "WATCH",
@@ -541,9 +541,9 @@
       "note": "NEW gaming funds / accounts"
     },
     "wiseway_payment": {
-      "status": "TEST",
+      "status": "NEW_AD_LIVE",
       "lane": "china_pay",
-      "note": "NEW payment desk strong views"
+      "note": "NEW payment desk strong views; in 8 new china pay Aug14"
     },
     "xpay0088": {
       "status": "TEST",
@@ -591,9 +591,9 @@
       "note": "11.5k subs but no public views verify"
     },
     "upaywalle_mahagames": {
-      "status": "TEST",
+      "status": "NEW_AD_LIVE",
       "lane": "gaming_wallet",
-      "note": "Aug11 NEW ~19k views~2k"
+      "note": "Aug11 NEW ~19k views~2k; in 8 new china pay Aug14"
     },
     "team_11_dream01": {
       "status": "TEST",
@@ -616,9 +616,9 @@
       "note": "India digital swap"
     },
     "alexpay_channel": {
-      "status": "TEST",
+      "status": "NEW_AD_LIVE",
       "lane": "gaming_wallet",
-      "note": "game token buy/sell ~3-5k views"
+      "note": "game token buy/sell ~3-5k views; in 8 new china pay Aug14"
     },
     "u8payindia": {
       "status": "TEST",
@@ -745,5 +745,26 @@
     "t_zkpay_999pay",
     "atgofficiale",
     "u8payindia"
-  ]
+  ],
+  "new_ad_live": {
+    "name": "8 new china pay",
+    "created": "2026-08-14",
+    "status": "In Review / On Hold pending funds",
+    "cpm": 4.0,
+    "budget_set": 3.0,
+    "account_balance_approx": 3.29,
+    "note": "Budget capped by low account balance; top up then raise to 20-30",
+    "destination": "t.me/safepathdeals",
+    "channels": [
+      "diwapay",
+      "linkpay8",
+      "linkxwalletnow",
+      "alexpay_channel",
+      "atgpay_iop",
+      "upaywalle_mahagames",
+      "wiseway_payment",
+      "showpayindia"
+    ],
+    "old_ad": "8 channel testing still Active untouched"
+  }
 }

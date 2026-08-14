@@ -258,3 +258,9 @@ Update date stamp at top whenever this file changes.
 - Destination pin: `Sellers only · Min 100 USDT · DM @BussinessMen0 with amount + TRC20`
 - Creative sharpen: `We Buy USDT · Sellers only · Instant UPI`
 - Next ad = Primary 8 + extras (`upaywalle_mahagames`, `team_11_dream01`, `atgofficiale`, `erupeetradingofficialchannel`, `t_zkpay_999pay`, `alexpay_channel`) — loot/forex mix hatao.
+
+
+## 10) Live ads (2026-08-14)
+
+- **Running (untouched):** `8 channel testing` — Active
+- **NEW created:** `8 new china pay` — In Review; channels = Primary 8; CPM 4; budget set **3.00** only (account balance ~3.29). **Top up TON then raise budget 20–30.**

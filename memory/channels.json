@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-16",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -96,24 +96,24 @@
       "note": "Current 8-set"
     },
     "diwapay": {
-      "status": "NEW_AD_LIVE",
-      "lane": "china_pay",
-      "note": "Primary new-ad #1; ~54k; views 7-10k; competitor USDT ads; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "wallet_999pay": {
-      "status": "NEW_AD",
-      "lane": "china_pay",
-      "note": "Primary #4"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "linkxwalletnow": {
-      "status": "NEW_AD_LIVE",
-      "lane": "china_pay",
-      "note": "Primary #2; USDT-INR; competitor rate ads; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "linkpay8": {
-      "status": "NEW_AD_LIVE",
-      "lane": "china_pay",
-      "note": "Primary #3; views 11-17k; sell orders; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "jaypay_8": {
       "status": "TEST",
@@ -141,9 +141,9 @@
       "note": "Early Tier A survivor / Final NEW 10"
     },
     "hoyopay": {
-      "status": "NEW_AD",
-      "lane": "china_pay",
-      "note": "Primary #7"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "hoyopay_offical": {
       "status": "TEST",
@@ -151,9 +151,9 @@
       "note": "439 subs but views ~0.7-1.2k; prefer hoyopay"
     },
     "showpayindia": {
-      "status": "NEW_AD_LIVE",
-      "lane": "china_pay",
-      "note": "Primary #6; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "xwalletcorporate": {
       "status": "DROP",
@@ -176,9 +176,9 @@
       "note": "Dropped then replacement again — re-check live"
     },
     "atgpay_iop": {
-      "status": "NEW_AD_LIVE",
-      "lane": "china_pay",
-      "note": "Primary #5; fast sell USDT; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "elitedealll": {
       "status": "WATCH",
@@ -541,9 +541,9 @@
       "note": "NEW gaming funds / accounts"
     },
     "wiseway_payment": {
-      "status": "NEW_AD_LIVE",
-      "lane": "china_pay",
-      "note": "NEW payment desk strong views; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "xpay0088": {
       "status": "TEST",
@@ -591,9 +591,9 @@
       "note": "11.5k subs but no public views verify"
     },
     "upaywalle_mahagames": {
-      "status": "NEW_AD_LIVE",
-      "lane": "gaming_wallet",
-      "note": "Aug11 NEW ~19k views~2k; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "team_11_dream01": {
       "status": "TEST",
@@ -616,9 +616,9 @@
       "note": "India digital swap"
     },
     "alexpay_channel": {
-      "status": "NEW_AD_LIVE",
-      "lane": "gaming_wallet",
-      "note": "game token buy/sell ~3-5k views; in 8 new china pay Aug14"
+      "status": "DROP",
+      "lane": "china_pay_app_worker",
+      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "u8payindia": {
       "status": "TEST",
@@ -673,16 +673,7 @@
     "Do not re-recommend DROP/HATA without fresh live audit that overturns reason",
     "Update this file + CHANNEL_RESEARCH.md after every research/campaign result"
   ],
-  "new_ad_primary": [
-    "diwapay",
-    "linkpay8",
-    "linkxwalletnow",
-    "alexpay_channel",
-    "atgpay_iop",
-    "upaywalle_mahagames",
-    "wiseway_payment",
-    "showpayindia"
-  ],
+  "new_ad_primary": [],
   "new_ad_backup": [
     "atg_india",
     "Ez_india",
@@ -749,7 +740,7 @@
   "new_ad_live": {
     "name": "8 new china pay",
     "created": "2026-08-14",
-    "status": "In Review / On Hold pending funds",
+    "status": "On Hold 2026-08-16 — bad app-worker leads from LinkPay lane",
     "cpm": 4.0,
     "budget_set": 3.0,
     "account_balance_approx": 3.29,
@@ -766,5 +757,16 @@
       "showpayindia"
     ],
     "old_ad": "8 channel testing still Active untouched"
-  }
+  },
+  "hard_lesson_2026_08_16": "China-pay app channels (LinkPay etc) = order-takers with login issues, NOT USDT desk sellers. Pause 8 new china pay.",
+  "audience_right": [
+    "OTC/P2P USDT sellers with inventory",
+    "freelancer USDT cashout",
+    "trader cashout"
+  ],
+  "audience_wrong": [
+    "China-pay app order takers",
+    "LinkPay/Diwa login help seekers",
+    "earn commission agents needing USDT recharge"
+  ]
 }

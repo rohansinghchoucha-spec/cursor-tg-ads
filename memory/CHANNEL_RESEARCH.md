@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-14 (final new-ad list live re-audit)  
+**Last updated:** 2026-08-16 (LinkPay bad-leads lesson — app workers ≠ USDT sellers)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -19,8 +19,8 @@ Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recomme
 | Brand | Nexa Desk Pay |
 | Destination | `t.me/safepathdeals` |
 | Support | `@BussinessMen0`, `@nexadeskrates` |
-| Audience | Indian USDT sellers / holders / depositors (China-origin INR pay apps, gaming-fund users with USDT, bank suppliers if USDT-linked) |
-| Avoid | Generic crypto news, famous YouTubers (views-only), flash USDT, forex tips, earn-app workers as primary |
+| Audience | Indian USDT **sellers** who already hold USDT and want INR cashout (OTC/P2P inventory). NOT China-pay app order-takers / login-support seekers. |
+| Avoid | China-pay **app worker** channels (LinkPay/Diwa/Hoyo/Alex/Showpay order-takers), famous crypto, flash USDT, forex, loot/rummy |
 | Creative (working) | `We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate` + Nexa Desk Pay photo |
 | Typical CPM | ~4.00 TON (quality ok; cheap CPM pehle fail hua) |
 | Budget band | 20–30 TON tests |
@@ -264,3 +264,29 @@ Update date stamp at top whenever this file changes.
 
 - **Running (untouched):** `8 channel testing` — Active
 - **NEW created:** `8 new china pay` — In Review; channels = Primary 8; CPM 4; budget set **3.00** only (account balance ~3.29). **Top up TON then raise budget 20–30.**
+
+
+## 11) HARD LESSON — LinkPay / China-pay app workers (2026-08-16)
+
+User reported: leads DM/call saying **"login nahi ho raha"**, claim they came from **LinkPay group**. Wrong audience.
+
+### Galat audience (STOP targeting)
+China-pay / game-pay **APP channels** where posts are: orders, commission %, recharge, register, UPI bind, deposit rewards, "how to buy/sell in app", task notice.
+These people are **app order-takers** — they need app login help or USDT to *deposit into the app*. They are NOT desk sellers cashing out USDT→INR.
+
+**DROP as primary (app-worker lane):**
+`@linkpay8`, `@diwapay`, `@hoyopay`, `@alexpay_channel`, `@upaywalle_mahagames`, `@showpayindia`, `@atgpay_iop`, `@wiseway_payment`, `@linkxwalletnow`, `@wallet_999pay`, `@uupay_captain`, `@base_pay`, `@loots_pay`, `@txtpayz`, `@skypay_payment_backup_01`, `@quickcashwins`, and similar *Pay / Wallet / Gateway official* channels.
+
+### Sahi audience (KEEP hunting)
+People who **already hold USDT** and want to **sell for INR** to a desk:
+- Live OTC / P2P seller desks (not inflated mega)
+- Freelancers/export paid in USDT (scarce TG)
+- Traders cashing out inventory
+- NOT "login/recharge/order" app communities
+
+### Action taken 2026-08-16
+- Ad **`8 new china pay` → On Hold** (paused; was driving LinkPay-type leads)
+- Ad **`8 channel testing`** still Active — contains same China-pay style channels; review/pause if same junk DMs continue
+
+### Next ads rule
+Spy pe "competitors advertise USDT rate on Diwa/LinkX" ≠ sahi seller audience. Competitors often hunt **app depositors / order agents**. Humara offer **We Buy USDT** hai — unse opposite/confused intent.

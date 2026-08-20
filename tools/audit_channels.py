@@ -14,6 +14,7 @@ import concurrent.futures
 import json
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -42,11 +43,23 @@ def strip_tags(html):
     return unescape(re.sub(r"\s+", " ", html)).strip()
 
 
-def fetch(handle, timeout=25):
+def fetch(handle, timeout=25, attempts=3):
     url = f"https://t.me/s/{handle}"
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode("utf-8", "replace")
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read().decode("utf-8", "replace")
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429 and attempt < attempts - 1:
+                time.sleep(2 ** attempt * 3)
+                continue
+            raise
+        except Exception:
+            if attempt < attempts - 1:
+                time.sleep(1.5 * (attempt + 1))
+                continue
+            raise
 
 
 def audit(handle):
@@ -70,10 +83,12 @@ def audit(handle):
                      r'<span class="counter_type">subscribers</span>', html)
     out["subscribers"] = to_int(subs.group(1)) if subs else None
 
-    if "tgme_widget_message " not in html and "tgme_widget_message\"" not in html:
-        out["public_preview"] = False
+    out["public_preview"] = "tgme_widget_message " in html or 'tgme_widget_message"' in html
+    if (out["title"] or "").startswith("Telegram: Contact"):
+        # t.me/s/<x> falls back to the contact card for users, groups and private channels.
+        out["kind"] = "user_or_private"
     else:
-        out["public_preview"] = True
+        out["kind"] = "channel" if out["public_preview"] else "restricted"
 
     views = [to_int(v) for v in re.findall(r'<span class="tgme_widget_message_views">([^<]+)</span>', html)]
     views = [v for v in views if v is not None]
@@ -123,6 +138,8 @@ def main():
     ap.add_argument("--json")
     ap.add_argument("--samples", action="store_true", help="print post text samples")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--min-subs", type=int, default=0, help="only print channels at/above this subscriber count")
+    ap.add_argument("--live-only", action="store_true", help="only print channels with a readable public preview")
     args = ap.parse_args()
 
     handles = list(args.handles)
@@ -141,6 +158,10 @@ def main():
     order = {h.lower(): i for i, h in enumerate(handles)}
     rows.sort(key=lambda r: order.get(r["handle"].lower(), 0))
     for row in rows:
+        if args.live_only and (row.get("error") or not row.get("public_preview")):
+            continue
+        if args.min_subs and (row.get("subscribers") or 0) < args.min_subs:
+            continue
         print(fmt(row))
         if args.samples:
             for s in row.get("samples", []):

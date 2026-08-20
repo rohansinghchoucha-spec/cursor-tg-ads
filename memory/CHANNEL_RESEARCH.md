@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (personas 6–8 + BULK cross-platform research)  
+**Last updated:** 2026-08-20 (multi-cat re-hunt: export/business/forex policy + Wave3)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -516,3 +516,61 @@ Cross-check: Economic Times NRI stablecoin remit, CoinDesk ED crackdown, Kerala�
 
 ### Bottom line
 6–7 audience **main economically** hai, lekin **public Telegram Ads shelf thin** hai — private WhatsApp/OTC/CEX pe zinda. Isliye TG pe unko **proxy inventory** se pakdo (agent + OTC + newbie convert), saath me **bulk creative + min size** se bade sellers filter karo. Sirf china mat; lekin 6–7 ke liye alag mega channel set invent mat karo jo exist nahi karta.
+
+---
+
+## 18) Multi-category re-hunt (2026-08-20) — export / business / forex / competitor ads
+
+Strategy: pehle wale sets pe atke bina naya hunt — spy export/business/FX keywords + competitor placements + corporate-account cluster live audit.
+
+### Competitor ads — kya mila (100+ placements across waves)
+| Placement type | Frequency | Verdict |
+|---|---|---|
+| China-pay / wallet / game-pay | **Highest** | Same cluster hum already use kar rahe |
+| Deal clones (elite/turbo/jay) | Mid | Small tests OK |
+| Famous crypto education | High noise | **DROP** (pehle fail) |
+| Pure export / freelancer / NRI remit public | **Almost zero** | Shelf private — ads wahan nahi dikhte |
+| Prop/forex signal | Some | Wrong side (buy USDT) |
+
+### Forex — focus policy (clear)
+- **Prop / signal / “funded” forex channels** → **mat laga** (USDT buy for fees; education junk).
+- **Business FX / money-changer** → remit settlement real hai, lekin public TG Ads list thin.
+- **Prop payout USDT slice** → rare; primary nahi.
+
+### Export / bahar-se-fund business — kahan dikhe
+True garment/IT export public channels **nahi mile**. Jo TG pe “business bahar fund” dikhta hai wo mostly:
+**China–India payment + corporate/MQR bank-account agents** jo foreign/gaming funds USDT me settle karte hain (bulk).
+
+**NEW strong find:** `@mvpay9526` — MVpay bank/MQR channel; posts daily need **10L–1Cr INR** USDT exchange teams; med ~1.8k; live.  
+Related: Vpay/chinapaymentcorp, ACpay, “Indian Corporate Accounts” — mostly **groups/restricted** (ads-hard).
+
+### Other NEW / re-ranked (not stuck on old 8)
+| Handle | Cat | Med | Note |
+|---|---|---|---|
+| `@mvpay9526` | agent/corp bulk | ~1.8k | **Wave3 #1** |
+| `@linkpay888jack` | china token | ~988 | Live |
+| `@quickpayoffical1` | QuickPay India | ~350 | Competitor official |
+| `@network_public` | misc/network | ~672 | Test |
+| `@turbodeal100` | deal | ~420 | ≥1k now |
+| `@gnspay_upi` | gaming fund | ~560 | Agent-ish |
+| `@mobiuspayofficial1` | Mobius exchange | ~640 | Backup |
+| `@cryptoto_inr` | escrow/OTC board | ~225 | Weak but escrower-adj |
+| `@laxmi_trader_official` | — | ~52 | **DROP inflated** 10k subs |
+| `@quickpaynetwor` | task wallet | — | **DROP** redeem/task junk |
+
+### Expansion Wave 3 (multi-cat, zero overlap with proven + wave1 primary)
+1. `@mvpay9526`  
+2. `@linkpay888jack`  
+3. `@quickpayoffical1`  
+4. `@network_public`  
+5. `@turbodeal100`  
+6. `@gnspay_upi`  
+7. `@mobiuspayofficial1`  
+8. `@cryptoto_inr`  
+
+(Wave2 Bedane/MobiusPe/WBPay pehle chalana; Wave3 alag category mix.)
+
+### Creative variants (strategy split)
+- **Retail/newbie:** We Buy USDT · UPI rate · join  
+- **Bulk/business:** Min 500–1000U · Bank · Bulk/settlement welcome  
+- **Filter:** Sirf sell — app login/withdraw support nahi

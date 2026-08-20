@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16",
+  "updated_at": "2026-08-20",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -96,9 +96,9 @@
       "note": "Current 8-set"
     },
     "diwapay": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "wallet_999pay": {
       "status": "DROP",
@@ -106,14 +106,14 @@
       "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
     },
     "linkxwalletnow": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "linkpay8": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "jaypay_8": {
       "status": "TEST",
@@ -151,9 +151,9 @@
       "note": "439 subs but views ~0.7-1.2k; prefer hoyopay"
     },
     "showpayindia": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "xwalletcorporate": {
       "status": "DROP",
@@ -176,9 +176,9 @@
       "note": "Dropped then replacement again — re-check live"
     },
     "atgpay_iop": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "elitedealll": {
       "status": "WATCH",
@@ -541,9 +541,9 @@
       "note": "NEW gaming funds / accounts"
     },
     "wiseway_payment": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "xpay0088": {
       "status": "TEST",
@@ -591,9 +591,9 @@
       "note": "11.5k subs but no public views verify"
     },
     "upaywalle_mahagames": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "team_11_dream01": {
       "status": "TEST",
@@ -616,9 +616,9 @@
       "note": "India digital swap"
     },
     "alexpay_channel": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "u8payindia": {
       "status": "TEST",
@@ -673,7 +673,16 @@
     "Do not re-recommend DROP/HATA without fresh live audit that overturns reason",
     "Update this file + CHANNEL_RESEARCH.md after every research/campaign result"
   ],
-  "new_ad_primary": [],
+  "new_ad_primary": [
+    "diwapay",
+    "linkpay8",
+    "linkxwalletnow",
+    "alexpay_channel",
+    "atgpay_iop",
+    "upaywalle_mahagames",
+    "wiseway_payment",
+    "showpayindia"
+  ],
   "new_ad_backup": [
     "atg_india",
     "Ez_india",
@@ -768,5 +777,31 @@
     "China-pay app order takers",
     "LinkPay/Diwa login help seekers",
     "earn commission agents needing USDT recharge"
-  ]
+  ],
+  "ads_snapshot_2026_08_20": {
+    "8 new china pay": {
+      "views": 5331,
+      "clicks": 441,
+      "joins": 91,
+      "status": "Stopped - budget depleted",
+      "cpm": 5.0,
+      "verdict": "BEST performer; produced converting Bihar seller"
+    },
+    "8 channel testing": {
+      "views": 6301,
+      "clicks": 541,
+      "joins": 98,
+      "status": "Active",
+      "budget_left": 4.27,
+      "verdict": "Audience exhausted 71 views/day"
+    },
+    "7": {
+      "views": 171,
+      "clicks": 42,
+      "joins": 7,
+      "status": "On Hold"
+    },
+    "account_balance_eur": 0.29
+  },
+  "correction_2026_08_20": "China-pay/gaming lane converts. Judge by cost-per-converting-seller, not junk-DM count. Re-enable 8 new china pay after top-up."
 }

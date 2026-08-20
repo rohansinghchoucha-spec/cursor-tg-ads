@@ -717,9 +717,9 @@
       "note": "Order rewards wallet; mid views"
     },
     "CryptoMarketHubb": {
-      "status": "WATCH",
-      "lane": "competitor_carrier",
-      "note": "~3k med views; competitor ads land here — not seller community; optional spy adjacency only"
+      "status": "TEST",
+      "lane": "china_pay_carrier",
+      "note": "NOT true bulk HNI — RS Wallet/china-pay ads + beginner tips; ~3k med"
     },
     "come_channel_0": {
       "status": "WATCH",
@@ -860,6 +860,41 @@
       "status": "DROP",
       "lane": "stale_inflated",
       "note": "9.8k / one post 464d stale"
+    },
+    "IndiaCrypto_Market": {
+      "status": "WATCH",
+      "lane": "bulk_otc_desk",
+      "note": "IndiaOTC rates; <1k subs + 338d stale — not primary yet"
+    },
+    "keralausdt": {
+      "status": "WATCH",
+      "lane": "remittance_proxy",
+      "note": "USDT/CASH DEALERS KERALA — preview restricted Gulf corridor"
+    },
+    "malayalamcrypto": {
+      "status": "WATCH",
+      "lane": "remittance_proxy",
+      "note": "Malayalam crypto — restricted"
+    },
+    "usdtotcindia": {
+      "status": "WATCH",
+      "lane": "bulk_otc",
+      "note": "OTC India restricted"
+    },
+    "kaakafinance": {
+      "status": "WATCH",
+      "lane": "bulk_desk",
+      "note": "Kaaka desk — contact/restricted"
+    },
+    "ecurrencyteam": {
+      "status": "WATCH",
+      "lane": "bulk_desk",
+      "note": "Ecurrency OTC — restricted"
+    },
+    "hawalainternational_levels": {
+      "status": "BLOCK",
+      "lane": "hawala_risk",
+      "note": "Hawala USDT dealer — policy/legal risk skip ads"
     }
   },
   "competitors_to_spy": [
@@ -1159,5 +1194,46 @@
     "jaypay_8"
   ],
   "expansion_wave2_note": "Zero overlap with proven+exhausted+wave1 primary; escrower mainly via group adjacency not direct group targeting",
-  "strategy_note_2026_08_20": "Escrower Bihar lead = one newbie+real-USDT example only. Balance focus across personas 1-8; do not overfit to escrow or china-only."
+  "strategy_note_2026_08_20": "Escrower Bihar lead = one newbie+real-USDT example only. Balance focus across personas 1-8; do not overfit to escrow or china-only.",
+  "persona_6_8_bulk_research_2026_08_20": {
+    "6_remittance": {
+      "reality": "Gulf/UAE→India USDT via money changers; India agent holds/sells USDT; family gets INR or USDT",
+      "platforms": "WhatsApp/private TG/angadia more than public channels; ED crackdown 2026",
+      "ads_inventory": "scarce public; proxies=OTC bulk + agent settlement + newbie USDT→INR",
+      "kerala_dubai": "real corridor; keralausdt/malayalam restricted"
+    },
+    "7_freelancers": {
+      "reality": "Paid USDT by foreign clients; prefer Mudrex/CoinDCX compliant path",
+      "platforms": "Reddit/LinkedIn/Twitter tips → CEX not TG sell groups",
+      "ads_inventory": "very scarce on TG Ads; secondary only"
+    },
+    "8_erupee": {
+      "reality": "wallet/token depositors; weak seller intent",
+      "ads": "bhaartpay weak — low priority"
+    },
+    "bulk_sellers": {
+      "where": "IndiaOTC-style desks, Binance P2P block merchants, Cr-volume china agents, Bedane OTC, CryptoMarketHubb viewers",
+      "ads_usable": [
+        "CryptoMarketHubb",
+        "bedane_official",
+        "Lm_P2P",
+        "sharkpaypayment",
+        "u8payindia",
+        "xpay0088",
+        "wb_pay"
+      ],
+      "creative": "Min 500–1000 USDT · Bank preferred · Bulk welcome"
+    }
+  },
+  "bulk_test_shortlist": [
+    "bedane_official",
+    "Lm_P2P",
+    "sharkpaypayment",
+    "wb_pay",
+    "u8payindia",
+    "xpay0088",
+    "ultra_pay0_family",
+    "world_bank_payment_company"
+  ],
+  "bulk_creative": "We Buy USDT · Min 500–1000U · Bank/UPI · Bulk welcome · DM amount+network"
 }

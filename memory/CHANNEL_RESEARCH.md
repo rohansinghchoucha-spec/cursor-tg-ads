@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-16 (LinkPay bad-leads lesson — app workers ≠ USDT sellers)  
+**Last updated:** 2026-08-20 (CORRECTION: china-pay lane converted — 1 Bihar deal)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -290,3 +290,30 @@ People who **already hold USDT** and want to **sell for INR** to a desk:
 
 ### Next ads rule
 Spy pe "competitors advertise USDT rate on Diwa/LinkX" ≠ sahi seller audience. Competitors often hunt **app depositors / order agents**. Humara offer **We Buy USDT** hai — unse opposite/confused intent.
+
+
+## 12) CORRECTION (2026-08-20) — china-pay lane DID convert
+
+Aug-16 me maine "app workers = wrong audience" bol ke `8 new china pay` hold kiya tha. **Woh call over-correction thi.**
+
+Reality (Ads dashboard, 20 Aug):
+
+| Ad | Views | Clicks | Joins | Status |
+|---|---|---|---|---|
+| `8 new china pay` (14 Aug, 8 new channels) | **5,331** | **441** (8.3%) | **91** | Stopped — budget khatam |
+| `8 channel testing` (old 8) | 6,301 | 541 | 98 | Active, ₲4.27 left, **thak gaya** (71 views/day) |
+| `7` (UltraPay only) | 171 | 42 | 7 | On Hold |
+
+- `8 new china pay` ne **6 din me 91 joins** diye; peak 18 Aug = 1,739 views / 29 joins.
+- Usi se **1 real converting seller (Bihar)** aaya → acha profit. Baaki mixed/junk.
+- Old ad audience **saturate** ho gaya (557/day → 71/day).
+
+### Naya rule
+**Junk leads acceptable hain agar occasional big seller mile.** Economics: 1 accha seller >> 50 timepass DM.
+- Mat socho "har lead seller ho" — socho **cost per converting seller**.
+- China-pay / gaming lane **allowed** (user confirmed) — bas AGENT/holder tier prefer karo, pure worker tier nahi.
+- Filtering ka kaam **creative + pin** karega, targeting alone nahi.
+
+### Ops
+- Junk DM ko 1-line reply se filter: "Sirf USDT sell. Amount + network batao."
+- Rate/size gate creative me: bigger sellers self-select.

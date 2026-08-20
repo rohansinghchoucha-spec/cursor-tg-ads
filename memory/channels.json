@@ -7,7 +7,7 @@
     "nexadeskrates"
   ],
   "goal": "Indian USDT sellers / holders with meaningful balance; china-pay+gaming allowed; prefer AGENT/OTC",
-  "working_creative": "We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate",
+  "working_creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
   "typical_cpm_ton": 4.0,
   "budget_band_ton": [
     20,
@@ -137,9 +137,9 @@
       "note": "weaker ~361 views Aug20"
     },
     "usdt_buyer_crypto_cr": {
-      "status": "NEW_AD",
+      "status": "WATCH",
       "lane": "otc_p2p",
-      "note": "Primary Angle2 OTC"
+      "note": "66d stale — demoted from primary"
     },
     "hoyopay": {
       "status": "DROP",
@@ -162,9 +162,9 @@
       "note": "~150-200 views too weak"
     },
     "bestpay": {
-      "status": "NEW_AD",
+      "status": "WATCH",
       "lane": "china_pay_agent",
-      "note": "Primary"
+      "note": "89d stale — demoted from primary"
     },
     "paisabase_official": {
       "status": "DROP",
@@ -622,9 +622,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "u8payindia": {
-      "status": "NEW_AD",
+      "status": "DROP",
       "lane": "agent_settlement",
-      "note": "Angle4 winner; ~7.3k med views; 1.2k subs"
+      "note": "2026-08-20 final scan: 203d stale despite high views"
     },
     "Lm_P2P": {
       "status": "NEW_AD",
@@ -662,9 +662,9 @@
       "note": "Primary; ~2.3k med"
     },
     "indiapayments_okpayen": {
-      "status": "NEW_AD",
+      "status": "DROP",
       "lane": "payment_gateway",
-      "note": "Primary"
+      "note": "2026-08-20: 345d dead"
     },
     "magicpay_168gns": {
       "status": "DROP",
@@ -1130,14 +1130,14 @@
     "Update this file + CHANNEL_RESEARCH.md after every research/campaign result"
   ],
   "new_ad_primary": [
-    "u8payindia",
+    "mobiuspe0",
+    "MeteorpayEliteChannel00011",
     "bharatservice1",
     "ultra_pay0_family",
-    "indiapayments_okpayen",
+    "mvpay9526",
+    "ddpay9999",
     "Lm_P2P",
-    "xpay0088",
-    "bestpay",
-    "usdt_buyer_crypto_cr"
+    "bedane_official"
   ],
   "new_ad_backup": [
     "ultrapay_official",
@@ -1301,10 +1301,11 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Top up Ads balance (now ~€0.29)",
-    "Restart 8 new china pay (proven_restart_primary)",
+    "Top up Ads balance",
     "Pause exhausted 8 channel testing",
-    "Create new ad with new_ad_primary (20-30 TON, CPM ~4-5)"
+    "Create Ad A proven 10 TON (final_run ad_a)",
+    "Create Ad B expansion 10 TON (final_run ad_b)",
+    "Creative: We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1550,5 +1551,49 @@
     },
     "ads_policy": "Skip official megas as core. Optional micro-test bcgame_india only. Catch Stake-class sellers on USDT→INR desks with creative mentioning casino withdraw.",
     "creative": "Stake/BC.Game withdraw USDT? We buy · UPI/Bank · live rate"
+  },
+  "final_run_10_10_ton_2026_08_20": {
+    "total_budget_ton": 20,
+    "cpm_ton": "4-5",
+    "destination": "t.me/safepathdeals",
+    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+    "ad_a_proven_10ton": [
+      "diwapay",
+      "linkpay8",
+      "linkxwalletnow",
+      "alexpay_channel",
+      "atgpay_iop",
+      "upaywalle_mahagames",
+      "wiseway_payment",
+      "showpayindia"
+    ],
+    "ad_b_expansion_10ton": [
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "bharatservice1",
+      "ultra_pay0_family",
+      "mvpay9526",
+      "ddpay9999",
+      "Lm_P2P",
+      "bedane_official"
+    ],
+    "ad_b_swap": [
+      "pay0000012",
+      "xpay0088",
+      "ultrapay_official",
+      "linkpay888jack",
+      "sharkpaypayment"
+    ],
+    "demoted_this_scan": [
+      "u8payindia",
+      "indiapayments_okpayen",
+      "bestpay",
+      "usdt_buyer_crypto_cr",
+      "cryptoto_inr",
+      "DracoDeall",
+      "SuperDeall776",
+      "floatpayme88",
+      "trustpayme88"
+    ]
   }
 }

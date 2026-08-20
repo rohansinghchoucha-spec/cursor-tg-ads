@@ -388,3 +388,19 @@ Opus subagents (Angle 1–4) sab **ERROR** (usage/provider limit) — koi salvag
 
 ### Consolidated verdict
 Primary 8 = Angle4 agent core + Angle2 seller desks + gateway/Bharat mix. Restart proven china-pay set pehle; naya ad zero-overlap expansion.
+
+---
+
+## 15) Opus transcript salvage (2026-08-20) — confirmed live
+
+[Summarize Opus angle transcripts](bc-962a6fba-127d-5d18-bfd7-0346686a4a42) se Persona research complete mila; Angle 1–4 partial/crash.
+
+**Keep Primary 8 unchanged.** Persona Aug-11 A-tier aged:
+- `@erupeetradingofficialchannel` — pehle ~2.1k views → ab med **~64** → DROP
+- `@atgofficiale` / `@t_zkpay_999pay` / `@mobiuspayofficial1` / `@bhaartpay` — mid; **backup only**
+- `@cocopayplus` — spy me competitor ads dikhte hain lekin public preview restricted → `WATCH` (primary nahi)
+- `@COME_Channel_0` — TRUST PAY rebrand, ~496 med → `WATCH` only (IPL DROP history)
+- `@CryptoMarketHubb` — high views competitor **carrier**, seller community nahi → spy adjacency only
+- `@ygpay147` / `@WorldInrUstd` / `@alliance_hub` — stale/weak/wrong → DROP
+
+Consensus same: best inventory = China-pay / agent-tier + live OTC desks; Bihar geo channels / exam-prep / cricket punters = mat laga.

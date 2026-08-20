@@ -197,9 +197,9 @@
       "note": "Primary; live USDT price"
     },
     "cocopayplus": {
-      "status": "DEAD",
+      "status": "WATCH",
       "lane": "china_pay",
-      "note": "No public views"
+      "note": "Spy still shows competitor placements Aug2026; public preview restricted — retest only if preview opens"
     },
     "ndpay888": {
       "status": "DEAD",
@@ -297,9 +297,9 @@
       "note": "<1k / weak"
     },
     "COME_Channel_0": {
-      "status": "DROP",
-      "lane": "noise",
-      "note": "IPL noise"
+      "status": "WATCH",
+      "lane": "trustpay_rebrand",
+      "note": "Alias of come_channel_0"
     },
     "cryptoamanclub": {
       "status": "DROP",
@@ -602,9 +602,9 @@
       "note": "backup depositor lean"
     },
     "erupeetradingofficialchannel": {
-      "status": "TEST",
+      "status": "DROP",
       "lane": "erupee_token",
-      "note": "~2.1k views token trading"
+      "note": "Persona A Aug11; Aug20 live med~64 collapsed — skip"
     },
     "t_zkpay_999pay": {
       "status": "TEST",
@@ -715,6 +715,81 @@
       "status": "WATCH",
       "lane": "wallet_earn",
       "note": "Order rewards wallet; mid views"
+    },
+    "CryptoMarketHubb": {
+      "status": "WATCH",
+      "lane": "competitor_carrier",
+      "note": "~3k med views; competitor ads land here — not seller community; optional spy adjacency only"
+    },
+    "come_channel_0": {
+      "status": "WATCH",
+      "lane": "trustpay_rebrand",
+      "note": "Was IPL DROP; now TRUST PAY ~496 med — watch only not primary"
+    },
+    "ygpay147": {
+      "status": "DROP",
+      "lane": "agent_stale",
+      "note": "Agent-tier language but 126d stale / weak views"
+    },
+    "WorldInrUstd": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "MoguEx; ~97 views weak"
+    },
+    "worldinrustd": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "Alias WorldInrUstd"
+    },
+    "alliance_hub": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "Buyer creative but placements/geo junk; tiny channel"
+    },
+    "sprodeal_official": {
+      "status": "WATCH",
+      "lane": "buyer_desk",
+      "note": "SPRO DEAL <1k subs; tiny live"
+    },
+    "SPRODEAL_official": {
+      "status": "WATCH",
+      "lane": "buyer_desk",
+      "note": "Alias"
+    },
+    "bhaartpay": {
+      "status": "TEST",
+      "lane": "erupee_desk",
+      "note": "Live ~302 med; backup only"
+    },
+    "winmoneygrey": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "SuperpayZ mid/weak"
+    },
+    "toppay_officialchannel": {
+      "status": "DROP",
+      "lane": "deadish",
+      "note": "med~8"
+    },
+    "mmpay_mm_pay": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "9.7k / ~67 views"
+    },
+    "sdigitalmoney": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "~165 views"
+    },
+    "crypto_usdt_buyer": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "218d stale OTC clone"
+    },
+    "laxmifundscommunity": {
+      "status": "WATCH",
+      "lane": "competitor",
+      "note": "Preview restricted Laxmi community"
     }
   },
   "competitors_to_spy": [
@@ -760,7 +835,10 @@
     "atgofficiale",
     "Ez_india",
     "mmoney_official2",
-    "showxpay"
+    "showxpay",
+    "bhaartpay",
+    "t_zkpay_999pay",
+    "quickpayoffical1"
   ],
   "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
   "seller_personas_2026_08": [
@@ -899,5 +977,11 @@
     "angle3_bihar_regional": "done_no_clean_ads_inventory",
     "angle4_agent_tier": "done_strongest_lane",
     "opus_subagents": "all_ERROR_limit_no_salvage"
+  },
+  "opus_salvage_2026_08_20": {
+    "persona_complete": true,
+    "angles_1_to_4": "partial_crash_no_final_lists",
+    "primary_unchanged": true,
+    "note": "Persona A-tier aged poorly (erupee collapsed). Keep Aug20 Primary 8."
   }
 }

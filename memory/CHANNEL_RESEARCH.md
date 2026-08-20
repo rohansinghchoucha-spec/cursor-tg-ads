@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (persona 1–9 channel hunt + escrower + newbie converter)  
+**Last updated:** 2026-08-20 (personas 6–8 + BULK cross-platform research)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -477,3 +477,42 @@ Swap pool: `linkpay888jack`, `sharkpaypayment`, `gnspay_upi`, `network_public`, 
 - **Seller/escrower/newbie:** `We Buy USDT · UPI ₹… · Amount + network DM`  
 - **Agent:** same + “fast settlement / any size”  
 - **Filter junk:** pin `Sirf USDT sell — LinkPay/TrustPay support nahi`
+
+---
+
+## 17) Personas 6–8 + BULK deep research (2026-08-20) — X/news/Reddit/web/TG
+
+Cross-check: Economic Times NRI stablecoin remit, CoinDesk ED crackdown, Kerala–Dubai hawala-crypto reports, IndiaOTC/BlockLane/Kaaka/Ecurrency desks, TG spy + live audit. Reddit JSON blocked (403); open web + TG used.
+
+### 6) Remittance receivers (Gulf/NRI → India) — REAL audience, scarce public Ads
+**Kaise flow chalta hai:** Dubai/UAE/US money changer USDT kharidta → India agent wallet → family ko INR (ya kabhi USDT). Premium 3–8% bank se better — isliye route chalta tha; 2026 me ED crackdown se supply tight.
+**X/YouTube/Insta/Reddit:** zyada “kaise bheje” education + scam warnings; public “join is channel to sell remit USDT” inventory **nahi**.
+**Telegram:** `keralausdt`, `malayalamcrypto`, Dubai cash groups = **preview-restricted / stale**. Hawala-titled channels = **BLOCK** (legal risk).
+**Ads proxy (jo milta hai):** India-side **agents** jo remit settle karte hain ≈ same people as china/gaming-fund agents + OTC desks. Newbie family receivers ≈ simple USDT→INR converters (`bedane_official`, rate boards).
+**Bulk remit slice:** money-changer India agents = **mid–bulk** holders.
+
+### 7) Freelancers / export paid in USDT — REAL, TG pe almost invisible
+**Reality:** foreign clients USDT bhejte hain; convert ke liye zyada log **Mudrex/CoinDCX/SunCrypto** (compliant) use karte hain — Reddit/blogs bhi yahi suggest.
+**TG Ads:** clean “freelancer USDT sellers” channel set **nahi mila** (handles dead/restricted).
+**Proxy:** rate/OTC boards + Hindi “We Buy USDT” creative; expect low volume vs china/agent. Secondary lane.
+
+### 8) eRupee / wallet-token — weak
+`bhaartpay` etc. weak views; zyada depositor intent. Low priority.
+
+### BULK / bade sellers — kahan + kya lagao
+| Source | Size | TG Ads fit |
+|---|---|---|
+| China/gaming **agents** (Cr daily volume language) | mid–bulk | **Best available** — `u8payindia` `xpay0088` `sharkpaypayment` `wb_pay` |
+| OTC apps/desks (Bedane, Lm_P2P) | mid–bulk | Good — `bedane_official` `Lm_P2P` `ultra_pay0_family` |
+| Pro desks (IndiaOTC, BlockLane, Kaaka, Ecurrency) | bulk HNI | Mostly **private/restricted**; `@IndiaCrypto_Market` &lt;1k + stale — skip for now |
+| Binance/Bybit block merchants | bulk | Live on exchange P2P, not open TG list |
+| `@CryptoMarketHubb` | — | **NOT bulk** — RS Wallet china-pay ads + beginner tips |
+
+**Bulk creative (alag ad):**  
+`We Buy USDT · Min 500–1000U · Bank/UPI · Bulk welcome · DM amount + network`
+
+**Bulk test shortlist (mix, zero-waste with proven when possible):**  
+`bedane_official`, `Lm_P2P`, `sharkpaypayment`, `wb_pay`, `u8payindia`, `xpay0088`, `ultra_pay0_family`, `world_bank_payment_company`
+
+### Bottom line
+6–7 audience **main economically** hai, lekin **public Telegram Ads shelf thin** hai — private WhatsApp/OTC/CEX pe zinda. Isliye TG pe unko **proxy inventory** se pakdo (agent + OTC + newbie convert), saath me **bulk creative + min size** se bade sellers filter karo. Sirf china mat; lekin 6–7 ke liye alag mega channel set invent mat karo jo exist nahi karta.

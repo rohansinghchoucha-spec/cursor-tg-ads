@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (method ranking + multi-method Wave4 hunt)  
+**Last updated:** 2026-08-20 (betting USDT-withdraw lane policy + full hunt summary)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -629,3 +629,65 @@ User sawal: *kaise dhundh rahe ho — TG ads / dusre ke placement / kya?* Pehle 
 2. Pause exhausted old 8  
 3. Wave2 (Bedane/Mobius/WB…) → Wave3 (mvpay…) → **Wave4** (ALLpay + LG + deal/with-us mix)  
 4. Creative: retail rate + bulk min-size + junk filter pin
+
+---
+
+## 20) Betting / gaming USDT withdrawal lane (2026-08-20)
+
+User point: *betting wale USDT me withdraw lete hain — unse bhi sellers mil sakte hain.*
+
+### Verdict — angle REAL hai, lekin **sahi shelf** alag hai
+
+| Slice | Kya log karte hain | Ads fit | Policy |
+|---|---|---|---|
+| **A. Gaming-fund settlement** (GNS/Zk/Shark/Meteor/Gold/ALLpay/MVpay) | Betting/casino/rummy company funds USDT↔INR settle; agents + exchangers hold/sell USDT | **Best betting-adjacent Ads inventory** | **USE** (already in Wave2–4 + proven china mix) |
+| **B. Wallet / mahagames style** (Upay Wallet, deposit→sell apps) | Players deposit USDT / sell on app after gaming flow | Mid — junk login DMs | **USE carefully** (proven `@upaywalle_mahagames`; filter pin) |
+| **C. Tip / ID / bookie / matka / cricket-exchange tips** | Mostly **deposit** to bet; tips spam; low “sell USDT” intent | Bad / inflated / restricted | **DROP as primary** (pehle se locked) |
+| **D. Global Stake.com mega** | Crypto casino worldwide | Wrong geo / mega CPM risk | **SKIP** (`@stakecasino` etc.) |
+| **E. OTP / bank-rent “pure gaming fund” groups** | Account operators, often preview-restricted | Ads-hard | **SKIP primary** (groups ≠ Ads targets) |
+
+**Rule:** Betting tip channel mat laga. Betting **money rail** (game fund / settlement / USDT rate boards pe “game fund / safe / mix”) laga — wahi holders milte hain.
+
+### Fresh audit (betting hunt)
+
+| Handle | Result | Note |
+|---|---|---|
+| `@gnspay_upi` | LIVE med~563 | **Needs USDT exchangers** + pure game fund rate posts — Wave3 keep |
+| `@sharkpaypayment` | LIVE med~617 | India games payment; Cr volume — bulk/agent |
+| `@t_zkpay_999pay` | LIVE med~463 | ZkPay worker/deposit; backup |
+| `@MeteorpayEliteChannel00011` | LIVE med~2.8k | Wave2; withdraw-speed language |
+| `@honepay118` | LIVE med~173 weak | Looking for USDT sellers but low views → WATCH |
+| `@goldpay666888` | 161d stale | Stale risk — skip until revived |
+| `@win777vip9` (ArroPay) | 133d stale | Was pure gaming USDT↔INR — stale DROP |
+| `@upaywalle_mahagames` | org posts 101d stale but **PROVEN** in china-pay ad | Keep in proven restart only |
+| `@magicpay_168gns` | 338d stale | Dead MagicPay — skip |
+| Cricket exchange / lotusbook / online ID | tips/ID / restricted / dead | **DROP** tip lane |
+| `@stakecasino` | 362k mega global | **SKIP** |
+| OTP gaming-fund mega groups | mostly preview-restricted | Not Ads primary |
+
+### Betting-adjacent Ads shortlist (reuse, don’t invent tip set)
+
+Already in pipeline — **yehi betting withdrawal sellers ka proxy**:  
+`gnspay_upi` · `sharkpaypayment` · `t_zkpay_999pay` · `MeteorpayEliteChannel00011` · `mvpay9526` · `pay0000012` · proven china (`upaywalle_mahagames`, diwa/link…) · TrustPay creatives jo “Safe / Gaming / Mix Funds” bolte hain (`COME_Channel_0` WATCH only).
+
+**Creative tip for this lane:**  
+`We Buy USDT · Game / Safe / Mix ok · Bank/UPI · Rate DM`  
+(ya bulk: `Min 500U · settlement welcome`)
+
+---
+
+## 21) Abhi tak overall kya research hua (session map)
+
+| # | Lane | Status |
+|---|---|---|
+| Proven china-pay 8 | Diwa/Link/Alex/ATG/Upay/Wise/Show… | **Restart pehle** (91 joins + Bihar convert) |
+| Exhausted old 8 | uupay/loots/txt… | Pause |
+| Famous crypto edu | — | DROP forever |
+| Wave1 agent/OTC | u8/xpay/bestpay/Lm_P2P… | Next after proven (refresh stale) |
+| Wave2 | Bedane/Mobius/WB/Meteor/DD… | Expansion |
+| Wave3 multi-cat | mvpay + linkjack + gns… | Expansion |
+| Wave4 methods | ALLpay `pay0000012` + LG + deals | Expansion |
+| Remit/freelancer/export | Real audience | Public Ads **scarce** — proxy only |
+| Forex prop | — | SKIP |
+| **Betting tips/ID** | — | **DROP** |
+| **Betting = gaming-fund rails** | GNS/Shark/Zk/Meteor/ALLpay | **USE** (upar §20) |

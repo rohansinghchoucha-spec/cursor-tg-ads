@@ -533,13 +533,13 @@
     },
     "sharkpaypayment": {
       "status": "TEST",
-      "lane": "china_pay_agent",
-      "note": "Demoted from primary to backup Aug20; still usable"
+      "lane": "gaming_fund_agent",
+      "note": "2026-08-20: live med~617; India games payment Cr volume"
     },
     "gnspay_upi": {
       "status": "TEST",
       "lane": "gaming_fund",
-      "note": "GNS MQR / gaming funds"
+      "note": "2026-08-20 betting hunt: live med~563; posts need USDT exchangers + pure game fund rate — Wave3 keep"
     },
     "wiseway_payment": {
       "status": "PROVEN",
@@ -609,7 +609,7 @@
     "t_zkpay_999pay": {
       "status": "TEST",
       "lane": "gaming_fund",
-      "note": "ZkPay INR/USDT exchange"
+      "note": "2026-08-20: live med~463 ZkPay; backup worker/deposit"
     },
     "mobiuspayofficial1": {
       "status": "TEST",
@@ -667,14 +667,14 @@
       "note": "Primary"
     },
     "magicpay_168gns": {
-      "status": "WATCH",
-      "lane": "china_pay_agent",
-      "note": "~3.5k views but ~910 subs — may fail ads <1k"
+      "status": "DROP",
+      "lane": "gaming_fund_stale",
+      "note": "338d stale MagicPay"
     },
     "goldpay666888": {
-      "status": "TEST",
-      "lane": "agent_accounts",
-      "note": "4.3k subs but 161d stale risk"
+      "status": "DROP",
+      "lane": "gaming_fund_stale",
+      "note": "161d stale — skip until revived"
     },
     "MeteorpayEliteChannel00011": {
       "status": "TEST",
@@ -1005,6 +1005,51 @@
       "status": "DROP",
       "lane": "stale_otc",
       "note": "209d stale med~147"
+    },
+    "honepay118": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "Looking for USDT sellers but med~173 weak"
+    },
+    "win777vip9": {
+      "status": "DROP",
+      "lane": "gaming_fund_stale",
+      "note": "ArroPay pure gaming USDT-INR; 133d stale"
+    },
+    "stakecasino": {
+      "status": "DROP",
+      "lane": "global_casino_mega",
+      "note": "Stake.com global mega — wrong India seller Ads fit"
+    },
+    "originalcricketexchange": {
+      "status": "DROP",
+      "lane": "betting_tips",
+      "note": "Cricket tips/ID lane — depositors not USDT sellers"
+    },
+    "onlineidbetting": {
+      "status": "DROP",
+      "lane": "betting_tips",
+      "note": "Dead online ID betting"
+    },
+    "mahagameschannel103": {
+      "status": "DROP",
+      "lane": "rummy_dead",
+      "note": "290d stale tiny rummy"
+    },
+    "euphorias02e04": {
+      "note": "Stake India title but 476d stale inflated ratio — skip",
+      "status": "DROP",
+      "lane": "stake_stale"
+    },
+    "gnspay666": {
+      "status": "WATCH",
+      "lane": "gaming_fund_agent",
+      "note": "MQR/game recharge med~205 stale51d — backup only"
+    },
+    "magicpay168801": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "Tiny ~93 but live GNS settlement language"
     }
   },
   "competitors_to_spy": [
@@ -1388,5 +1433,40 @@
     "NitroDeal098",
     "wallet_999pay",
     "xd_payman"
+  ],
+  "betting_lane_policy_2026_08_20": {
+    "use": "gaming_fund_settlement_and_wallet_rails",
+    "skip_primary": [
+      "betting_tips",
+      "bookie_id",
+      "matka",
+      "cricket_exchange_tips",
+      "global_stake_mega",
+      "otp_rent_groups"
+    ],
+    "why": "Bettors withdraw in USDT = real sellers, but public Ads shelf is the payment/settlement channels (GNS/Shark/Zk/Meteor/ALLpay), not tip/ID spam channels",
+    "ads_proxy_handles": [
+      "gnspay_upi",
+      "sharkpaypayment",
+      "t_zkpay_999pay",
+      "MeteorpayEliteChannel00011",
+      "mvpay9526",
+      "pay0000012",
+      "upaywalle_mahagames"
+    ],
+    "creative": "We Buy USDT · Game/Safe/Mix ok · Bank/UPI · Rate DM"
+  },
+  "research_session_map_2026_08_20": [
+    "proven_china_restart",
+    "exhausted_old8_pause",
+    "famous_edu_DROP",
+    "wave1_agent_otc",
+    "wave2_bedane_mobius_wb",
+    "wave3_mvpay_multi_cat",
+    "wave4_allpay_methods",
+    "remit_freelancer_scarce",
+    "forex_prop_SKIP",
+    "betting_tips_DROP",
+    "betting_gaming_fund_USE"
   ]
 }

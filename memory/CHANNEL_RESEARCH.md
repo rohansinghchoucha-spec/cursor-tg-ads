@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (NEXT Primary 8 live-audited — zero overlap expansion)  
+**Last updated:** 2026-08-20 (4 angles completed by main agent — Opus subagents ERROR)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -310,54 +310,81 @@ Reality (Ads dashboard, 20 Aug):
 
 ---
 
-## 13) NEXT AD Primary 8 — live audited 2026-08-20 (ZERO overlap)
+## 13) NEXT AD Primary 8 — live audited 2026-08-20 (ZERO overlap) — UPGRADED after 4-angle pass
 
-**Rule:** Proven `8 new china pay` channels + old `8 channel testing` channels **dono me se koi nahi** — waste overlap nahi.
+**Rule:** Proven `8 new china pay` + old `8 channel testing` channels **dono me se koi nahi**.
 
-**Angles mixed (broader than same China-pay set):**
-- AGENT / settlement / account-supplier
-- Live USDT rate desk / UltraPay family
-- P2P + OTC seller desks
-- India payment gateway / Bharat service cohort
+**Angles mixed:** AGENT/settlement + USDT rate desk + P2P/OTC + gateway/Bharat (see §14).
 
 ### Primary 8 (naya ad — yehi lagao after top-up)
 
-| # | Handle | Live avg views | Angle | Why |
-|---|---|---|---|---|
-| 1 | `@u8payindia` | ~7.8k | AGENT | Hottest China–India pay / settlement; top views |
-| 2 | `@bharatservice1` | ~2.8k | MIX | Bharat Service / xWallet rewards cohort |
-| 3 | `@ultra_pay0_family` | ~1.9k | SELLER | **Live USDT price** posts — closest seller intent |
-| 4 | `@indiapayments_okpayen` | ~1.4k | GATEWAY | India/PK/PH payment gateway holders |
-| 5 | `@Lm_P2P` | ~1.4k | SELLER | P2P DEX rates — watch noise |
-| 6 | `@bestpay` | ~1.0k | AGENT | BestPay India payment corp / corporate accounts |
-| 7 | `@usdt_buyer_crypto_cr` | ~0.96k | SELLER | OTC USDT buyer/seller desk survivor |
-| 8 | `@sharkpaypayment` | ~0.7k | AGENT | Sharkpay India game-pay co (2020+) |
+| # | Handle | Subs | Med views | Angle | Why |
+|---|---|---|---|---|---|
+| 1 | `@u8payindia` | ~1.2k | ~7.3k | AGENT | Hottest China–India settlement |
+| 2 | `@bharatservice1` | ~1.9k | ~2.3k | MIX | Bharat Service / xWallet cohort |
+| 3 | `@ultra_pay0_family` | ~1.0k | ~1.9k | SELLER | Live USDT price posts |
+| 4 | `@indiapayments_okpayen` | ~2.2k | ~1.5k | GATEWAY | India/PK/PH payment holders |
+| 5 | `@Lm_P2P` | ~7.5k | ~1.5k | SELLER | P2P DEX — watch noise |
+| 6 | `@xpay0088` | ~1.2k | ~1.2k | AGENT | Indian account supplier (OTP/F2F/corp) |
+| 7 | `@bestpay` | ~2.2k | ~1.1k | AGENT | BestPay India payment corp |
+| 8 | `@usdt_buyer_crypto_cr` | ~6.0k | ~1.0k | SELLER | OTC desk survivor |
 
-### Backup / swap (reject ya weak delivery)
+### Backup / swap
 
-| Handle | Avg views | Note |
+| Handle | Med views | Note |
 |---|---|---|
-| `@magicpay_168gns` | ~3.5k | **Strong views but ~910 subs** — ads may reject &lt;1k |
-| `@ultrapay_official` | ~780 | UltraPay gateway official |
-| `@goldpay666888` | ~605 | China–India game agent / MQR accounts |
-| `@xpay0088` | ~661 | Needs Indian accounts list |
-| `@gnspay_upi` | ~576 | GNS gaming funds / MQR need |
-| `@jaypay_8` | ~587 | Small VIP pay test |
-| `@team_11_dream01` | ~629 | SHORT Pay token (more depositor lean) |
-| `@lgpay_official` | ~642 | LG Pay app — mid |
-| `@mobiuspayofficial1` | ~470 | Mobius exchange rewards |
-| `@atgofficiale` | ~518 | ATG deposit incentives |
-| `@Ez_india` | ~361 | Weaker than Aug-9 audit |
+| `@ultrapay_official` | ~987 | Live UltraPay official |
+| `@MeteorpayEliteChannel00011` | ~2.9k | MeteorPay migrate (old rhino DEAD) |
+| `@ddpay9999` | ~1.7k | Hindi DDPay sell-orders — worker lean |
+| `@sharkpaypayment` | ~617 | Demoted from earlier primary draft |
+| `@magicpay_168gns` | ~1.8k | Strong views but ~910 subs — ads risk |
+| `@jaypay_8` | ~689 | VIP pay |
+| `@turbodeal100` | ~420 | Now ≥1k subs — small backup |
+| `@gnspay_upi` / `@goldpay666888` | ~560 / ~630 | Agent/MQR; goldpay 161d stale risk |
+| `@lgpay_official` / `@mobiuspayofficial1` / `@team_11_dream01` / `@atgofficiale` / `@Ez_india` | mid | Swap pool |
 
 ### Explicit SKIP this wave
-- Proven 8 + Running 8 — **no re-target**
-- `@hoyopay` / `@wallet_999pay` — still DROP as primary (login-complaint cluster)
-- `@ygpay123` — dead / no public preview
+- Proven 8 + Running/Exhausted 8 — no re-target
+- `@rhinopaymentchannel666666` — **DEAD/discontinued** (→ Meteorpay elite)
+- `@hoyopay` / `@wallet_999pay` — login-complaint cluster
+- `@wisewayamina` — 231d stale personal channel
+- `@rupeedash` / `@uonopay_task_crypto` — earn / inflated
+- `@cowpayqrcodescanningchannel` — weak ~99 views
+- `@showxpay` — weak ratio
+- F2F city desks (Jaipur/Delhi/Hyd) — preview-restricted, not ads inventory
 - Famous crypto / forex / loot — still DROP
-- `@erupeetradingofficialchannel` — ~57 views deadish
 
-### Ops after top-up (priority order)
-1. **Restart** proven ad `8 new china pay` (same 8) — already converted.
-2. **Pause** exhausted `8 channel testing`.
-3. **Create** new ad with THIS Primary 8 — CPM ~4–5, budget 20–30 TON.
-4. Creative same; pin: sellers-only + amount + network.
+### Ops after top-up
+1. Restart proven `8 new china pay`
+2. Pause exhausted `8 channel testing`
+3. Create new ad with THIS Primary 8 (CPM ~4–5, 20–30 TON)
+4. Pin: sellers-only + amount + network
+
+---
+
+## 14) Four-angle research (2026-08-20) — Opus failed, main agent finished
+
+Opus subagents (Angle 1–4) sab **ERROR** (usage/provider limit) — koi salvageable channel list nahi. Tools unki branches se uthaye (`tools/spy_*`, `audit_channels`, `angle3_*`) aur research yahin complete ki.
+
+### Angle 1 — Reverse-spy USDT buyer desks
+- TGAdsSpy ads query → placements mostly **already-known** china-pay (`diwapay`, `linkpay8`, `loots_pay`, `jaypay_8`, …) + famous-crypto noise.
+- **New salvage:** `@MeteorpayEliteChannel00011` (MeteorPay migrate), `@ddpay9999`, `@xpay0088` confirmed live, `@turbodeal100` now ≥1k.
+- `@rhinopaymentchannel666666` high views but **channel discontinued** → DROP.
+
+### Angle 2 — High-balance USDT holders
+- Clean TG inventory **scarce**. Best proxies: `@Lm_P2P`, `@usdt_buyer_crypto_cr`, `@ultra_pay0_family` (live rates).
+- City F2F (Delhi/Jaipur/Hyd) = preview-restricted groups → **ads me nahi**.
+- Freelancer/export desks = almost no public sponsored inventory.
+
+### Angle 3 — Bihar / Hindi-belt regional
+- Telemetr + spy: **no clean Bihar/Patna ads-eligible channel**.
+- Converting Bihar seller **china-pay lane se aaya** (§12) — regional targeting se nahi.
+- Rule: Bihar fit = creative/pin Hindi + china-pay/agent inventory, alag “Bihar channel set” mat banao.
+
+### Angle 4 — Gaming / China-pay AGENT tier (strongest)
+- Winners: `@u8payindia`, `@xpay0088`, `@bestpay`, `@bharatservice1`, `@gnspay_upi`, `@goldpay666888` (stale risk), MagicPay family (`magicpay_168gns` &lt;1k subs).
+- Prefer **account/settlement/MQR supplier** language over pure “login/order help”.
+- Worker-earn clones (`ddpay`, `mmoney`, MeteorPay tasks) = backup only; junk DM filter creative pe.
+
+### Consolidated verdict
+Primary 8 = Angle4 agent core + Angle2 seller desks + gateway/Bharat mix. Restart proven china-pay set pehle; naya ad zero-overlap expansion.

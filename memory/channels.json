@@ -139,7 +139,7 @@
     "usdt_buyer_crypto_cr": {
       "status": "NEW_AD",
       "lane": "otc_p2p",
-      "note": "2026-08-20 Primary #7; OTC desk"
+      "note": "Primary Angle2 OTC"
     },
     "hoyopay": {
       "status": "DROP",
@@ -164,7 +164,7 @@
     "bestpay": {
       "status": "NEW_AD",
       "lane": "china_pay_agent",
-      "note": "2026-08-20 Primary #6; BestPay India corp accounts"
+      "note": "Primary"
     },
     "paisabase_official": {
       "status": "DROP",
@@ -183,18 +183,18 @@
     },
     "elitedealll": {
       "status": "WATCH",
-      "lane": "china_pay",
-      "note": "Confirm 1k+ and ads accept"
+      "lane": "deal",
+      "note": "Still <1k subs"
     },
     "turbodeal100": {
-      "status": "WATCH",
-      "lane": "china_pay",
-      "note": "<1k fail; retest only if >=1k"
+      "status": "TEST",
+      "lane": "deal",
+      "note": "Now >=1k subs; med ~420 — small backup"
     },
     "ultra_pay0_family": {
       "status": "NEW_AD",
       "lane": "seller_rate_desk",
-      "note": "2026-08-20 Primary #3; live USDT price posts"
+      "note": "Primary; live USDT price"
     },
     "cocopayplus": {
       "status": "DEAD",
@@ -263,8 +263,8 @@
     },
     "showxpay": {
       "status": "DROP",
-      "lane": "earn_app",
-      "note": "Weak/fake feel; ≠ showpayindia"
+      "lane": "weak_ratio",
+      "note": "21k subs / ~232 views — keep drop"
     },
     "DiwaPay": {
       "status": "DROP",
@@ -524,7 +524,7 @@
     "ultrapay_official": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "backup UltraPay official ~780 views"
+      "note": "Top backup ~987 med live"
     },
     "quickpayoffical1": {
       "status": "TEST",
@@ -532,9 +532,9 @@
       "note": "NEW; QuickPay official; backup"
     },
     "sharkpaypayment": {
-      "status": "NEW_AD",
+      "status": "TEST",
       "lane": "china_pay_agent",
-      "note": "2026-08-20 Primary #8; Sharkpay India game-pay"
+      "note": "Demoted from primary to backup Aug20; still usable"
     },
     "gnspay_upi": {
       "status": "TEST",
@@ -547,9 +547,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "xpay0088": {
-      "status": "TEST",
-      "lane": "china_pay",
-      "note": "Indian accounts list"
+      "status": "NEW_AD",
+      "lane": "agent_accounts",
+      "note": "2026-08-20 Primary #6 upgrade; Indian account supplier ~1.2k med views"
     },
     "tivrapay": {
       "status": "DROP",
@@ -624,12 +624,12 @@
     "u8payindia": {
       "status": "NEW_AD",
       "lane": "agent_settlement",
-      "note": "2026-08-20 Primary #1; ~7.8k avg views; China-India pay"
+      "note": "Angle4 winner; ~7.3k med views; 1.2k subs"
     },
     "Lm_P2P": {
       "status": "NEW_AD",
       "lane": "otc_p2p",
-      "note": "2026-08-20 Primary #5; P2P DEX — watch noise"
+      "note": "Primary Angle2"
     },
     "infinityforexchannel": {
       "status": "DROP",
@@ -659,12 +659,12 @@
     "bharatservice1": {
       "status": "NEW_AD",
       "lane": "mix_bharat",
-      "note": "2026-08-20 Primary #2; ~2.8k views; xWallet/Bharat service"
+      "note": "Primary; ~2.3k med"
     },
     "indiapayments_okpayen": {
       "status": "NEW_AD",
       "lane": "payment_gateway",
-      "note": "2026-08-20 Primary #4; India/PK/PH payments"
+      "note": "Primary"
     },
     "magicpay_168gns": {
       "status": "WATCH",
@@ -674,7 +674,47 @@
     "goldpay666888": {
       "status": "TEST",
       "lane": "agent_accounts",
-      "note": "China-India game agent / MQR"
+      "note": "4.3k subs but 161d stale risk"
+    },
+    "MeteorpayEliteChannel00011": {
+      "status": "TEST",
+      "lane": "china_pay_agent",
+      "note": "MeteorPay elite migrate; ~2.9k med views; earn/task lean"
+    },
+    "rhinopaymentchannel666666": {
+      "status": "DEAD",
+      "lane": "china_pay",
+      "note": "Discontinued → MeteorpayEliteChannel00011"
+    },
+    "ddpay9999": {
+      "status": "TEST",
+      "lane": "china_pay_worker",
+      "note": "High views Hindi DDPay; worker/sell-order lean backup"
+    },
+    "wisewayamina": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "231d stale personal manager; not inventory"
+    },
+    "rupeedash": {
+      "status": "DROP",
+      "lane": "earn_app",
+      "note": "Earn daily wrong intent; 85d stale"
+    },
+    "uonopay_task_crypto": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "43k subs / ~331 views"
+    },
+    "cowpayqrcodescanningchannel": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "CowCoin USDT-INR; views ~99 weak"
+    },
+    "mmoney_official2": {
+      "status": "WATCH",
+      "lane": "wallet_earn",
+      "note": "Order rewards wallet; mid views"
     }
   },
   "competitors_to_spy": [
@@ -700,22 +740,27 @@
     "ultra_pay0_family",
     "indiapayments_okpayen",
     "Lm_P2P",
+    "xpay0088",
     "bestpay",
-    "usdt_buyer_crypto_cr",
-    "sharkpaypayment"
+    "usdt_buyer_crypto_cr"
   ],
   "new_ad_backup": [
-    "magicpay_168gns",
     "ultrapay_official",
-    "goldpay666888",
-    "xpay0088",
-    "gnspay_upi",
+    "MeteorpayEliteChannel00011",
+    "ddpay9999",
+    "sharkpaypayment",
+    "magicpay_168gns",
     "jaypay_8",
-    "team_11_dream01",
+    "turbodeal100",
+    "gnspay_upi",
+    "goldpay666888",
     "lgpay_official",
     "mobiuspayofficial1",
+    "team_11_dream01",
     "atgofficiale",
-    "Ez_india"
+    "Ez_india",
+    "mmoney_official2",
+    "showxpay"
   ],
   "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
   "seller_personas_2026_08": [
@@ -847,5 +892,12 @@
     "Restart 8 new china pay (proven_restart_primary)",
     "Pause exhausted 8 channel testing",
     "Create new ad with new_ad_primary (20-30 TON, CPM ~4-5)"
-  ]
+  ],
+  "angles_completed_2026_08_20": {
+    "angle1_reverse_spy": "done_by_main_agent",
+    "angle2_high_balance": "done_scarce_otc",
+    "angle3_bihar_regional": "done_no_clean_ads_inventory",
+    "angle4_agent_tier": "done_strongest_lane",
+    "opus_subagents": "all_ERROR_limit_no_salvage"
+  }
 }

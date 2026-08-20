@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (betting USDT-withdraw lane policy + full hunt summary)  
+**Last updated:** 2026-08-20 (Stake-class crypto-casino audience map)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -691,3 +691,37 @@ Already in pipeline — **yehi betting withdrawal sellers ka proxy**:
 | Forex prop | — | SKIP |
 | **Betting tips/ID** | — | **DROP** |
 | **Betting = gaming-fund rails** | GNS/Shark/Zk/Meteor/ALLpay | **USE** (upar §20) |
+
+---
+
+## 22) Stake-class crypto casinos (USDT withdraw) — audience kahan? (2026-08-20)
+
+User: *Stake wale USDT me withdraw dete hain — aise aur sites + unka audience Ads pe kahan?*
+
+### Sites (same class — crypto in / USDT-crypto out)
+Stake · BC.Game · Roobet · Shuffle · Duelbits · Winna · Rakebit (+ similar). India players often deposit crypto/UPI hybrid; **withdraw side frequently USDT/crypto** → baad me INR chahiye = **hamara seller**.
+
+### TG pe kahan milte hain (live audit)
+
+| Place | Examples | Live | Hamare kaam ke liye |
+|---|---|---|---|
+| Official global megas | `@stakecasino` ~362k · `@stakecomdailydrops` ~164k · `@bcgamewin` ~763k · `@shuffle` ~32k · `@Winna` ~22k · `@duelbits` ~3.4k · `@rakebit_channel` | Bonus-code / rain / VIP promo | **SKIP primary** — global geo, depositors chasing codes, mehnga CPM |
+| **India official** | **`@bcgame_india`** ~7.7k med~458 live Hindi/India | Promo + raffle + invite | **Only optional tiny test** — India geo; still deposit-lean |
+| Stake India shells | `stakeindiacommmunity` / rain discussion / `stake_crypto_to_inr` | Restricted / dead / &lt;50 | **Ads inventory almost nahi** |
+| Account markets | `@stakebuysel` | Sell Stake **accounts** | Wrong intent (account flip, not USDT→INR) |
+| Tip / “stake odds” spam | Nigeria/ES tipsters using word “stake” | — | DROP |
+
+### Critical insight
+Stake-class winners **USDT wallet me nikaalte hain**, phir INR ke liye **OTC / We Buy USDT / china-pay / TrustPay / P2P** pe aate hain — Stake ke bonus channel pe ads laga ke “seller” catch rare hai.
+
+Competitor “sell USDT” placements Stake megas pe concentrated **nahi** mile; zyada flash/edu/OTC megas pe.
+
+### Practical where-to-target (Stake-class sellers)
+1. **Primary catch (best):** existing seller rails — proven china + Wave OTC/agent + gaming-fund (`gnspay`/`sharkpay`/`pay0000012`…) + creative jo withdraw OK bole  
+2. **Optional micro-test only:** `@bcgame_india` (20 TON max) — measure converting sellers, not joins  
+3. **Do not:** Stake/Shuffle/Winna/Duelbits official megas as core set  
+4. **Creative add-on:** `Stake/BC.Game withdraw USDT? We buy · UPI/Bank rate`
+
+### Split vs §20 local betting
+- **Local Indian betting/rummy money** → gaming-fund settlement channels (§20)  
+- **Global crypto casino (Stake-class)** → official TG = codes; sellers → **USDT→INR desks** after withdraw

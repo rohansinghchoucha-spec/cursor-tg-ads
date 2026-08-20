@@ -1050,6 +1050,66 @@
       "status": "WATCH",
       "lane": "gaming_fund",
       "note": "Tiny ~93 but live GNS settlement language"
+    },
+    "bcgame_india": {
+      "status": "WATCH",
+      "lane": "crypto_casino_india",
+      "note": "2026-08-20: only usable India Stake-class official; med~458 live; optional micro-test only — deposit/promo lean"
+    },
+    "bcgamewin": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "763k global BC.Game notifications — skip primary"
+    },
+    "stakecomdailydrops": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "164k Stake bonus drops — code hunters"
+    },
+    "stakecomhighrollers": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Stake high rollers global"
+    },
+    "shuffle": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Shuffle.com official global codes"
+    },
+    "Winna": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Winna.com global bonus drops"
+    },
+    "duelbits": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Duelbits global — not India seller desk"
+    },
+    "rakebit_channel": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Rakebit global promo"
+    },
+    "stakebuysel": {
+      "status": "DROP",
+      "lane": "account_market",
+      "note": "Sells Stake accounts — wrong intent vs USDT→INR"
+    },
+    "stakehelp2": {
+      "status": "DROP",
+      "lane": "stake_india_dead",
+      "note": "33 subs weak"
+    },
+    "stakeindiacommmunity": {
+      "status": "DROP",
+      "lane": "stake_india_restricted",
+      "note": "Preview restricted tiny"
+    },
+    "stake_crypto_to_inr": {
+      "status": "DROP",
+      "lane": "stake_india_empty",
+      "note": "Restricted/empty — no Ads inventory"
     }
   },
   "competitors_to_spy": [
@@ -1468,5 +1528,27 @@
     "forex_prop_SKIP",
     "betting_tips_DROP",
     "betting_gaming_fund_USE"
-  ]
+  ],
+  "stake_class_casino_policy_2026_08_20": {
+    "sites": [
+      "Stake",
+      "BC.Game",
+      "Roobet",
+      "Shuffle",
+      "Duelbits",
+      "Winna",
+      "Rakebit"
+    ],
+    "withdraw": "USDT/crypto common — real seller after cashout",
+    "where_audience_lives": {
+      "official_tg": "bonus/rain/VIP codes — mostly depositors, global",
+      "india_official": [
+        "bcgame_india"
+      ],
+      "stake_india_shells": "scarce/restricted/dead",
+      "after_withdraw_sellers": "OTC + We Buy USDT + china-pay + gaming-fund rails (same as main pipeline)"
+    },
+    "ads_policy": "Skip official megas as core. Optional micro-test bcgame_india only. Catch Stake-class sellers on USDT→INR desks with creative mentioning casino withdraw.",
+    "creative": "Stake/BC.Game withdraw USDT? We buy · UPI/Bank · live rate"
+  }
 }

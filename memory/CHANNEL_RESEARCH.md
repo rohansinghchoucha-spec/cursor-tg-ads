@@ -433,3 +433,47 @@ Primary 8 = Angle4 agent core + Angle2 seller desks + gateway/Bharat mix. Restar
 - `@ygpay147` / `@WorldInrUstd` / `@alliance_hub` — stale/weak/wrong → DROP
 
 Consensus same: best inventory = China-pay / agent-tier + live OTC desks; Bihar geo channels / exam-prep / cricket punters = mat laga.
+
+---
+
+## 16) Persona 1–9 channel map (2026-08-20 live scan) + ESCROWER + newbie
+
+**Filter rules used:** public preview · med views roughly 200–8k · not mega-inflated · stale ideally &lt;30–60d · ≥1k subs preferred for Ads · zero overlap with proven/exhausted when building new sets.
+
+**Bihar escrower insight:** converting Bihar banda **naya** tha aur group me escrower job karta tha — ye **ek example** hai (newbie + real USDT), poori strategy ka center nahi. Escrow groups Ads pe seedha mushkil; unko OTC/USDT→INR/china adjacency se catch karo. **Focus balance:** personas 1–8 sab pe (agents, OTC, remittance-scarce, P2P, gaming-fund, china workers) — sirf ek side (escrow ya sirf china) mat chipko.
+
+### Where each type lives + ads-usable channels
+
+| # | Persona | Kahan milte hain | Ads-usable (live) | Skip / note |
+|---|---|---|---|---|
+| 1 | China-pay workers | Diwa/Link/Mobius/DDPay official | Proven 8 + `@mobiuspe0` (~3.3k med) `@ddpay9999` `@MeteorpayEliteChannel00011` `@linkpay888jack` | Junk wallet/withdraw DMs expected |
+| 2 | Agents / MQR suppliers | Account-need / settlement desks | Wave1: `u8payindia` `xpay0088` `bestpay` + `@wb_pay` `@world_bank_payment_company` `gnspay_upi` `sharkpaypayment` | Prefer agent language |
+| 3 | Gaming-fund settlers | GNS/Zk/Gold/Meteor | `gnspay_upi` `t_zkpay_999pay` `MeteorpayElite…` | goldpay stale risk |
+| 4 | P2P merchants | Live buy/sell boards | `Lm_P2P` `usdt_buyer_crypto_cr` `@cryptoto_inr` (weak med~225) | Inflated mega DROP |
+| 5 | Gray OTC desks | Bedane / rate boards | **`@bedane_official`** (~1.3k med) `ultra_pay0_family` `cryptomasterr91` (&lt;1k) | Noise/scam watch |
+| 6 | Gulf remittance receivers | F2F city + Dubai cash groups | **Scarce ads inventory** — mostly restricted/stale | Mat force mega Dubai shells |
+| 7 | Freelancers USDT | Almost no clean TG Ads set | — | Scarce |
+| 8 | eRupee/wallet | Bhaaratpay-style | `bhaartpay` weak ~302 | Low priority |
+| 9 | Avoid | Famous edu / forex / flash / memecoin | — | DROP forever |
+| **E** | **Escrowers** (Bihar-type) | **P2P escrow GROUPS** | Catch via 4+5+1 channels; `@cryptoto_inr` “Escrow accepted” adjacent | Groups ≠ Ads targets |
+| **N** | **Newbie converters** (kam crypto knowledge, bas INR chahiye) | Simple “USDT to INR / sell / rate” | **`@bedane_official`** `@COME_Channel_0` (TrustPay rates — junk risk) `ultra_pay0_family` `wb_pay` | Hindi pin help |
+
+### Expansion Wave 2 (NEW — not in Wave1 Primary 8)
+
+After Wave1 runs, next 8 test:
+
+1. `@bedane_official` — OTC convert / newbie+seller  
+2. `@mobiuspe0` — MobiusPe (china worker mix)  
+3. `@wb_pay` — WBPay news  
+4. `@world_bank_payment_company` — WBPay USDT→INR  
+5. `@MeteorpayEliteChannel00011` — MeteorPay elite  
+6. `@ddpay9999` — DDPay Hindi  
+7. `@ultrapay_official` — UltraPay  
+8. `@jaypay_8` — Jay pay VIP  
+
+Swap pool: `linkpay888jack`, `sharkpaypayment`, `gnspay_upi`, `network_public`, `cryptoto_inr`, `COME_Channel_0`, `mobiuspayofficial1`, `Ez_india`.
+
+### Creative angles (alag ads possible)
+- **Seller/escrower/newbie:** `We Buy USDT · UPI ₹… · Amount + network DM`  
+- **Agent:** same + “fast settlement / any size”  
+- **Filter junk:** pin `Sirf USDT sell — LinkPay/TrustPay support nahi`

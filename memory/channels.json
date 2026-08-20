@@ -1158,5 +1158,6 @@
     "ultrapay_official",
     "jaypay_8"
   ],
-  "expansion_wave2_note": "Zero overlap with proven+exhausted+wave1 primary; escrower mainly via group adjacency not direct group targeting"
+  "expansion_wave2_note": "Zero overlap with proven+exhausted+wave1 primary; escrower mainly via group adjacency not direct group targeting",
+  "strategy_note_2026_08_20": "Escrower Bihar lead = one newbie+real-USDT example only. Balance focus across personas 1-8; do not overfit to escrow or china-only."
 }

@@ -845,27 +845,42 @@
     {
       "rank": 1,
       "persona": "China-pay / game-pay order takers",
-      "tg_fit": "best"
+      "tg_fit": "best_proven_mixed_junk"
     },
     {
       "rank": 2,
-      "persona": "Gaming-fund / UPI suppliers on USDT rails",
-      "tg_fit": "good"
+      "persona": "Agent / settlement / MQR suppliers",
+      "tg_fit": "best_expansion"
     },
     {
       "rank": 3,
-      "persona": "P2P/OTC micro merchants",
-      "tg_fit": "good if live"
+      "persona": "Gaming-fund settlers",
+      "tg_fit": "good"
     },
     {
       "rank": 4,
-      "persona": "Freelancers/export paid in USDT",
-      "tg_fit": "scarce channels"
+      "persona": "P2P/OTC merchants",
+      "tg_fit": "good_if_live"
     },
     {
       "rank": 5,
-      "persona": "Forex/prop traders",
-      "tg_fit": "avoid primary — mostly buy USDT"
+      "persona": "Gulf remittance receivers",
+      "tg_fit": "scarce_public_tg"
+    },
+    {
+      "rank": 6,
+      "persona": "Freelancers paid in USDT",
+      "tg_fit": "scarce"
+    },
+    {
+      "rank": 7,
+      "persona": "eRupee/wallet depositors",
+      "tg_fit": "weak"
+    },
+    {
+      "rank": 8,
+      "persona": "Forex/prop / memecoin / flash",
+      "tg_fit": "avoid_primary"
     }
   ],
   "new_ad_extra_aug11": [
@@ -983,5 +998,22 @@
     "angles_1_to_4": "partial_crash_no_final_lists",
     "primary_unchanged": true,
     "note": "Persona A-tier aged poorly (erupee collapsed). Keep Aug20 Primary 8."
+  },
+  "usdt_holder_map_2026_08_20": {
+    "bands": [
+      "nano_<100",
+      "small_100_1k",
+      "mid_1k_10k",
+      "bulk_10k_plus"
+    ],
+    "proven_ads_lane": "china_pay_game_pay_mixed_junk_ok",
+    "beyond_china": [
+      "agent_settlement",
+      "p2p_otc",
+      "gulf_remittance_receive",
+      "freelancer_scarce"
+    ],
+    "bihar": "no_clean_geo_channels; converts_via_china_pay_hindi; small_to_mid_typical",
+    "junk_signal": "LinkPay/TrustPay/Diwa wallet withdraw or login issues"
   }
 }

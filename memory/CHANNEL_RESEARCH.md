@@ -246,18 +246,47 @@ Update date stamp at top whenever this file changes.
 
 ---
 
-## 9) Who holds sellable USDT in India (as of 2026-08-11)
+## 9) Who holds sellable USDT in India (updated 2026-08-20) — China ke alava bhi
 
-1. **China-pay / game-pay order takers** — best proven lane for this desk (current ad joins yahi se).
-2. **Gaming-fund / account suppliers on USDT rails** — good adjacent.
-3. **P2P/OTC micro merchants** — good if live, not inflated.
-4. **Freelancers/export paid in USDT** — real sellers, scarce clean TG inventory.
-5. **Forex / prop traders** — mostly **buy** USDT for challenge/prop fees; rare payout cashout. **Primary pe mat laga.**
+Mixed leads normal hain: kuch **real sellers**, kuch **"LinkPay/TrustPay wallet / withdraw nahi ho raha"** = app stuck / support-seekers (junk). Filter creative+pin se; lane mat maar.
 
-### Joins high / seller DMs low — ops fix
-- Destination pin: `Sellers only · Min 100 USDT · DM @BussinessMen0 with amount + TRC20`
-- Creative sharpen: `We Buy USDT · Sellers only · Instant UPI`
-- Next ad = Primary 8 + extras (`upaywalle_mahagames`, `team_11_dream01`, `atgofficiale`, `erupeetradingofficialchannel`, `t_zkpay_999pay`, `alexpay_channel`) — loot/forex mix hatao.
+### A) Size bands (approximate)
+| Band | Size | Typical people |
+|---|---|---|
+| Nano | &lt;100 U | App workers, trial traders, earn-app stuck |
+| Small | 100–1k U | Micro P2P, small remittance receive, game agents |
+| Mid | 1k–10k U | Active P2P merchants, agents, freelancers |
+| Bulk | 10k–100k+ U | OTC desks, big agents, hawala/remit chains, corporate settlement |
+
+Desk ke liye sweet spot often **mid + occasional bulk**; nano mostly junk DM.
+
+### B) Persona map (kaun ke paas USDT aata/hota hai)
+
+| # | Persona | Bulk? | TG Ads fit | Notes |
+|---|---|---|---|---|
+| 1 | **China-pay / game-pay order-takers** | nano–small | High (proven) | Deposit USDT → take INR orders → commission. Mixed junk (“login/withdraw”) + occasional seller |
+| 2 | **Agent / settlement / MQR-account suppliers** | mid–bulk | High | Supply bank/UPI/MQR; settle in USDT. Prefer over pure workers |
+| 3 | **Gaming-fund settlers** | mid–bulk | Good | Daily fund settlement China↔India |
+| 4 | **Binance/Bybit/OKX P2P merchants** | small–bulk | Good if live | Live OTC rate channels; inflated mega DROP |
+| 5 | **Gray OTC / Telegram desk traders** | mid–bulk | Medium | Noisy, scam risk; watch CPA |
+| 6 | **Gulf/abroad remittance receivers** | small–mid | Scarce TG | Family in India gets USDT from UAE/Saudi/US → sell for INR |
+| 7 | **Freelancers / export paid in USDT** | small–mid | Scarce | Upwork/Web3/agency; hard clean Ads inventory |
+| 8 | **eRupee / wallet-token traders** | nano–small | Weak–mid | Often depositors not sellers |
+| 9 | **Memecoin / airdrop farmers** | nano | Bad | Hold little sellable USDT; wrong intent |
+| 10 | **Forex / prop traders** | mostly buy | Bad primary | Need USDT for fees; rare cashout |
+| 11 | **Flash / fake USDT crowd** | fake | BLOCK | Skip |
+
+### C) Bihar (alag)
+- Bihar me alag “Bihar USDT channel set” **nahi mila** (public ads-eligible).
+- Jo converting Bihar seller aaya woh **china-pay / gaming lane** se aaya — regional exam/cricket channels se nahi.
+- Bihar pattern (typical): Gulf/Delhi remittance receive, small P2P, china-pay agent/worker cashout, local OTC via Hindi TG — sizes mostly **small–mid**, kabhi bulk family remit.
+- Targeting tip: Hindi creative + agent/china-pay/OTC inventory; alag Bihar geo list mat banao.
+- Junk vs seller Bihar me bhi same mix — filter: amount + network pehle poochho.
+
+### D) Ops filter (mixed leads)
+Junk line: “LinkPay/TrustPay/Diwa wallet… withdraw/login nahi ho raha”  
+Seller line: amount + TRC20/ERC + ready to send  
+Reply: `Sirf USDT sell. Amount + network batao.` — baaki ignore/block.
 
 
 ## 10) Live ads (2026-08-20 refresh)

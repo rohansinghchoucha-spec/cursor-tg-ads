@@ -183,8 +183,8 @@
     },
     "elitedealll": {
       "status": "WATCH",
-      "lane": "deal",
-      "note": "Still <1k subs"
+      "lane": "deal_clone",
+      "note": "SmartWallet deal med~205 weak"
     },
     "turbodeal100": {
       "status": "TEST",
@@ -559,7 +559,7 @@
     "buysellvip": {
       "status": "DROP",
       "lane": "loot",
-      "note": "Loot business contact borderline junk"
+      "note": "2026-08-20 placement hit but Buy Sell Loots — wrong intent"
     },
     "earningsupport2": {
       "status": "DROP",
@@ -589,7 +589,7 @@
     "lgpay_official": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "views verified ~642"
+      "note": "alias of Lgpay_official"
     },
     "upaywalle_mahagames": {
       "status": "PROVEN",
@@ -748,8 +748,8 @@
     },
     "sprodeal_official": {
       "status": "WATCH",
-      "lane": "buyer_desk",
-      "note": "SPRO DEAL <1k subs; tiny live"
+      "lane": "deal_clone",
+      "note": "~179 subs live Hindi deal — size weak"
     },
     "SPRODEAL_official": {
       "status": "WATCH",
@@ -838,8 +838,8 @@
     },
     "trusteeexchange": {
       "status": "DROP",
-      "lane": "weak",
-      "note": "Escrow title but med~56"
+      "lane": "otc_weak",
+      "note": "med~56 weak despite escrow USDT→INR title"
     },
     "INDIANP2PESCROW": {
       "status": "WATCH",
@@ -940,6 +940,71 @@
       "status": "WATCH",
       "lane": "agent_accounts",
       "note": "Cloudpayment corp — restricted"
+    },
+    "pay0000012": {
+      "status": "TEST",
+      "lane": "allpay_agent_mqr",
+      "note": "Wave4 #1 2026-08-20: ALLpay live med~896; JK/MQR needs + Chinese USDT trading partner posts"
+    },
+    "DracoDeall": {
+      "status": "TEST",
+      "lane": "deal_clone",
+      "note": "Wave4 #3 med~748 Paisabase deal; spy usdt-rate CTA"
+    },
+    "SuperDeall776": {
+      "status": "TEST",
+      "lane": "deal_clone",
+      "note": "Wave4 #4 med~334 ATGPay deal"
+    },
+    "floatpayme88": {
+      "status": "TEST",
+      "lane": "china_pay_worker",
+      "note": "Wave4 #5 FloatPay; snowball bharatservice1; junk-DM risk"
+    },
+    "trustpayme88": {
+      "status": "TEST",
+      "lane": "china_pay_worker",
+      "note": "Wave4 #6 TrustPay With Us; filter pin required"
+    },
+    "wwwpayme88": {
+      "status": "WATCH",
+      "lane": "china_pay_worker",
+      "note": "Wave4 #7 borderline med~147; backup"
+    },
+    "xwalletme88": {
+      "status": "WATCH",
+      "lane": "china_pay_worker",
+      "note": "Wave4 #8 swap; med~170"
+    },
+    "NitroDeal098": {
+      "status": "DROP",
+      "lane": "loot_spam",
+      "note": "2026-08-20: Flipkart/shopping loot spam; not USDT sellers"
+    },
+    "uniqueChineseMarket": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "Unique Pay tiny ~170 subs — below Ads preference"
+    },
+    "moneychangerIN": {
+      "status": "WATCH",
+      "lane": "p2p_otc",
+      "note": "MCX India tiny ~146; intent OK size weak"
+    },
+    "bedaneindia": {
+      "status": "WATCH",
+      "lane": "otc",
+      "note": "Bedane alt; 70d stale / <1k — prefer bedane_official"
+    },
+    "allpay0001": {
+      "status": "DROP",
+      "lane": "allpay",
+      "note": "preview restricted / operator"
+    },
+    "dwpay8888": {
+      "status": "DROP",
+      "lane": "stale_otc",
+      "note": "209d stale med~147"
     }
   },
   "competitors_to_spy": [
@@ -1297,5 +1362,31 @@
     "prop_usdt_payout_slice": "thin; not primary"
   },
   "export_business_finding": "True garment/IT export TG Ads shelves almost empty. TG-visible business=China-India payment + corporate/MQR account agents (mvpay9526, xpay0088, vpay clusters) who settle foreign/gaming funds in USDT.",
-  "competitor_ads_summary": "Across 100+ placements: china-pay wallets, deal clones, famous crypto noise. Almost zero ads on pure freelancer/export/remit public channels because those shelves are private/restricted."
+  "competitor_ads_summary": "Across 100+ placements: china-pay wallets, deal clones, famous crypto noise. Almost zero ads on pure freelancer/export/remit public channels because those shelves are private/restricted.",
+  "research_methods_ranked_2026_08_20": [
+    "1_competitor_placement_mining_tgadsspy",
+    "2_live_audit_tme_s",
+    "3_snowball_mentions_from_winners",
+    "4_spy_ads_creative_cta_dump",
+    "5_channel_directory_telemetr_keywords",
+    "6_web_news_persona_only_scarce_ads"
+  ],
+  "research_honesty": "TGAdsSpy archive + live t.me/s audits; not live Ads Manager competitor UI each run. Placement lists heavy with loot/rummy/matka/edu noise — audit gate mandatory.",
+  "expansion_wave4_multi_method": [
+    "pay0000012",
+    "Lgpay_official",
+    "DracoDeall",
+    "SuperDeall776",
+    "floatpayme88",
+    "trustpayme88",
+    "wwwpayme88",
+    "xwalletme88"
+  ],
+  "expansion_wave4_note": "Method1 placements + Method3 snowball + live audit. Best new=@pay0000012 ALLpay. Wave2 then Wave3 then Wave4 after proven restart.",
+  "expansion_wave4_drop_noise": [
+    "buysellvip",
+    "NitroDeal098",
+    "wallet_999pay",
+    "xd_payman"
+  ]
 }

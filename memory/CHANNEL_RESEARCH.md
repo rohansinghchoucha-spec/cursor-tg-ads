@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (multi-cat re-hunt: export/business/forex policy + Wave3)  
+**Last updated:** 2026-08-20 (method ranking + multi-method Wave4 hunt)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -574,3 +574,58 @@ Related: Vpay/chinapaymentcorp, ACpay, “Indian Corporate Accounts” — mostl
 - **Retail/newbie:** We Buy USDT · UPI rate · join  
 - **Bulk/business:** Min 500–1000U · Bank · Bulk/settlement welcome  
 - **Filter:** Sirf sell — app login/withdraw support nahi
+
+---
+
+## 19) Best research methods (ranked) + Wave4 multi-method hunt (2026-08-20)
+
+User sawal: *kaise dhundh rahe ho — TG ads / dusre ke placement / kya?* Pehle **best way lock**, phir usi se naya hunt.
+
+### Method ranking (best → worst) for Indian USDT **sellers**
+
+| Rank | Method | Tool / how | Kya milta hai | Kab use |
+|---|---|---|---|---|
+| **1** | **Competitor placement mining** | TGAdsSpy: `angle3_spy.py ads` → ad IDs → `place` | Jahan Showx/Laxmi/Trust/“We Buy USDT” type ads **actually chal rahe** | Primary discovery |
+| **2** | **Live audit gate** | `t.me/s/<handle>` + `audit_channels.py` | Subs, median views, stale days, post intent | Har candidate pe **mandatory** |
+| **3** | **Snowball from winners** | `discover_mentions.py` on proven 8 + Wave winners | Cross-@ / support / sister channels | Adjacency expansion |
+| **4** | **Spy creative dump** | `spy_ads.py` keywords (`sell usdt`, `usdt rate`…) | Competitor CTA destinations (often deal clones) | Fast shortlist |
+| **5** | **Channel directory keywords** | `spy_search.py` + Telemetr | Title matches “USDT to INR / MVpay / ALLpay” | Breadth; **zyada restricted/dead** |
+| **6** | **Web/news persona map** | ET/CoinDesk/OTC desks | Remit/freelancer reality | Strategy only — public Ads shelf thin |
+
+**Honest limit:** Main Ads Manager me competitor UI live nahi padhta har baar. Source = **TGAdsSpy archive + live `t.me/s`**. Placement lists me **loot / rummy / matka / famous-edu / airdrop** noise bohot hai — bina audit recommend mat karo.
+
+**Filter rules (locked):** public preview · med views ~200–8k preferred · stale ideally &lt;30–60d · ≥~1k subs Ads-friendly · DROP lists respect · loot/rummy/flash/edu skip · china/agent OK after Aug20 convert.
+
+### Is round me kya kiya (multi-method)
+1. **78 ad IDs** mined (`we buy usdt` / `sell usdt` / Trust / Showx / Laxmi / Mobius…) → placements tallied.  
+2. Top placements mostly **already known** (diwapay, linkpay8, usdt_buy_seller…, jaypay_8) + **noise** (buysellvip loot, NitroDeal098 Flipkart spam, matka, education).  
+3. **Snowball** from diwapay/link/mvpay/pay0000012/bedane → support handles + `@floatpayme88` / `@trustpayme88` / `@wwwpayme88` cluster (BharatService adjacency).  
+4. **Directory + Telemetr** “USDT to INR” → mostly preview-restricted / &lt;1k / stale shells.  
+5. Live audit survivors below.
+
+### Wave 4 — NEW free-pick 8 (zero overlap with proven + exhausted + Wave1–3 primary)
+
+| # | Handle | Med / stale | Lane | Why |
+|---|---|---|---|---|
+| 1 | `@pay0000012` | ~896 / 0d | ALLpay agent/MQR + USDT partner seek | **Best new find** this round |
+| 2 | `@Lgpay_official` | ~518 / 2d | LG Pay deposit / USDT sell app | Already TEST; live reconfirm |
+| 3 | `@DracoDeall` | ~748 / 3d | Deal clone (Paisabase) | Competitor “usdt rate” creative target |
+| 4 | `@SuperDeall776` | ~334 / 5d | Deal / ATGPay | Same spy lane |
+| 5 | `@floatpayme88` | ~419 / 2d | FloatPay worker | Snowball from bharatservice1 cluster |
+| 6 | `@trustpayme88` | ~327 / 6d | TrustPay With Us | Same cluster; junk-DM filter pin |
+| 7 | `@wwwpayme88` | ~147 / 0d | 3WPay | Borderline views; backup-lean |
+| 8 | `@xwalletme88` | ~170 / 0d | xWallet With Us | Swap if www weak |
+
+**Swap pool:** `uniqueChineseMarket` (tiny), `SPRODEAL_official` (&lt;200), `moneychangerIN` (&lt;200), `elitedealll` (weak med), `trusteeexchange` (med~56).
+
+### DROP / noise this round (do not target)
+- `@buysellvip` — Buy Sell **Loots** (placement hit but wrong intent)  
+- `@NitroDeal098` — ab shopping/Flipkart loot spam (stale crypto-deal name)  
+- `@wallet_999pay` / `@xd_payman` — pehle se DROP; re-audit same reason (worker / weak)  
+- Mega education / matka / airdrop placements from Method-1 noise list  
+
+### Ops order (unchanged priority)
+1. Ads **top-up** → restart proven `8 new china pay`  
+2. Pause exhausted old 8  
+3. Wave2 (Bedane/Mobius/WB…) → Wave3 (mvpay…) → **Wave4** (ALLpay + LG + deal/with-us mix)  
+4. Creative: retail rate + bulk min-size + junk filter pin

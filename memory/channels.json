@@ -529,7 +529,7 @@
     "quickpayoffical1": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "NEW; QuickPay official; backup"
+      "note": "QuickPay India official ~350 med live"
     },
     "sharkpaypayment": {
       "status": "TEST",
@@ -824,12 +824,12 @@
     "network_public": {
       "status": "TEST",
       "lane": "misc",
-      "note": "Js network ~672 med; verify intent"
+      "note": "Js network ~672 med"
     },
     "linkpay888jack": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "Linkpay token buy/sell ~988 med"
+      "note": "Linkpay tokens ~988 med"
     },
     "cryptomasterr91": {
       "status": "WATCH",
@@ -895,6 +895,51 @@
       "status": "BLOCK",
       "lane": "hawala_risk",
       "note": "Hawala USDT dealer — policy/legal risk skip ads"
+    },
+    "mvpay9526": {
+      "status": "NEW_AD",
+      "lane": "agent_corporate",
+      "note": "MVpay bank/MQR accounts; daily 10L–1Cr USDT→INR demand; med~1.8k"
+    },
+    "quickpaynetwor": {
+      "status": "DROP",
+      "lane": "task_wallet",
+      "note": "QuickPay task/redeem junk — not sellers"
+    },
+    "quickpaybdofficialupdate": {
+      "status": "DROP",
+      "lane": "geo_bd",
+      "note": "Bangladesh QuickPay — not India primary"
+    },
+    "laxmi_trader_official": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "10k subs / med~52 — famous-style fail"
+    },
+    "Laxmi_trader_official": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "alias"
+    },
+    "chinapaymentcorp": {
+      "status": "WATCH",
+      "lane": "china_corp",
+      "note": "Vpay China-India corp — preview restricted"
+    },
+    "acpaya9": {
+      "status": "WATCH",
+      "lane": "agent_accounts",
+      "note": "ACpay bank accounts <1k"
+    },
+    "indiacorporate_accounts": {
+      "status": "WATCH",
+      "lane": "agent_accounts",
+      "note": "Mostly restricted groups"
+    },
+    "topcorporates": {
+      "status": "WATCH",
+      "lane": "agent_accounts",
+      "note": "Cloudpayment corp — restricted"
     }
   },
   "competitors_to_spy": [
@@ -1235,5 +1280,22 @@
     "ultra_pay0_family",
     "world_bank_payment_company"
   ],
-  "bulk_creative": "We Buy USDT · Min 500–1000U · Bank/UPI · Bulk welcome · DM amount+network"
+  "bulk_creative": "We Buy USDT · Min 500–1000U · Bank/UPI · Bulk welcome · DM amount+network",
+  "expansion_wave3_multi_cat": [
+    "mvpay9526",
+    "linkpay888jack",
+    "quickpayoffical1",
+    "network_public",
+    "turbodeal100",
+    "gnspay_upi",
+    "mobiuspayofficial1",
+    "cryptoto_inr"
+  ],
+  "forex_policy": {
+    "prop_signal": "SKIP — mostly buy USDT for fees; education/signal junk",
+    "business_fx_money_changer": "REAL remit adjacent but public TG scarce",
+    "prop_usdt_payout_slice": "thin; not primary"
+  },
+  "export_business_finding": "True garment/IT export TG Ads shelves almost empty. TG-visible business=China-India payment + corporate/MQR account agents (mvpay9526, xpay0088, vpay clusters) who settle foreign/gaming funds in USDT.",
+  "competitor_ads_summary": "Across 100+ placements: china-pay wallets, deal clones, famous crypto noise. Almost zero ads on pure freelancer/export/remit public channels because those shelves are private/restricted."
 }

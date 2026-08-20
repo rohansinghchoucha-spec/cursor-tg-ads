@@ -257,9 +257,9 @@
       "note": "F2F dirty desk"
     },
     "USDTP2PINDIA": {
-      "status": "DROP",
-      "lane": "otc_p2p",
-      "note": "Group not ads inventory"
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "GROUP India/Dubai P2P escrow — not ads list"
     },
     "showxpay": {
       "status": "DROP",
@@ -298,8 +298,8 @@
     },
     "COME_Channel_0": {
       "status": "WATCH",
-      "lane": "trustpay_rebrand",
-      "note": "Alias of come_channel_0"
+      "lane": "trustpay_rates",
+      "note": "Live USDT conversion rates; TrustPay junk risk"
     },
     "cryptoamanclub": {
       "status": "DROP",
@@ -790,6 +790,76 @@
       "status": "WATCH",
       "lane": "competitor",
       "note": "Preview restricted Laxmi community"
+    },
+    "bedane_official": {
+      "status": "NEW_AD",
+      "lane": "otc_converter",
+      "note": "OTC app; \"have USDT to sell\"; ~1.8k subs med~1.3k; newbie convert lane"
+    },
+    "mobiuspe0": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "MobiusPe app community ~3.3k med; junk+seller mix like LinkPay"
+    },
+    "Mobiuspe0": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "Alias mobiuspe0"
+    },
+    "wb_pay": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "WBPay News ~6.3k med~682"
+    },
+    "world_bank_payment_company": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "WBPay USDT→INR ~1.5k med~503"
+    },
+    "cryptoto_inr": {
+      "status": "TEST",
+      "lane": "escrower_otc",
+      "note": "Escrow accepted buy-board; med~225 weak but escrower-adjacent"
+    },
+    "network_public": {
+      "status": "TEST",
+      "lane": "misc",
+      "note": "Js network ~672 med; verify intent"
+    },
+    "linkpay888jack": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "Linkpay token buy/sell ~988 med"
+    },
+    "cryptomasterr91": {
+      "status": "WATCH",
+      "lane": "otc_converter",
+      "note": "Strong sell language but <1k subs"
+    },
+    "trusteeexchange": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "Escrow title but med~56"
+    },
+    "INDIANP2PESCROW": {
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "GROUP preview-restricted — not ads list"
+    },
+    "usdtsellingandbuyinggroup": {
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "GROUP escrow — not ads list"
+    },
+    "usdtindiahub": {
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "Hub/group preview-restricted"
+    },
+    "CryptoIndiaUnited": {
+      "status": "DROP",
+      "lane": "stale_inflated",
+      "note": "9.8k / one post 464d stale"
     }
   },
   "competitors_to_spy": [
@@ -1015,5 +1085,78 @@
     ],
     "bihar": "no_clean_geo_channels; converts_via_china_pay_hindi; small_to_mid_typical",
     "junk_signal": "LinkPay/TrustPay/Diwa wallet withdraw or login issues"
-  }
+  },
+  "persona_channel_map_2026_08_20": {
+    "1_china_workers": [
+      "proven_8",
+      "mobiuspe0",
+      "ddpay9999",
+      "MeteorpayEliteChannel00011",
+      "linkpay888jack"
+    ],
+    "2_agents": [
+      "u8payindia",
+      "xpay0088",
+      "bestpay",
+      "gnspay_upi",
+      "sharkpaypayment",
+      "wb_pay",
+      "world_bank_payment_company"
+    ],
+    "3_gaming_fund": [
+      "gnspay_upi",
+      "t_zkpay_999pay",
+      "goldpay666888",
+      "MeteorpayEliteChannel00011"
+    ],
+    "4_p2p_merchants": [
+      "Lm_P2P",
+      "usdt_buyer_crypto_cr",
+      "cryptoto_inr"
+    ],
+    "5_gray_otc": [
+      "bedane_official",
+      "cryptomasterr91",
+      "ultra_pay0_family"
+    ],
+    "6_remittance": [
+      "groups_f2f_restricted_scarce_ads"
+    ],
+    "7_freelancers": [
+      "scarce_public_tg"
+    ],
+    "8_erupee_wallet": [
+      "bhaartpay",
+      "weak"
+    ],
+    "9_avoid": [
+      "famous_crypto",
+      "forex",
+      "flash",
+      "memecoin"
+    ],
+    "escrower_NEW": [
+      "live_in_GROUPS_not_ads",
+      "catch_via_otc_china_usdt_to_inr_channels",
+      "cryptoto_inr_adjacent"
+    ],
+    "newbie_converter": [
+      "bedane_official",
+      "COME_Channel_0",
+      "ultra_pay0_family",
+      "cryptoto_inr",
+      "wb_pay"
+    ]
+  },
+  "expansion_wave2_primary": [
+    "bedane_official",
+    "mobiuspe0",
+    "wb_pay",
+    "world_bank_payment_company",
+    "MeteorpayEliteChannel00011",
+    "ddpay9999",
+    "ultrapay_official",
+    "jaypay_8"
+  ],
+  "expansion_wave2_note": "Zero overlap with proven+exhausted+wave1 primary; escrower mainly via group adjacency not direct group targeting"
 }

@@ -6,7 +6,7 @@
     "BussinessMen0",
     "nexadeskrates"
   ],
-  "goal": "Indian USDT sellers / holders / depositors",
+  "goal": "Indian USDT sellers / holders with meaningful balance; china-pay+gaming allowed; prefer AGENT/OTC",
   "working_creative": "We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate",
   "typical_cpm_ton": 4.0,
   "budget_band_ton": [
@@ -15,14 +15,14 @@
   ],
   "campaign_snapshot": {
     "name": "8 channel testing",
-    "status": "Active",
+    "status": "Active but exhausted",
     "cpm_ton": 4.0,
     "budget_ton": 30,
     "spent_approx_ton": 7.9,
     "left_approx_ton": 22.13,
-    "views": 3177,
-    "clicks": 285,
-    "actions": 48,
+    "views": 6301,
+    "clicks": 541,
+    "actions": 98,
     "ctr_approx": 0.0898,
     "cpa_ton_approx": 0.3,
     "destination_members_approx": "20→71",
@@ -46,54 +46,55 @@
       "loots_pay",
       "base_pay"
     ],
-    "budget_left_eur": 17.29,
+    "budget_left_eur": 4.27,
     "cpm_eur": 4.05,
     "cpa_eur_approx": 0.265,
     "spent_approx_eur": 12.69,
-    "account_budget_eur": 3.29,
-    "checked_at": "2026-08-11",
-    "ads_login": "ok"
+    "account_budget_eur": 0.29,
+    "checked_at": "2026-08-20",
+    "ads_login": "ok",
+    "note": "Audience saturated ~71 views/day; pause after top-up"
   },
   "channels": {
     "uupay_captain": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "Current 8-set"
+      "note": "Current 8-set | 2026-08-20 old ad saturated"
     },
     "quickcashwins": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "WingsAPP; current 8-set"
+      "note": "WingsAPP; current 8-set | 2026-08-20 old ad saturated"
     },
     "loots_pay": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "Final NEW 10 + current 8"
+      "note": "Final NEW 10 + current 8 | 2026-08-20 old ad saturated"
     },
     "txtpayz": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "In current 8; organic views now weak ~196"
+      "note": "In current 8; organic views now weak ~196 | 2026-08-20 old ad saturated"
     },
     "base_pay": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "UltraPay family cousin; current 8"
+      "note": "UltraPay family cousin; current 8 | 2026-08-20 old ad saturated"
     },
     "usdt_buy_seller_binance_p2p": {
-      "status": "WATCH",
+      "status": "EXHAUSTED",
       "lane": "otc_p2p",
-      "note": "Activation chat me HATA; Aug2026 campaign me top delivery — watch quality"
+      "note": "Was top delivery; old ad exhausted — do not put in next Primary 8"
     },
     "skypay_payment_backup_01": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "High delivery in current ad"
+      "note": "High delivery in current ad | 2026-08-20 old ad saturated"
     },
     "kunal_loots": {
-      "status": "RUNNING",
+      "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "Current 8-set"
+      "note": "Current 8-set | 2026-08-20 old ad saturated"
     },
     "diwapay": {
       "status": "PROVEN",
@@ -118,7 +119,7 @@
     "jaypay_8": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "Was referral noise once; small test ok"
+      "note": "backup"
     },
     "atg_india": {
       "status": "KEEP",
@@ -131,14 +132,14 @@
       "note": "~250 views weak"
     },
     "Ez_india": {
-      "status": "KEEP",
+      "status": "TEST",
       "lane": "china_pay",
-      "note": "Final NEW 10"
+      "note": "weaker ~361 views Aug20"
     },
     "usdt_buyer_crypto_cr": {
-      "status": "KEEP",
+      "status": "NEW_AD",
       "lane": "otc_p2p",
-      "note": "Early Tier A survivor / Final NEW 10"
+      "note": "2026-08-20 Primary #7; OTC desk"
     },
     "hoyopay": {
       "status": "DROP",
@@ -162,8 +163,8 @@
     },
     "bestpay": {
       "status": "NEW_AD",
-      "lane": "china_pay",
-      "note": "Primary #8; corporate accounts"
+      "lane": "china_pay_agent",
+      "note": "2026-08-20 Primary #6; BestPay India corp accounts"
     },
     "paisabase_official": {
       "status": "DROP",
@@ -173,7 +174,7 @@
     "atgofficiale": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "Dropped then replacement again — re-check live"
+      "note": "backup"
     },
     "atgpay_iop": {
       "status": "PROVEN",
@@ -191,9 +192,9 @@
       "note": "<1k fail; retest only if >=1k"
     },
     "ultra_pay0_family": {
-      "status": "TEST",
-      "lane": "china_pay",
-      "note": "Re-qualified live views 1.3-2.4k; backup"
+      "status": "NEW_AD",
+      "lane": "seller_rate_desk",
+      "note": "2026-08-20 Primary #3; live USDT price posts"
     },
     "cocopayplus": {
       "status": "DEAD",
@@ -523,7 +524,7 @@
     "ultrapay_official": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "NEW discovered; backup"
+      "note": "backup UltraPay official ~780 views"
     },
     "quickpayoffical1": {
       "status": "TEST",
@@ -531,14 +532,14 @@
       "note": "NEW; QuickPay official; backup"
     },
     "sharkpaypayment": {
-      "status": "TEST",
-      "lane": "china_pay",
-      "note": "NEW India game-pay co"
+      "status": "NEW_AD",
+      "lane": "china_pay_agent",
+      "note": "2026-08-20 Primary #8; Sharkpay India game-pay"
     },
     "gnspay_upi": {
       "status": "TEST",
-      "lane": "china_pay",
-      "note": "NEW gaming funds / accounts"
+      "lane": "gaming_fund",
+      "note": "GNS MQR / gaming funds"
     },
     "wiseway_payment": {
       "status": "PROVEN",
@@ -548,7 +549,7 @@
     "xpay0088": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "NEW needs Indian accounts"
+      "note": "Indian accounts list"
     },
     "tivrapay": {
       "status": "DROP",
@@ -586,9 +587,9 @@
       "note": "~250 views too weak"
     },
     "lgpay_official": {
-      "status": "WATCH",
+      "status": "TEST",
       "lane": "china_pay",
-      "note": "11.5k subs but no public views verify"
+      "note": "views verified ~642"
     },
     "upaywalle_mahagames": {
       "status": "PROVEN",
@@ -598,7 +599,7 @@
     "team_11_dream01": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "SHORT Pay USDT token sell"
+      "note": "backup depositor lean"
     },
     "erupeetradingofficialchannel": {
       "status": "TEST",
@@ -613,7 +614,7 @@
     "mobiuspayofficial1": {
       "status": "TEST",
       "lane": "china_pay",
-      "note": "India digital swap"
+      "note": "backup"
     },
     "alexpay_channel": {
       "status": "PROVEN",
@@ -621,14 +622,14 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "u8payindia": {
-      "status": "TEST",
-      "lane": "china_pay",
-      "note": "high views; verify ads-accept"
+      "status": "NEW_AD",
+      "lane": "agent_settlement",
+      "note": "2026-08-20 Primary #1; ~7.8k avg views; China-India pay"
     },
     "Lm_P2P": {
-      "status": "WATCH",
+      "status": "NEW_AD",
       "lane": "otc_p2p",
-      "note": "P2P service watch noise"
+      "note": "2026-08-20 Primary #5; P2P DEX — watch noise"
     },
     "infinityforexchannel": {
       "status": "DROP",
@@ -654,6 +655,26 @@
       "status": "DROP",
       "lane": "prop_forex",
       "note": "prop promo"
+    },
+    "bharatservice1": {
+      "status": "NEW_AD",
+      "lane": "mix_bharat",
+      "note": "2026-08-20 Primary #2; ~2.8k views; xWallet/Bharat service"
+    },
+    "indiapayments_okpayen": {
+      "status": "NEW_AD",
+      "lane": "payment_gateway",
+      "note": "2026-08-20 Primary #4; India/PK/PH payments"
+    },
+    "magicpay_168gns": {
+      "status": "WATCH",
+      "lane": "china_pay_agent",
+      "note": "~3.5k views but ~910 subs — may fail ads <1k"
+    },
+    "goldpay666888": {
+      "status": "TEST",
+      "lane": "agent_accounts",
+      "note": "China-India game agent / MQR"
     }
   },
   "competitors_to_spy": [
@@ -674,27 +695,27 @@
     "Update this file + CHANNEL_RESEARCH.md after every research/campaign result"
   ],
   "new_ad_primary": [
-    "diwapay",
-    "linkpay8",
-    "linkxwalletnow",
-    "alexpay_channel",
-    "atgpay_iop",
-    "upaywalle_mahagames",
-    "wiseway_payment",
-    "showpayindia"
+    "u8payindia",
+    "bharatservice1",
+    "ultra_pay0_family",
+    "indiapayments_okpayen",
+    "Lm_P2P",
+    "bestpay",
+    "usdt_buyer_crypto_cr",
+    "sharkpaypayment"
   ],
   "new_ad_backup": [
-    "atg_india",
-    "Ez_india",
-    "jaypay_8",
+    "magicpay_168gns",
     "ultrapay_official",
-    "ultra_pay0_family",
-    "quickpayoffical1",
-    "sharkpaypayment",
-    "gnspay_upi",
-    "wiseway_payment",
+    "goldpay666888",
     "xpay0088",
-    "usdt_buyer_crypto_cr"
+    "gnspay_upi",
+    "jaypay_8",
+    "team_11_dream01",
+    "lgpay_official",
+    "mobiuspayofficial1",
+    "atgofficiale",
+    "Ez_india"
   ],
   "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
   "seller_personas_2026_08": [
@@ -749,11 +770,11 @@
   "new_ad_live": {
     "name": "8 new china pay",
     "created": "2026-08-14",
-    "status": "On Hold 2026-08-16 — bad app-worker leads from LinkPay lane",
+    "status": "Stopped 2026-08-20 — budget depleted (was On Hold 16 Aug over-correction)",
     "cpm": 4.0,
     "budget_set": 3.0,
-    "account_balance_approx": 3.29,
-    "note": "Budget capped by low account balance; top up then raise to 20-30",
+    "account_balance_approx": 0.29,
+    "note": "Top up then restart this set; also create next Primary 8 (new_ad_primary)",
     "destination": "t.me/safepathdeals",
     "channels": [
       "diwapay",
@@ -765,18 +786,25 @@
       "wiseway_payment",
       "showpayindia"
     ],
-    "old_ad": "8 channel testing still Active untouched"
+    "old_ad": "8 channel testing still Active untouched",
+    "views": 5331,
+    "clicks": 441,
+    "joins": 91,
+    "verdict": "BEST; 1 converting Bihar seller — RESTART after top-up"
   },
-  "hard_lesson_2026_08_16": "China-pay app channels (LinkPay etc) = order-takers with login issues, NOT USDT desk sellers. Pause 8 new china pay.",
+  "hard_lesson_2026_08_16": "OVER-CORRECTED: junk DMs from LinkPay ≠ kill china-pay lane. See correction_2026_08_20.",
   "audience_right": [
     "OTC/P2P USDT sellers with inventory",
+    "AGENT / settlement / gaming-fund suppliers on USDT rails",
+    "China-pay / game-pay cohorts that hold USDT (proven convert)",
     "freelancer USDT cashout",
     "trader cashout"
   ],
   "audience_wrong": [
-    "China-pay app order takers",
-    "LinkPay/Diwa login help seekers",
-    "earn commission agents needing USDT recharge"
+    "Pure login-help seekers (filter via creative/pin, not by killing whole lane)",
+    "famous crypto education",
+    "forex/prop buy-side",
+    "flash USDT / loot-rummy primary"
   ],
   "ads_snapshot_2026_08_20": {
     "8 new china pay": {
@@ -803,5 +831,21 @@
     },
     "account_balance_eur": 0.29
   },
-  "correction_2026_08_20": "China-pay/gaming lane converts. Judge by cost-per-converting-seller, not junk-DM count. Re-enable 8 new china pay after top-up."
+  "correction_2026_08_20": "China-pay/gaming lane converts. Judge by cost-per-converting-seller, not junk-DM count. Re-enable 8 new china pay after top-up.",
+  "proven_restart_primary": [
+    "diwapay",
+    "linkpay8",
+    "linkxwalletnow",
+    "alexpay_channel",
+    "atgpay_iop",
+    "upaywalle_mahagames",
+    "wiseway_payment",
+    "showpayindia"
+  ],
+  "next_ops": [
+    "Top up Ads balance (now ~€0.29)",
+    "Restart 8 new china pay (proven_restart_primary)",
+    "Pause exhausted 8 channel testing",
+    "Create new ad with new_ad_primary (20-30 TON, CPM ~4-5)"
+  ]
 }

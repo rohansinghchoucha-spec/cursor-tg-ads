@@ -1,12 +1,12 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (CORRECTION: china-pay lane converted — 1 Bihar deal)  
+**Last updated:** 2026-08-20 (NEXT Primary 8 live-audited — zero overlap expansion)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
 - Audit of activation: `bc-fe52cbc5-8e0f-5e18-9b5e-2d0d15df195e`
 
-**Access note:** Ads login OK (2026-08-11). Per-channel joins still unavailable in TG Ads UI. Delivery proxy = spy share + live audits.
+**Access note:** Ads login OK (2026-08-20, phone `+447436763940`). Per-channel joins still unavailable in TG Ads UI. Delivery proxy = spy share + live audits. Account balance ~€0.29 — **top-up required** before restart/new ad.
 
 Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recommend → baad me drop wala gyan yahan locked hai.
 
@@ -19,8 +19,8 @@ Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recomme
 | Brand | Nexa Desk Pay |
 | Destination | `t.me/safepathdeals` |
 | Support | `@BussinessMen0`, `@nexadeskrates` |
-| Audience | Indian USDT **sellers** who already hold USDT and want INR cashout (OTC/P2P inventory). NOT China-pay app order-takers / login-support seekers. |
-| Avoid | China-pay **app worker** channels (LinkPay/Diwa/Hoyo/Alex/Showpay order-takers), famous crypto, flash USDT, forex, loot/rummy |
+| Audience | Indian USDT **sellers / holders** with meaningful balance who want INR cashout. China-pay / gaming lane **allowed** (proven convert 2026-08-20); prefer AGENT/settlement/OTC over pure login-help workers. |
+| Avoid | Famous crypto education, flash USDT, forex/prop (buy-side), inflated mega gaming/lottery, loot/rummy as primary |
 | Creative (working) | `We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate` + Nexa Desk Pay photo |
 | Typical CPM | ~4.00 TON (quality ok; cheap CPM pehle fail hua) |
 | Budget band | 20–30 TON tests |
@@ -95,14 +95,14 @@ Pehle FINAL / Tier A recommend → baad me band: views high, joins/sellers weak.
 
 ---
 
-## 2) Current RUNNING campaign (8-channel test) — KEEP running
+## 2) Current RUNNING campaign (8-channel test) — EXHAUSTED / pause candidate
 
 **Ad:** “8 channel testing”  
-**Status (as of ~2026-08-09):** Active  
-**CPM:** 4.00 TON | **Budget:** 30 TON | Daily views/user: 1  
-**Results snapshot (2026-08-11 Ads login):** Views **3,177** | Clicks **285** (~9% CTR) | Actions **48** | Budget left **€17.29** | CPM €4.00 | CPA ~€0.26 → **joins strong**  
-**Earlier snapshot (Aug 9):** Views ~1,967 | Clicks ~159 | Actions ~26 | Left ~22 TON  
-**Destination:** `@safepathdeals` ~**71** members (Aug 11). Real KPI = seller DMs/deals (user: joins aa rahe, seller msgs kam).  
+**Status (2026-08-20):** Active but **audience saturated** — ~71 views/day (was ~557). Budget left ~₲4.27. **Pause/stop after top-up plan** so spend shifts to proven + next set.  
+**CPM:** ~4–5 | **Budget:** 30 TON  
+**Results (2026-08-20):** Views **6,301** | Clicks **541** | Joins **98**  
+**Earlier (2026-08-11):** Views 3,177 | Clicks 285 | Actions 48 | Left €17.29  
+**Destination:** `@safepathdeals`. Real KPI = converting seller DMs/deals (cost per converting seller).  
 **Ads note:** Telegram Ads me per-channel joins breakdown **nahi** milta — sirf aggregate + target channel list.
 
 | # | Handle | Live (2026-08-09) | Delivery share proxy |
@@ -260,36 +260,26 @@ Update date stamp at top whenever this file changes.
 - Next ad = Primary 8 + extras (`upaywalle_mahagames`, `team_11_dream01`, `atgofficiale`, `erupeetradingofficialchannel`, `t_zkpay_999pay`, `alexpay_channel`) — loot/forex mix hatao.
 
 
-## 10) Live ads (2026-08-14)
+## 10) Live ads (2026-08-20 refresh)
 
-- **Running (untouched):** `8 channel testing` — Active
-- **NEW created:** `8 new china pay` — In Review; channels = Primary 8; CPM 4; budget set **3.00** only (account balance ~3.29). **Top up TON then raise budget 20–30.**
+- **`8 channel testing`:** Active but **exhausted** (~71 views/day, ₲4.27 left) — pause after top-up.
+- **`8 new china pay`:** Stopped — budget depleted; **91 joins / 1 Bihar convert** → **RESTART** after top-up (proven set).
+- **`7`:** On Hold — UltraPay-only, weak.
+- **Account:** ~€0.29 — **top up pehle**.
+- **NEXT new ad channels:** see §13 Primary 8 (zero overlap).
 
 
-## 11) HARD LESSON — LinkPay / China-pay app workers (2026-08-16)
+## 11) HARD LESSON — LinkPay junk DMs (2026-08-16) → later CORRECTED (§12)
 
-User reported: leads DM/call saying **"login nahi ho raha"**, claim they came from **LinkPay group**. Wrong audience.
+User reported: leads DM/call saying **"login nahi ho raha"**, claim they came from **LinkPay group**.
 
-### Galat audience (STOP targeting)
-China-pay / game-pay **APP channels** where posts are: orders, commission %, recharge, register, UPI bind, deposit rewards, "how to buy/sell in app", task notice.
-These people are **app order-takers** — they need app login help or USDT to *deposit into the app*. They are NOT desk sellers cashing out USDT→INR.
+### Initial (over-corrected) read
+China-pay APP channels = order-takers needing login help → paused `8 new china pay`.
 
-**DROP as primary (app-worker lane):**
-`@linkpay8`, `@diwapay`, `@hoyopay`, `@alexpay_channel`, `@upaywalle_mahagames`, `@showpayindia`, `@atgpay_iop`, `@wiseway_payment`, `@linkxwalletnow`, `@wallet_999pay`, `@uupay_captain`, `@base_pay`, `@loots_pay`, `@txtpayz`, `@skypay_payment_backup_01`, `@quickcashwins`, and similar *Pay / Wallet / Gateway official* channels.
+### Corrected read (§12)
+Junk DMs OK if **cost-per-converting-seller** works. Same ad later produced **1 Bihar converting seller**. Lane **re-enabled**.
 
-### Sahi audience (KEEP hunting)
-People who **already hold USDT** and want to **sell for INR** to a desk:
-- Live OTC / P2P seller desks (not inflated mega)
-- Freelancers/export paid in USDT (scarce TG)
-- Traders cashing out inventory
-- NOT "login/recharge/order" app communities
-
-### Action taken 2026-08-16
-- Ad **`8 new china pay` → On Hold** (paused; was driving LinkPay-type leads)
-- Ad **`8 channel testing`** still Active — contains same China-pay style channels; review/pause if same junk DMs continue
-
-### Next ads rule
-Spy pe "competitors advertise USDT rate on Diwa/LinkX" ≠ sahi seller audience. Competitors often hunt **app depositors / order agents**. Humara offer **We Buy USDT** hai — unse opposite/confused intent.
+**Filter, don't kill:** creative + pin ("Sirf USDT sell. Amount + network") — targeting alone can't remove all junk.
 
 
 ## 12) CORRECTION (2026-08-20) — china-pay lane DID convert
@@ -317,3 +307,57 @@ Reality (Ads dashboard, 20 Aug):
 ### Ops
 - Junk DM ko 1-line reply se filter: "Sirf USDT sell. Amount + network batao."
 - Rate/size gate creative me: bigger sellers self-select.
+
+---
+
+## 13) NEXT AD Primary 8 — live audited 2026-08-20 (ZERO overlap)
+
+**Rule:** Proven `8 new china pay` channels + old `8 channel testing` channels **dono me se koi nahi** — waste overlap nahi.
+
+**Angles mixed (broader than same China-pay set):**
+- AGENT / settlement / account-supplier
+- Live USDT rate desk / UltraPay family
+- P2P + OTC seller desks
+- India payment gateway / Bharat service cohort
+
+### Primary 8 (naya ad — yehi lagao after top-up)
+
+| # | Handle | Live avg views | Angle | Why |
+|---|---|---|---|---|
+| 1 | `@u8payindia` | ~7.8k | AGENT | Hottest China–India pay / settlement; top views |
+| 2 | `@bharatservice1` | ~2.8k | MIX | Bharat Service / xWallet rewards cohort |
+| 3 | `@ultra_pay0_family` | ~1.9k | SELLER | **Live USDT price** posts — closest seller intent |
+| 4 | `@indiapayments_okpayen` | ~1.4k | GATEWAY | India/PK/PH payment gateway holders |
+| 5 | `@Lm_P2P` | ~1.4k | SELLER | P2P DEX rates — watch noise |
+| 6 | `@bestpay` | ~1.0k | AGENT | BestPay India payment corp / corporate accounts |
+| 7 | `@usdt_buyer_crypto_cr` | ~0.96k | SELLER | OTC USDT buyer/seller desk survivor |
+| 8 | `@sharkpaypayment` | ~0.7k | AGENT | Sharkpay India game-pay co (2020+) |
+
+### Backup / swap (reject ya weak delivery)
+
+| Handle | Avg views | Note |
+|---|---|---|
+| `@magicpay_168gns` | ~3.5k | **Strong views but ~910 subs** — ads may reject &lt;1k |
+| `@ultrapay_official` | ~780 | UltraPay gateway official |
+| `@goldpay666888` | ~605 | China–India game agent / MQR accounts |
+| `@xpay0088` | ~661 | Needs Indian accounts list |
+| `@gnspay_upi` | ~576 | GNS gaming funds / MQR need |
+| `@jaypay_8` | ~587 | Small VIP pay test |
+| `@team_11_dream01` | ~629 | SHORT Pay token (more depositor lean) |
+| `@lgpay_official` | ~642 | LG Pay app — mid |
+| `@mobiuspayofficial1` | ~470 | Mobius exchange rewards |
+| `@atgofficiale` | ~518 | ATG deposit incentives |
+| `@Ez_india` | ~361 | Weaker than Aug-9 audit |
+
+### Explicit SKIP this wave
+- Proven 8 + Running 8 — **no re-target**
+- `@hoyopay` / `@wallet_999pay` — still DROP as primary (login-complaint cluster)
+- `@ygpay123` — dead / no public preview
+- Famous crypto / forex / loot — still DROP
+- `@erupeetradingofficialchannel` — ~57 views deadish
+
+### Ops after top-up (priority order)
+1. **Restart** proven ad `8 new china pay` (same 8) — already converted.
+2. **Pause** exhausted `8 channel testing`.
+3. **Create** new ad with THIS Primary 8 — CPM ~4–5, budget 20–30 TON.
+4. Creative same; pin: sellers-only + amount + network.

@@ -117,9 +117,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "jaypay_8": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "backup"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "atg_india": {
       "status": "KEEP",
@@ -132,9 +132,9 @@
       "note": "~250 views weak"
     },
     "Ez_india": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "weaker ~361 views Aug20"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "usdt_buyer_crypto_cr": {
       "status": "WATCH",
@@ -522,9 +522,9 @@
       "note": "Flash spam"
     },
     "ultrapay_official": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "Top backup ~987 med live"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "quickpayoffical1": {
       "status": "TEST",
@@ -532,14 +532,14 @@
       "note": "QuickPay India official ~350 med live"
     },
     "sharkpaypayment": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "gaming_fund_agent",
-      "note": "2026-08-20: live med~617; India games payment Cr volume"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "gnspay_upi": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "gaming_fund",
-      "note": "2026-08-20 betting hunt: live med~563; posts need USDT exchangers + pure game fund rate — Wave3 keep"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "wiseway_payment": {
       "status": "PROVEN",
@@ -547,9 +547,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "xpay0088": {
-      "status": "NEW_AD",
+      "status": "RUNNING_TEST",
       "lane": "agent_accounts",
-      "note": "2026-08-20 Primary #6 upgrade; Indian account supplier ~1.2k med views"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "tivrapay": {
       "status": "DROP",
@@ -607,14 +607,14 @@
       "note": "Persona A Aug11; Aug20 live med~64 collapsed — skip"
     },
     "t_zkpay_999pay": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "gaming_fund",
-      "note": "2026-08-20: live med~463 ZkPay; backup worker/deposit"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "mobiuspayofficial1": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "backup"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "alexpay_channel": {
       "status": "PROVEN",
@@ -677,9 +677,9 @@
       "note": "161d stale — skip until revived"
     },
     "MeteorpayEliteChannel00011": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay_agent",
-      "note": "MeteorPay elite migrate; ~2.9k med views; earn/task lean"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "rhinopaymentchannel666666": {
       "status": "DEAD",
@@ -687,9 +687,9 @@
       "note": "Discontinued → MeteorpayEliteChannel00011"
     },
     "ddpay9999": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay_worker",
-      "note": "High views Hindi DDPay; worker/sell-order lean backup"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "wisewayamina": {
       "status": "DROP",
@@ -797,9 +797,9 @@
       "note": "2026-08-21: OTC disputes — skip this 10+10 for scam filter"
     },
     "mobiuspe0": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "MobiusPe app community ~3.3k med; junk+seller mix like LinkPay"
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "Mobiuspe0": {
       "status": "TEST",
@@ -807,14 +807,14 @@
       "note": "Alias mobiuspe0"
     },
     "wb_pay": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "WBPay News ~6.3k med~682"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "world_bank_payment_company": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "WBPay USDT→INR ~1.5k med~503"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "cryptoto_inr": {
       "status": "TEST",
@@ -827,9 +827,9 @@
       "note": "Js network ~672 med"
     },
     "linkpay888jack": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "Linkpay tokens ~988 med"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "cryptomasterr91": {
       "status": "WATCH",
@@ -897,9 +897,9 @@
       "note": "Hawala USDT dealer — policy/legal risk skip ads"
     },
     "mvpay9526": {
-      "status": "NEW_AD",
+      "status": "RUNNING_TEST",
       "lane": "agent_corporate",
-      "note": "MVpay bank/MQR accounts; daily 10L–1Cr USDT→INR demand; med~1.8k"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "quickpaynetwor": {
       "status": "DROP",
@@ -942,9 +942,9 @@
       "note": "Cloudpayment corp — restricted"
     },
     "pay0000012": {
-      "status": "TEST",
+      "status": "RUNNING_TEST",
       "lane": "allpay_agent_mqr",
-      "note": "Wave4 #1 2026-08-20: ALLpay live med~896; JK/MQR needs + Chinese USDT trading partner posts"
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "DracoDeall": {
       "status": "TEST",
@@ -1290,11 +1290,10 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Top up Ads",
-    "Leave 8 channel testing running (no overlap)",
-    "Create Ad A agent 10 TON + Ad B china-apps 10 TON",
-    "Creative UPI120 Bank115",
-    "Do not use Lm_P2P / bedane / bharatservice1 / ultra_pay0_family (dukhdha/scam risk)"
+    "Wait Telegram review approve for agent settlement 10 + china apps 10",
+    "Leave 8 channel testing running unless you want pause",
+    "Top up when balance low (~€3.29 left)",
+    "Track converting seller DMs not only joins"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1645,5 +1644,47 @@
         "showpayindia"
       ]
     }
+  },
+  "ads_snapshot_2026_08_21": {
+    "balance_eur_after": 3.29,
+    "ad_a": {
+      "title": "agent settlement 10",
+      "budget_ton": 10,
+      "cpm_ton": 4.5,
+      "status": "In Review",
+      "channels": [
+        "mvpay9526",
+        "pay0000012",
+        "xpay0088",
+        "sharkpaypayment",
+        "gnspay_upi",
+        "wb_pay",
+        "world_bank_payment_company",
+        "linkpay888jack"
+      ],
+      "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate"
+    },
+    "ad_b": {
+      "title": "china apps 10",
+      "budget_ton": 10,
+      "cpm_ton": 4.5,
+      "status": "In Review",
+      "channels": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ],
+      "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate"
+    },
+    "left_untouched": [
+      "8 channel testing Active",
+      "old china Stopped"
+    ],
+    "destination": "t.me/safepathdeals"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20",
+  "updated_at": "2026-08-21",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -192,9 +192,9 @@
       "note": "Now >=1k subs; med ~420 — small backup"
     },
     "ultra_pay0_family": {
-      "status": "NEW_AD",
+      "status": "WATCH",
       "lane": "seller_rate_desk",
-      "note": "Primary; live USDT price"
+      "note": "2026-08-21: investment VIP copy — prefer ultrapay_official"
     },
     "cocopayplus": {
       "status": "WATCH",
@@ -627,9 +627,9 @@
       "note": "2026-08-20 final scan: 203d stale despite high views"
     },
     "Lm_P2P": {
-      "status": "NEW_AD",
+      "status": "DROP",
       "lane": "otc_p2p",
-      "note": "Primary Angle2"
+      "note": "2026-08-21: beware-scammers P2P — dukhdha risk, skip ads"
     },
     "infinityforexchannel": {
       "status": "DROP",
@@ -657,9 +657,9 @@
       "note": "prop promo"
     },
     "bharatservice1": {
-      "status": "NEW_AD",
+      "status": "WATCH",
       "lane": "mix_bharat",
-      "note": "Primary; ~2.3k med"
+      "note": "2026-08-21: TrustPay/Float funnel — junk dukhdha risk"
     },
     "indiapayments_okpayen": {
       "status": "DROP",
@@ -792,9 +792,9 @@
       "note": "Preview restricted Laxmi community"
     },
     "bedane_official": {
-      "status": "NEW_AD",
+      "status": "WATCH",
       "lane": "otc_converter",
-      "note": "OTC app; \"have USDT to sell\"; ~1.8k subs med~1.3k; newbie convert lane"
+      "note": "2026-08-21: OTC disputes — skip this 10+10 for scam filter"
     },
     "mobiuspe0": {
       "status": "TEST",
@@ -1130,35 +1130,24 @@
     "Update this file + CHANNEL_RESEARCH.md after every research/campaign result"
   ],
   "new_ad_primary": [
-    "mobiuspe0",
-    "MeteorpayEliteChannel00011",
-    "bharatservice1",
-    "ultra_pay0_family",
     "mvpay9526",
-    "ddpay9999",
-    "Lm_P2P",
-    "bedane_official"
+    "pay0000012",
+    "xpay0088",
+    "sharkpaypayment",
+    "gnspay_upi",
+    "wb_pay",
+    "world_bank_payment_company",
+    "linkpay888jack"
   ],
   "new_ad_backup": [
-    "ultrapay_official",
+    "mobiuspe0",
     "MeteorpayEliteChannel00011",
     "ddpay9999",
-    "sharkpaypayment",
-    "magicpay_168gns",
+    "ultrapay_official",
     "jaypay_8",
-    "turbodeal100",
-    "gnspay_upi",
-    "goldpay666888",
-    "lgpay_official",
     "mobiuspayofficial1",
-    "team_11_dream01",
-    "atgofficiale",
     "Ez_india",
-    "mmoney_official2",
-    "showxpay",
-    "bhaartpay",
-    "t_zkpay_999pay",
-    "quickpayoffical1"
+    "t_zkpay_999pay"
   ],
   "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
   "seller_personas_2026_08": [
@@ -1301,11 +1290,11 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Top up Ads balance",
-    "Pause exhausted 8 channel testing",
-    "Create Ad A proven 10 TON (final_run ad_a)",
-    "Create Ad B expansion 10 TON (final_run ad_b)",
-    "Creative: We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate"
+    "Top up Ads",
+    "Leave 8 channel testing running (no overlap)",
+    "Create Ad A agent 10 TON + Ad B china-apps 10 TON",
+    "Creative UPI120 Bank115",
+    "Do not use Lm_P2P / bedane / bharatservice1 / ultra_pay0_family (dukhdha/scam risk)"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1595,5 +1584,66 @@
       "floatpayme88",
       "trustpayme88"
     ]
+  },
+  "final_run_10_10_ton_2026_08_21": {
+    "total_budget_ton": 20,
+    "cpm_ton": "4-5",
+    "destination": "t.me/safepathdeals",
+    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+    "rules": [
+      "do_not_touch_running_8_channel_testing",
+      "do_not_reuse_proven_china_8_in_this_pair",
+      "skip_scam_dukhdha_channels"
+    ],
+    "ad_a_agent_10ton": [
+      "mvpay9526",
+      "pay0000012",
+      "xpay0088",
+      "sharkpaypayment",
+      "gnspay_upi",
+      "wb_pay",
+      "world_bank_payment_company",
+      "linkpay888jack"
+    ],
+    "ad_b_china_apps_10ton": [
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "ddpay9999",
+      "ultrapay_official",
+      "jaypay_8",
+      "mobiuspayofficial1",
+      "Ez_india",
+      "t_zkpay_999pay"
+    ],
+    "excluded_scam_dukhdha": [
+      "Lm_P2P",
+      "bedane_official",
+      "bharatservice1",
+      "ultra_pay0_family",
+      "DracoDeall",
+      "SuperDeall776"
+    ],
+    "excluded_overlap": {
+      "running": [
+        "uupay_captain",
+        "quickcashwins",
+        "loots_pay",
+        "txtpayz",
+        "base_pay",
+        "usdt_buy_seller_binance_p2p",
+        "skypay_payment_backup_01",
+        "kunal_loots"
+      ],
+      "proven_china": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ]
+    }
   }
 }

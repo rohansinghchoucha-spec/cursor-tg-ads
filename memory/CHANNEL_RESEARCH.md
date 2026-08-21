@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-20 (FINAL 10+10 TON ads — quality scan)  
+**Last updated:** 2026-08-21 (FINAL 10+10 — no overlap running; scam-filter)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -725,3 +725,54 @@ Competitor “sell USDT” placements Stake megas pe concentrated **nahi** mile;
 ### Split vs §20 local betting
 - **Local Indian betting/rummy money** → gaming-fund settlement channels (§20)  
 - **Global crypto casino (Stake-class)** → official TG = codes; sellers → **USDT→INR desks** after withdraw
+
+---
+
+## 23) FINAL RUN — 20 TON = two ads × 10 TON (2026-08-21 scam-filter refresh)
+
+**Rules this pick:**
+1. Jo abhi **chal raha** (`8 channel testing` old 8) → **mat chhedo**, overlap mat karo  
+2. Proven `8 new china pay` set → is 10+10 me **dobara mat daalo** (pehle burn / alag restart later)  
+3. Research pool se best; **scam / dukhdha** channels skip (P2P “beware scammers”, OTC dispute desks, earn-app complaint funnels, investment-VIP copy)
+
+**Creative:** `We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate`  
+Dest: `t.me/safepathdeals` · CPM ~4–5 · Pin: `Sirf USDT sell. Amount + network. App login/support nahi.`
+
+### Ad A — 10 TON — AGENT / settlement (kam dukhdha — B2B exchangers)
+| # | Handle | Kyu |
+|---|---|---|
+| 1 | `@mvpay9526` | USDT→INR exchange teams 10L–1Cr daily recruit |
+| 2 | `@pay0000012` | ALLpay — USDT trading partner + MQR (live) |
+| 3 | `@xpay0088` | Indian account / settlement agent board |
+| 4 | `@sharkpaypayment` | India game-pay co, Cr volume language |
+| 5 | `@gnspay_upi` | Posts **need USDT exchangers** + game fund |
+| 6 | `@wb_pay` | WBPay news — USDT/INR pay cohort |
+| 7 | `@world_bank_payment_company` | WBPay USDT→INR exchange desk |
+| 8 | `@linkpay888jack` | Linkpay buy/sell tokens — live, not proven-8 handle |
+
+### Ad B — 10 TON — China official apps (naye vs proven-8; holders)
+| # | Handle | Kyu |
+|---|---|---|
+| 1 | `@mobiuspe0` | MobiusPe official; med~3.3k live |
+| 2 | `@MeteorpayEliteChannel00011` | MeteorPay elite; anti-fraud pin = cleaner ops |
+| 3 | `@ddpay9999` | DDPay Hindi/live sell flow |
+| 4 | `@ultrapay_official` | UltraPay official (≠ thin `ultra_pay0_family`) |
+| 5 | `@jaypay_8` | Jay pay VIP official |
+| 6 | `@mobiuspayofficial1` | Mobius exchange sister |
+| 7 | `@Ez_india` | EZPay — explicit USDT→INR + fund rates |
+| 8 | `@t_zkpay_999pay` | ZkPay official gaming-fund / USDT |
+
+**Ad B swap (agar reject):** `@network_public` · `@Lgpay_official` (junk lean — last resort)
+
+### Explicit HATA is round (scam / dukhdha / overlap)
+- RUNNING 8: `uupay_captain` … `kunal_loots` — chalne do  
+- PROVEN 8: `diwapay` … `showpayindia` — is pair me nahi  
+- `@Lm_P2P` — khud “beware scammers” · dukhdha risk  
+- `@bedane_official` — OTC dispute / complaint lane  
+- `@bharatservice1` / `@ultra_pay0_family` — TrustPay/Float / “investment VIP” dukhdha  
+- `@DracoDeall` / deal clones / `&lt;1k` float-trust / Stake megas / famous edu  
+
+### Ops
+1. Top-up  
+2. Purana `8 channel testing` **chalne do** (pause mat unless khud chaho)  
+3. Naye **Ad A + Ad B** 10–10 TON create — zero overlap running + proven

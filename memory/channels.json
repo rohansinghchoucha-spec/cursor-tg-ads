@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21",
+  "updated_at": "2026-08-28",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -1290,10 +1290,12 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Wait Telegram review approve for agent settlement 10 + china apps 10",
-    "Leave 8 channel testing running unless you want pause",
-    "Top up when balance low (~€3.29 left)",
-    "Track converting seller DMs not only joins"
+    "Deposit ~$130 (~92 TON)",
+    "Pause 8 channel testing",
+    "Restart 8 new china pay with ~40 TON",
+    "Restart china apps 10 with ~30 TON + channel swaps",
+    "Do not heavy-refill agent settlement 10",
+    "Defer brand-new Wave C until winners spend"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1686,5 +1688,89 @@
       "old china Stopped"
     ],
     "destination": "t.me/safepathdeals"
+  },
+  "ads_snapshot_2026_08_28": {
+    "balance_ton": 0.29,
+    "ton_usd_approx": 1.41,
+    "usd_130_approx_ton": 92,
+    "ads": {
+      "8 new china pay": {
+        "status": "Stopped",
+        "views": 8933,
+        "clicks": 751,
+        "joins": 154,
+        "cpm": 5.0,
+        "budget_left": 0,
+        "verdict": "BEST_VOLUME_proven_convert"
+      },
+      "china apps 10": {
+        "status": "Stopped",
+        "views": 4446,
+        "clicks": 558,
+        "joins": 86,
+        "cpm": 4.5,
+        "budget_left": 0,
+        "verdict": "BEST_CTR_CPA"
+      },
+      "8 channel testing": {
+        "status": "Active",
+        "views": 7846,
+        "clicks": 645,
+        "joins": 117,
+        "cpm": 6.0,
+        "budget_left": 5.93,
+        "verdict": "EXHAUSTED_PAUSE"
+      },
+      "agent settlement 10": {
+        "status": "Active",
+        "views": 3105,
+        "clicks": 111,
+        "joins": 20,
+        "cpm": 4.5,
+        "budget_left": 6.05,
+        "verdict": "WEAK_CTR_low_priority"
+      },
+      "7": {
+        "status": "On Hold",
+        "views": 171,
+        "clicks": 42,
+        "joins": 7,
+        "budget_left": 3.66
+      }
+    }
+  },
+  "plan_130_usd_2026_08_28": {
+    "pause": [
+      "8 channel testing"
+    ],
+    "restart_primary": {
+      "ad": "8 new china pay",
+      "ton": 40
+    },
+    "restart_secondary": {
+      "ad": "china apps 10",
+      "ton": 30,
+      "keep": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "jaypay_8",
+        "t_zkpay_999pay"
+      ],
+      "swap_out": [
+        "ultrapay_official",
+        "mobiuspayofficial1",
+        "Ez_india"
+      ],
+      "swap_in": [
+        "linkpay888jack",
+        "pay0000012",
+        "mvpay9526"
+      ]
+    },
+    "agent_settlement": "do_not_heavy_refill; finish remaining or max 10 TON",
+    "new_wave": "defer until winners running",
+    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+    "cpm": "4.5-5"
   }
 }

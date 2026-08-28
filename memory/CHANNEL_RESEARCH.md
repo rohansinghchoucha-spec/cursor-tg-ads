@@ -776,3 +776,60 @@ Dest: `t.me/safepathdeals` · CPM ~4–5 · Pin: `Sirf USDT sell. Amount + netwo
 1. Top-up  
 2. Purana `8 channel testing` **chalne do** (pause mat unless khud chaho)  
 3. Naye **Ad A + Ad B** 10–10 TON create — zero overlap running + proven
+
+---
+
+## 24) LIVE create log (2026-08-21)
+
+Created on Ads: **`agent settlement 10`** + **`china apps 10`** (10 TON each, CPM 4.50, creative UPI ₹120 / Bank ₹115 → `safepathdeals`). Both went In Review then Active. Screenshots: `/opt/cursor/artifacts/telegram-ads-2026-08-21/`.
+
+---
+
+## 25) Performance audit 2026-08-28 + $130 top-up plan
+
+Account balance ~**0.29 TON**. Screenshots: `/opt/cursor/artifacts/telegram-ads-audit-2026-08-28/`.  
+TON ~$1.41 → **$130 ≈ ~92 TON**.
+
+### Dashboard (Aug 28)
+
+| Ad | Status | Views | Clicks | Joins | CTR | Join% | ~TON/join | Budget left |
+|---|---|---|---|---|---|---|---|---|
+| **8 new china pay** | Stopped (spent) | 8,933 | 751 | **154** | 8.4% | 1.72% | ~0.27 | 0 |
+| **china apps 10** | Stopped (spent) | 4,446 | 558 | **86** | **12.6%** | **1.93%** | **~0.23** | 0 |
+| **8 channel testing** | Active (dribble) | 7,846 | 645 | 117 | 8.2% | 1.49% | ~0.29 | ~5.9 |
+| **agent settlement 10** | Active | 3,105 | 111 | 20 | **3.6%** | **0.64%** | **~0.70** | ~6.0 |
+| **7** | On Hold | 171 | 42 | 7 | — | — | — | ~3.7 |
+
+**Verdict:** Leads/joins **aa rahe the** — especially **china apps** (best efficiency) + **8 new china pay** (best volume + pehle converting seller). Ab dono budget khatam; sirf weak/exhausted ads dribble kar rahe.
+
+### Channel health (live Aug 28)
+- **Still strong:** diwapay, linkpay8, MeteorpayElite, wiseway, alexpay, atgpay, mobiuspe0, ddpay9999, jaypay_8, linkpay888jack, mvpay9526, pay0000012  
+- **Weak / demote:** xpay0088 (med~282), ultrapay_official (~388), mobiuspayofficial1 (~327), gnspay_upi (14d), world_bank (31d), Ez_india (16d)  
+- **Naya alag mega set zarurat nahi** — pehle winners refill; weak slots swap.
+
+### $130 (~92 TON) plan — CONTINUE winners, naya mat fail
+
+| # | Action | TON | Why |
+|---|---|---|---|
+| 1 | **Pause** `8 channel testing` | 0 | Exhausted lane — waste |
+| 2 | **Restart** `8 new china pay` (same 8) | **40** | Best volume + proven convert |
+| 3 | **Restart** `china apps 10` + light swaps | **30** | Best CTR/CPA |
+| 4 | `agent settlement` — **mat refill zyada**; remaining ~6 khatam hone do OR pause | **0–10** | Weak CTR; optional 10 TON max with swaps |
+| 5 | Optional small **NEW test** (sirf agar diversity chahiye) | **15** | See Wave C below |
+| 6 | Buffer / CPM float | ~7–17 | Account me rakho |
+
+**Creative:** same seller line `We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate` (rate update only if market moved). CPM ~4.5–5.
+
+### china apps — keep + swaps (scam-filter)
+**Keep:** `@mobiuspe0` `@MeteorpayEliteChannel00011` `@ddpay9999` `@jaypay_8` `@t_zkpay_999pay`  
+**Swap out:** `@ultrapay_official` `@mobiuspayofficial1` `@Ez_india`  
+**Swap in:** `@linkpay888jack` `@pay0000012` `@mvpay9526`  
+(agent set se strong live handles — agent ad weak hai to unko china-apps efficiency pe shift)
+
+### Wave C optional 15 TON (zero overlap with china-pay 8 + testing 8)
+Only if step 5: `@bharatservice1` `@wb_pay` `@sharkpaypayment` `@wiseway_payment`-already in china pay skip — use `@COME_Channel_0` WATCH only / `@Lgpay_official` weak skip.  
+Safer Wave C: `@bharatservice1` `@wb_pay` `@sharkpaypayment` `@linkpay888jack` (if not in china apps) `@pay0000012` `@mvpay9526` `@MeteorpayElite…` — overlap risk.  
+**Recommend:** pehle $130 me Wave C mat banao — **40+30 winners** pehle; leftover se baad me.
+
+### Explicit skip still
+Famous edu · deal clones · Lm_P2P/bedane dukhdha · Stake megas · vvipEzpay (&lt;200) · showxpay weak ratio.

@@ -1290,12 +1290,10 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Deposit ~$130 (~92 TON)",
-    "Pause 8 channel testing",
-    "Restart 8 new china pay with ~40 TON",
-    "Restart china apps 10 with ~30 TON + channel swaps",
-    "Do not heavy-refill agent settlement 10",
-    "Defer brand-new Wave C until winners spend"
+    "Monitor 8 new china pay + china apps 10 delivery/joins/seller DMs",
+    "Do not refill agent settlement unless converting sellers appear",
+    "Keep 8 channel testing On Hold",
+    "Top up again when winners near zero"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1772,5 +1770,30 @@
     "new_wave": "defer until winners running",
     "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
     "cpm": "4.5-5"
+  },
+  "ads_resume_2026_08_28": {
+    "balance_in_ton": 60.29,
+    "balance_after_ton": 0.29,
+    "no_new_ads": true,
+    "actions": {
+      "8 new china pay": {
+        "add_ton": 35,
+        "status": "Active"
+      },
+      "china apps 10": {
+        "add_ton": 25,
+        "status": "Active"
+      },
+      "8 channel testing": {
+        "status": "On Hold",
+        "note": "paused exhausted"
+      },
+      "agent settlement 10": {
+        "status": "Active untouched"
+      },
+      "7": {
+        "status": "On Hold untouched"
+      }
+    }
   }
 }

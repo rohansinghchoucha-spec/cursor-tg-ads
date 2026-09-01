@@ -833,3 +833,19 @@ Safer Wave C: `@bharatservice1` `@wb_pay` `@sharkpaypayment` `@linkpay888jack` (
 
 ### Explicit skip still
 Famous edu · deal clones · Lm_P2P/bedane dukhdha · Stake megas · vvipEzpay (&lt;200) · showxpay weak ratio.
+
+---
+
+## 27) Performance 2026-09-01 — user On Hold; top-up + channel join list
+
+Balance **0.29 TON**. Koi ad Active nahi — user ne hold kiya / china apps budget 0.
+
+| Ad | Status | Views | Clicks | Joins | Spent | Left | TON/join |
+|---|---|---|---|---|---|---|---|
+| china apps 10 | Stopped | 10,005 | 2,109 | 105 | 45 | 0 | 0.43 |
+| **8 new china pay** | On Hold | 12,331 | 1,025 | **205** | 58 | **18** | **0.28** |
+| agent settlement 10 | On Hold | 3,854 | 142 | 26 | 17 | 2.7 | 0.67 |
+| 8 channel testing | On Hold | 8,830 | 693 | 131 | 40 | 0 | 0.31 |
+| 7 | On Hold | 171 | 42 | 7 | 0.3 | 3.7 | — |
+
+**Top-up plan (~50 TON):** china apps **+35** + Activate; china pay **+15** + Activate (already 18 left). Agent/testing/7 hold. Screenshots: `/opt/cursor/artifacts/telegram-ads-audit-2026-09-01/`

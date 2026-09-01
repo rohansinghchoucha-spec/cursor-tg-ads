@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28",
+  "updated_at": "2026-09-01",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -1290,10 +1290,10 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Monitor 8 new china pay + china apps 10 delivery/joins/seller DMs",
-    "Do not refill agent settlement unless converting sellers appear",
-    "Keep 8 channel testing On Hold",
-    "Top up again when winners near zero"
+    "Deposit ~50 TON",
+    "Add 35 to china apps 10 + Activate",
+    "Add 15 to 8 new china pay + Activate (has 18 already)",
+    "Keep agent/testing/7 On Hold"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1794,6 +1794,116 @@
       "7": {
         "status": "On Hold untouched"
       }
+    }
+  },
+  "ads_snapshot_2026_09_01": {
+    "balance_ton": 0.29,
+    "all_on_hold_or_stopped": true,
+    "ads": {
+      "china apps 10": {
+        "status": "Stopped",
+        "views": 10005,
+        "clicks": 2109,
+        "joins": 105,
+        "spent": 45,
+        "left": 0,
+        "cpm": 4.5
+      },
+      "8 new china pay": {
+        "status": "On Hold",
+        "views": 12331,
+        "clicks": 1025,
+        "joins": 205,
+        "spent": 57.99,
+        "left": 18.01,
+        "cpm": 5.0
+      },
+      "agent settlement 10": {
+        "status": "On Hold",
+        "views": 3854,
+        "clicks": 142,
+        "joins": 26,
+        "spent": 17.34,
+        "left": 2.66,
+        "cpm": 4.5
+      },
+      "8 channel testing": {
+        "status": "On Hold",
+        "views": 8830,
+        "clicks": 693,
+        "joins": 131,
+        "spent": 39.98,
+        "left": 0.02,
+        "cpm": 6.0
+      },
+      "7": {
+        "status": "On Hold",
+        "views": 171,
+        "clicks": 42,
+        "joins": 7,
+        "spent": 0.35,
+        "left": 3.66,
+        "cpm": 3.0
+      }
+    },
+    "topup_plan_ton": {
+      "china apps 10": 35,
+      "8 new china pay": 15,
+      "total_deposit": 50,
+      "resume": [
+        "china apps 10",
+        "8 new china pay"
+      ],
+      "keep_hold": [
+        "agent settlement 10",
+        "8 channel testing",
+        "7"
+      ]
+    },
+    "channels_by_ad": {
+      "china apps 10": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ],
+      "8 new china pay": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ],
+      "agent settlement 10": [
+        "mvpay9526",
+        "pay0000012",
+        "xpay0088",
+        "sharkpaypayment",
+        "gnspay_upi",
+        "wb_pay",
+        "world_bank_payment_company",
+        "linkpay888jack"
+      ],
+      "8 channel testing": [
+        "uupay_captain",
+        "quickcashwins",
+        "loots_pay",
+        "txtpayz",
+        "base_pay",
+        "usdt_buy_seller_binance_p2p",
+        "skypay_payment_backup_01",
+        "kunal_loots"
+      ],
+      "7": [
+        "ultra_pay0_family"
+      ]
     }
   }
 }

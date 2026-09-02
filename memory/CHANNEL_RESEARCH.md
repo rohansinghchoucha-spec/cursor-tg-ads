@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 — Ads NOT created; 2 ready 8-packs for after top-up  
+**Last updated:** 2026-09-02 — China/whale re-audit: Ad1 upgraded; Ad2 optional; CPM mat badhao  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1029,22 +1029,9 @@ Live re-audit 11:50 UTC. Zero overlap with Active china-pay 8 + china-apps 8. Ex
 
 Dest: `t.me/safepathdeals` · CPM 4.50 · creative `We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate` · pin `Sirf USDT sell. Amount + network.`
 
-### Ad 1 — `china apps wave2` (same proven lane, naye apps = naye workers/holders)
+### Ad 1 — SUPERSEDED by §34 China wave2 (wallet_999pay / trustpaynow / hoyopay). Old mix me `team_11` stale + Draco/SuperDeall deal-clones — mat lagao.
 
-| # | Handle | Subs | Med | Stale |
-|---|---|---|---|---|
-| 1 | `@lgpay_official` | 10.7k | 431 | 0d |
-| 2 | `@mmoney_official2` | 5.6k | 697 | 0d |
-| 3 | `@atgofficiale` | 3.3k | 562 | 5d |
-| 4 | `@team_11_dream01` | 2.8k | 827 | 30d |
-| 5 | `@bhaartpay` | 2.4k | 315 | 0d |
-| 6 | `@DracoDeall` | 2.3k | 318 | 1d |
-| 7 | `@quickpayoffical1` | 1.8k | 249 | 0d |
-| 8 | `@SuperDeall776` | 1.3k | 363 | 0d |
-
-Swap: `@hoyopay_offical` (452/709, &lt;1k) · `@elitedealll` (887/199) · `@turbodeal100` (weak 81)
-
-### Ad 2 — `seller mix intl` (P2P board + OTC + Dubai + casino withdraw + game-fund) = **alag client type**
+### Ad 2 — `seller mix intl` — **optional later only** (NOT China-best, NOT 5k whale)
 
 | # | Handle | Subs | Med | Stale | Client |
 |---|---|---|---|---|---|
@@ -1063,7 +1050,87 @@ Swap: `@defiexplorero` (1.6k/143) · drop `qikcrypto` if delivery zero · `rspay
 Famous edu · movies/loot · agent settlement 8 · testing 8 · ad 7 · F2F/Dubai **groups** (restricted) · `usdt_buyer_crypto_cr` (galat side)
 
 ### Fund ke baad order
-1. Winners chalne do (refill if spent).
-2. Ad 1 15–20 TON → Ad 2 15–20 TON.
-3. Create tab jab TON account me ho.
+1. Winners chalne do (refill if spent). CPM mat badhao — dekho §34.
+2. Next naya ad = **§34 China wave2** (15–20 TON), purana Ad1 nahi.
+3. Ad 2 mix tabhi jab China wave2 convert kare. Create tab jab TON account me ho.
+
+---
+
+## 34) FINAL 2026-09-02 PM — China sellers + 5k whales + CPM (own-money)
+
+User saw: “ye 2 packs best hain kya? Chinese ko USDT sell + 5000U+ whales + purani list wapas + CPM badhau?”
+
+**Short:** Woh pehle wale 2 packs **dono best nahi**. Apna TON hota to **sirf China wave2** lagata. Ad2 mix **nahi**. Running ads ka CPM **abhi mat badhao**. 5k whale ka alag Ads-8 **exist nahi karta**.
+
+### A) Chinese ko USDT sell = kaun?
+
+India me Chinese payment apps (Diwa/LinkPay/Mobius/LG/MMoney/999PAY/TrustPay/ATG/Hoyo) pe log **USDT deposit** karke INR orders lete hain. Yahi lane pe converting Bihar seller aaya. Ticket mostly nano–mid; kabhi 1k–5k deposit (LG Pay bonus 5,000U tak). **Yahi “Chinese ko sell” audience hai** — OTC whale desk nahi.
+
+Jo **abhi best hai woh already Active hai** — unko mat chhedo, naye ad me **dobara mat daalo**:
+
+- china pay 8 @ CPM **5.00** — volume + proven convert
+- china apps 10 @ CPM **4.50** — best CTR/CPA (~12.6% / ~0.23 TON per join historically)
+
+### B) Purani list wapas — kya uthaya, kya mara
+
+Live re-audit ~12:00 UTC. Agent settlement 8 **phir fail-lane**: `@mvpay9526` `@xpay0088` `@sharkpaypayment` `@gnspay_upi` `@pay0000012` = bank-account/MQR mule recruit, USDT seller nahi. CTR 3.6% pehle se proven weak. **Dobara nahi.**
+
+Stale/wrong-side: `@u8payindia` 215d · `@bestpay` 101d · `@usdt_buyer_crypto_cr` galat side (woh USDT bech rahe) · `@Lm_P2P` dukhdha · `@showxpay` 21k/270 inflated · `@tivrapay` mega deposit product · `@incoinpay_999_pay_999pay` 12.6k/med73 inflated · `@atg_india` hijack Russian · `@wb_pay` West Bengal salary news.
+
+**Overturn (fresh live, same china-app lane as winners — Aug-16 DROP over-correction jaisi):**
+
+| Handle | Live | Why ab KEEP |
+|---|---|---|
+| `@wallet_999pay` | 26.5k / 455 / 0d | Official 999PAY; order-buy/USDT deposit. Ratio thin but views real. |
+| `@hoyopay` | 1.8k / **1700** / 9d | USDT deposit rewards — **not** tiny `@hoyopay_offical` |
+| `@trustpaynow` | 4.0k / **1900** / 2d | TrustPay official; 7-day volume tiers 10k–60k (volume, wallet size nahi) |
+
+### C) China wave2 — yeh 8 main khud lagata (zero overlap winners)
+
+Dest `t.me/safepathdeals` · CPM **4.50** (winners se match, 6+ nahi) · same creative + pin `Sirf USDT sell. Amount + network. App login nahi.`
+
+| # | Handle | Subs | Med | Stale | Kyu |
+|---|---|---|---|---|---|
+| 1 | `@wallet_999pay` | 26.5k | 455 | 0d | Biggest unused official china-app |
+| 2 | `@lgpay_official` | 10.7k | 431 | 0d | Deposit bonus **500–5,000U** — 5k holders yahi pe milenge |
+| 3 | `@mmoney_official2` | 5.6k | 697 | 0d | Live sell/withdraw cohort (`official3` ads-channel views 119 — skip) |
+| 4 | `@trustpaynow` | 4.0k | 1900 | 2d | Hottest unused TrustPay |
+| 5 | `@atgofficiale` | 3.3k | 562 | 5d | ATG official (`SuperDeall` clone skip — overlap) |
+| 6 | `@bhaartpay` | 2.4k | 315 | 0d | USDT recharge/withdraw live |
+| 7 | `@hoyopay` | 1.8k | 1700 | 9d | Strongest unused view-ratio |
+| 8 | `@quickpayoffical1` | 1.8k | 250 | 0d | Official QuickPay rate lane |
+
+**Hata diye pehle Ad1 se:** `@team_11_dream01` (30d stale ShortPay) · `@DracoDeall` / `@SuperDeall776` (Paisabase/ATG deal clones).
+
+Swap: `@CryptoMarketHubb` (1.3k/523 RS Wallet) · `@hoyopay_offical` mat — &lt;1k.
+
+### D) 5000U+ whales — seedha jawab
+
+Public Telegram Ads pe **whale-8 nahi mila**. `@indiausdt` `@inrusdt` `@institutionalotc` `@usdtindubai` `@usdtdealsinr` = preview-restricted groups. CEX P2P + WhatsApp pe volume hai.
+
+Jo “bulk” public channels hain (`@rspay6` `@mvpay9526` `@sharkpaypayment`) woh **account/mule recruit** hain — seller nahi. Agent ad pehle **3× mehnga join** de chuka.
+
+5k+ pakadne ka Ads tarika channels nahi, **filter** hai:
+
+- Running + China wave2 pe pin: `Min 500 USDT. 5000U+ welcome. Amount + network.`
+- LG Pay / TrustPay volume users already is lane me hain — naya “HNI set” invent mat karo.
+
+Ad2 mix (`rspay6` `bcgame` `cryptoto_inr` `DubaiOTCrates` `bedane` …) = **alag experiment**. `cryptoto_inr` posts $100–200. Dubai AED. Casino depositors. **Apna paisa pehle yahan nahi.** China wave2 convert kare tab sochna.
+
+### E) Running ads ka CPM — **abhi mat badhao**
+
+| Ad | CPM ab | History | Call |
+|---|---|---|---|
+| `8 new china pay` | **5.00** | Best volume + convert | **Rehne do.** 6–7 pe quality nahi badlegi, sirf mehnga. Purana testing @6.00 bhi junk/exhaust. |
+| `china apps 10` | **4.50** | Best CTR (12.6%) / cheapest join | **Rehne do** jab tak views/day healthy. Auction haar rahe ho (budget bacha + views gir) tab **4.50 → 5.00**. 5.50+ nahi. |
+| `agent settlement` | 4.50 | Weak CTR | CPM issue nahi tha — audience galat. **Refill zero.** |
+| Ad `7` | 3.00 | Dead | Cheap CPM fail — wapas mat.
+
+**Rule:** Extra TON = **budget refill** winners + China wave2, CPM bid-war nahi. CPM audience change nahi karta — same 16 channels pe mehnga view kharidta hai. Whales CPM se nahi aate.
+
+### F) Ops after TON (create still MAT until user bole)
+1. Winners Active rehne do. Spent hon to refill same CPM.
+2. China wave2 15–20 TON @ 4.50 — §34 C wala 8.
+3. Ad2 / agent / testing / movies / famous edu — nahi.
+4. Creative/pin pe min-size gate for 500/5000U.
 

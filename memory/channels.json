@@ -102,9 +102,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "wallet_999pay": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "READY_PACK",
+      "lane": "china_pay",
+      "note": "§34 China wave2 #1 — live 26.5k/455/0d overturns Aug-16 DROP (same over-correction as china-pay pause). Official 999PAY deposit/orders. Create after TON."
     },
     "linkxwalletnow": {
       "status": "PROVEN",
@@ -142,14 +142,14 @@
       "note": "They SELL USDT at 99-100 to buyers; 78d stale — not our sellers"
     },
     "hoyopay": {
-      "status": "DROP",
-      "lane": "china_pay_app_worker",
-      "note": "2026-08-16: app order-takers / login complaints — not desk sellers"
+      "status": "READY_PACK",
+      "lane": "china_pay",
+      "note": "§34 China wave2 #7 — live 1.8k/1700/9d overturns Aug-16 DROP. Use THIS not hoyopay_offical <1k. Create after TON."
     },
     "hoyopay_offical": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "Ad1 SWAP only — 452/709/1d but <1k Ads risk"
+      "note": "Skip — <1k; use hoyopay instead"
     },
     "showpayindia": {
       "status": "PROVEN",
@@ -174,7 +174,7 @@
     "atgofficiale": {
       "status": "READY_PACK",
       "lane": "china_pay",
-      "note": "Ad1 china apps wave2 #3 — 3.3k/562/5d live 2026-09-02. Create after TON."
+      "note": "§34 China wave2 #5 — 3.3k/562/5d ATG official. Create after TON."
     },
     "atgpay_iop": {
       "status": "PROVEN",
@@ -263,8 +263,8 @@
     },
     "showxpay": {
       "status": "DROP",
-      "lane": "weak_ratio",
-      "note": "21k subs / ~232 views — keep drop"
+      "lane": "china_pay",
+      "note": "2026-09-02 21.5k/270/23d inflated ratio — skip"
     },
     "DiwaPay": {
       "status": "DROP",
@@ -529,7 +529,7 @@
     "quickpayoffical1": {
       "status": "READY_PACK",
       "lane": "china_worker",
-      "note": "Ad1 china apps wave2 #7 — 1.8k/249/0d live 2026-09-02. Create after TON."
+      "note": "§34 China wave2 #8 — 1.8k/250/0d. Create after TON."
     },
     "sharkpaypayment": {
       "status": "RUNNING_TEST",
@@ -589,7 +589,7 @@
     "lgpay_official": {
       "status": "READY_PACK",
       "lane": "china_worker",
-      "note": "Ad1 china apps wave2 #1 — 10.7k/431/0d live 2026-09-02. Same proven china-app lane as winners. Create after TON."
+      "note": "§34 China wave2 #2 — 10.7k/431/0d. Deposit bonus 500–5000U. Create after TON."
     },
     "upaywalle_mahagames": {
       "status": "PROVEN",
@@ -597,9 +597,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "team_11_dream01": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "china_pay",
-      "note": "Ad1 china apps wave2 #4 — 2.8k/827/30d stale borderline. Create after TON; swap if Ads rejects."
+      "note": "§34 cut: 30d stale ShortPay — not in China wave2"
     },
     "erupeetradingofficialchannel": {
       "status": "DROP",
@@ -714,12 +714,12 @@
     "mmoney_official2": {
       "status": "READY_PACK",
       "lane": "china_worker",
-      "note": "Ad1 china apps wave2 #2 — 5.6k/697/0d live 2026-09-02. Create after TON."
+      "note": "§34 China wave2 #3 — 5.6k/697/0d. Prefer over mmoney_official3 (119 views). Create after TON."
     },
     "CryptoMarketHubb": {
-      "status": "TEST",
+      "status": "WATCH",
       "lane": "china_pay_carrier",
-      "note": "NOT true bulk HNI — RS Wallet/china-pay ads + beginner tips; ~3k med"
+      "note": "§34 China wave2 SWAP only — 1.3k/523 RS Wallet"
     },
     "come_channel_0": {
       "status": "WATCH",
@@ -759,7 +759,7 @@
     "bhaartpay": {
       "status": "READY_PACK",
       "lane": "mixed",
-      "note": "Ad1 china apps wave2 #5 — 2.4k/315/0d live 2026-09-02. Create after TON."
+      "note": "§34 China wave2 #6 — 2.4k/315/0d. Create after TON."
     },
     "winmoneygrey": {
       "status": "DROP",
@@ -792,9 +792,9 @@
       "note": "Preview restricted Laxmi community"
     },
     "bedane_official": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "otc_dukhdha",
-      "note": "Ad2 seller mix intl #7 — 1.7k/1400/5d OTC app, dispute history. Create after TON; CPA watch."
+      "note": "§34 OPTIONAL later — dispute history"
     },
     "mobiuspe0": {
       "status": "RUNNING_TEST",
@@ -817,9 +817,9 @@
       "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "cryptoto_inr": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "p2p_board",
-      "note": "Ad2 seller mix intl #3 — 3.1k/441/0d only ads-sized public buying-USDT board. Create after TON."
+      "note": "§34 OPTIONAL later — $100–200 P2P posts, not whale"
     },
     "network_public": {
       "status": "WATCH",
@@ -827,9 +827,9 @@
       "note": "2026-09-02 preview restricted (was RS Wallet official)"
     },
     "linkpay888jack": {
-      "status": "RUNNING_TEST",
+      "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+      "note": "Live 2k/2010 but already in weak agent settlement 10 — do not retarget"
     },
     "cryptomasterr91": {
       "status": "WATCH",
@@ -947,14 +947,14 @@
       "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "DracoDeall": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "deal_clone",
-      "note": "Ad1 china apps wave2 #6 — live re-audit 2.3k/318/1d overturns genuine-only DROP. Same deal/app lane as SuperDeall. Create after TON."
+      "note": "§34 cut: Paisabase deal clone — not China-best"
     },
     "SuperDeall776": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "deal_clone",
-      "note": "Ad1 china apps wave2 #8 — 1.3k/364/0d live 2026-09-02. Create after TON."
+      "note": "§34 cut: ATG deal clone; atgofficiale already in wave2"
     },
     "floatpayme88": {
       "status": "WATCH",
@@ -1007,9 +1007,9 @@
       "note": "209d stale med~147"
     },
     "honepay118": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "gaming_fund",
-      "note": "Ad2 seller mix intl #8 — 1.1k/1450/2d gaming-fund D0. Create after TON."
+      "note": "§34 OPTIONAL later — mule/game-fund D0"
     },
     "win777vip9": {
       "status": "DROP",
@@ -1052,9 +1052,9 @@
       "note": "123 MagicPay home"
     },
     "bcgame_india": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "crypto_casino_india",
-      "note": "Ad2 seller mix intl #2 — 7.6k/493/0d casino USDT withdraw. Create after TON."
+      "note": "§34 OPTIONAL later — casino withdraw, not China-pay"
     },
     "bcgamewin": {
       "status": "DROP",
@@ -1112,14 +1112,14 @@
       "note": "Restricted/empty — no Ads inventory"
     },
     "tatapay_acc": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "gaming_fund",
-      "note": "Ad2 seller mix intl #5 — SharkPay official 2.6k/636/0d (NOT paused sharkpaypayment). Create after TON."
+      "note": "§34 OPTIONAL later — SharkPay official; China wave2 pehle"
     },
     "rspay6": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "agent_bulk",
-      "note": "Ad2 seller mix intl #1 — 9.3k/3210/0d NRI/cross-border. Mule/agent CPA watch. Create after TON."
+      "note": "§34 OPTIONAL later only — mule/corp not China seller / not 5k whale"
     },
     "ttwalletchannel": {
       "status": "DEAD",
@@ -1189,7 +1189,7 @@
     "incoinpay_999_pay_999pay": {
       "status": "DROP",
       "lane": "inflated",
-      "note": "999PAY 12.6k/med73"
+      "note": "2026-09-02 re-audit 12.6k/med73 inflated 999PAY clone"
     },
     "Bankpay_P2Ppay": {
       "status": "WATCH",
@@ -1217,9 +1217,9 @@
       "note": "1.4k/med81"
     },
     "trustpaynow": {
-      "status": "WATCH",
-      "lane": "competitor_carrier",
-      "note": "3.9k/1900 TrustPay official tools — carrier not seller community"
+      "status": "READY_PACK",
+      "lane": "china_pay",
+      "note": "§34 China wave2 #4 — 4.0k/1900/2d TrustPay official. Create after TON."
     },
     "mmoneywalletofficialgroup": {
       "status": "WATCH",
@@ -1247,9 +1247,9 @@
       "note": "223 deal clone"
     },
     "DubaiOTCrates": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "dubai_otc",
-      "note": "Ad2 seller mix intl #4 — 3.0k/154/0d Dubai AED OTC; INR intent weaker. Create after TON."
+      "note": "§34 OPTIONAL later — AED OTC, INR China-seller nahi"
     },
     "dubaiotcrates": {
       "status": "WATCH",
@@ -1257,9 +1257,9 @@
       "note": "alias of DubaiOTCrates"
     },
     "qikcryptochannel": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "p2p_tool",
-      "note": "Ad2 seller mix intl #6 — 2.1k/83/5d weak views; drop if delivery zero. Create after TON."
+      "note": "§34 OPTIONAL later — views 83 weak"
     },
     "defiexplorero": {
       "status": "WATCH",
@@ -1390,6 +1390,16 @@
       "status": "BLOCK",
       "lane": "adult_spam",
       "note": "Kerala Dubai chatting = dating spam"
+    },
+    "mmoney_official3": {
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "MMoney ads-channel 4.6k/119 — skip; use mmoney_official2"
+    },
+    "toppay_official": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Hoyopay token selling — preview restricted"
     }
   },
   "competitors_to_spy": [
@@ -2242,7 +2252,7 @@
       "8 channel testing",
       "7"
     ],
-    "next": "Do not create ads until TON top-up. Then Ad1 china apps wave2 then Ad2 seller mix intl. Keep winners running; do not retarget those 16 handles."
+    "next": "Do not raise CPM. Do not create until TON. Then China wave2 8 (wallet_999pay…quickpay). Ad2 mix later only."
   },
   "wave5_2026_09_02": {
     "goal": "New zero-overlap 8 for Indian USDT sellers all sizes; do not touch running winners",
@@ -2330,7 +2340,7 @@
     ]
   },
   "final_genuine_2026_09_02": {
-    "ops": "Own-money genuine-only = refill winners. User later asked for next Ads 8-packs after TON = ready_packs_2026_09_02. Do not create until funded.",
+    "ops": "Winners refill same CPM. Next new ad = ready_packs china_wave2. Do not create until TON.",
     "running": [
       "8 new china pay",
       "china apps 10"
@@ -2349,15 +2359,27 @@
       "DracoDeall"
     ],
     "reason": "Daily India USDT volume is CEX P2P + restricted groups. Ads-eligible genuine seller channels do not fill an 8-set.",
-    "superseded_for_next_ads_by": "ready_packs_2026_09_02"
+    "superseded_for_next_ads_by": "ready_packs_2026_09_02.china_wave2"
   },
   "ready_packs_2026_09_02": {
     "do_not_create_until_ton": true,
     "account_free_ton": 0.63,
-    "dest": "t.me/safepathdeals",
-    "cpm": 4.5,
-    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
-    "pin": "Sirf USDT sell. Amount + network. App login/support nahi.",
+    "cpm_call": "Do NOT raise running CPMs. china pay 5.00 and china apps 4.50 stay. Extra TON = refill + China wave2 @4.50. Raise apps 4.50→5.00 only if views/day dying with budget left.",
+    "ad1_superseded": true,
+    "ad2_optional_later": true,
+    "china_wave2": [
+      "wallet_999pay",
+      "lgpay_official",
+      "mmoney_official2",
+      "trustpaynow",
+      "atgofficiale",
+      "bhaartpay",
+      "hoyopay",
+      "quickpayoffical1"
+    ],
+    "china_wave2_swap": [
+      "CryptoMarketHubb"
+    ],
     "keep_running_do_not_retarget": {
       "china_pay_8": [
         "diwapay",
@@ -2380,43 +2402,8 @@
         "t_zkpay_999pay"
       ]
     },
-    "ad1_china_apps_wave2": [
-      "lgpay_official",
-      "mmoney_official2",
-      "atgofficiale",
-      "team_11_dream01",
-      "bhaartpay",
-      "DracoDeall",
-      "quickpayoffical1",
-      "SuperDeall776"
-    ],
-    "ad2_seller_mix_intl": [
-      "rspay6",
-      "bcgame_india",
-      "cryptoto_inr",
-      "DubaiOTCrates",
-      "tatapay_acc",
-      "qikcryptochannel",
-      "bedane_official",
-      "honepay118"
-    ],
-    "swap_ad1": [
-      "hoyopay_offical",
-      "elitedealll",
-      "turbodeal100"
-    ],
-    "swap_ad2": [
-      "defiexplorero"
-    ],
-    "do_not_target": [
-      "agent settlement 10",
-      "8 channel testing",
-      "7",
-      "famous edu",
-      "movies/loot",
-      "F2F Dubai groups"
-    ],
-    "live_audit_utc": "2026-09-02 ~11:50",
-    "note": "User: do not create ads now. Find best channels; they will add TON later and place ads."
+    "whale_5k": "No Ads-eligible 8. Restricted groups + CEX P2P. Filter via Min 500U / 5000U welcome on China lane. Do not revive agent 8.",
+    "live_audit_utc": "2026-09-02 ~12:00",
+    "note": "Own-money: China wave2 only. Old Ad1 deal-clones cut. Ad2 mix not China/whale."
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-08-28 (full Ads performance audit + $130 plan)  
+**Last updated:** 2026-09-02 (china pay Active 18 TON + full backup saved)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -849,3 +849,14 @@ Balance **0.29 TON**. Koi ad Active nahi — user ne hold kiya / china apps budg
 | 7 | On Hold | 171 | 42 | 7 | 0.3 | 3.7 | — |
 
 **Top-up plan (~50 TON):** china apps **+35** + Activate; china pay **+15** + Activate (already 18 left). Agent/testing/7 hold. Screenshots: `/opt/cursor/artifacts/telegram-ads-audit-2026-09-01/`
+
+---
+
+## 28) 2026-09-02 ops — activate winner + full backup
+
+- **`8 new china pay` → Active** with ~**18 TON** left (best: 205 joins).
+- `china apps 10` still **Stopped / 0 budget** — account balance ~**6.63 TON** too low to add (UI min ~10).
+- Weak/old ads (`agent settlement`, `8 channel testing`, `7`) stopped/hold; leftover moved to account balance (~6.63).
+- Full backup saved: `memory/ads-backup-2026-09-02/` (+ artifacts). Canonical handles in `CANONICAL-CHANNELS.txt`.
+- Next: top-up ≥10–25 TON → refill **china apps 10** and Activate.
+

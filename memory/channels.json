@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01",
+  "updated_at": "2026-09-02",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -1290,10 +1290,10 @@
     "showpayindia"
   ],
   "next_ops": [
-    "Deposit ~50 TON",
-    "Add 35 to china apps 10 + Activate",
-    "Add 15 to 8 new china pay + Activate (has 18 already)",
-    "Keep agent/testing/7 On Hold"
+    "Monitor Active: 8 new china pay (~18 TON)",
+    "Deposit >=10-25 TON",
+    "Add budget to china apps 10 and Activate",
+    "Do not revive agent settlement / testing / 7"
   ],
   "angles_completed_2026_08_20": {
     "angle1_reverse_spy": "done_by_main_agent",
@@ -1905,5 +1905,25 @@
         "ultra_pay0_family"
       ]
     }
+  },
+  "ads_snapshot_2026_09_02": {
+    "balance_ton": 6.63,
+    "active": {
+      "8 new china pay": {
+        "budget_left": 18.0,
+        "joins": 205,
+        "views": 12334,
+        "clicks": 1025,
+        "cpm": 5.0
+      }
+    },
+    "stopped_zero_budget": [
+      "china apps 10",
+      "agent settlement 10",
+      "8 channel testing",
+      "7"
+    ],
+    "backup_path": "memory/ads-backup-2026-09-02/",
+    "next": "Top-up >=10 TON then activate china apps 10"
   }
 }

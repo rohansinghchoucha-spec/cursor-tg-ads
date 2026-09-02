@@ -2449,8 +2449,9 @@
         "give": "X-Api-Key"
       },
       {
-        "tool": "Telemetr.io Pro or TGStat Premium",
-        "usd_mo": 25,
+        "tool": "Telemetr.io Advanced",
+        "usd_mo": 55,
+        "credits": "keep default 250/mo; no extra pack month 1",
         "give": "login or API token"
       }
     ],

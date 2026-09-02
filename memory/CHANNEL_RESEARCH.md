@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 (Wave6 wide hunt: Dubai/chats exist as groups; movies/shopping fail Ads)  
+**Last updated:** 2026-09-02 FINAL — genuine sellers: refill winners; Wave5 8 mat udao; public OTC shelf = almost empty  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -989,4 +989,31 @@ Primary Wave5 mat tod. Ye **swap / alag micro-test** only:
 **Movie/shopping/loot/Kerala-chat: Ads me mat daalna** — dhundha, live fail.
 
 Dubai bulk Indians jo USDT ghar bhejna chahte hain: public shelf = `DubaiOTCrates` (thin) + restricted `@usdtindubai`. Creative se catch better: Wave5 pe `Dubai/UAE USDT? We buy INR UPI/Bank`.
+
+---
+
+## 32) FINAL 2026-09-02 — apna TON hota to kya karta (genuine sellers only)
+
+India me daily USDT volume **sach** hai (Binance/Bybit P2P + OTC groups + Dubai cash + china-pay wallets). Telegram **Ads** us volume ka chhota public slice hai.
+
+Fresh genuine-seller audit (rate/OTC/P2P keywords, live `t.me/s`): ~30 “USDT TO INR” titles → **almost all preview-restricted groups**. Public survivors:
+
+| Handle | Live | Genuine seller? | Verdict |
+|---|---|---|---|
+| **`@cryptoto_inr`** | 3.1k / 439 / 0d | Haan — “buying USDT $100–200 escrow” | **Sirf ye** ads-sized seller board |
+| `@bedane_official` | 1.7k / 1400 / 5d | OTC app (buy+sell) | High views, **dukhdha/dispute history** — primary nahi |
+| `@usdt_buyer_crypto_cr` | 5.4k / 1225 | **Galat side** — woh ₹99–100 pe USDT **bech** rahe; audience = buyers | 78d stale + skip |
+| `@ultra_pay0_family` / `@COME_Channel_0` | live | Deposit/VIP TrustPay | Junk |
+| `@qikcryptochannel` | 2.1k / 83 | P2P tool | Views weak |
+| `@laxmifundscommunity` | 1.3k / **9** | Ab TON-price spam | Dead |
+| Wave5 `lgpay` `mmoney` `quickpay` `DracoDeall` `honepay118` `tatapay_acc` | live | Token-commission / mule / deal | **Bekar for genuine** |
+
+### Apna paisa hota to FINAL ops
+1. **Jo chal raha hai woh mat maro.** `8 new china pay` + `china apps 10` — yahi pe converting seller aaya. Junk DM ke bawajood economics work ki. Next TON **inhi ko refill**.
+2. **Wave5 8 mat create karo.** Worker/deal/mule mix hai — genuine seller hunt fail.
+3. Naya “clean 8” **exist nahi karta** Ads pe. Volume groups + CEX P2P pe hai; unpe ads nahi lagte.
+4. Agent / testing / ad 7 / movies / shopping / Dubai AED / Laxmi-dead — **zero**.
+5. Free balance ~0.63 — kuch naya mat chhedo jab tak top-up na aaye.
+
+**Creative/pin (winners pe already):** `Sirf USDT sell. Amount + network. App login nahi.` — quality filter targeting se nahi, reply se.
 

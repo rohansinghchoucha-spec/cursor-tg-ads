@@ -137,9 +137,9 @@
       "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "usdt_buyer_crypto_cr": {
-      "status": "WATCH",
-      "lane": "otc_p2p",
-      "note": "78d stale — still not primary"
+      "status": "DROP",
+      "lane": "wrong_side",
+      "note": "They SELL USDT at 99-100 to buyers; 78d stale — not our sellers"
     },
     "hoyopay": {
       "status": "DROP",
@@ -527,9 +527,9 @@
       "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "quickpayoffical1": {
-      "status": "TEST",
-      "lane": "china_pay",
-      "note": "Wave5 #4 live 1.8k/245 QuickPay official"
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "FINAL: quota/VIP earn — not genuine"
     },
     "sharkpaypayment": {
       "status": "RUNNING_TEST",
@@ -587,9 +587,9 @@
       "note": "~250 views too weak"
     },
     "lgpay_official": {
-      "status": "TEST",
-      "lane": "china_pay",
-      "note": "Wave5 #1 2026-09-02 live 10.7k/431 — unused china-pay official"
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "FINAL: deposit-bonus app — junk for genuine-seller brief"
     },
     "upaywalle_mahagames": {
       "status": "PROVEN",
@@ -712,9 +712,9 @@
       "note": "CowCoin USDT-INR; views ~99 weak"
     },
     "mmoney_official2": {
-      "status": "TEST",
-      "lane": "china_wallet",
-      "note": "Wave5 #2 live 5.6k/695 game-fund wallet"
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "FINAL: earn-order wallet — not genuine"
     },
     "CryptoMarketHubb": {
       "status": "TEST",
@@ -757,9 +757,9 @@
       "note": "Alias"
     },
     "bhaartpay": {
-      "status": "TEST",
-      "lane": "usdt_erupee",
-      "note": "Wave5 #3 live 2.4k/314 competitor USDT↔eRupee"
+      "status": "WATCH",
+      "lane": "mixed",
+      "note": "USDT/eRupee but commission-app lean — not clean genuine"
     },
     "winmoneygrey": {
       "status": "DROP",
@@ -793,8 +793,8 @@
     },
     "bedane_official": {
       "status": "WATCH",
-      "lane": "otc_converter",
-      "note": "2026-08-21: OTC disputes — skip this 10+10 for scam filter"
+      "lane": "otc_dukhdha",
+      "note": "Live 1.7k/1400 but dispute history — not primary genuine set"
     },
     "mobiuspe0": {
       "status": "RUNNING_TEST",
@@ -819,7 +819,7 @@
     "cryptoto_inr": {
       "status": "TEST",
       "lane": "p2p_board",
-      "note": "Wave5 #5 live 3.1k/437 USDT→INR board / escrow"
+      "note": "FINAL: only ads-sized genuine seller board (buying USDT posts). Not enough for a new 8."
     },
     "network_public": {
       "status": "WATCH",
@@ -947,9 +947,9 @@
       "note": "2026-08-21 Ad A agent settlement 10 — In Review"
     },
     "DracoDeall": {
-      "status": "TEST",
+      "status": "DROP",
       "lane": "deal_clone",
-      "note": "Wave5 #8 live 2.3k/318 Paisabase usdt-rate deal"
+      "note": "FINAL genuine cut: token-commission deal"
     },
     "SuperDeall776": {
       "status": "TEST",
@@ -1007,9 +1007,9 @@
       "note": "209d stale med~147"
     },
     "honepay118": {
-      "status": "TEST",
-      "lane": "gaming_fund",
-      "note": "Wave5 #6 UPGRADE: was weak WATCH, now med~1440 gaming-fund D0"
+      "status": "WATCH",
+      "lane": "agent_not_seller",
+      "note": "FINAL: gaming-fund mule recruit — not genuine seller"
     },
     "win777vip9": {
       "status": "DROP",
@@ -1112,9 +1112,9 @@
       "note": "Restricted/empty — no Ads inventory"
     },
     "tatapay_acc": {
-      "status": "TEST",
-      "lane": "china_pay_agent",
-      "note": "Wave5 #7 NEW SharkPay official CHANNEL 2.6k/636 (≠ sharkpaypayment group)"
+      "status": "WATCH",
+      "lane": "agent_not_seller",
+      "note": "FINAL: SharkPay official but worker/lucky-wheel copy"
     },
     "rspay6": {
       "status": "WATCH",
@@ -2328,5 +2328,26 @@
       "loot iphone deals",
       "kerala dubai chatting"
     ]
+  },
+  "final_genuine_2026_09_02": {
+    "ops": "Refill running winners only. Do not create Wave5 8.",
+    "running": [
+      "8 new china pay",
+      "china apps 10"
+    ],
+    "only_clean_public_board": [
+      "cryptoto_inr"
+    ],
+    "do_not_create": [
+      "lgpay_official",
+      "mmoney_official2",
+      "bhaartpay",
+      "quickpayoffical1",
+      "cryptoto_inr",
+      "honepay118",
+      "tatapay_acc",
+      "DracoDeall"
+    ],
+    "reason": "Daily India USDT volume is CEX P2P + restricted groups. Ads-eligible genuine seller channels do not fill an 8-set."
   }
 }

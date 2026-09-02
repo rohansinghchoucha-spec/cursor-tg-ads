@@ -1925,5 +1925,43 @@
     ],
     "backup_path": "memory/ads-backup-2026-09-02/",
     "next": "Top-up >=10 TON then activate china apps 10"
+  },
+  "ads_snapshot_2026_09_02_pm": {
+    "note": "New Fragment/wallet topped OLD Ads (+30 TON). Keep running on old account.",
+    "top_up_ton": 30.0,
+    "balance_free_ton": 0.63,
+    "active": {
+      "china apps 10": {
+        "budget_left": 25.0,
+        "cpm": 4.5,
+        "joins": 105,
+        "views": 10005,
+        "clicks": 2109
+      },
+      "8 new china pay": {
+        "budget_left": 19.93,
+        "cpm": 5.0,
+        "joins": 211,
+        "views": 12933,
+        "clicks": 1066
+      }
+    },
+    "on_hold": {
+      "agent settlement 10": {
+        "budget_frozen": 5.82,
+        "cpm": 4.5,
+        "reason": "weak CTR/CPA — do not refill"
+      }
+    },
+    "stopped_zero_budget": [
+      "8 channel testing",
+      "7"
+    ],
+    "do_not_refill": [
+      "agent settlement 10",
+      "8 channel testing",
+      "7"
+    ],
+    "next": "Watch joins/CPA on china apps + china pay; refill winners only when spent"
   }
 }

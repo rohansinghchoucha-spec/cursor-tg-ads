@@ -1,12 +1,12 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 (china pay Active 18 TON + full backup saved)  
+**Last updated:** 2026-09-02 (old Ads topped +30 TON; china apps Active 25 + china pay ~20)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
 - Audit of activation: `bc-fe52cbc5-8e0f-5e18-9b5e-2d0d15df195e`
 
-**Access note:** Ads login OK (2026-08-20, phone `+447436763940`). Per-channel joins still unavailable in TG Ads UI. Delivery proxy = spy share + live audits. Account balance ~€0.29 — **top-up required** before restart/new ad.
+**Access note:** Old Ads account still live (ACC / Rohan Singh; phone display `0924180609`). New Fragment wallet successfully topped old Ads (+30 TON on 2026-09-02). Per-channel joins still unavailable in TG Ads UI. Delivery proxy = spy share + live audits.
 
 Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recommend → baad me drop wala gyan yahan locked hai.
 
@@ -859,4 +859,20 @@ Balance **0.29 TON**. Koi ad Active nahi — user ne hold kiya / china apps budg
 - Weak/old ads (`agent settlement`, `8 channel testing`, `7`) stopped/hold; leftover moved to account balance (~6.63).
 - Full backup saved: `memory/ads-backup-2026-09-02/` (+ artifacts). Canonical handles in `CANONICAL-CHANNELS.txt`.
 - Next: top-up ≥10–25 TON → refill **china apps 10** and Activate.
+
+---
+
+## 29) 2026-09-02 later — new wallet funded OLD Ads; winners running
+
+User confirmed new Fragment/wallet se **old Ads account** me fund aa gaya (unexpected but worked). Live check:
+
+- Payment **+30 TON** (Sep 2 ~10:41) → free balance pehle ~30.63
+- Reallocation done same session:
+  1. **`agent settlement 10` → On Hold** (weak; ~5.82 frozen, no more spend)
+  2. **`china apps 10` → Active + 25 TON** (CPM 4.50, same 8 channels/creative)
+  3. **`8 new china pay` → Active ~19.93 TON** (was ~15; +~5; CPM 5.00)
+  4. testing / ad 7 untouched (Stopped / 0)
+- Account free buffer left: **~0.63 TON**
+
+**Rule locked:** isi old Ads pe winners chalao. Naya empty Ads recreate zaroori nahi jab tak ye account fundable rahe. Agent/testing/7 refill mat karna.
 

@@ -843,8 +843,8 @@
     },
     "INDIANP2PESCROW": {
       "status": "WATCH",
-      "lane": "escrower_group",
-      "note": "GROUP preview-restricted — not ads list"
+      "lane": "escrow_restricted",
+      "note": "Indian P2P escrow group — restricted"
     },
     "usdtsellingandbuyinggroup": {
       "status": "WATCH",
@@ -878,8 +878,8 @@
     },
     "usdtotcindia": {
       "status": "WATCH",
-      "lane": "bulk_otc",
-      "note": "OTC India restricted"
+      "lane": "otc_restricted",
+      "note": "USDT OTC India group — restricted"
     },
     "kaakafinance": {
       "status": "WATCH",
@@ -984,7 +984,7 @@
     "uniqueChineseMarket": {
       "status": "WATCH",
       "lane": "too_small",
-      "note": "184/49 Unique pay"
+      "note": "Unique pay 184/49 live china-app clone"
     },
     "moneychangerIN": {
       "status": "WATCH",
@@ -1245,6 +1245,151 @@
       "status": "DROP",
       "lane": "too_small",
       "note": "223 deal clone"
+    },
+    "DubaiOTCrates": {
+      "status": "WATCH",
+      "lane": "dubai_otc",
+      "note": "Wave6: public AED rate channel 3k/149 live — optional NRI micro, INR intent weak"
+    },
+    "dubaiotcrates": {
+      "status": "WATCH",
+      "lane": "dubai_otc",
+      "note": "alias of DubaiOTCrates"
+    },
+    "qikcryptochannel": {
+      "status": "WATCH",
+      "lane": "p2p_tool",
+      "note": "Wave6: India P2P 2.1k/med83 weak views"
+    },
+    "defiexplorero": {
+      "status": "WATCH",
+      "lane": "deal_paisabase",
+      "note": "Wave6: Paisabase Charlie 1.6k/143 27d"
+    },
+    "usdtindubai": {
+      "status": "WATCH",
+      "lane": "dubai_p2p_restricted",
+      "note": "REAL Dubai/India P2P group — preview restricted, not Ads"
+    },
+    "dubaiusdtexchange": {
+      "status": "WATCH",
+      "lane": "dubai_otc_restricted",
+      "note": "Dubai USDT Exchange group — restricted"
+    },
+    "usdtdealsinr": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Delhi/Jaipur/Ahmedabad/Chennai USDT deals group — restricted"
+    },
+    "p2p_f2f": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "India F2F P2P cash group — restricted"
+    },
+    "jaipur_usdt_dealer": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Jaipur cash USDT — restricted"
+    },
+    "usdtcashbhopal": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Bhopal/Indore cash — restricted"
+    },
+    "usdtbhubaneswar": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Odisha cash — restricted"
+    },
+    "mrstunner123": {
+      "status": "WATCH",
+      "lane": "escrow_restricted",
+      "note": "Escrow buy/sell group — restricted"
+    },
+    "paisabase_discussion": {
+      "status": "WATCH",
+      "lane": "chat_restricted",
+      "note": "Paisabase discussion group — restricted"
+    },
+    "teampaisabase": {
+      "status": "DROP",
+      "lane": "dead_views",
+      "note": "1.3k but med views 2"
+    },
+    "teen_bollywood_channel": {
+      "status": "DROP",
+      "lane": "movies",
+      "note": "Bollywood/Myanmar movies — no USDT sellers"
+    },
+    "changeotc": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "Dubai gold/AED/toman Farsi desk — not INR sellers"
+    },
+    "dubai_exchange_cryptocurrency": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "1.15k / med 12"
+    },
+    "indiap2pprocessing": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "P2P panel operators 393/217 — not retail sellers"
+    },
+    "rockettradep2p": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "326/209 processing sister"
+    },
+    "qikcryptobot": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "QikCrypto bot"
+    },
+    "mobilewholesalecityofficial": {
+      "status": "DEAD",
+      "lane": "shopping",
+      "note": "664d stale MY mobile wholesale"
+    },
+    "mobileaccessoriesdubai": {
+      "status": "DEAD",
+      "lane": "shopping",
+      "note": "1213d dead"
+    },
+    "secondhandmobilestore2": {
+      "status": "DROP",
+      "lane": "shopping",
+      "note": "Punjab shop bulbs — not USDT"
+    },
+    "usdtd": {
+      "status": "WATCH",
+      "lane": "dubai_restricted",
+      "note": "USDT UAE group restricted"
+    },
+    "binancep2pusdttoinr": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Binance P2P USDT deals group"
+    },
+    "usdt_seller_buyer_indian_binance": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Binance P2P Indian group"
+    },
+    "cryptocrypto_chat": {
+      "status": "DROP",
+      "lane": "stale_global",
+      "note": "282d global swap chat"
+    },
+    "tap_tether_chat": {
+      "status": "DEAD",
+      "lane": "stale",
+      "note": "672d TapTether"
+    },
+    "telugu_chatting231": {
+      "status": "BLOCK",
+      "lane": "adult_spam",
+      "note": "Kerala Dubai chatting = dating spam"
     }
   },
   "competitors_to_spy": [
@@ -2156,5 +2301,32 @@
     "do_not_create_until_ton": 15,
     "account_free_ton": 0.63,
     "note": "City/state public Ads inventory still scarce. Catch all-India sellers on china-app + P2P + gaming-fund rails."
+  },
+  "wave6_wide_2026_09_02": {
+    "lesson": "Sellers live in restricted groups (Dubai/city F2F/chats). Movies/shopping public channels are not sellers. Ads catch via Wave5 rails + optional DubaiOTCrates/qikcrypto/defiexplorero.",
+    "restricted_real": [
+      "usdtindubai",
+      "dubaiusdtexchange",
+      "usdtdealsinr",
+      "p2p_f2f",
+      "jaipur_usdt_dealer",
+      "usdtcashbhopal",
+      "usdtbhubaneswar",
+      "INDIANP2PESCROW",
+      "usdtotcindia",
+      "mrstunner123",
+      "paisabase_discussion"
+    ],
+    "ads_extra_optional": [
+      "DubaiOTCrates",
+      "qikcryptochannel",
+      "defiexplorero",
+      "SuperDeall776"
+    ],
+    "do_not_target": [
+      "teen_bollywood_channel",
+      "loot iphone deals",
+      "kerala dubai chatting"
+    ]
   }
 }

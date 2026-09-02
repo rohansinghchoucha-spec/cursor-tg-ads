@@ -950,3 +950,43 @@ Bulk optional 2nd ad later: `Min 500–1000U · Bank · settlement welcome` on `
 3. CPA/joins 3–5 din → agar china-app slots convert karein to unko refill; agent-ish slots (`honepay`/`tatapay`) weak hon to SuperDeall/hoyopay swap.
 4. Alag city geo list **mat** banao.
 
+---
+
+## 31) 2026-09-02 Wave6 — bina-chhota-kiye: movies / shopping / Dubai / chats
+
+User: *jo lagta hai possible nahi (movie, shopping, Dubai, chats) woh bhi dhundo — filter baad me.*
+
+Hunt kiya (Telemetr + spy ads + Lyzem + live `t.me/s`). **Log wahan hain.** Ads-eligible public channel **thin** hai.
+
+### Kya mila (sach)
+
+| Lane | Log hain? | Ads pe laga sakte? | Live result |
+|---|---|---|---|
+| **Dubai / UAE OTC** | Haan — Indians USDT↔AED / home remit | Groups **preview-restricted** | `@usdtindubai` `@dubaiusdtexchange` `@usdtd` `@dubaiotc` `@pallapay` `@coinsfera` = restricted. Sirf **`@DubaiOTCrates`** public (~3k / med 149, live AED cash rates) |
+| **City F2F chats** | Haan — Delhi/Jaipur/Ahmedabad/Chennai/Bhopal/Odisha cash | **Nahi** (groups) | `@usdtdealsinr` `@jaipur_usdt_dealer` `@buyusdtcashinjaipur` `@p2p_f2f` `@usdtcashbhopal` `@usdtbhubaneswar` `@INDIANP2PESCROW` `@usdtotcindia` `@mrstunner123` restricted |
+| **P2P discussion / escrow chats** | Haan | Zyada groups | `@paisabase_discussion` `@earn_with_sky` `@tetherusdtchats` `@binancep2pusdttoinr` restricted. Public: `@qikcryptochannel` (2.1k / **med 83** weak), `@teampaisabase` (1.3k / med **2** dead) |
+| **Shopping / iPhone / wholesale** | India loot + Russia Taobao + MY/Dubai wholesale | **USDT seller nahi** | `@dsmartgadgets` loot ₹1 · `@auradealsandoffers` loot · Taobao ads RU/KH · `@mobilewholesalecityofficial` 664d stale · `@mobileaccessoriesdubai` 1213d dead · `@secondhandmobilestore2` bulbs/shop, not USDT |
+| **Movies / Bollywood** | Views hain | **Zero seller intent** | `@teen_bollywood_channel` Myanmar movie subs — skip |
+| **Kerala–Dubai “chatting”** | Title match | Dating/adult spam | `@telugu_chatting231` etc. — BLOCK/skip |
+| **Gold / money changer** | Dubai gold tola rates | Iranian/AED desk, not INR sellers | `@changeotc` 369/103 live but **Farsi + AED/toman** — skip INR desk |
+| **China C2C shopping USDT** | Unique Pay clone | &lt;1k | `@uniqueChineseMarket` 184/49 — swap only |
+
+**Naya gyan (locked):** “Impossible” lanes me **sellers groups me chhupte hain**, channels pe nahi. Telegram Ads = public channels. Isliye unko **proxy** se pakdo (Wave5 china-app + P2P boards + gaming-fund), city/Dubai group list invent mat karo.
+
+### Wave6 extra — Ads-usable, Wave5-8 ke alava (weak / optional)
+
+Primary Wave5 mat tod. Ye **swap / alag micro-test** only:
+
+| Handle | Subs / med | Stale | Use |
+|---|---|---|---|
+| `@DubaiOTCrates` | ~3.0k / 149 | 0d | Dubai OTC rates (AED). Optional 1-slot NRI test — intent AED cash, INR weak |
+| `@qikcryptochannel` | ~2.1k / 83 | 5d | India P2P safety/jackpot — views weak |
+| `@defiexplorero` | ~1.6k / 143 | 27d | Paisabase Charlie — deal-lane extra |
+| `@SuperDeall776` | ~1.3k / 362 | 6d | Already Wave5 swap (ATGPay deal) |
+| `@indiap2pprocessing` | 393 / 217 | 1d | P2P **panel** operators, &lt;1k — skip Ads |
+| `@rockettradep2p` | 326 / 209 | 2d | same processing lane — skip |
+
+**Movie/shopping/loot/Kerala-chat: Ads me mat daalna** — dhundha, live fail.
+
+Dubai bulk Indians jo USDT ghar bhejna chahte hain: public shelf = `DubaiOTCrates` (thin) + restricted `@usdtindubai`. Creative se catch better: Wave5 pe `Dubai/UAE USDT? We buy INR UPI/Bank`.
+

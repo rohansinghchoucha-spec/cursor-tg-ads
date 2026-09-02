@@ -1153,7 +1153,7 @@ Free pe bottleneck: TGAdsSpy **HTML Cloudflare**; anon API offset shallow; Telem
 | # | Tool | Price | Kya unlock | Mujhe kya do |
 |---|---|---|---|---|
 | 1 | **TGAdsSpy Pro** | **$49/mo** | Deep history, 50k-row page, Showx/Mobius/Laxmi creatives + CTA channels | `X-Api-Key` (https://tgadsspy.com/account/api-keys) |
-| 2 | **Telemetr.io Pro** (ya TGStat Premium similar-channels) | **~$25–40/mo** | `diwapay`/`mobiuspe0` ke **similar** public channels + ads-index + fake-sub tags | login ya API token |
+| 2 | **Telemetr.io Advanced** | **$55/mo** + default **250 credits** | Ads Index, cheater tag, **Telegram Ads advertiser + placement export**, similar-channels. Pro $25 me Ads analytics/placement export nahi. Credits extra mat khareedna pehle month. | login (password manager) **ya** API token |
 
 **Baad me, sirf agar Pro se placement list abhi bhi adhoori lage:** TGAdsSpy **Enterprise $499/mo** — “advertiser buy map” (ShowxPay ne exactly kaunse channels khareede). Pehle month skip.
 
@@ -1162,4 +1162,39 @@ Free pe bottleneck: TGAdsSpy **HTML Cloudflare**; anon API offset shallow; Telem
 **Performance expectation (honest):** Paid tools **nayi audience class nahi** kholte (5k OTC whales Ads pe nahi). Woh **usi China-pay shelf ki baaki official apps** jaldi + complete nikalte hain (jaise `wallet_999pay` revive). Naya 8-pack quality ≈ `china apps 10` (CTR strong, joins mixed, kabhi converting seller). 3× seller magic nahi. Restricted groups paid se bhi Ads-target nahi hote.
 
 **Ops:** keys chat me paste / env. Telegram phone session groups ke liye **mat do** — unpe Ads nahi lagte.
+
+### Paid aane ke baad main kaise use karunga (playbook)
+
+1. **TGAdsSpy `X-Api-Key`:** `/api/v1/analytics/channel-ad-load` aaj **401 ANON**. Key se `diwapay`/`mobiuspe0`/`showxpay` pe **kaunse channels pe unka ad dikha** (placement), CTA nahi. Showx/Mobius/Laxmi/QuickPay slugs already kaam karte (`tg-showxpay` 9 creatives, `placementCount=0` anon pe). Pro = history + deep page; Enterprise = buy-map.
+2. **Telemetr/TGStat:** winners ke **similar** + ads-index + cheater/fake-sub tag. Free telemetr 544 titles diya — 80% group/CS/loot; paid similar-overlap woh filter karega.
+3. **Watchlist:** naya “USDT 10x / We Buy USDT / INR rate” creative → alert → live `t.me/s` audit (ye step hamesha free).
+4. **Ads nahi banega** jab tak TON na ho. Keys = research, spend alag.
+
+---
+
+## 36) 2026-09-02 PM free-max hunt (paid se pehle)
+
+Methods: spy `/advertisers` + `/ads?advertiser=` + `geo=IN` · Telemetr 20 brand queries (544 channels) · mention-snowball 24 winners/wave2 · live audit ~35 new.
+
+**Result:** Ads-eligible **China seller shelf already mapped**. Naye “bade” names almost all:
+
+| Handle | Live | Why skip |
+|---|---|---|
+| `@officialskypay` | 13.8k / **7635** | Agent **bank/MQR recruit** — seller nahi (agent-ad fail lane) |
+| `@diwapay_support_crypto` | 22.9k / 173 | Hijack **Mantri Mall loot** |
+| `@diwaappcode` | 3.1k / 7585 | Yono gift-code loot |
+| `@quickpaynetwor` | 3.7k / 793 | Galat QuickPay (wallet tasks/giveaway) |
+| `@jaypay_988` | 1.5k / 152 | Loot/signup bonus |
+| `@Officialnews00` | 1.5k / 711 | MMPay earn clone |
+| `@smartpay_777` | 1.4k / **81** | China-app clone, views dead |
+| `@laxmifundscommunity` | 1.3k / 9 | TON-price spam |
+| Meteor/Hoyo/999/Sky **groups** | 5–20k | Preview-restricted — Ads nahi |
+
+**Usable inventory by size (create nahi, TON ke baad):**
+
+- **Bada (already RUNNING — mat retarget):** china pay 8 + china apps 8 (`diwapay` `linkpay8` `linkxwalletnow` `wallet` side pe `t_zkpay_999pay` `mobiuspe0` …)
+- **Mid unused = China wave2 §34:** `wallet_999pay` 26.5k · `lgpay_official` 10.7k · `mmoney_official2` 5.6k · `trustpaynow` 4.0k · `atgofficiale` 3.3k · `bhaartpay` 2.4k · `hoyopay` 1.8k · `quickpayoffical1` 1.8k
+- **Chhota &lt;1k:** Ads reject risk — `hoyopay_offical` `uniqueChineseMarket` `dealzzonen` `SPRODEAL` `vvipEzpay` — **mat lagao**
+
+Wave2 **abhi bhi next buy**. Paid keys se umeed: Showx/Mobius **placement** list me 5–15 extra official apps, same lane — naya whale class nahi.
 

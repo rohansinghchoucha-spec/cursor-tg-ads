@@ -264,7 +264,22 @@
     "showxpay": {
       "status": "DROP",
       "lane": "china_pay",
-      "note": "2026-09-02 21.5k/270/23d inflated ratio — skip"
+      "note": "2026-09-02 21.5k/270/23d stale official — competitor dest, not our 8"
+    },
+    "mobiuspetech": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-02 Spy CTA; live 1.55k/234/0d but bio is gadget/tech news not USDT sellers"
+    },
+    "linkpay_en": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-02 Spy CTA; preview-restricted global virtual cards, not India USDT desk"
+    },
+    "hoyopay777": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "2026-09-02 Spy CTA; 124 subs — Ads reject risk. Use hoyopay instead"
     },
     "DiwaPay": {
       "status": "DROP",
@@ -2433,7 +2448,7 @@
       ]
     },
     "whale_5k": "No Ads-eligible 8. Restricted groups + CEX P2P. Filter via Min 500U / 5000U welcome on China lane. Do not revive agent 8.",
-    "live_audit_utc": "2026-09-02 ~12:00",
+    "live_audit_utc": "2026-09-02 ~13:10",
     "note": "Own-money: China wave2 only. Old Ad1 deal-clones cut. Ad2 mix not China/whale.",
     "live_ads_1158": {
       "china_apps_left": 24.18,
@@ -2446,24 +2461,36 @@
       {
         "tool": "TGAdsSpy Pro",
         "usd_mo": 49,
-        "give": "X-Api-Key"
+        "give": "X-Api-Key",
+        "status": "LIVE then identity_quarantined 24h on cloud IP until ~2026-09-03 13:00 UTC",
+        "pace": "1 req / 2.5s sequential; tools/spy_pro.py",
+        "buy_map": "403 BUSINESS / Enterprise $499 — not in Pro"
       },
       {
-        "tool": "Telemetr.io Advanced",
+        "tool": "Telemetr.io Advanced website",
         "usd_mo": 55,
         "credits": "keep default 250/mo; no extra pack month 1",
-        "give": "login or API token"
+        "give": "website login on phone + Excel CSV of Telegram Ads / similar",
+        "status": "PAID on website; bot /api_key is a different FREE Public API"
       }
     ],
+    "telemetr_bot_api": {
+      "product": "Public API api.tlmtr.io",
+      "tier": "FREE (catalog/info/mentions/add locked)",
+      "works": "GET /v1/channels/search?term=@handle&peer_type=Channel",
+      "do_not_buy": "API S $25 / M $65 until website CSV workflow is tried"
+    },
     "buy_later_only": {
-      "tool": "TGAdsSpy Enterprise buy-map",
+      "tool": "TGAdsSpy Enterprise/Business buy-map",
       "usd_mo": 499
     },
     "skip": [
       "seller lead lists",
       "Ads similar-channels mix",
-      "Enterprise in month 1"
+      "Enterprise in month 1",
+      "Telemetr API S/M while website Advanced unused"
     ],
+    "secrets": "only /tmp/nexa_keys.env — never git",
     "expected": "More complete china-app inventory, not a new whale class. New 8 quality similar to china apps 10."
   },
   "free_max_hunt_2026_09_02": {

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 — Telemetr buy Advanced $55 + default 250 credits, not Pro  
+**Last updated:** 2026-09-02 — Spy PRO live then 24h quarantine; Telemetr bot key = FREE API not website Advanced  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1163,12 +1163,31 @@ Free pe bottleneck: TGAdsSpy **HTML Cloudflare**; anon API offset shallow; Telem
 
 **Ops:** keys chat me paste / env. Telegram phone session groups ke liye **mat do** — unpe Ads nahi lagte.
 
-### Paid aane ke baad main kaise use karunga (playbook)
+### Paid keys live (2026-09-02) — secrets NOT in git
 
-1. **TGAdsSpy `X-Api-Key`:** `/api/v1/analytics/channel-ad-load` aaj **401 ANON**. Key se `diwapay`/`mobiuspe0`/`showxpay` pe **kaunse channels pe unka ad dikha** (placement), CTA nahi. Showx/Mobius/Laxmi/QuickPay slugs already kaam karte (`tg-showxpay` 9 creatives, `placementCount=0` anon pe). Pro = history + deep page; Enterprise = buy-map.
-2. **Telemetr/TGStat:** winners ke **similar** + ads-index + cheater/fake-sub tag. Free telemetr 544 titles diya — 80% group/CS/loot; paid similar-overlap woh filter karega.
-3. **Watchlist:** naya “USDT 10x / We Buy USDT / INR rate” creative → alert → live `t.me/s` audit (ye step hamesha free).
-4. **Ads nahi banega** jab tak TON na ho. Keys = research, spend alag.
+Keys sirf `/tmp/nexa_keys.env` (chmod 600). **Kabhi memory/ git / PR me mat likho.**
+
+**TGAdsSpy PRO — kaam kiya, phir is cloud IP pe 24h lock.** `meta.plan=PRO`, `maxOffset=50000`. Pehle successful: `channel-ad-load` `diwapay` 36/26, `linkpay8` 51/28, `wallet_999pay` 40/25. `/advertisers/{slug}/channels` = **403 `required: BUSINESS`** (pricing page pe “Enterprise $499 buy-map”). Burst ke baad `identity_quarantined` score 100, `retryAfterMs=86400000` (~2026-09-03 13:00 UTC tak is IP se Spy mat maaro). Hamesha: `tools/spy_pro.py` — **1 req / 2.5s, sequential, 429 pe STOP**.
+
+**Telemetr bot `/api_key` = FREE Public API, website Advanced $55 nahi.** Confirmed live:
+
+| Call | Result |
+|---|---|
+| `GET /v1/usage/info` | Active till **2026-10-02**; requests 100k display, channels 1000 — **features still free-gated** |
+| `GET /v1/channels/search?term=@diwapay&peer_type=Channel` | 200 — internal_id + members (china apps resolve ho gaye) |
+| `GET /v1/catalog/search` | **403** Catalog access not allowed for your plan |
+| `POST /v1/channels/add` | **400** Only for paid users |
+| `GET /v1/channel/info` + `/mentions` | **400** free = Telegram/Telemetr **verified chats only** |
+
+Website `telemetr.io` is VM se Cloudflare challenge; Chrome login = Telegram QR (phone pe alag session, inherit nahi hota). **Paid Advanced use karne ka rasta:** phone pe login → Tools / Telegram Ads / similar channels → Excel CSV yahan bhejo. Extra Telemetr **API S $25 / M $65 mat khareedo** jab tak website CSV na chale — woh alag product hai, $55 website ko API nahi banata.
+
+### Always-on playbook (har chat)
+
+1. `source /tmp/nexa_keys.env` — Spy PRO + Telemetr search.
+2. Spy: competitor `/ads?advertiser=tg-showxpay|tg-mobiuspe0` + `channel-ad-load` on winners/wave2. Buy-map skip until Business/Enterprise.
+3. Telemetr bot: sirf `@handle` resolve / member count. Mentions-snowball website CSV se.
+4. Har naya handle → live `t.me/s` (`tools/audit_channels.py`). DROP/DEAD/BLOCK bina fresh audit ke wapas nahi.
+5. Ads create / CPM raise / running 16 retarget — **nahi**, jab tak user TON + bole.
 
 ---
 
@@ -1197,4 +1216,23 @@ Methods: spy `/advertisers` + `/ads?advertiser=` + `geo=IN` · Telemetr 20 brand
 - **Chhota &lt;1k:** Ads reject risk — `hoyopay_offical` `uniqueChineseMarket` `dealzzonen` `SPRODEAL` `vvipEzpay` — **mat lagao**
 
 Wave2 **abhi bhi next buy**. Paid keys se umeed: Showx/Mobius **placement** list me 5–15 extra official apps, same lane — naya whale class nahi.
+
+---
+
+## 37) 2026-09-02 paid-key first hunt
+
+Spy PRO burst (laxmi query = matka pollution) + Telemetr `@handle` resolve + live audit. **China wave2 still next 8.** Naye CTAs:
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@mobiuspetech` | 1.55k / med 234 / 0d | **DROP** — bio “tech news / gadgets”, USDT seller nahi |
+| `@linkpay_en` | restricted | **DROP** — global virtual cards 2024, India seller desk nahi |
+| `@hoyopay777` | 124 / 288 | **DROP** — &lt;1k Ads reject |
+| `@showxpay` | 21.5k / 270 / **23d** | already **DROP** — stale official, ratio dead; competitor dest not our 8 |
+| Laxmi *loot/satta/matka* CTAs | — | **BLOCK** — keyword collision, china-pay nahi |
+
+Telemetr resolve (search only, info locked): `diwapay` 60.9k · `linkxwalletnow` 32.8k · `linkpay8` 23.3k · `wallet_999pay` 26.5k · `upaywalle_mahagames` 18.7k · `ddpay9999` 16.5k · `lgpay_official` 10.7k · `jaypay_8` 7.0k · `t_zkpay_999pay` 7.4k · `mmoney_official2` 5.6k · `trustpaynow` 4.0k · `alexpay_channel` 3.6k · `wiseway_payment` 3.4k · `atgofficiale` 3.3k · `ultrapay_official` 3.3k · `bhaartpay` 2.4k · `atgpay_iop` 2.0k · `hoyopay` 1.8k. Missing in Telemetr search: `showpayindia` `mobiuspe0` `MeteorpayEliteChannel00011` `mobiuspayofficial1` `Ez_india` `quickpayoffical1` `CryptoMarketHubb` — website catalog hi nikalega.
+
+**Next ad after TON:** still §34 China wave2 @ 4.50. Spy un-quarantine ke baad slow `tg-showxpay` / `tg-mobiuspe0` creatives; website CSV aaye to similar-overlap.
+
 

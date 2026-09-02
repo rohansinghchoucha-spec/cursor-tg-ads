@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 FINAL — genuine sellers: refill winners; Wave5 8 mat udao; public OTC shelf = almost empty  
+**Last updated:** 2026-09-02 — Ads NOT created; 2 ready 8-packs for after top-up  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1016,4 +1016,54 @@ Fresh genuine-seller audit (rate/OTC/P2P keywords, live `t.me/s`): ~30 “USDT T
 5. Free balance ~0.63 — kuch naya mat chhedo jab tak top-up na aaye.
 
 **Creative/pin (winners pe already):** `Sirf USDT sell. Amount + network. App login nahi.` — quality filter targeting se nahi, reply se.
+
+**Override (same day):** User ne kaha create mat karo, **best next Ads inventory dhundh ke do** — paisa baad me add karke khud lagayega. Genuine-only 8 exist nahi karta, isliye next spend = same proven china-app lane (Ad1) + alag-client mix (Ad2). Dekho **§33**.
+
+---
+
+## 33) READY PACKS 2026-09-02 — create MAT; fund ke baad ye 2 ads
+
+User: pehle dhundh ke de; paisa add ke baad khud lagayega. UI pe **create nahi** kiya. Free balance ~0.63.
+
+Live re-audit 11:50 UTC. Zero overlap with Active china-pay 8 + china-apps 8. Exhausted testing 8 + weak agent 8 **dobara nahi**.
+
+Dest: `t.me/safepathdeals` · CPM 4.50 · creative `We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate` · pin `Sirf USDT sell. Amount + network.`
+
+### Ad 1 — `china apps wave2` (same proven lane, naye apps = naye workers/holders)
+
+| # | Handle | Subs | Med | Stale |
+|---|---|---|---|---|
+| 1 | `@lgpay_official` | 10.7k | 431 | 0d |
+| 2 | `@mmoney_official2` | 5.6k | 697 | 0d |
+| 3 | `@atgofficiale` | 3.3k | 562 | 5d |
+| 4 | `@team_11_dream01` | 2.8k | 827 | 30d |
+| 5 | `@bhaartpay` | 2.4k | 315 | 0d |
+| 6 | `@DracoDeall` | 2.3k | 318 | 1d |
+| 7 | `@quickpayoffical1` | 1.8k | 249 | 0d |
+| 8 | `@SuperDeall776` | 1.3k | 363 | 0d |
+
+Swap: `@hoyopay_offical` (452/709, &lt;1k) · `@elitedealll` (887/199) · `@turbodeal100` (weak 81)
+
+### Ad 2 — `seller mix intl` (P2P board + OTC + Dubai + casino withdraw + game-fund) = **alag client type**
+
+| # | Handle | Subs | Med | Stale | Client |
+|---|---|---|---|---|---|
+| 1 | `@rspay6` | 9.3k | **3210** | 0d | NRI/cross-border / corp (bulk) |
+| 2 | `@bcgame_india` | 7.6k | 493 | 0d | Casino USDT withdraw |
+| 3 | `@cryptoto_inr` | 3.1k | 439 | 0d | P2P “buying USDT” board |
+| 4 | `@DubaiOTCrates` | 3.0k | 154 | 0d | Dubai AED OTC / NRI |
+| 5 | `@tatapay_acc` | 2.6k | 636 | 0d | SharkPay official / game-pay |
+| 6 | `@qikcryptochannel` | 2.1k | 83 | 5d | India P2P tool |
+| 7 | `@bedane_official` | 1.7k | **1400** | 5d | OTC app (dukhdha watch) |
+| 8 | `@honepay118` | 1.1k | **1450** | 2d | Gaming-fund D0 |
+
+Swap: `@defiexplorero` (1.6k/143) · drop `qikcrypto` if delivery zero · `rspay6` mule-risk — CPA dekh ke pause.
+
+### Mat lagana
+Famous edu · movies/loot · agent settlement 8 · testing 8 · ad 7 · F2F/Dubai **groups** (restricted) · `usdt_buyer_crypto_cr` (galat side)
+
+### Fund ke baad order
+1. Winners chalne do (refill if spent).
+2. Ad 1 15–20 TON → Ad 2 15–20 TON.
+3. Create tab jab TON account me ho.
 

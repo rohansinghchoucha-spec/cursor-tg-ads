@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 (old Ads topped +30 TON; china apps Active 25 + china pay ~20)  
+**Last updated:** 2026-09-02 (Wave5 hunt: new 8-set ready; winners still running; new ad needs ~15–20 TON)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -875,4 +875,78 @@ User confirmed new Fragment/wallet se **old Ads account** me fund aa gaya (unexp
 - Account free buffer left: **~0.63 TON**
 
 **Rule locked:** isi old Ads pe winners chalao. Naya empty Ads recreate zaroori nahi jab tak ye account fundable rahe. Agent/testing/7 refill mat karna.
+
+---
+
+## 30) 2026-09-02 Wave5 — all-India seller hunt (size split + method upgrade)
+
+Winners **mat chedo**: `8 new china pay` (~20 TON) + `china apps 10` (25 TON) Active. Free Ads balance **~0.63 TON** — naya ad UI min ~10 TON, isliye Wave5 **ready-to-launch**, live create next top-up (~15–20 TON) pe.
+
+### Method upgrade (kya seekha is round)
+
+| Rank | Method | 2026-09-02 status | Note |
+|---|---|---|---|
+| 1 | Competitor placement mining | **HTML Cloudflare-blocked**; `spy_ads.py` API still works | Browser search also CF-loop. Cached spy pages (e.g. Bhaaratpay ads) still leak placements |
+| 2 | Live `t.me/s` audit | **Mandatory** | Telemetr `avgViews` inflated vs live median — always re-audit |
+| 3 | Snowball @mentions | Works | Mostly support bots / sister groups, few new ads-eligible |
+| 4 | Spy creative dump | Works | Many **deal-clone / token-commission** CTAs — skip unless live seller intent |
+| 5 | Telemetr directory | Breadth OK | City queries (`usdt patna/mumbai/delhi/surat/kerala`) ≈ **zero ads inventory** |
+| 6 | Lyzem | Noisy | Vietnam/Morocco/custom-seller junk |
+| 7 | Web persona | Strategy only | Gulf remit / freelancer / export **real**, public TG Ads **thin** |
+
+**Naya rule:** City/state alag channel-set invent mat karo. USDT India me har jagah aata hai, lekin **Ads-eligible shelf** ab bhi china-pay app + gaming-fund + kuch P2P boards pe hai.
+
+### India me USDT kahan se aata hai (size × kahan catch)
+
+| Size | Kaun | State/city pattern | TG Ads catch |
+|---|---|---|---|
+| Nano &lt;100U | App workers, trial, stuck withdraw | Bihar/UP/WB/Gujarat mix | China-pay apps (proven) — junk DMs expected |
+| Small 100–1k | Micro P2P, small game agents, remit receive | Hindi belt + metros | Same apps + `cryptoto_inr`-type rate boards |
+| Mid 1k–10k | Active P2P, gaming-fund settlers, desk agents | Indore/Delhi/Pune/Hyd/Mumbai/Nagpur/BLR/Kolkata (GNS posts) | Gaming-fund desks (`honepay118`, SharkPay official) |
+| Bulk 10k+ | Corp/MQR suppliers, OTC, hawala/remit chains | Kerala–Dubai, Mumbai, Surat export — **mostly WhatsApp/groups** | Proxy: hottest agent desks (`rspay6`) — **weak CTR history**, alag chhota test only |
+| Regional F2F | Jaipur/Delhi/Hyd cash | City groups | **Preview-restricted — Ads me nahi** |
+| Gulf family | Kerala/Hyd/Lucknow receivers | Malayalam/cash groups | Restricted (`keralausdt`, `usdtmalayali`) |
+| Freelance/export | BLR/Hyd/Surat | Almost no public channels | Proxy via rate boards + bulk creative |
+
+**DROP forever still:** famous crypto edu · betting tips/Diuwin/Tiranga prediction · flash USDT · KissPay/WorldPayRMB-style **fraud-fund rate cards** · Stake megas.
+
+### Wave5 Primary 8 (ZERO overlap with Active china-pay 8 + china-apps 8 + exhausted 8)
+
+Live audit 2026-09-02. Mix: 4 china-app (proven pattern) + 1 P2P seller board + 2 mid-bulk fund rails + 1 deal/usdt-rate.
+
+| # | Handle | Subs | Med views | Stale | Size | Lane | Why |
+|---|---|---|---|---|---|---|---|
+| 1 | `@lgpay_official` | ~10.7k | ~431 | 0d | nano–small | china_app | Hottest unused china-pay official |
+| 2 | `@mmoney_official2` | ~5.6k | ~695 | 0d | nano–small | china_wallet | Live game-fund wallet; high views |
+| 3 | `@bhaartpay` | ~2.4k | ~314 | 0d | small | usdt_erupee | Competitor USDT↔eRupee advertiser |
+| 4 | `@quickpayoffical1` | ~1.8k | ~245 | 0d | nano–small | china_app | QuickPay official; sell-quota language |
+| 5 | `@cryptoto_inr` | ~3.1k | ~437 | 0d | small–mid | p2p_board | Live “buying USDT / escrow” — sellers browse |
+| 6 | `@honepay118` | ~1.1k | **~1440** | 2d | mid–bulk | gaming_fund | Was weak WATCH; now hottest engagement |
+| 7 | `@tatapay_acc` | ~2.6k | ~636 | 0d | mid | sharkpay_official | Official **channel** (≠ paused `@sharkpaypayment` group) |
+| 8 | `@DracoDeall` | ~2.3k | ~318 | 1d | nano–small | deal_paisabase | Competitor “usdt rate” placement lane |
+
+**Swap if reject / weak delivery:** `@SuperDeall776` (1.3k/362, ATGPay deal) · `@hoyopay_offical` (452/708 live but &lt;1k Ads risk) · `@rspay6` (9.3k/**3210** bulk MQR — agent-lane, optional **alag** 10 TON test only).
+
+**Creative:** same `We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate` · dest `t.me/safepathdeals` · CPM ~4.5–5 · Pin: `Sirf USDT sell. Amount + network. App login/support nahi.`  
+Bulk optional 2nd ad later: `Min 500–1000U · Bank · settlement welcome` on `honepay118`+`tatapay_acc`+`rspay6`.
+
+### Explicit SKIP this hunt
+- Active/exhausted/proven 16+8 — overlap waste
+- Agent-set refill (`mvpay9526`…`linkpay888jack`) — already weak CTR
+- `@rspay6` as **primary mix** — Axis/HDFC Domain mule-recruit; same failure mode as agent ad
+- `@atg_india` — ab Russian job-spam → DROP
+- `@ttwalletchannel` — 714d dead views
+- `@ndpay888` — still restricted/DEAD
+- `@cryptopay06` / `@allpayapp_com` — inflated / clone-spam
+- Diuwin / Tiranga / giftcode prediction — DROP
+- `@COME_Channel_0` / `@bharatservice1` — dukhdha / TrustPay-Float
+- KissPay / WORLDPAYRMB — BLOCK (criminal-fund pricing)
+- City F2F / Kerala / Dubai cash groups — not Ads inventory
+- Deal clones with &lt;200 med or bots-only CTAs
+
+### Ops
+1. Winners chalne do (china pay + china apps).
+2. Next top-up **≥15–20 TON** → create **`wave5 mix 8`** (upar table), CPM 4.5, 15–20 TON. Agent leftover 5.82 freeze hi rehne do.
+3. CPA/joins 3–5 din → agar china-app slots convert karein to unko refill; agent-ish slots (`honepay`/`tatapay`) weak hon to SuperDeall/hoyopay swap.
+4. Alag city geo list **mat** banao.
 

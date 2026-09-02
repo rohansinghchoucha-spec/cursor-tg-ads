@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 — paid research stack: TGAdsSpy Pro $49 first; Enterprise $499 later  
+**Last updated:** 2026-09-02 — free max hunt: 544 telemetr + spy advertiser slugs; shelf already mapped  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)

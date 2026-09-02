@@ -128,8 +128,8 @@
     },
     "diwapay_support_crypto": {
       "status": "DROP",
-      "lane": "china_pay",
-      "note": "~250 views weak"
+      "lane": "hijack_loot",
+      "note": "2026-09-02: 22.9k/173 Mantri Mall loot hijack — not Diwa sellers"
     },
     "Ez_india": {
       "status": "RUNNING_TEST",
@@ -903,8 +903,8 @@
     },
     "quickpaynetwor": {
       "status": "DROP",
-      "lane": "task_wallet",
-      "note": "QuickPay task/redeem junk — not sellers"
+      "lane": "wrong_product",
+      "note": "Wrong QuickPay — wallet tasks/giveaway not India USDT desk"
     },
     "quickpaybdofficialupdate": {
       "status": "DROP",
@@ -1212,9 +1212,9 @@
       "note": "148 subs RS wallet exclusive"
     },
     "smartpay_777": {
-      "status": "DROP",
-      "lane": "weak",
-      "note": "1.4k/med81"
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "China-app clone live but med views 81 — too weak"
     },
     "trustpaynow": {
       "status": "READY_PACK",
@@ -1400,6 +1400,26 @@
       "status": "WATCH",
       "lane": "restricted",
       "note": "Hoyopay token selling — preview restricted"
+    },
+    "officialskypay": {
+      "status": "DROP",
+      "lane": "agent_not_seller",
+      "note": "2026-09-02: 13.8k/7635 live but bank/MQR agent recruit — same fail as agent settlement 10"
+    },
+    "diwaappcode": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "Yono gift codes"
+    },
+    "jaypay_988": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "Elite Earners loot/signup — not JayPay official"
+    },
+    "Officialnews00": {
+      "status": "DROP",
+      "lane": "earn_clone",
+      "note": "MMPay earn clone + generic news"
     }
   },
   "competitors_to_spy": [
@@ -2444,5 +2464,10 @@
       "Enterprise in month 1"
     ],
     "expected": "More complete china-app inventory, not a new whale class. New 8 quality similar to china apps 10."
+  },
+  "free_max_hunt_2026_09_02": {
+    "telemetr_rows": 544,
+    "verdict": "Ads-eligible china seller shelf already mapped. Wave2 remains next 8. Paid unlock = competitor placements not more titles.",
+    "next_ad": "china_wave2"
   }
 }

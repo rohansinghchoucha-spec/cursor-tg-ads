@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 11:58 UTC live Ads: CPM still mat badhao (saturation, not lost auction)  
+**Last updated:** 2026-09-02 — paid research stack: TGAdsSpy Pro $49 first; Enterprise $499 later  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1141,4 +1141,25 @@ Agent settlement / testing / 7 — refill zero. Cheap @3.00 fail; testing @6.00 
 2. China wave2 15–20 TON @ 4.50 — §34 C wala 8.
 3. Ad2 / agent / testing / movies / famous edu — nahi.
 4. Creative/pin pe min-size gate for 500/5000U.
+
+---
+
+## 35) Paid research stack (2026-09-02) — kya khareedna, kya expect
+
+Free pe bottleneck: TGAdsSpy **HTML Cloudflare**; anon API offset shallow; Telemetr/Lyzem 20-result pages. Live `t.me/s` audit free hi rahega.
+
+**Pehle ye lo (~$75/mo), API key / login mujhe do:**
+
+| # | Tool | Price | Kya unlock | Mujhe kya do |
+|---|---|---|---|---|
+| 1 | **TGAdsSpy Pro** | **$49/mo** | Deep history, 50k-row page, Showx/Mobius/Laxmi creatives + CTA channels | `X-Api-Key` (https://tgadsspy.com/account/api-keys) |
+| 2 | **Telemetr.io Pro** (ya TGStat Premium similar-channels) | **~$25–40/mo** | `diwapay`/`mobiuspe0` ke **similar** public channels + ads-index + fake-sub tags | login ya API token |
+
+**Baad me, sirf agar Pro se placement list abhi bhi adhoori lage:** TGAdsSpy **Enterprise $499/mo** — “advertiser buy map” (ShowxPay ne exactly kaunse channels khareede). Pehle month skip.
+
+**Mat khareedo:** random “USDT seller lead list”, scraped group dumps, Ads “Similar channels” mix (pehle weak), $499 turant.
+
+**Performance expectation (honest):** Paid tools **nayi audience class nahi** kholte (5k OTC whales Ads pe nahi). Woh **usi China-pay shelf ki baaki official apps** jaldi + complete nikalte hain (jaise `wallet_999pay` revive). Naya 8-pack quality ≈ `china apps 10` (CTR strong, joins mixed, kabhi converting seller). 3× seller magic nahi. Restricted groups paid se bhi Ads-target nahi hote.
+
+**Ops:** keys chat me paste / env. Telegram phone session groups ke liye **mat do** — unpe Ads nahi lagte.
 

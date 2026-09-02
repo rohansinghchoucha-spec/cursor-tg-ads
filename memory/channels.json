@@ -2420,5 +2420,29 @@
       "china_pay_left": 19.7,
       "free_ton": 0.63
     }
+  },
+  "paid_research_stack_2026_09_02": {
+    "buy_first": [
+      {
+        "tool": "TGAdsSpy Pro",
+        "usd_mo": 49,
+        "give": "X-Api-Key"
+      },
+      {
+        "tool": "Telemetr.io Pro or TGStat Premium",
+        "usd_mo": 25,
+        "give": "login or API token"
+      }
+    ],
+    "buy_later_only": {
+      "tool": "TGAdsSpy Enterprise buy-map",
+      "usd_mo": 499
+    },
+    "skip": [
+      "seller lead lists",
+      "Ads similar-channels mix",
+      "Enterprise in month 1"
+    ],
+    "expected": "More complete china-app inventory, not a new whale class. New 8 quality similar to china apps 10."
   }
 }

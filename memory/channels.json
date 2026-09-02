@@ -2222,18 +2222,26 @@
     "balance_free_ton": 0.63,
     "active": {
       "china apps 10": {
-        "budget_left": 25.0,
+        "status": "Active",
         "cpm": 4.5,
-        "joins": 105,
-        "views": 10005,
-        "clicks": 2109
+        "budget_left": 24.18,
+        "views": 10188,
+        "clicks": 2135,
+        "joins": 111,
+        "ctr": 0.209,
+        "views_per_day_now": "1000-2000",
+        "peak_views_day": "4000 Aug 29"
       },
       "8 new china pay": {
-        "budget_left": 19.93,
+        "status": "Active",
         "cpm": 5.0,
-        "joins": 211,
-        "views": 12933,
-        "clicks": 1066
+        "budget_left": 19.7,
+        "views": 12994,
+        "clicks": 1073,
+        "joins": 216,
+        "ctr": 0.083,
+        "views_per_day_now": "400-600",
+        "peak_views_day": "1600 Aug 18"
       }
     },
     "on_hold": {
@@ -2252,7 +2260,9 @@
       "8 channel testing",
       "7"
     ],
-    "next": "Do not raise CPM. Do not create until TON. Then China wave2 8 (wallet_999pay…quickpay). Ad2 mix later only."
+    "next": "Do not raise CPM. Do not create until TON. Then China wave2 8. Ad2 mix later only.",
+    "checked_at_utc": "2026-09-02 11:58",
+    "cpm_call": "Do not raise. Decline is frequency saturation of the same 8s, not lost auction. Next inventory = China wave2 @4.50."
   },
   "wave5_2026_09_02": {
     "goal": "New zero-overlap 8 for Indian USDT sellers all sizes; do not touch running winners",
@@ -2364,7 +2374,7 @@
   "ready_packs_2026_09_02": {
     "do_not_create_until_ton": true,
     "account_free_ton": 0.63,
-    "cpm_call": "Do NOT raise running CPMs. china pay 5.00 and china apps 4.50 stay. Extra TON = refill + China wave2 @4.50. Raise apps 4.50→5.00 only if views/day dying with budget left.",
+    "cpm_call": "Do not raise. Decline is frequency saturation of the same 8s, not lost auction. Next inventory = China wave2 @4.50.",
     "ad1_superseded": true,
     "ad2_optional_later": true,
     "china_wave2": [
@@ -2404,6 +2414,11 @@
     },
     "whale_5k": "No Ads-eligible 8. Restricted groups + CEX P2P. Filter via Min 500U / 5000U welcome on China lane. Do not revive agent 8.",
     "live_audit_utc": "2026-09-02 ~12:00",
-    "note": "Own-money: China wave2 only. Old Ad1 deal-clones cut. Ad2 mix not China/whale."
+    "note": "Own-money: China wave2 only. Old Ad1 deal-clones cut. Ad2 mix not China/whale.",
+    "live_ads_1158": {
+      "china_apps_left": 24.18,
+      "china_pay_left": 19.7,
+      "free_ton": 0.63
+    }
   }
 }

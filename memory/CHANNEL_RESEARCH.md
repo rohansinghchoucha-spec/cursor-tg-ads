@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 — China/whale re-audit: Ad1 upgraded; Ad2 optional; CPM mat badhao  
+**Last updated:** 2026-09-02 11:58 UTC live Ads: CPM still mat badhao (saturation, not lost auction)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1117,16 +1117,24 @@ Jo “bulk” public channels hain (`@rspay6` `@mvpay9526` `@sharkpaypayment`) w
 
 Ad2 mix (`rspay6` `bcgame` `cryptoto_inr` `DubaiOTCrates` `bedane` …) = **alag experiment**. `cryptoto_inr` posts $100–200. Dubai AED. Casino depositors. **Apna paisa pehle yahan nahi.** China wave2 convert kare tab sochna.
 
-### E) Running ads ka CPM — **abhi mat badhao**
+### E) Running ads ka CPM — **abhi mat badhao** (live dashboard 2026-09-02 11:58 UTC)
 
-| Ad | CPM ab | History | Call |
-|---|---|---|---|
-| `8 new china pay` | **5.00** | Best volume + convert | **Rehne do.** 6–7 pe quality nahi badlegi, sirf mehnga. Purana testing @6.00 bhi junk/exhaust. |
-| `china apps 10` | **4.50** | Best CTR (12.6%) / cheapest join | **Rehne do** jab tak views/day healthy. Auction haar rahe ho (budget bacha + views gir) tab **4.50 → 5.00**. 5.50+ nahi. |
-| `agent settlement` | 4.50 | Weak CTR | CPM issue nahi tha — audience galat. **Refill zero.** |
-| Ad `7` | 3.00 | Dead | Cheap CPM fail — wapas mat.
+| Ad | Status | CPM | Left | Views | Clicks | Joins | Views/day now |
+|---|---|---|---|---|---|---|---|
+| `china apps 10` | Active | **4.50** | 24.18 | 10,188 | 2,135 | 111 | ~1–2k (peak ~4k Aug 29) |
+| `8 new china pay` | Active | **5.00** | 19.70 | 12,994 | 1,073 | 216 | ~400–600 (peak ~1.6k Aug 18) |
 
-**Rule:** Extra TON = **budget refill** winners + China wave2, CPM bid-war nahi. CPM audience change nahi karta — same 16 channels pe mehnga view kharidta hai. Whales CPM se nahi aate.
+Free TON **0.63**. CTR ab: china apps **~21%** (best), china pay **~8.3%**.
+
+Girna = **usi 8-set pe frequency saturate**, auction haar nahi. Budget still spending. CPM 5→6 se naye whales nahi aate — remaining same users mehnga padte hain.
+
+| Call | |
+|---|---|
+| china apps 4.50 | **Rehne do.** 1–2k/day abhi healthy + CTR zabardast. 4.50→5.00 tabhi jab &lt;300 views/day + budget bacha. |
+| china pay 5.00 | **Rehne do.** 400–600 = late saturation of proven 8. Next inventory = China wave2, CPM bump nahi. |
+| Extra TON | Refill jab spent + wave2 @4.50. Bid-war nahi. |
+
+Agent settlement / testing / 7 — refill zero. Cheap @3.00 fail; testing @6.00 quality nahi laaya.
 
 ### F) Ops after TON (create still MAT until user bole)
 1. Winners Active rehne do. Spent hon to refill same CPM.

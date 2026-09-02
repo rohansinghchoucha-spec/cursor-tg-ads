@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 — Spy PRO live then 24h quarantine; Telemetr bot key = FREE API not website Advanced  
+**Last updated:** 2026-09-02 — Telemetr public Ads advertisers = gambling top-5; Advanced still needs phone CSV  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1179,7 +1179,9 @@ Keys sirf `/tmp/nexa_keys.env` (chmod 600). **Kabhi memory/ git / PR me mat likh
 | `POST /v1/channels/add` | **400** Only for paid users |
 | `GET /v1/channel/info` + `/mentions` | **400** free = Telegram/Telemetr **verified chats only** |
 
-Website `telemetr.io` is VM se Cloudflare challenge; Chrome login = Telegram QR (phone pe alag session, inherit nahi hota). **Paid Advanced use karne ka rasta:** phone pe login → Tools / Telegram Ads / similar channels → Excel CSV yahan bhejo. Extra Telemetr **API S $25 / M $65 mat khareedo** jab tak website CSV na chale — woh alag product hai, $55 website ko API nahi banata.
+Website `telemetr.io` is VM se Cloudflare challenge; Chrome login = Telegram QR (phone pe alag session, inherit nahi hota). **OTP / Telegram web login cloud pe mat do.** **Paid Advanced use karne ka rasta:** phone pe login → Tools / Telegram Ads / similar channels → Excel CSV yahan bhejo. Extra Telemetr **API S $25 / M $65 mat khareedo** jab tak website CSV na chale — woh alag product hai, $55 website ko API nahi banata.
+
+Public (logout) `https://telemetr.io/en/tg-ads/advertisers?country=india` = sirf **top 5** per column, **sab gambling/betting/trading** (1Win, INV.COM, lottery bots). China-pay / We Buy USDT wahan nahi. Search + CSV = Advanced login.
 
 ### Always-on playbook (har chat)
 
@@ -1234,5 +1236,7 @@ Spy PRO burst (laxmi query = matka pollution) + Telemetr `@handle` resolve + liv
 Telemetr resolve (search only, info locked): `diwapay` 60.9k · `linkxwalletnow` 32.8k · `linkpay8` 23.3k · `wallet_999pay` 26.5k · `upaywalle_mahagames` 18.7k · `ddpay9999` 16.5k · `lgpay_official` 10.7k · `jaypay_8` 7.0k · `t_zkpay_999pay` 7.4k · `mmoney_official2` 5.6k · `trustpaynow` 4.0k · `alexpay_channel` 3.6k · `wiseway_payment` 3.4k · `atgofficiale` 3.3k · `ultrapay_official` 3.3k · `bhaartpay` 2.4k · `atgpay_iop` 2.0k · `hoyopay` 1.8k. Missing in Telemetr search: `showpayindia` `mobiuspe0` `MeteorpayEliteChannel00011` `mobiuspayofficial1` `Ez_india` `quickpayoffical1` `CryptoMarketHubb` — website catalog hi nikalega.
 
 **Next ad after TON:** still §34 China wave2 @ 4.50. Spy un-quarantine ke baad slow `tg-showxpay` / `tg-mobiuspe0` creatives; website CSV aaye to similar-overlap.
+
+Chrome public Ads advertisers (India, no login): top-5 = 1Win / INV.COM / Trade Doctor / IE777 / lottery bots — **kisi ko mat target**. China-pay names is wall ke peeche hain.
 
 

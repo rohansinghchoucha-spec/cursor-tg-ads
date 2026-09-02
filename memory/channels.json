@@ -2480,6 +2480,12 @@
       "works": "GET /v1/channels/search?term=@handle&peer_type=Channel",
       "do_not_buy": "API S $25 / M $65 until website CSV workflow is tried"
     },
+    "telemetr_public_ads_advertisers_india": {
+      "url": "https://telemetr.io/en/tg-ads/advertisers?country=india",
+      "without_login": "top 5 per column only",
+      "visible": "gambling/betting/trading (1Win, INV.COM, lottery bots) — skip",
+      "china_pay": "not in public top 5; needs Advanced CSV"
+    },
     "buy_later_only": {
       "tool": "TGAdsSpy Enterprise/Business buy-map",
       "usd_mo": 499

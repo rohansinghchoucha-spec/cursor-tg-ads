@@ -162,7 +162,13 @@
     "advertisers": 3485,
     "creatives": 17134,
     "top_niches": ["gambling", "trading", "betting", "casino"],
-    "do_not_target_unfiltered_top": true
+    "do_not_target_unfiltered_top": true,
+    "why": "Unfiltered India top = 1Win-class advertisers, not USDT-seller shelves. Quality USDT buyers (Mobius/ATG/LG) niche=crypto and buy china-pay official apps. Showx sprays inflated P2P/flash."
+  },
+  "payout_vs_spray_2026_09_03": {
+    "holders_exist_in_casino_loot": true,
+    "catch_on": "china-pay cashout desks + gaming-fund rails (Meteor/Zk already in china apps; honepay118 WATCH after wave2)",
+    "do_not_copy": "tip/loot-YT/flash placements of cheap we-buy-USDT ads"
   },
   "buy_map": {
     "endpoint": "/advertisers/{slug}/channels",

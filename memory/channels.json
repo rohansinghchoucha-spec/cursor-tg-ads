@@ -554,7 +554,7 @@
     "gnspay_upi": {
       "status": "RUNNING_TEST",
       "lane": "gaming_fund",
-      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+      "note": "HOLD agent-10. 2026-09-03 live 3.05k/623/0d GNS-Game King — payout rail real, but ad was mule-mix. Do not refill."
     },
     "wiseway_payment": {
       "status": "PROVEN",
@@ -1024,7 +1024,7 @@
     "honepay118": {
       "status": "WATCH",
       "lane": "gaming_fund",
-      "note": "§34 OPTIONAL later — mule/game-fund D0"
+      "note": "2026-09-03 live 1.12k/med 1450/3d Honeypay gaming funds. OPTIONAL payout-pack AFTER wave2+wave3. Not China wave2. Agent-10 mat mix."
     },
     "win777vip9": {
       "status": "DROP",
@@ -3069,6 +3069,35 @@
     ],
     "no_new_ads8": true,
     "final_best": "running 16 + china_wave2 8 + wave3 umoney/ezpay. Do not create until TON.",
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
+  },
+  "hunt_2026_09_03_payout_vs_spray": {
+    "thesis": "Casino/loot audiences can hold USDT (payouts). Catch them on cashout desks + gaming-fund rails, not tip/loot-YT spray.",
+    "telemetr_placement_mix_buyer_ads": {
+      "other_cheap": 88,
+      "loot_earn": 26,
+      "china_pay_official": 13,
+      "tips_signals": 10,
+      "gaming_fund_rail": 1
+    },
+    "quality_competitors_buy": "china_pay official (Mobius/ATG/LG)",
+    "cheap_competitors_spray": "tips/loot/flash/inflated P2P (Showx)",
+    "acche_count": {
+      "running_do_not_retarget": 16,
+      "wave2_next": 8,
+      "wave3": 3,
+      "optional_payout_experiment_after": [
+        "honepay118",
+        "tf_exchange",
+        "cryptoto_inr",
+        "bcgame_india",
+        "tamilp2pusdt",
+        "jaipayofficialchannel",
+        "CryptoMarketHubb"
+      ],
+      "spend_sequence_total_approx": "31-34"
+    },
     "next_ad": "china_wave2 @ 4.50 after TON",
     "do_not_create": true
   },

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Spy website login saved (@Jawan010 PRO) §44. User reverse-spy + Telemetr overlap/mentions + airdrop/forex/SMM run. Next ad still China wave2. Pro API locked till ~2026-09-04 08:23 UTC.  
+**Last updated:** 2026-09-03 — §45 casino/loot payout holders vs cheap-spray; competitor category mix; acche-channel count. Next ad still China wave2. Pro API locked till ~2026-09-04 08:23 UTC.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1642,4 +1642,52 @@ Swap: `@CryptoMarketHubb`. Spy confirm: Mobius + LG Pay **abhi bhi** inhi pe USD
 **Kabhi nahi (is pass dubara fail):** testing 8, agent 8, ad 7, famous edu (`shivamcryptouniverse` / WazirX), airdrop/loot, Exness/forex signals, SMM, Showx dest, inflated P2P names, mule-QR. WATCH-only thin: `@tamilp2pusdt`.
 
 Pin on China packs: `Min 500 USDT. 5000U+ welcome.` Public whale-8 exist nahi.
+
+---
+
+## 45) 2026-09-03 — casino/loot pe USDT hold hota hai? Competitor categories + kitne acche mile
+
+User: dusre buyers casino/loot pe ads laga rahe hain → wahan audience USDT hold karti hogi (casino payout, loot USDT). Dimag laga; kitne acche channels mile; competitors kaunsi category pe focus karte hain.
+
+**Angle sahi hai. Placement copy karna galat hai.** Holder **wahan paida** hota hai, **bechta** kisi cashout desk pe.
+
+### A) Teen alag shelves (mix mat karo)
+
+| Shelf | USDT kahan se aata | Ads pe kahan catch | Hamara result |
+|---|---|---|---|
+| **1. Cashout desk (china-pay official)** | Casino/game/loot/P2P ke baad log **app pe USDT→INR** | Diwa/Link/ATG/999/Mobius… ATG copy khud: *Safe / Gaming / Mix ₹111* | **BEST.** `8 new china pay` convert + Mobius/LG **yahi** khareedte hain |
+| **2. Gaming-fund rail** | Bookie/rummy **company funds** settle; agents ke paas USDT | GNS / Honeypay / Meteor / ZkPay rate boards | **REAL.** Meteor+Zk **already** china apps 8 me. GNS agent-10 me tha (mule mix, refill mat) |
+| **3. Cheap spray** | Buyer ko sasta CPM chahiye, holder nahi | Tips, YT loot, wallpaper, flash, inflated P2P | Telemetr “we buy USDT” placements aaj: **other_cheap 88 + loot 26 + tips 10 vs china-pay 13**. Testing-8 (`kunal_loots`) joins diye, seller quality nahi. **Showx** yahi spray karta hai |
+
+Casino mega (`@stakecasino` `@bcgamewin`) = deposit/bonus codes, galat geo. Loot YT = chhota ticket / gift-code, converting seller nahi.
+
+### B) Competitors kaunsi category pe paise laga rahe (Spy logged-in + AdsSearch2)
+
+| Advertiser | Spy niche | Focus | Copy-worthy? |
+|---|---|---|---|
+| **MobiusPe** `@mobiuspe0` | Crypto | **China-pay official** (diwa/link/999/atg) + thoda testing-8 loot | Desk **haan**. `kunal_loots` **nahi** |
+| **ATG / Trust** `@atgpay_iop` | Crypto + **Gaming** | China-pay + jaypay; copy *Safe/Gaming/Mix* | Gaming **audience** china-pay pe catch. WazirX spray DROP |
+| **LG Pay** | Crypto + Finance | `wallet_999pay` + flash/HYIP mix | Dest wave2. Flash **nahi** |
+| **EZPay** | Crypto | WAVE3 trees / running `@Ez_india` | Desk |
+| **Showx** | Crypto | Inflated P2P + flash | **DROP dest** |
+| **Laxmi** | Crypto naam, satta | Matka | **BLOCK** |
+| Cheap “we buy USDT” ads | — | Dest = Paxful APK / video-call bots; place = movies/loot/tips | Ignore |
+| Unfiltered Spy India top niches | gambling / trading / betting / casino | 1Win-class **advertisers**, hamare sellers nahi | Top wall **mat** target |
+
+**Rule:** Quality USDT buyer **desk** khareedta hai (shelf 1). Cheap buyer **spray** karta hai (shelf 3). Hum shelf 3 isliye nahi lete ke wahan ads dikhe — wahan holder density kam, CPA loot.
+
+### C) Kitne acche channels mile (memory 352 tracked)
+
+| Bucket | Count | Handles / note |
+|---|---|---|
+| **A — running, mat retarget** | **16** | china pay 8 PROVEN + china apps 8 RUNNING_TEST |
+| **B — next naya ad** | **8** | China wave2 READY_PACK |
+| **C — wave2 ke baad** | **3** | WAVE3 `@umoney_wallet_official` `@ezpay_rogen` `@ezpay_rotio` |
+| **D — genuine unused experiment** (alag ad, China pack me nahi) | **~7** | Gaming-fund/board: `@honepay118` **1120/1450/3d live**, `@tf_exchange` 5.0k/770, `@cryptoto_inr` 3.2k/529, `@bcgame_india` 7.6k/480, `@tamilp2pusdt` 3.0k/203, `@jaipayofficialchannel` thin, swap `@CryptoMarketHubb` |
+| **Already in A, payout-rail** | 3 | `@MeteorpayEliteChannel00011` 4.9k/4180, `@t_zkpay_999pay` 7.4k/616, `@upaywalle_mahagames` proven but org 115d stale |
+| Rest tracked | 202 DROP + 94 WATCH mix (sisters/restricted/thin) + exhausted 8 + agent HOLD | Quality nahi |
+
+**Spend sequence:** A refill → **B wave2 @ 4.50** → C WAVE3 → tab soch D payout-pack (`honepay118` + `tf_exchange` + `cryptoto_inr` + optional `bcgame_india`). Agent-10 (`gnspay_upi` live 3.0k/623 lekin mule mix) **refill mat**. Showx/loot-YT/tips **kabhi nahi**.
+
+Acche **Ads-eligible jinpe sequence me paisa lagana worth hai ≈ 16+8+3 + ~4–7 = ~31–34**, infinite nahi. 352 me se 202 DROP locked.
 

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — §45 casino/loot payout holders vs cheap-spray; competitor category mix; acche-channel count. Next ad still China wave2. Pro API locked till ~2026-09-04 08:23 UTC.  
+**Last updated:** 2026-09-03 — §46 in-channel ads + CPM: Spy `CPM (est.)` sab pe dash; exact rival bid nahi milta. Running 5.00 / 4.50 rehne do; wave2 @ 4.50. Pro API locked till ~2026-09-04 08:23 UTC.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1690,4 +1690,89 @@ Casino mega (`@stakecasino` `@bcgamewin`) = deposit/bonus codes, galat geo. Loot
 **Spend sequence:** A refill → **B wave2 @ 4.50** → C WAVE3 → tab soch D payout-pack (`honepay118` + `tf_exchange` + `cryptoto_inr` + optional `bcgame_india`). Agent-10 (`gnspay_upi` live 3.0k/623 lekin mule mix) **refill mat**. Showx/loot-YT/tips **kabhi nahi**.
 
 Acche **Ads-eligible jinpe sequence me paisa lagana worth hai ≈ 16+8+3 + ~4–7 = ~31–34**, infinite nahi. 352 me se 202 DROP locked.
+
+---
+
+## 46) 2026-09-03 — final 27 pe kaunsa bada ad + kitna CPM
+
+Sawal: har final channel pe kya bada ad chal raha hai, usse **exact CPM** nikalna.
+
+**Seedha jawab:** Telegram Ads rival bid **publish nahi karta**. Spy Pro channel page pe `CPM (est.)` **har handle pe `—` (dash)** hai — number nahi. Telemetr `adsIndexGrade` demand/quality proxy hai, CPM nahi. Jo **exact** number hai woh sirf **hamara live auction**:
+
+| Ad (running) | Hamara CPM | Live feel (2026-09-02 dash) |
+|---|---|---|
+| `8 new china pay` | **5.00** | 400–600 views/day, late saturation of same 8 |
+| `china apps 10` | **4.50** | CTR ~21%, still the better CPA lane |
+| Purana cheap ~3.00 | fail | delivery near-zero historically |
+
+**Isliye CPM call nahi badla:** running 16 ka CPM **mat badhao**. Next naya ad = China wave2 @ **4.50**. Bid-war 6+ mat.
+
+Method (cookie GET `tgadsspy.com/channels/<handle>`, no API key): 27/27 pages 200. Telemetr GetById adsIndex jahan ID mili. Dest-ads (`AdsSearch2 destChannel`) = channel **promote** karne wale loot invites, auction CPM nahi.
+
+### A) china pay 8 — RUNNING @ 5.00 — mat retarget
+
+| Handle | Spy ads indexed | Spy top advertisers (count) | Telemetr grade | Read |
+|---|---|---|---|---|
+| `@diwapay` | **32** | loot: titandeal777 9, glacierdeal1 7, luxedeallll 6 · desk: cryptomarkethubb 4, base_pay 4 | **B+** | Hottest shelf. Spy last-check “inaccessible”; live t.me/s pehle theek. Archive ads loot-heavy, desks bhi hain |
+| `@linkpay8` | **30** | laxmifundscommunity 5 (DROP satta), signal traders, **loots_pay 4** | **A** | Competitive; quality desk mixed with junk |
+| `@linkxwalletnow` | **30** | signals + **cryptomarkethubb 4** | **C+** | Same 30-cap junk+desk mix |
+| `@atgpay_iop` | **31** | loot titandeal/glacier + **cryptomarkethubb 4, mobiuspe0 4** | **B+** | Quality USDT desks **confirm** this shelf |
+| `@upaywalle_mahagames` | **30** | mmast79 14, bigpromocodebot 5 (loot) | **D** (adsIndex 0) | Spy count high, Telemetr weak — loot spray, not desk war |
+| `@wiseway_payment` | **30** | bots/signals/deals | **A** | Competitive junk; keep 5.00 already on this pack |
+| `@alexpay_channel` | **0** | — | **C+** | Quiet auction; already in running 8 |
+| `@showpayindia` | **0** / collecting | — | **B** | Spy empty; live audit pehle theek. CPM bump se nahi bharega |
+
+### B) china apps 8 — RUNNING @ 4.50 — mat retarget
+
+| Handle | Spy ads | Top | Telemetr | Read |
+|---|---|---|---|---|
+| `@ddpay9999` | **30** | signal “not_bot” traders | **A** | Hot for junk ads; 4.50 already delivering |
+| `@jaypay_8` | **30** | **atgpay_iop 6**, cryptomarkethubb 5, loot deals, laxmi | **B** | Real desk competition (ATG/CMH) |
+| `@t_zkpay_999pay` | **30** | fx bots + network_public + ismartlootss | **D** | Gaming-fund rail; junk ads on top |
+| `@mobiuspe0` `@MeteorpayEliteChannel00011` `@ultrapay_official` `@Ez_india` | **0** | — | ID thin / B+ ultrapay | Quiet as **placement**; they are advertisers elsewhere |
+| `@mobiuspayofficial1` | **1** | — | — | Almost empty |
+| `@quickpayoffical1` is wave2, not this pack | | | | |
+
+### C) wave2 — NEXT naya ad @ **4.50** (zero overlap)
+
+| Handle | Spy ads | Top | Telemetr | Auction vs 4.50 |
+|---|---|---|---|---|
+| `@bhaartpay` | **41** (highest) | glacierdeal / smart_loot / fintech junk | **A** | Sabse zyada indexed ads — loot spray, desk nahi. **4.50 se start**; under-deliver ho to isi ad ko 5.00, 6+ nahi |
+| `@wallet_999pay` | **30** | signal bots + elitedealll loot | **B** | Competitive count, junk-led |
+| `@mmoney_official2` | **30** | loot luxedeallll / finalldeal | **D** | Spy hot / Telemetr weak |
+| `@atgofficiale` | **30** | **showpay_fastsell 5** + glacier loot | **B** | Sister desk + junk |
+| `@quickpayoffical1` | **5** | — | ID missing | Light |
+| `@lgpay_official` `@trustpaynow` `@hoyopay` | **0** | — | B / C+ / **A** | Hoyopay grade A but Spy 0 ads — quiet placement, 4.50 enough |
+
+### D) WAVE3 — wave2 convert ke baad @ 4.50
+
+| Handle | Spy ads | Telemetr | Note |
+|---|---|---|---|
+| `@umoney_wallet_official` | 0 / collecting | **C+** | 25k members; Spy abhi empty |
+| `@ezpay_rogen` | 0 | **C+** | |
+| `@ezpay_rotio` | 0 / not-found collecting | **C+** | Spy “channel not found” archive; live handle alag se audit pehle |
+
+### E) “Bada ad” ka matlab — loot count ≠ high CPM whale
+
+Spy **top-by-ad-count** almost har garam channel pe **deal/loot/signal bots** hain (`titandeal777`, `glacierdeal1`, `luxedeallll`, `elitedealll`, `bigpromocodebot`, `traderr_lisa_not_bot` …). Ye cheap-spray cabinets hain. Unka 9 ads hona **8 TON CPM nahi** prove karta.
+
+Jo **asli USDT-desk** inhi channels pe dikhe:
+
+- `@mobiuspe0` → `@atgpay_iop` (4) + pehle reverse-map pe diwapay / linkpay8 / linkxwalletnow / wallet_999pay
+- `@cryptomarkethubb` → diwapay, linkxwalletnow, atgpay, jaypay
+- `@atgpay_iop` as advertiser → jaypay_8
+- `@showpay_fastsell` → atgofficiale
+- `@base_pay` / `@loots_pay` → exhausted testing-8 leftovers on diwapay/linkpay8
+
+Matlab quality competitor **usi 4.5–5 lane** me hai jahan hum already hain, alag mega-bid nahi.
+
+Telemetr dest-ads `@diwapay` pe 35 = **Diwa invite/loot spam jo Diwa ko promote karte hain**, channel ke andar ka auction nahi.
+
+### F) Locked ops
+
+1. Running 16 Active. CPM 5.00 / 4.50 **rehne do**.
+2. TON aaye to **China wave2 8 @ 4.50** (overlap zero). Pehle 5.00 mat.
+3. Wave2 agar `bhaartpay` / `wallet_999pay` pe views na aayein **tab** usi ad ko 5.00. 6+ / bid-war nahi.
+4. Ads create abhi nahi. Spy Pro API ~2026-09-04 08:23 UTC se pehle mat.
+5. Exact rival CPM Spy/Telemetr/Ads UI me **kabhi nahi milega** — ye dump final is sawal ke liye.
 

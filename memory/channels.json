@@ -3127,5 +3127,55 @@
       "ezpay_rotio"
     ],
     "note": "Do not dump 40 overlapping china-pay sisters in one ad. Sequence."
+  },
+  "cpm_inchannel_audit_2026_09_03": {
+    "method": "Spy website cookie GET /channels/<handle> (no X-Api-Key). Telemetr GetById adsIndex. destChannel ads = promote-spam, not placement CPM.",
+    "spy_cpm_est": "dash on every final handle — rival CPM unpublished",
+    "our_exact_cpm": {
+      "8 new china pay": 5.0,
+      "china apps 10": 4.5
+    },
+    "call": "Do not raise running CPMs. Next new ad china_wave2 @ 4.50. If wave2 under-delivers on bhaartpay/wallet_999pay only then 5.00 on that ad. No 6+ bid-war.",
+    "hottest_spy_ads_indexed": {
+      "bhaartpay": 41,
+      "diwapay": 32,
+      "atgpay_iop": 31,
+      "cap_around_30": [
+        "linkpay8",
+        "linkxwalletnow",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "ddpay9999",
+        "jaypay_8",
+        "t_zkpay_999pay",
+        "wallet_999pay",
+        "mmoney_official2",
+        "atgofficiale"
+      ]
+    },
+    "top_advertisers_are_mostly": "loot/deal/signal bots, not USDT-desk whales",
+    "quality_desks_seen_in_channel": {
+      "mobiuspe0": ["atgpay_iop"],
+      "cryptomarkethubb": ["diwapay", "linkxwalletnow", "atgpay_iop", "jaypay_8"],
+      "atgpay_iop_as_advertiser": ["jaypay_8"],
+      "showpay_fastsell": ["atgofficiale"]
+    },
+    "quiet_spy_zero_ads": [
+      "alexpay_channel",
+      "showpayindia",
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "ultrapay_official",
+      "Ez_india",
+      "lgpay_official",
+      "trustpaynow",
+      "hoyopay",
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "telemetr_grade_high": ["linkpay8 A", "wiseway_payment A", "ddpay9999 A", "bhaartpay A", "hoyopay A", "diwapay B+", "atgpay_iop B+", "ultrapay_official B+"],
+    "do_not_create": true,
+    "next_ad": "china_wave2 @ 4.50 after TON"
   }
 }

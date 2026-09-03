@@ -175,5 +175,19 @@
     "status": "403 BUSINESS / Enterprise $499",
     "pro_placementCount": 0,
     "workaround": "Public advertiser page lists TOP 10 placement channels (used 2026-09-03 Chrome)."
+  },
+  "in_channel_cpm_2026_09_03": {
+    "pages": "Cookie GET https://tgadsspy.com/channels/<handle> for final 27. No X-Api-Key. HTML gitignored local/hunt/cpm/spy_html/",
+    "cpm_est": "em dash on every handle — Spy does not publish rival CPM",
+    "ads_indexed_hot": {
+      "bhaartpay": 41,
+      "diwapay": 32,
+      "atgpay_iop": 31,
+      "many_at_30": true
+    },
+    "top_advertisers_pattern": "loot/deal/signal (titandeal777 glacierdeal1 luxedeallll) lead counts; USDT desks (mobiuspe0 cryptomarkethubb atgpay_iop showpay_fastsell) appear but are not volume leaders",
+    "diwapay_note": "Spy flags inaccessible/not-found on last check 2026-09-02; historical archive still has 32 ads",
+    "ezpay_rotio": "Spy channel-not-found / collecting, ads 0",
+    "exact_cpm_source": "only our live Ads CPMs 5.00 china pay / 4.50 china apps"
   }
 }

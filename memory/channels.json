@@ -2470,8 +2470,9 @@
         "tool": "Telemetr.io Advanced website",
         "usd_mo": 55,
         "credits": "keep default 250/mo; no extra pack month 1",
-        "give": "website login on phone + Excel CSV of Telegram Ads / similar",
-        "status": "PAID on website; bot /api_key is a different FREE Public API"
+        "give": "website session via @telemetr_io_bot Log in (not website popup)",
+        "status": "LIVE 2026-09-03 ADV ~259.95 credits; India advertisers 7249/208567 unlocked; default sort still gambling",
+        "login": "@telemetr_io_bot /start then Log in → telemetr.io/en#login=true&provider=telegram"
       }
     ],
     "telemetr_bot_api": {
@@ -2483,8 +2484,9 @@
     "telemetr_public_ads_advertisers_india": {
       "url": "https://telemetr.io/en/tg-ads/advertisers?country=india",
       "without_login": "top 5 per column only",
-      "visible": "gambling/betting/trading (1Win, INV.COM, lottery bots) — skip",
-      "china_pay": "not in public top 5; needs Advanced CSV"
+      "with_advanced": "7249 advertisers / 208567 channels (2026-09-03)",
+      "visible": "gambling/betting/trading still dominate unfiltered India sort — skip",
+      "china_pay": "not in unfiltered top; use on-page advertiser search + similar, do not Export"
     },
     "buy_later_only": {
       "tool": "TGAdsSpy Enterprise/Business buy-map",

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-02 — Telemetr public Ads advertisers = gambling top-5; Advanced still needs phone CSV  
+**Last updated:** 2026-09-03 — Telemetr Advanced website LIVE via `@telemetr_io_bot` Log in (ADV, 259.95 credits)  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1179,15 +1179,15 @@ Keys sirf `/tmp/nexa_keys.env` (chmod 600). **Kabhi memory/ git / PR me mat likh
 | `POST /v1/channels/add` | **400** Only for paid users |
 | `GET /v1/channel/info` + `/mentions` | **400** free = Telegram/Telemetr **verified chats only** |
 
-Website `telemetr.io` is VM se Cloudflare challenge; Chrome login = Telegram QR (phone pe alag session, inherit nahi hota). **OTP / Telegram web login cloud pe mat do.** **Paid Advanced use karne ka rasta:** phone pe login → Tools / Telegram Ads / similar channels → Excel CSV yahan bhejo. Extra Telemetr **API S $25 / M $65 mat khareedo** jab tak website CSV na chale — woh alag product hai, $55 website ko API nahi banata.
+Website `telemetr.io` Cloudflare Turnstile cloud Chrome pe lagta hai (checkbox / iframe click ke baad pass). **Website “Continue with Telegram” popup is Chrome me nahi khulta.** Kaam ka rasta (2026-09-03, confirmed): Telegram Web me **`@telemetr_io_bot` → `/start` → green `Log in` button** (`is-url-auth`). Callback: `https://telemetr.io/en#login=true&provider=telegram&first=false`. Header **ADV** + credits (~**259.95**). Extra Telemetr **API S $25 / M $65 mat khareedo** — website Advanced alag product hai, bot `/api_key` usko upgrade nahi karta.
 
-Public (logout) `https://telemetr.io/en/tg-ads/advertisers?country=india` = sirf **top 5** per column, **sab gambling/betting/trading** (1Win, INV.COM, lottery bots). China-pay / We Buy USDT wahan nahi. Search + CSV = Advanced login.
+Public (logout) India advertisers = top 5 gambling. **Logged-in Advanced** India page: **7,249 advertisers / 208,567 channels** — default sort phir bhi trading/lottery (IN7.COM, QueenHub, Manish Top Trader, BetFury). China-pay / Showx / Diwa is unfiltered top me nahi. **Export mat dabao** (credits). On-page advertiser search + similar-channels abhi pending (URL `?search=` unreliable).
 
 ### Always-on playbook (har chat)
 
 1. `source /tmp/nexa_keys.env` — Spy PRO + Telemetr search.
 2. Spy: competitor `/ads?advertiser=tg-showxpay|tg-mobiuspe0` + `channel-ad-load` on winners/wave2. Buy-map skip until Business/Enterprise.
-3. Telemetr bot: sirf `@handle` resolve / member count. Mentions-snowball website CSV se.
+3. Telemetr **website Advanced**: `@telemetr_io_bot` Log in (upar). Catalog/similar/Ads Index yahan. Bot API = sirf `@handle` resolve.
 4. Har naya handle → live `t.me/s` (`tools/audit_channels.py`). DROP/DEAD/BLOCK bina fresh audit ke wapas nahi.
 5. Ads create / CPM raise / running 16 retarget — **nahi**, jab tak user TON + bole.
 
@@ -1238,5 +1238,17 @@ Telemetr resolve (search only, info locked): `diwapay` 60.9k · `linkxwalletnow`
 **Next ad after TON:** still §34 China wave2 @ 4.50. Spy un-quarantine ke baad slow `tg-showxpay` / `tg-mobiuspe0` creatives; website CSV aaye to similar-overlap.
 
 Chrome public Ads advertisers (India, no login): top-5 = 1Win / INV.COM / Trade Doctor / IE777 / lottery bots — **kisi ko mat target**. China-pay names is wall ke peeche hain.
+
+---
+
+## 38) 2026-09-03 Telemetr Advanced website login (bot Log in)
+
+**Kaam kiya:** Telegram Web (Rohan / +44 7436 763940 session) → `@telemetr_io_bot` → `/start` → **Log in**. Website header **ADV**, credits **259.95**. Cloudflare Turnstile ek baar pass.
+
+**Mat use:** telemetr.io/en/login pe “Continue with Telegram” (popup block). Bot API `/api_key` se website session nahi banta.
+
+**Advanced India advertisers (7D, country=India):** 7,249 advertisers / 208,567 channels. Unfiltered top = gambling/trading/lottery — **kisi ko mat target**. China-pay desks (Showx/Mobius/Diwa/LinkPay) is default wall me nahi; next step = on-page advertiser search + channel similar (diwapay / wallet_999pay / lgpay_official), **Export nahi**.
+
+**Campaign rule unchanged:** running 16 mat chhedo. Next ad after TON = China wave2 @ 4.50.
 
 

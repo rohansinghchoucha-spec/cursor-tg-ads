@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — §47 dest `@safepathdeals` live audit + 100 TON split. Ghost DMs = rate-shop + app-support, zyada ads se nahi. Refill winners + wave2; `@nexadeskrates` dead. Pro API locked till ~2026-09-04 08:23 UTC.  
+**Last updated:** 2026-09-03 — §48 spend vs joins: old cumulative ≠ ab. Agent/testing/7 paani. China apps joins doosri half me giri. Naya paisa wave2; old me drip refill.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1814,17 +1814,84 @@ China-pay lane me mixed DMs **normal** (LinkPay login / rate-shop). Extra ads se
 4. Pehla DM: `Kitna USDT? Kaunsa network?` — pehle KYC/essay mat.
 5. Hafte me **1 proof** (blur UTR) + 1 “how we pay” — 8 clone rate posts nahi.
 
-### D) 100 TON split (create sequence, overlap zero)
+### D) 100 TON split — revised §48 (old me paani mat)
 
-| TON | Kahan | CPM |
-|---|---|---|
-| **25** | `china apps 10` refill, same 8 | **4.50** |
-| **20** | `8 new china pay` refill, same 8 | **5.00** |
-| **30** | **Naya** China wave2 8: `@wallet_999pay` `@lgpay_official` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@bhaartpay` `@hoyopay` `@quickpayoffical1` | **4.50** |
-| **15** | WAVE3 baad me (`umoney` + ezpay trees) — wave2 joins dikhein tab | 4.50 |
-| **10** | Account buffer | — |
-
-**Mat:** testing/agent/7, loot/edu, running 16 naye ad me dubara, CPM 6+.
+Pehle 25+20 refill socha. Spend-vs-joins audit ke baad: **old refill chhota, naya wave2 bada.** Table §48 D.
 
 KPI = converting seller DM, joins nahi. Pin+first-reply ke bina 100 TON = zyada ghost.
+
+---
+
+## 48) 2026-09-03 — kaunsa ad paani bahata hai, kis channel se join
+
+User: cumulative joins ko “ab aa rahe” mat gino; running ads me kis channel se join / kaun kha raha; naya vs old; organic genuine seller.
+
+**Hard limit:** Telegram Ads **per-channel joins nahi deta**. Sirf ad-level views/clicks/actions. Channel-level = live health + size proxy (bada/stale = impressions khaata). Last full dash **2026-09-02 11:58 UTC**. Aaj Ads UI login-wall (phone) — numbers neeche us snapshot + Aug 28 / Sep 1 spent se.
+
+### A) Lifetime vs AB — purani joining alag
+
+Dest `@safepathdeals` aaj **434**. Lifetime Actions ~**490** (china pay 216 + apps 111 + testing 131 + agent 26 + 7’s 7). Matlab purane joins **channel me nahi baithe** — unsubscribe / junk. Dashboard 205/111 ko “ab bhi aa rahe” mat padho.
+
+| Ad | Spent (Sep 1) | Joins life | TON/join | CTR | Ab kya |
+|---|---|---|---|---|---|
+| `8 new china pay` | ~58 | **205** | **0.28** | 8.3% | Pehle convert (Bihar). Peak ~1.6k views/day (18 Aug) → **400–600**. Volume thak gaya, join-rate utni nahi gira. **Drip refill only** |
+| `china apps 10` | ~45 | 105→111 | 0.43 life | **21%** clicks | **Joins doosri half me giri:** Aug 28: 86 joins / 4.4k views (1.93%). Sep 1: +19 joins / +5.6k views (**0.34%**). Log click karte, join nahi. Frequency + already-joined dest. **Chhota refill, 50 TON mat** |
+| `8 channel testing` | ~40 | 131 | 0.31 | 8% | Joins loot/inflated P2P (`kunal_loots`, `usdt_buy_seller…`). End me **71 views/day**. **0 TON** |
+| `agent settlement 10` | ~17 | 26 | **0.67** | **3.6%** | Sabse mehnga + mule mix. **0 TON** |
+| `7` | ~0.3 | 7 | — | — | CPM 3 + 1 dead channel, delivery nahi. **0 TON** |
+
+**Paani (refill mat):** agent, testing, 7.  
+**Thaka lekin leftover chalao:** china pay (saturate same 8).  
+**Click aata join kam:** china apps — leftover chalao, naya 100 usme mat daalo.
+
+### B) Running 16 — kaun khaata (live 2026-09-03), join breakdown nahi
+
+Proxy = size × stale. Telegram ads us channel ke members ko dikhta hai chahe post 115 din purana ho.
+
+**`8 new china pay` — likely impression eaters**
+
+| Handle | Live | Role |
+|---|---|---|
+| `@diwapay` | 61k / med 5700 / 0d | **Sabse zyada khaata.** Volume + mix junk DM. Seller bhi yahi se aaya. Hatao mat — pack ka engine |
+| `@linkxwalletnow` | 33k / 1745 / 0d | Bada, khata hai, live |
+| `@linkpay8` | 23k / **8450** / 0d | **Best live shelf** is pack me |
+| `@upaywalle_mahagames` | 18.7k / 2850 / **115d stale** | Members pe ads, content mar. **Budget sink, seller-intent weak.** Pack se nikal nahi sakte bina ad recreate; naya paisa isliye usi 8 pe mat bharo |
+| `@alexpay_channel` | 3.6k / 5220 / **25d stale** | Same — old audience frequency |
+| `@atgpay_iop` `@wiseway_payment` | chhote, 2d, high views | Quality, kam khate |
+| `@showpayindia` | preview restricted | Unknown |
+
+**`china apps 10`**
+
+| Handle | Live | Role |
+|---|---|---|
+| `@ddpay9999` | 16.5k / 2135 / 0d | Pack ka bada khaau |
+| `@MeteorpayEliteChannel00011` | 4.9k / **4189** / 0d | **Best live** is pack — gaming-fund genuine |
+| `@jaypay_8` | 7k / 1098 / 0d | Live, ATG/CMH bhi yahi khareedte |
+| `@t_zkpay_999pay` | 7.4k / 616 / **10d** | Thak |
+| `@ultrapay_official` | 3.3k / 692 / 0d | OK chhota |
+| `@mobiuspe0` | 2.1k / 923 / 0d | Live desk, chhota |
+| `@Ez_india` | 2.4k / **212** | Thin |
+| `@mobiuspayofficial1` | 1.7k / **147** | Almost dead delivery — kam khata, kam deta |
+
+Testing-8 ab live: `@loots_pay` med **1** (hijack), `@uupay_captain` **215d**, `@kunal_loots` loot. Isliye 131 joins “kaam ki” nahi.
+
+### C) Organic genuine?
+
+Telegram Ads se **organic nahi** aata. Genuine seller = china-pay cashout desk user (Diwa/Link/ATG/999), loot-YT nahi. Dest ke 434 me se zyada ads se aaye, phir mute/leave. Naya genuine **naye unused desks** (wave2) se aayega, usi 16 pe 100 TON se nahi.
+
+### D) 100 TON — old drip, naya 8
+
+| TON | Kahan | Q |
+|---|---|---|
+| **15** | `china apps 10` leftover+refill same 8 @ 4.50 | CTR zinda, joins giri — paani mat |
+| **10** | `8 new china pay` leftover+refill same 8 @ 5.00 | Saturate + upay/alexpay stale |
+| **50** | **Naya** wave2 @ 4.50. `@lgpay_official` aaj med **63** / 10.7k — fat-empty, **swap `@CryptoMarketHubb` ya drop** | Nayi joining yahan |
+| **15** | WAVE3 baad me | |
+| **10** | buffer | |
+
+**0:** agent, testing, 7, CPM raise, running 16 naye ad me.
+
+Wave2 8 (lgpay swap ke baad): `@wallet_999pay` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@bhaartpay` `@hoyopay` `@quickpayoffical1` + `@CryptoMarketHubb` (lgpay ki jagah).
+
+Create tab jab user split lock bole. Ads dashboard live nahi khula (auth).
 

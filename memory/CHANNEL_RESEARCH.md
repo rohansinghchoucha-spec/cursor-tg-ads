@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — §46 in-channel ads + CPM: Spy `CPM (est.)` sab pe dash; exact rival bid nahi milta. Running 5.00 / 4.50 rehne do; wave2 @ 4.50. Pro API locked till ~2026-09-04 08:23 UTC.  
+**Last updated:** 2026-09-03 — §47 dest `@safepathdeals` live audit + 100 TON split. Ghost DMs = rate-shop + app-support, zyada ads se nahi. Refill winners + wave2; `@nexadeskrates` dead. Pro API locked till ~2026-09-04 08:23 UTC.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1775,4 +1775,56 @@ Telemetr dest-ads `@diwapay` pe 35 = **Diwa invite/loot spam jo Diwa ko promote 
 3. Wave2 agar `bhaartpay` / `wallet_999pay` pe views na aayein **tab** usi ad ko 5.00. 6+ / bid-war nahi.
 4. Ads create abhi nahi. Spy Pro API ~2026-09-04 08:23 UTC se pehle mat.
 5. Exact rival CPM Spy/Telemetr/Ads UI me **kabhi nahi milega** — ye dump final is sawal ke liye.
+
+---
+
+## 47) 2026-09-03 — dest channel live + 100 TON kahan lagana
+
+User: 100 TON add; ads se log aate hain, DM karte hain, reply ke baad chup; daily post; running ads sahi hain kya, naya ad ya channel pe kaam?
+
+**Live `@safepathdeals` (2026-09-03):** 434 subs · public views med **491** (recent 600–900, ads extra) · last post **0d** · almost saari posts same `LATEST RATES` copy. Description = “rate updates”, buyer-desk nahi. Latest board **UPI 117 / Bank 110** — ads creative abhi bhi **UPI 120 / Bank 115**. Hindi link `/164`. Support `@BussinessMen0`.
+
+**`@nexadeskrates`:** 32 subs · med views **31**. Dead duplicate. Har dest post “daily rate @nexadeskrates” ad traffic ko **32-member channel** pe bhejta hai.
+
+**`@BussinessMen0`:** public preview restricted (expected for DM account).
+
+### A) Jo chal raha hai — targeting sahi, dump galat
+
+| Ad | Status last known | CPM | Verdict |
+|---|---|---|---|
+| `8 new china pay` | Active | 5.00 | **Sahi.** Proven convert. Same 8, CPM mat badhao. Spent ho to refill |
+| `china apps 10` | Active | 4.50 | **Sahi.** Best CTR. Same 8, refill |
+| `agent settlement 10` / testing 8 / `7` | HOLD / dead | — | **100 TON me 0.** Refill mat |
+
+Naya paisa **usi 16 pe 100 TON ek saath mat daal** — china pay pehle se 400–600 views/day saturate. Extra TON = **naya 8-set (wave2)**, purane 8 pe frequency nahi.
+
+### B) Ghost DM — ads fail nahi, funnel fail
+
+China-pay lane me mixed DMs **normal** (LinkPay login / rate-shop). Extra ads se seller-ratio nahi sudhrega. Teen leaks:
+
+1. **Ad 120, channel 117** — join → rate dekha sasta → DM “rate?” → reply 117 → shop / ghost.
+2. Channel **rate-board** train karta hai, sell nahi. Pehla sawal amount+network nahi to app-support junk ghumta rehta hai.
+3. `@nexadeskrates` split + 6–8 identical rate posts/day = spam-desk feel, trust kam.
+
+### C) Channel pe aaj karo (ads se pehle / saath)
+
+1. **Pin** `@safepathdeals`: `Sirf USDT sell. Amount + network (TRC20/BEP20). App login/support nahi. Min 200U. 5000U+ welcome. Rate live — ad wali old rate mat maango.`
+2. **`@nexadeskrates` hatao** posts se. Rate yahi dest pe 1–2/day.
+3. Ad creative rate **live se match** karo, ya number hatao: `We Buy USDT · UPI/Bank live rate · Join`.
+4. Pehla DM: `Kitna USDT? Kaunsa network?` — pehle KYC/essay mat.
+5. Hafte me **1 proof** (blur UTR) + 1 “how we pay” — 8 clone rate posts nahi.
+
+### D) 100 TON split (create sequence, overlap zero)
+
+| TON | Kahan | CPM |
+|---|---|---|
+| **25** | `china apps 10` refill, same 8 | **4.50** |
+| **20** | `8 new china pay` refill, same 8 | **5.00** |
+| **30** | **Naya** China wave2 8: `@wallet_999pay` `@lgpay_official` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@bhaartpay` `@hoyopay` `@quickpayoffical1` | **4.50** |
+| **15** | WAVE3 baad me (`umoney` + ezpay trees) — wave2 joins dikhein tab | 4.50 |
+| **10** | Account buffer | — |
+
+**Mat:** testing/agent/7, loot/edu, running 16 naye ad me dubara, CPM 6+.
+
+KPI = converting seller DM, joins nahi. Pin+first-reply ke bina 100 TON = zyada ghost.
 

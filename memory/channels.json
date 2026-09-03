@@ -3177,5 +3177,35 @@
     "telemetr_grade_high": ["linkpay8 A", "wiseway_payment A", "ddpay9999 A", "bhaartpay A", "hoyopay A", "diwapay B+", "atgpay_iop B+", "ultrapay_official B+"],
     "do_not_create": true,
     "next_ad": "china_wave2 @ 4.50 after TON"
+  },
+  "dest_audit_100ton_2026_09_03": {
+    "safepathdeals": {
+      "subscribers": 434,
+      "views_median": 491,
+      "stale_days": 0,
+      "content": "rate-board clones; live UPI 117 / Bank 110 vs ads creative 120/115",
+      "leak": "trains rate-shop not sell; nexadeskrates CTA splits traffic"
+    },
+    "nexadeskrates": {
+      "subscribers": 32,
+      "views_median": 31,
+      "verdict": "DEAD duplicate — stop sending dest posts here"
+    },
+    "ghost_dms": "expected china-pay mix (app-support + rate-shop). Fix pin + first reply amount/network + match ad rate. Not more of same 16.",
+    "ton_100_split": {
+      "china_apps_10_refill": 25,
+      "china_pay_8_refill": 20,
+      "wave2_new": 30,
+      "wave3_later": 15,
+      "buffer": 10
+    },
+    "do_not": [
+      "dump 100 on running 16",
+      "refill agent/testing/7",
+      "raise CPM",
+      "retarget running 16 in new ad"
+    ],
+    "next_ad": "china_wave2 @ 4.50",
+    "do_not_create_until_user_confirms_split": true
   }
 }

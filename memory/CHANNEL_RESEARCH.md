@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Paid full-use hunt (§39): Spy PRO live + Telemetr ADV mentions/search/ads. Logins on this disk in gitignored `local/`. Next ad still China wave2 @ 4.50.  
+**Last updated:** 2026-09-03 — Wide intent hunt (§40): India AdsSearch2/Search2 + Spy USDT dests. New unused: `@umoney_wallet_official`. Next ad still China wave2 @ 4.50.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1352,7 +1352,7 @@ Diwa **incoming mentions** almost all loot/earn (`@ayulooterso` `@looplooters` `
 
 | Bucket | Kahan hain | Ads me kya karo |
 |---|---|---|
-| Bada 15k+ | running Diwa/LinkPay/xWallet + wave2 `wallet_999pay` + WATCH `ezpay_rogen/rotio` + inflated `showpayfamily` | Running mat chhedo. EZPay sisters = wave3 candidate after TON+wave2. `showpayfamily` inflated — skip primary. |
+| Bada 15k+ | running Diwa/LinkPay/xWallet + wave2 `wallet_999pay` + WATCH `umoney_wallet_official` `ezpay_rogen/rotio` + inflated `showpayfamily` | Running mat chhedo. Umoney + EZPay = wave3 after TON+wave2. `showpayfamily` inflated — skip primary. |
 | Mid 5–15k | running DD/Jay/ZK + wave2 `lgpay_official` `mmoney_official2` | Wave2 already packed. |
 | Chhota 1.5–5k | running ATG/Ultra/Mobius/Ez + wave2 Trust/ATG/Bhaart/Hoyo/Quick | Wave2. Sisters WATCH only. |
 | Nano &lt;1k | `hoyopay_offical` `quickpay122` | Ads reject / dead — nahi. |
@@ -1365,7 +1365,58 @@ Diwa **incoming mentions** almost all loot/earn (`@ayulooterso` `@looplooters` `
 1. Running 16 Active rehne do. CPM mat badhao.
 2. Free TON ~0.63 — naya ad **mat banao**.
 3. Top-up ke baad **sirf China wave2 8 @ 4.50**.
-4. Wave3 sochna tab: `@ezpay_rogen` `@ezpay_rotio` (+ optional `@official_lg_pay` swap), running/wave2 overlap zero-check ke baad.
+4. Wave3 sochna tab: `@umoney_wallet_official` `@ezpay_rogen` `@ezpay_rotio` (+ optional `@official_lg_pay` / `@jaipayofficialchannel`), running/wave2 overlap zero-check ke baad.
 5. Education / loot / mule-recruit / Laxmi satta / Showx dest / agent settlement — nahi.
+
+---
+
+## 40) 2026-09-03 — wide India hunt (not Diwa-seed). Expert method + credits.
+
+User bola: particular channel ke peeche mat ghum; India ke USDT holders/sellers **kisi bhi** public channel me dhoondo — China-pay, traders, forex payout, account-wale.
+
+### Method (paid full, Export tabhi jab quote fit ho)
+
+Telemetr Advanced **intent index**, china-pay username se nahi:
+
+| Call | Query | Result |
+|---|---|---|
+| `AdsSearch2` + `sourceCountries=india` + `term` | we buy / sell USDT / USDT to INR / UPI / P2P / payout / freelancer / prop payout / remittance / OTC | Paginated chats (no Export) |
+| `Search2` same terms | 18 terms. `sell USDT` = 8902 msgs / **1338 sources**. Categories: crypto + casino pollution | Top-10 sources per term hydrated |
+| `SearchForm` | usdt p2p, binance p2p, usdt seller india, dubai usdt… | Channel catalog, not ads |
+| Export `SEARCH2_SOURCES` | 1000 rows = **800 credits** | **BLOCKED** (balance ~260). Pagination se kaam kiya. |
+| Export ads-posts “we buy USDT” | 38 rows = 45.6 credits | Skip — API pehle 38 msgs de chuka |
+| Spy `/ads?q=&geo=IN` | USDT / sell USDT / P2P advertisers | Dest CTAs |
+
+`tools/telemetr_wide.py` — 391 candidate handles → 80 auto-audit + 37 keyword live audits.
+
+### Lane results — kahan sellers hain, kahan nahi
+
+| Lane | Wide-net truth | Ads me |
+|---|---|---|
+| **China-pay official apps** | Ab bhi **sirf yahi** public Ads pe converting seller density | Running 16 + wave2 + naya unused `@umoney_wallet_official` 25.3k/842 |
+| **China-pay agent trees** | EZPay Rogen/Rotio (§39); Spro Even = invite mule | Rogen/Rotio WATCH; Spro Even DROP |
+| **P2P/OTC boards** | `pw_p2p_ads` views dead; `usdt_to_inr_buyer` 41k/148 inflated; `tamil_usdt_seller` F2F Tuticorin med 24; `tf_exchange` cricket-fantasy USDT→INR CDM | Boards Ads-weak. `tf_exchange` WATCH only |
+| **Agent / mule / bank-QR** | Keyword “USDT” ka **sabse bada dump**: QQ Pay, OLOPay, Pay4BTC, Spay, DukePay, Indian123payments, HGPay, DM Pay “deposit USDT first 140 INR” | **DROP** — pehle agent-ad fail |
+| **Traders / signals** | Search2 top sources = long/short OI, pump signals, Binance futures | Famous-edu jaisa — **DROP** |
+| **Forex / prop payout** | “prop firm payout” / “funded account payout” = FundedNext-class + casino. Audience **USDT kharidti hai** fees ke liye | **DROP** (buy-side). Payout-seller public channel nahi mila |
+| **Freelancer USDT** | Search2 count **4**, Ads **1** | Public Ads inventory **nahi** |
+| **Remittance** | `@switchremit` MYR/THB/Alipay — India USDT nahi | DROP |
+| **Gulf/EU OTC** | `@neptuneexchange_com` Cyprus/EUR 5000U+ | Wrong geo DROP |
+| **Spy dest “sell USDT” IN** | Showx `@showxpay` (DROP); MoguEx CTA `@WorldInrUstd` ab **Mast Khel cash games**; rest = ATG/Bhaart/Paisabase/Spro/Ezpay bots + Laxmi | Naya clean dest nahi |
+
+### Naye genuine (unused) — save, create nahi
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@umoney_wallet_official` | 25.3k / 842 / 0d | **KEEP / WAVE3** — Umoney china-pay wallet, India 4y, order/recharge/UPI tools. Running 16 + wave2 me nahi. |
+| `@jaipayofficialchannel` | 9.4k / 137 / 0d | **WATCH** — “pehle se USDT hai → USDT→INR 108”. Genuine holder copy, ratio 0.015 thin. Wave3 swap only. |
+| `@tf_exchange` | 5.0k / 762 / 0d | **WATCH** — fantasy-exchange USDT→INR CDM rates ($205–4000+). Bookie cashout, not edu. Alag experiment, China pack me nahi. |
+| `@ezpay_rogen` / `@ezpay_rotio` | §39 | WAVE3 overlap `@Ez_india` |
+
+**DROP this wide pass (faltu mat rakhna):** `@qqpayoff` `@olopaywork` `@pay4btccompany` `@spaypayins` `@dukepay_officer88` `@indian123payments` `@dmpay_888` `@hgpayofficial` `@wywalletofficialrecruitment` `@sprofitableoffical04` (invite 0.4–0.6% mule) `@sureswapio` `@pw_p2p_ads` `@usdt_to_inr_buyer` (inflated mega) `@WorldInrUstd` (Mast Khel) `@switchremit` `@neptuneexchange_com` `@fctusdtbuysell` &lt;1k `@dealzzonen` `@SPRODEAL_official` `@uniqueChineseMarket` `@vvipEzpayOfficialChannel` nano · price-bots (`msxnd_bot` `MempoolViewBot` …) · loot YT (`smtechyt` `techgauravyoutube`).
+
+### Expert conclusion
+
+Zyada channels **milte** hain jab “USDT” search karo — 1338 sources — lekin **95%+ loot, signals, mule-recruit, casino, wrong geo**. Expert filter ke baad naya **best unused bada** = `@umoney_wallet_official`. Traders/forex-payout/freelancer ka alag Ads-8 **ab bhi exist nahi**. Next spend still **China wave2 @ 4.50**; uske baad wave3 = Umoney + EZPay trees. Running 16 mat chhedo. Ads create nahi.
 
 

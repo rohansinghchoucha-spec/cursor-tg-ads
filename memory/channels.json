@@ -748,8 +748,8 @@
     },
     "WorldInrUstd": {
       "status": "DROP",
-      "lane": "weak",
-      "note": "MoguEx; ~97 views weak"
+      "lane": "wrong_intent",
+      "note": "2026-09-03 now Mast Khel cash games. Spy MoguEx June ads stale. Already weak/stale history."
     },
     "worldinrustd": {
       "status": "DROP",
@@ -1570,6 +1570,106 @@
       "status": "DROP",
       "lane": "inflated",
       "note": "2026-09-03 18k/37 inflated."
+    },
+    "umoney_wallet_official": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 WAVE3. 25.3k/842/0d Umoney wallet India 4y — unused china-pay sellers. After wave2. Do not mix into running 16."
+    },
+    "jaipayofficialchannel": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 9.4k/137 ratio 0.015 — genuine 'already have USDT → INR 108' copy but thin. Wave3 swap only."
+    },
+    "tf_exchange": {
+      "status": "WATCH",
+      "lane": "p2p_board",
+      "note": "2026-09-03 5.0k/762 Technical Fantasy Exchange USDT→INR CDM. Bookie cashout not edu. Separate experiment, not China wave2."
+    },
+    "qqpayoff": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 5.1k/859 QQ Pay needs Assam Gramin bank + 500U deposit — agent/mule."
+    },
+    "olopaywork": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 4.6k/1002 HK payment co recruiting India gramin/corporate accounts."
+    },
+    "pay4btccompany": {
+      "status": "DROP",
+      "lane": "agent_not_seller",
+      "note": "2026-09-03 19.8k/116 QR/MQR account recruit + gaming-fund rates."
+    },
+    "spaypayins": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 18.7k/med 25 Spay gaming-fund partner recruit."
+    },
+    "dukepay_officer88": {
+      "status": "DROP",
+      "lane": "agent_not_seller",
+      "note": "2026-09-03 corporate/wallet gaming-fund suppliers."
+    },
+    "indian123payments": {
+      "status": "DROP",
+      "lane": "agent_settlement",
+      "note": "2026-09-03 5.2k/293 gaming+stock fund exchange — same fail lane as agent settlement 10."
+    },
+    "dmpay_888": {
+      "status": "DROP",
+      "lane": "wrong_side_dead",
+      "note": "2026-09-03 5.2k/med 7 they NEED USDT (deposit first, 140 INR) — buyer/partner not retail sellers."
+    },
+    "hgpayofficial": {
+      "status": "DROP",
+      "lane": "dead_recruit",
+      "note": "2026-09-03 5.0k/med 16 HK pay partner recruit."
+    },
+    "wywalletofficialrecruitment": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 29k/5295 agent recruitment not sellers."
+    },
+    "sprofitableoffical04": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Spro Deal Even 13.9k/5035 invite 0.4–0.6% team commission."
+    },
+    "sureswapio": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-09-03 1.1k/med 2 bank-account partnership proofs."
+    },
+    "pw_p2p_ads": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-09-03 4.0k/med 7 P2P ad board — views dead."
+    },
+    "usdt_to_inr_buyer": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 41.8k/148 ratio 0.004 mega desk — same family as usdt_to_inr_buyer1."
+    },
+    "switchremit": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 MYR/THB/Alipay remit desk — not India USDT sellers."
+    },
+    "neptuneexchange_com": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 Cyprus/EUR OTC 5000U+ — not India Ads audience."
+    },
+    "tamil_usdt_seller": {
+      "status": "WATCH",
+      "lane": "otc_f2f",
+      "note": "2026-09-03 1.9k/med 24 Tuticorin F2F TRC20 — real seller language, Ads-thin. Skip primary."
+    },
+    "fctusdtbuysell": {
+      "status": "WATCH",
+      "lane": "otc_weak",
+      "note": "2026-09-03 933/244 <1k Ads reject risk."
     }
   },
   "competitors_to_spy": [
@@ -2673,6 +2773,7 @@
       ]
     },
     "wave3_after_wave2": [
+      "umoney_wallet_official",
       "ezpay_rogen",
       "ezpay_rotio"
     ],
@@ -2741,5 +2842,27 @@
     },
     "telemetr_note": "Similar Channels empty without Export credits. Incoming mentions of diwapay = loot/earn — skip those. Mentions of lgpay/linkpay/ezpay surfaced swiftpay_official (restricted), s11pay_official (promo board), official_lg_pay, ezpay trees.",
     "do_not_create_until_ton": true
+  },
+  "hunt_2026_09_03_wide_intent": {
+    "method": "Telemetr AdsSearch2+Search2 India terms (no destChannel seed) + Spy ads q=USDT geo=IN",
+    "export": "SEARCH2_SOURCES 800 credits blocked; pagination used instead",
+    "candidates_scanned": 391,
+    "new_wave3": [
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "watch": [
+      "jaipayofficialchannel",
+      "tf_exchange",
+      "tamil_usdt_seller"
+    ],
+    "lanes_empty": [
+      "freelancer_usdt",
+      "forex_prop_payout_sellers",
+      "public_whale8"
+    ],
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
   }
 }

@@ -59,7 +59,7 @@
     "uupay_captain": {
       "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "Current 8-set | 2026-08-20 old ad saturated"
+      "note": "EXHAUSTED testing-8. 2026-09-03 215d stale. Do not revive."
     },
     "quickcashwins": {
       "status": "EXHAUSTED",
@@ -69,12 +69,12 @@
     "loots_pay": {
       "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "Final NEW 10 + current 8 | 2026-08-20 old ad saturated"
+      "note": "EXHAUSTED testing-8. 2026-09-03 hijack med=1 market-outlook — do not revive."
     },
     "txtpayz": {
       "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "In current 8; organic views now weak ~196 | 2026-08-20 old ad saturated"
+      "note": "EXHAUSTED testing-8. 2026-09-03 now wypay loot signup — do not revive."
     },
     "base_pay": {
       "status": "EXHAUSTED",
@@ -94,7 +94,7 @@
     "kunal_loots": {
       "status": "EXHAUSTED",
       "lane": "china_pay",
-      "note": "Current 8-set | 2026-08-20 old ad saturated"
+      "note": "EXHAUSTED testing-8. 2026-09-03 WhatsApp loot — do not revive."
     },
     "diwapay": {
       "status": "PROVEN",
@@ -549,7 +549,7 @@
     "sharkpaypayment": {
       "status": "RUNNING_TEST",
       "lane": "gaming_fund_agent",
-      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+      "note": "HOLD agent-10. 2026-09-03 AU retail/corporate need. Do not refill."
     },
     "gnspay_upi": {
       "status": "RUNNING_TEST",
@@ -564,7 +564,7 @@
     "xpay0088": {
       "status": "RUNNING_TEST",
       "lane": "agent_accounts",
-      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+      "note": "HOLD agent-10. 2026-09-03 Indian accounts list. Do not refill."
     },
     "tivrapay": {
       "status": "DROP",
@@ -609,7 +609,7 @@
     "upaywalle_mahagames": {
       "status": "PROVEN",
       "lane": "china_pay",
-      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+      "note": "RUNNING china pay 8. 2026-09-03 live 18.7k/2850 but 114d stale lucky-code — slot waste. Do not copy into next pack."
     },
     "team_11_dream01": {
       "status": "WATCH",
@@ -914,7 +914,7 @@
     "mvpay9526": {
       "status": "RUNNING_TEST",
       "lane": "agent_corporate",
-      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+      "note": "HOLD agent-10. 2026-09-03 still bank/gaming-fund recruit. Do not refill."
     },
     "quickpaynetwor": {
       "status": "DROP",
@@ -959,7 +959,7 @@
     "pay0000012": {
       "status": "RUNNING_TEST",
       "lane": "allpay_agent_mqr",
-      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+      "note": "HOLD agent-10. 2026-09-03 JK Bank deposit recruit. Do not refill."
     },
     "DracoDeall": {
       "status": "WATCH",
@@ -2864,5 +2864,38 @@
     ],
     "next_ad": "china_wave2 @ 4.50 after TON",
     "do_not_create": true
+  },
+  "spy_status_2026_09_03": {
+    "identity_quarantined": true,
+    "after": "31/32 used-channel ad-load 200s then 429 score 99",
+    "retry_after": "24h from ~2026-09-03 08:23 UTC",
+    "telemetr_jwt": "expired ~07:54 UTC (1h token). Re-login @telemetr_io_bot Log in"
+  },
+  "ready_if_budget_2026_09_03": {
+    "do_not_revive": [
+      "8 channel testing",
+      "agent settlement 10",
+      "7"
+    ],
+    "keep_running_refill_same": [
+      "8 new china pay",
+      "china apps 10"
+    ],
+    "next_new_8": [
+      "wallet_999pay",
+      "lgpay_official",
+      "mmoney_official2",
+      "trustpaynow",
+      "atgofficiale",
+      "bhaartpay",
+      "hoyopay",
+      "quickpayoffical1"
+    ],
+    "wave3_after_wave2": [
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "note": "Do not dump 40 overlapping china-pay sisters in one ad. Sequence."
   }
 }

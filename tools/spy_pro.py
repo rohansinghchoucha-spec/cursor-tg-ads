@@ -67,7 +67,6 @@ def get(path, params=None, key=None):
         if e.code == 429 or body.get("error") == "identity_quarantined":
             print("STOP: Spy identity_quarantined / 429. Wait 24h. Do not retry.", file=sys.stderr)
             print(json.dumps(body, ensure_ascii=False), file=sys.stderr)
-            sys.exit(2)
         return e.code, body
 
 

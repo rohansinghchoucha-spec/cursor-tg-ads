@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Wide intent hunt (§40): India AdsSearch2/Search2 + Spy USDT dests. New unused: `@umoney_wallet_official`. Next ad still China wave2 @ 4.50.  
+**Last updated:** 2026-09-03 — Paid vs hunt honesty + retro of every ad-set we already ran (§41). Spy IP quarantined again after 31 ad-loads.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1418,5 +1418,51 @@ Telemetr Advanced **intent index**, china-pay username se nahi:
 ### Expert conclusion
 
 Zyada channels **milte** hain jab “USDT” search karo — 1338 sources — lekin **95%+ loot, signals, mule-recruit, casino, wrong geo**. Expert filter ke baad naya **best unused bada** = `@umoney_wallet_official`. Traders/forex-payout/freelancer ka alag Ads-8 **ab bhi exist nahi**. Next spend still **China wave2 @ 4.50**; uske baad wave3 = Umoney + EZPay trees. Running 16 mat chhedo. Ads create nahi.
+
+---
+
+## 41) 2026-09-03 — paid fayda vs hunt; purane ad-sets ka expert retro
+
+### A) Sawaal: paid fail hua, ya hunt adhoori?
+
+**Paid fail nahi hua. Hunt bhi adhoori nahi.** Jo cheez tum soch rahe ho (“50 naye best seller channels”) woh **in tools ke product me hai hi nahi.**
+
+| Paid kya bechta hai | Humne use kiya | Limit |
+|---|---|---|
+| Spy Pro: kaun IN me USDT ad chala raha + CTA dest | Haan — Showx/Mobius/LG Pay dests | **Buy-map** (Showx ne kaunse channels khareede) = Enterprise $499. Pro pe `placementCount=0` |
+| Telemetr ADV: India ads-index, mentions, cheater, Search2 | Haan — 1338 “sell USDT” sources, 391 handles | Similar empty bina Export. 1338 CSV = **800 credits** (paas ~260). JWT ~1h, phir bot Log in |
+| Live `t.me/s` | Haan — yahi quality gate | Restricted groups Ads-target nahi |
+
+Is cloud IP pe Spy **dobara 24h quarantine** (31/32 used-channel ad-loads ke baad, score 99). Telemetr JWT expire. Yeh tool-limit hai, “dhoondha nahi” nahi.
+
+Pehle se likha tha (§35): paid **nayi audience class nahi** kholta. Confirm ho gaya.
+
+### B) Jo ads pehle laga chuke — live 2026-09-03 + Spy ad-load 200
+
+**`8 new china pay` — BEST. Refill same 8 jab spent. Naya ad me copy-paste mat.**
+Joins 216 historically, 1 converting seller. Paid: competitors bhi inhi official apps pe USDT-sell ads chalate hain (LG Pay / Mobius confirm).
+Drift andar ke 8 me: `@wiseway_payment` ab BD agent recruit · `@alexpay_channel` 25d stale · **`@upaywalle_mahagames` 18.7k lekin 114d stale** (lucky-code invite, targeting slot waste). Ad ko abhi pause mat karo; **agle pack me upay/wiseway/alexpay mat daalna.**
+
+**`china apps 10` — BEST CTR (~21% last snapshot). Refill same 8 jab spent.**
+`@mobiuspayofficial1` abhi live spin (med 146, thin but same Mobius lane). `@Ez_india` live. Paid: Mobius apna dest yahi rakh raha hai.
+
+**`agent settlement 10` — HOLD. Budget mat daalna.**
+Aaj bhi mule/bank: `@mvpay9526` gaming+accounts · `@pay0000012` JK Bank deposit · `@xpay0088` Indian account list · `@sharkpaypayment` AU retail/corporate need · `@gnspay_upi` game-king volume · `@world_bank_payment_company` 37d stale. CTR 3.6% isliye tha — **galat insaan**. Paid yahi dikhata: yeh channels pe recruit ads, seller ads nahi.
+
+**`8 channel testing` — STOP. Wapas mat jagao.**
+Aaj: `@uupay_captain` **215d stale** · `@loots_pay` hijack, med **1** · `@txtpayz` ab wypay **loot** · `@kunal_loots` WhatsApp loot · `@quickcashwins` WingsAPP 18d · 3 restricted. Pehle delivery `@usdt_buy_seller_binance_p2p` se aayi, quality loot mix. Saturated.
+
+**`7` (UltraPay-only) — STOP.** Weak 171 views. `@ultrapay_official` china apps 10 me already hai.
+
+### C) Budget aaye to sequence (40 channels ek saath nahi)
+
+Overlap pe dump = same user mehnga, CPM up, CPA kharab. Expert order:
+
+1. Jo **Active** hai (`8 new china pay` + `china apps 10`) — spent hone do / same CPM refill. Naya 16-set unke upar mat chadhao.
+2. Naya paisa #1 = **China wave2 8 @ 4.50** (zero overlap winners): `wallet_999pay` `lgpay_official` `mmoney_official2` `trustpaynow` `atgofficiale` `bhaartpay` `hoyopay` `quickpayoffical1` (swap `CryptoMarketHubb`).
+3. Naya paisa #2 = **WAVE3 8** jab wave2 convert kare: `umoney_wallet_official` `ezpay_rogen` `ezpay_rotio` + WATCH se 5 (jaipay / official_lg_pay / zkpay108 sisters — overlap check).
+4. Kabhi nahi: testing 8, agent 8, ad 7, education, loot, forex-payout, mule-QR.
+
+Ready count jo **Ads-eligible + genuine + unused** hai: wave2 **8** + wave3 core **3** + thin WATCH ~5 = **~16 naya**, plus running 16 jo already lag chuke. 50+ clean naya public seller-8 **nahi**.
 
 

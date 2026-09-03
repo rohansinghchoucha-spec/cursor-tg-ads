@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Liquidity/cash-out holder hunt via Telemetr (not brand-seed) §42. Spy still quarantined. No new Ads-8.  
+**Last updated:** 2026-09-03 — Spy reports archived; public Chrome path (no API key) §43. Pro API still locked till ~2026-09-04 08:23 UTC.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1514,5 +1514,39 @@ Paid plan **kaam kiya**. Liquidity/cash-out search ne confirm kiya:
 1. Public Telegram pe jo log USDT **bechna / INR nikalna** chahte hain, woh **china-pay official apps** pe already baithe hain — wahi converting shelf.
 2. “We buy USDT” competitor ads **bohot** hain, lekin woh ads **galat cheap channels** pe padte hain. Un placements ko copy karna = earning/loot CPA.
 3. Organic “I have USDT / cashout” index **casino + signals** se bhara hai. Hindi `bechna` Telemetr me index hi nahi.
-4. Naya Ads-8 **nahi bana**. Next spend still **China wave2 8 @ 4.50** after TON; phir WAVE3 Umoney + EZPay. Running 16 mat chhedo. Spy ~2026-09-04 08:23 UTC se pehle mat chhedo.
+4. Naya Ads-8 **nahi bana**. Next spend still **China wave2 8 @ 4.50** after TON; phir WAVE3 Umoney + EZPay. Running 16 mat chhedo. Spy **Pro API** ~2026-09-04 08:23 UTC se pehle mat chhedo. Public website path = §43.
+
+---
+
+## 43) 2026-09-03 — Spy lock ke baad sahi use + reports archive
+
+User: lock evade mat; **sahi way** se Spy abhi use karo; jo report mil chuka hai **save** karo.
+
+### Sahi way (abhi, bina lock todhe)
+
+Pro `X-Api-Key` is cloud IP pe **identity_quarantined**. Key bhejna = 24h reset. Proxy/VPN se lock todna **nahi**.
+
+Jo kaam karta hai: **public website** real Chrome me (CF pass), **bina API key**. Python/curl = CF 403. ANON analytics bina key = 401 “Pro required”.
+
+Aaj Chrome se (7s gap, sequential):
+
+| Public page | Result |
+|---|---|
+| `/ads?q=USDT&geo=IN` | **84** creatives. Live: ATG/Trust ₹111, paisabase, Spro, EZPay 109–110, Officialnews loot |
+| `/ads?q=sell USDT&geo=IN` | 6: Showx 112rs (1–2mo) + MoguEx 109 (DROP dest) |
+| `/advertisers/tg-mobiuspe0` | Top placements = **diwapay, linkx, 999pay, linkpay8, atgpay_iop** — lane confirm. Plus testing-8 loot (`kunal_loots`) |
+| `/advertisers/tg-showxpay` | 27 channels; top = inflated P2P + flash — **unhe copy mat karo** |
+| `/advertisers/tg-lgpay-official` | 58 channels; `wallet_999pay` + flash/HYIP mix |
+| `/channels?q=usdt india` | Naam-seller directory — live = **preview-restricted jobs**. Ads-8 nahi |
+
+`tools/spy_public.py` — Chrome CDP, kabhi API key nahi. `tools/spy_pro.py` lock uthne tak **band**.
+
+### Reports kahan save
+
+| File | Kya |
+|---|---|
+| `memory/spy_reports.json` | Canonical: advertisers, CTAs, placement maps, IN ads, lock rules (git) |
+| `local/hunt/spy/` | Raw dumps (gitignored): `paid_hunt_2026_09_02.json`, jsonl, `public_chrome.json` |
+
+Naya Ads-8 nahi. Wave2 still next. Showx/MoguEx dest DROP. Mobius apne ads **hamare china-pay winners** pe chala raha hai — wahi shelf sahi hai.
 

@@ -8,6 +8,9 @@
 
 Pace is mandatory: this cloud IP already hit identity_quarantined (24h)
 after a burst. Default 2.5s between calls. Abort on 429 quarantine.
+
+While identity_quarantined: do NOT call this file. Use tools/spy_public.py
+(Chrome public website, no API key). See memory/spy_reports.json.
 """
 from __future__ import annotations
 

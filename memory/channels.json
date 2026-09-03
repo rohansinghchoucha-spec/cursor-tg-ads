@@ -3032,7 +3032,10 @@
     "identity_quarantined": true,
     "after": "31/32 used-channel ad-load 200s then 429 score 99",
     "retry_after": "24h from ~2026-09-03 08:23 UTC",
-    "telemetr_jwt": "expired ~07:54 UTC (1h token). Re-login @telemetr_io_bot Log in"
+    "do_not_send_api_key": true,
+    "use_instead": "tools/spy_public.py Chrome public website + memory/spy_reports.json",
+    "reports_file": "memory/spy_reports.json",
+    "raw_vm": "local/hunt/spy/"
   },
   "ready_if_budget_2026_09_03": {
     "do_not_revive": [

@@ -5,3 +5,4 @@ __pycache__/
 tools/__pycache__/
 .nexa_keys
 nexa_keys.env
+local/

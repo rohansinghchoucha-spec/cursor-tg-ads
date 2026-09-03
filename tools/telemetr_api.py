@@ -27,12 +27,12 @@ def load_key():
     key = os.environ.get("TELEMETR_API_KEY", "").strip()
     if key:
         return key
-    env_path = "/tmp/nexa_keys.env"
-    if os.path.exists(env_path):
-        for line in open(env_path):
-            if line.startswith("export TELEMETR_API_KEY="):
-                return line.split("=", 1)[1].strip().strip("'\"")
-    sys.exit("TELEMETR_API_KEY missing. source /tmp/nexa_keys.env first.")
+    for env_path in ("/tmp/nexa_keys.env", "/workspace/local/nexa_keys.env"):
+        if os.path.exists(env_path):
+            for line in open(env_path):
+                if line.startswith("export TELEMETR_API_KEY="):
+                    return line.split("=", 1)[1].strip().strip("'\"")
+    sys.exit("TELEMETR_API_KEY missing. source /tmp/nexa_keys.env or local/nexa_keys.env first.")
 
 
 def get(path, params=None):

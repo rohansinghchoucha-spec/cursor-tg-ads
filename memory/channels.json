@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02",
+  "updated_at": "2026-09-03",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -104,7 +104,7 @@
     "wallet_999pay": {
       "status": "READY_PACK",
       "lane": "china_pay",
-      "note": "§34 China wave2 #1 — live 26.5k/455/0d overturns Aug-16 DROP (same over-correction as china-pay pause). Official 999PAY deposit/orders. Create after TON."
+      "note": "§34 China wave2 #1 — 2026-09-03 live 26.5k/282/0d official 999PAY. Create after TON."
     },
     "linkxwalletnow": {
       "status": "PROVEN",
@@ -134,7 +134,7 @@
     "Ez_india": {
       "status": "RUNNING_TEST",
       "lane": "china_pay",
-      "note": "2026-08-21 Ad B china apps 10 — In Review"
+      "note": "china apps 8. 2026-09-03 live 2.4k/208 — posts also push UltraPay conversion. Sister trees ezpay_rogen/rotio = WATCH wave3, do not retarget this handle."
     },
     "usdt_buyer_crypto_cr": {
       "status": "DROP",
@@ -144,7 +144,7 @@
     "hoyopay": {
       "status": "READY_PACK",
       "lane": "china_pay",
-      "note": "§34 China wave2 #7 — live 1.8k/1700/9d overturns Aug-16 DROP. Use THIS not hoyopay_offical <1k. Create after TON."
+      "note": "§34 China wave2 #7 — 2026-09-03 1.8k/1550/0d. Create after TON."
     },
     "hoyopay_offical": {
       "status": "WATCH",
@@ -174,7 +174,7 @@
     "atgofficiale": {
       "status": "READY_PACK",
       "lane": "china_pay",
-      "note": "§34 China wave2 #5 — 3.3k/562/5d ATG official. Create after TON."
+      "note": "§34 China wave2 #5 — 2026-09-03 3.3k/564/6d ATG official. Create after TON."
     },
     "atgpay_iop": {
       "status": "PROVEN",
@@ -544,7 +544,7 @@
     "quickpayoffical1": {
       "status": "READY_PACK",
       "lane": "china_worker",
-      "note": "§34 China wave2 #8 — 1.8k/250/0d. Create after TON."
+      "note": "§34 China wave2 #8 — 2026-09-03 1.8k/310/0d. Create after TON."
     },
     "sharkpaypayment": {
       "status": "RUNNING_TEST",
@@ -559,7 +559,7 @@
     "wiseway_payment": {
       "status": "PROVEN",
       "lane": "china_pay",
-      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+      "note": "RUNNING china pay 8. 2026-09-03 live: now BD/agent partner recruit — do not add to new packs. Don't pause running."
     },
     "xpay0088": {
       "status": "RUNNING_TEST",
@@ -604,7 +604,7 @@
     "lgpay_official": {
       "status": "READY_PACK",
       "lane": "china_worker",
-      "note": "§34 China wave2 #2 — 10.7k/431/0d. Deposit bonus 500–5000U. Create after TON."
+      "note": "§34 China wave2 #2 — 2026-09-03 10.7k/454/0d. Spy: LG Pay still running IN USDT-sell ad CTA this handle."
     },
     "upaywalle_mahagames": {
       "status": "PROVEN",
@@ -634,7 +634,7 @@
     "alexpay_channel": {
       "status": "PROVEN",
       "lane": "china_pay",
-      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+      "note": "RUNNING china pay 8. 2026-09-03 live 3.6k/5220 but 25d stale. Don't add to new packs."
     },
     "u8payindia": {
       "status": "DROP",
@@ -697,9 +697,9 @@
       "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "rhinopaymentchannel666666": {
-      "status": "DEAD",
-      "lane": "china_pay",
-      "note": "Discontinued → MeteorpayEliteChannel00011"
+      "status": "DROP",
+      "lane": "discontinued",
+      "note": "2026-09-03 discontinued, points to MeteorpayEliteChannel00011."
     },
     "ddpay9999": {
       "status": "RUNNING_TEST",
@@ -729,7 +729,7 @@
     "mmoney_official2": {
       "status": "READY_PACK",
       "lane": "china_worker",
-      "note": "§34 China wave2 #3 — 5.6k/697/0d. Prefer over mmoney_official3 (119 views). Create after TON."
+      "note": "§34 China wave2 #3 — 2026-09-03 5.5k/546/0d. Create after TON."
     },
     "CryptoMarketHubb": {
       "status": "WATCH",
@@ -773,8 +773,8 @@
     },
     "bhaartpay": {
       "status": "READY_PACK",
-      "lane": "mixed",
-      "note": "§34 China wave2 #6 — 2.4k/315/0d. Create after TON."
+      "lane": "china_pay",
+      "note": "§34 China wave2 #6 — 2026-09-03 2.4k/325/0d. Create after TON."
     },
     "winmoneygrey": {
       "status": "DROP",
@@ -844,7 +844,7 @@
     "linkpay888jack": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "Live 2k/2010 but already in weak agent settlement 10 — do not retarget"
+      "note": "2026-09-03 live 2.1k/2075 Linkpay official, but Spy ad-load = casino/forex pollution. Weak backup only. Already in weak agent settlement 10."
     },
     "cryptomasterr91": {
       "status": "WATCH",
@@ -1234,7 +1234,7 @@
     "trustpaynow": {
       "status": "READY_PACK",
       "lane": "china_pay",
-      "note": "§34 China wave2 #4 — 4.0k/1900/2d TrustPay official. Create after TON."
+      "note": "§34 China wave2 #4 — 2026-09-03 4.0k/1930/3d. Create after TON."
     },
     "mmoneywalletofficialgroup": {
       "status": "WATCH",
@@ -1409,7 +1409,7 @@
     "mmoney_official3": {
       "status": "WATCH",
       "lane": "china_worker",
-      "note": "MMoney ads-channel 4.6k/119 — skip; use mmoney_official2"
+      "note": "2026-09-03 4.6k/92 weak ads-channel. Use mmoney_official2 in wave2."
     },
     "toppay_official": {
       "status": "WATCH",
@@ -1435,6 +1435,141 @@
       "status": "DROP",
       "lane": "earn_clone",
       "note": "MMPay earn clone + generic news"
+    },
+    "ezpay_rogen": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 WAVE3 candidate. 16.1k/3000/1d EZPay agent tree Rogen. India UPI/Navi sell. Overlap running Ez_india — do not mix into wave2."
+    },
+    "ezpay_rotio": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 WAVE3 candidate. 13.8k/1135/1d EZPay Zylox/Mark. Same app as Ez_india/rogen, different invite tree."
+    },
+    "official_lg_pay": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 3.3k/305/11d LG Pay sister. Wave2 already has lgpay_official."
+    },
+    "mobiuspe1413": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 2.4k/361 Mobius official alt. Overlap running mobiuspe0."
+    },
+    "showofficiala": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 3.0k/517 'Mobius payz' clone. Overlap — skip primary."
+    },
+    "zkpay108": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 4.6k/2935 sister of running t_zkpay_999pay. Overlap."
+    },
+    "showpayfamily": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 31.7k/481 ratio 0.015 — sell-order copy real but inflated. Not Primary."
+    },
+    "alphapay_alpha_pay": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 4.1k/324 Alpha pay UPI/Mobikwik. Earning-website tone — weak WATCH only."
+    },
+    "s11pay_official": {
+      "status": "DROP",
+      "lane": "promo_board",
+      "note": "2026-09-03 1.9k/1020 — posts PakkaGo/Dhan/MM-Pay ads, not a seller community."
+    },
+    "swiftpay_official": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-09-03 preview-restricted. Distinct from stale swiftpayofficialchannel. Ads cannot target."
+    },
+    "atgpaygo": {
+      "status": "DROP",
+      "lane": "shutting_down",
+      "note": "2026-09-03 shutting down, invite to private group. Use atgpay_iop / atgofficiale."
+    },
+    "zippayofficialindia": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 6.9k/88 ratio 0.013 ZipPay+TrustPay team-building, not sellers."
+    },
+    "showpay_parttime": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 4.0k/57 thin Showpay clone."
+    },
+    "showpay_officialchannel": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-09-03 1.5k/med 6."
+    },
+    "trustpayegp": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 Egypt Arabic Trust Pay — not India sellers."
+    },
+    "theofficialpaytmmoney": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 Paytm Money — not USDT sellers."
+    },
+    "moneyfarmmoney": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 Russian pay-for-posts, not India USDT."
+    },
+    "binance5434": {
+      "status": "DROP",
+      "lane": "futures_signals",
+      "note": "2026-09-03 auto-hunt false KEEP — futures signals."
+    },
+    "freebinancef": {
+      "status": "DROP",
+      "lane": "futures_signals",
+      "note": "2026-09-03 auto-hunt false KEEP — futures signals."
+    },
+    "wangklda": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 EZPay Jayden invite/team commission 0.4–0.6%."
+    },
+    "quickpay122": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "2026-09-03 Spy advertiser slug. 525/med 10 — Ads reject + dead."
+    },
+    "ultrapaylas": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 Turkish adult, not UltraPay India."
+    },
+    "bharatpay269offer": {
+      "status": "DROP",
+      "lane": "earn_clone",
+      "note": "2026-09-03 CryptoX Pay earn clone, thin views."
+    },
+    "laicaileya": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "2026-09-03 1.9k/63 weak Linkpay clone."
+    },
+    "hoyopay_official": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "2026-09-03 16k/270/58d now NIFTY posts — not Hoyo sellers. Use hoyopay."
+    },
+    "mobiuspe1": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 16k/med 2 inflated."
+    },
+    "trustpaypayment": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 18k/37 inflated."
     }
   },
   "competitors_to_spy": [
@@ -2462,8 +2597,8 @@
         "tool": "TGAdsSpy Pro",
         "usd_mo": 49,
         "give": "X-Api-Key",
-        "status": "LIVE then identity_quarantined 24h on cloud IP until ~2026-09-03 13:00 UTC",
-        "pace": "1 req / 2.5s sequential; tools/spy_pro.py",
+        "status": "LIVE 2026-09-03 plan=PRO (24h quarantine lifted). placementCount still 0. buy-map 403 BUSINESS.",
+        "pace": "1 req / 2.5s sequential; tools/spy_pro.py; stop on 429",
         "buy_map": "403 BUSINESS / Enterprise $499 — not in Pro"
       },
       {
@@ -2471,7 +2606,7 @@
         "usd_mo": 55,
         "credits": "keep default 250/mo; no extra pack month 1",
         "give": "website session via @telemetr_io_bot Log in (not website popup)",
-        "status": "LIVE 2026-09-03 ADV ~259.95 credits; India advertisers 7249/208567 unlocked; default sort still gambling",
+        "status": "LIVE ADV ~259.95 credits to 2026-10-02. SearchForm+AdsSearch2+GetById+incoming mentions used. Similar=Export-only skip. IntersectAudience 403.",
         "login": "@telemetr_io_bot /start then Log in → telemetr.io/en#login=true&provider=telegram"
       }
     ],
@@ -2498,12 +2633,113 @@
       "Enterprise in month 1",
       "Telemetr API S/M while website Advanced unused"
     ],
-    "secrets": "only /tmp/nexa_keys.env — never git",
+    "secrets": "local/nexa_keys.env + /tmp/nexa_keys.env — never git. Chrome profile local/chrome-tg-debug gitignored.",
     "expected": "More complete china-app inventory, not a new whale class. New 8 quality similar to china apps 10."
   },
   "free_max_hunt_2026_09_02": {
     "telemetr_rows": 544,
     "verdict": "Ads-eligible china seller shelf already mapped. Wave2 remains next 8. Paid unlock = competitor placements not more titles.",
     "next_ad": "china_wave2"
+  },
+  "hunt_2026_09_03_paid_full": {
+    "date": "2026-09-03",
+    "tools": [
+      "TGAdsSpy Pro",
+      "Telemetr Advanced website"
+    ],
+    "session": "gitignored local/ — keys + Chrome TG Web + Telemetr ADV cookies",
+    "auto_keep_dirty": true,
+    "next_ad_unchanged": "china_wave2 @ 4.50 after TON",
+    "running_do_not_retarget": {
+      "china_pay_8": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ],
+      "china_apps_8": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ]
+    },
+    "wave3_after_wave2": [
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "watch_sisters_overlap": [
+      "official_lg_pay",
+      "mobiuspe1413",
+      "showofficiala",
+      "zkpay108",
+      "showpayfamily",
+      "linkpay888jack",
+      "alphapay_alpha_pay"
+    ],
+    "drop_this_hunt": [
+      "atgpaygo",
+      "zippayofficialindia",
+      "showpay_parttime",
+      "showpay_officialchannel",
+      "trustpayegp",
+      "theofficialpaytmmoney",
+      "moneyfarmmoney",
+      "binance5434",
+      "freebinancef",
+      "wangklda",
+      "quickpay122",
+      "ultrapaylas",
+      "bharatpay269offer",
+      "s11pay_official",
+      "swiftpay_official",
+      "laicaileya",
+      "rhinopaymentchannel666666",
+      "hoyopay_official",
+      "mobiuspe1",
+      "trustpaypayment"
+    ],
+    "size_shelf": {
+      "large_running": [
+        "diwapay",
+        "linkxwalletnow",
+        "linkpay8",
+        "ddpay9999"
+      ],
+      "large_unused_wave2": [
+        "wallet_999pay"
+      ],
+      "large_watch_wave3": [
+        "ezpay_rogen",
+        "ezpay_rotio"
+      ],
+      "mid_wave2": [
+        "lgpay_official",
+        "mmoney_official2"
+      ],
+      "small_wave2": [
+        "trustpaynow",
+        "atgofficiale",
+        "bhaartpay",
+        "hoyopay",
+        "quickpayoffical1"
+      ],
+      "no_public_whale8": true
+    },
+    "spy_cta_confirms": {
+      "tg-showxpay": "DROP dest showxpay still advertising",
+      "tg-mobiuspe0": "RUNNING dest mobiuspe0 still advertising",
+      "tg-lgpay-official": "wave2 dest lgpay_official still advertising USDT sell IN"
+    },
+    "telemetr_note": "Similar Channels empty without Export credits. Incoming mentions of diwapay = loot/earn — skip those. Mentions of lgpay/linkpay/ezpay surfaced swiftpay_official (restricted), s11pay_official (promo board), official_lg_pay, ezpay trees.",
+    "do_not_create_until_ton": true
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Telemetr Advanced website LIVE via `@telemetr_io_bot` Log in (ADV, 259.95 credits)  
+**Last updated:** 2026-09-03 — Paid full-use hunt (§39): Spy PRO live + Telemetr ADV mentions/search/ads. Logins on this disk in gitignored `local/`. Next ad still China wave2 @ 4.50.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1250,5 +1250,122 @@ Chrome public Ads advertisers (India, no login): top-5 = 1Win / INV.COM / Trade 
 **Advanced India advertisers (7D, country=India):** 7,249 advertisers / 208,567 channels. Unfiltered top = gambling/trading/lottery — **kisi ko mat target**. China-pay desks (Showx/Mobius/Diwa/LinkPay) is default wall me nahi; next step = on-page advertiser search + channel similar (diwapay / wallet_999pay / lgpay_official), **Export nahi**.
 
 **Campaign rule unchanged:** running 16 mat chhedo. Next ad after TON = China wave2 @ 4.50.
+
+---
+
+## 39) 2026-09-03 — logins persist + dono paid tools full use
+
+### A) Login save — kya possible hai, kya nahi
+
+**Is workspace disk pe save ho gaya (gitignored `local/`, GitHub pe kabhi nahi):**
+
+| Store | Path | Kya rehta hai |
+|---|---|---|
+| API keys | `local/nexa_keys.env` | TGAdsSpy `X-Api-Key` + Telemetr bot API key |
+| Chrome profile | `local/chrome-tg-debug/` | Telegram Web (Rohan / +44) + Telemetr ADV cookies |
+| Telemetr cookies | `local/telemetr_cookies.json` | `t_jwt` / `t_jwtr` + Cloudflare |
+| Restore | `bash local/RESTORE.sh` | copies keys + profile + cookies into `/tmp` |
+
+**Sach:** isi Cloud Agent disk / restore ke baad **dobara OTP nahi**. Fresh empty VM jisme `local/` na ho — Telegram Web 1-click `@telemetr_io_bot` → **Log in** phir se. Website “Continue with Telegram” popup is Chrome me fail. **Cookies/keys GitHub / PR / memory me mat daalna** — full account takeover.
+
+Tools ab keys yahan se padhte hain: `/tmp/nexa_keys.env` **ya** `local/nexa_keys.env`.
+
+### B) Dono paid products — har useful feature (Export nahi)
+
+**TGAdsSpy PRO** (quarantine uth gaya, `plan=PRO`, `maxOffset=50000`, pace 1 req / 2.5s):
+
+| Feature | Result 2026-09-03 |
+|---|---|
+| `/advertisers?q=` | Showx / Mobius / LG Pay / QuickPay / Diwa / TrustPay slugs |
+| `/ads?advertiser=&geo=IN` | Showx still “buy/sell USDT 112rs” CTA `@showxpay` (**already DROP**, stale official). MobiusPe 4% / 108 CTA `@Mobiuspe0` (**already RUNNING**). LG Pay “USDT Sell 103–110 INR” CTA `@lgpay_official` (**already wave2**). |
+| `channel-ad-load` | Winners pe pehle 20–50 creatives; `showpayfamily` / `mobiuspe1413` / `zkpay108` = **404**. `linkpay888jack` = casino/forex pollution. |
+| `/advertisers/{slug}/channels` buy-map | **403 BUSINESS** — Enterprise $499. `placementCount` har creative pe **0**. Pro se competitor **placement list nahi milti**. |
+| Laxmi query | Matka/loot advertisers — **BLOCK**, china-pay nahi. |
+| New advertiser slug | `@quickpay122` — live 525/med 10 — **DROP** (&lt;1k + dead views). |
+
+**Telemetr Advanced website** (Rohan, plan `advanced-v1` Cryptomus, end **2026-10-02**, credits **~259.95**). **Export mat dabao.**
+
+| RPC / UI | Use | Result |
+|---|---|---|
+| `Chats/SearchForm` | Hero search | Handles nahi, `internalId` + members + cheater flags |
+| `Messages/AdsSearch2` | Ads mentioning a dest channel | diwapay 105+; placement `chatIds` = internal IDs |
+| `Chats/GetById` | `chatId.telegramId` or `internalId` | username, India country, members |
+| `Chats/GetByIdShort` | batch | `err` cheater score, postViews |
+| `Mentions/GetTopIncomingMentions` | who talks about winners | **best new-lead graph** this turn |
+| `Chats/TgRecommendations` | Similar Channels | `channels: []` until **Export** (credits). Skip. |
+| `Chats/IntersectAudience` | overlap | **403 Access denied** (higher SKU) |
+| India advertisers page | 7,249 / 208,567 | unfiltered top = gambling — mat target |
+| Bot `/api_key` | Public API | still FREE; catalog/info locked. Extra API S/M mat kharido |
+
+`tools/telemetr_gw.py` + `tools/telemetr_hunt.py`. Hunt auto-KEEP **22 dirty** (Binance futures, Paytm Money, Egypt TrustPay, loot). **Us list ko ad pack mat banao.**
+
+### C) Live `t.me/s` — genuine India USDT sellers by size
+
+Public Ads shelf **ab bhi finite**. Naya “whale class” nahi. Jo mila = **usi China-pay app ke official / agent-tree channels**.
+
+**Already RUNNING 16 — mat retarget**
+
+| Size | Handle | Live 2026-09-03 | Note |
+|---|---|---|---|
+| Bada | `@diwapay` | 61.2k / med 5615 / 0d | Winner |
+| Bada | `@linkxwalletnow` | 32.9k / 1700 / 0d | Winner |
+| Bada | `@linkpay8` | 23.4k / 8340 / 0d | Winner (auto-hunt ne loot_earn galat mark kiya) |
+| Mid | `@ddpay9999` | 16.5k / 2084 / 0d | china apps 8 |
+| Mid | `@t_zkpay_999pay` | 7.4k / 612 / 10d | china apps 8 |
+| Mid | `@jaypay_8` | 7.0k / 1195 / 4d | china apps 8 |
+| Mid | `@MeteorpayEliteChannel00011` | 4.9k / 4150 / 0d | china apps 8 |
+| Chhota | `@ultrapay_official` | 3.3k / 686 / 0d | china apps 8 |
+| Chhota | `@atgpay_iop` | 2.0k / 2670 / 2d | china pay 8 |
+| Chhota | `@Ez_india` | 2.4k / 208 / 1d | ab UltraPay conversion bhi push |
+| Chhota | `@mobiuspe0` | 2.1k / 912 / 0d | Mobius still advertising this CTA |
+| — | `@showpayindia` | preview-restricted | running, Ads ok historically |
+| Drift | `@wiseway_payment` | 3.4k / 4405 / 2d | **ab BD/agent partner recruit** — running ad me hai, naya pack me mat daal |
+| Stale | `@alexpay_channel` | 3.6k / 5220 / **25d** | still in running china pay 8; naya pack me nahi |
+
+**Next buy (unchanged) — China wave2 @ CPM 4.50 after TON**
+
+`@wallet_999pay` 26.5k/282 · `@lgpay_official` 10.7k/454 · `@mmoney_official2` 5.5k/546 · `@trustpaynow` 4.0k/1930 · `@atgofficiale` 3.3k/564/6d · `@bhaartpay` 2.4k/325 · `@hoyopay` 1.8k/1550 · `@quickpayoffical1` 1.8k/310 · swap `@CryptoMarketHubb` 1.3k/558.
+
+Spy ne confirm: LG Pay khud IN me “USDT Sell / IMPS” ad chala raha hai — wave2 #2 sahi lane.
+
+**WAVE3 / WATCH — genuine sellers, overlap / sister trees. Wave2 ke baad, running 16 ke baad.**
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@ezpay_rogen` | 16.1k / 3000 / 1d | **KEEP/WATCH** — EZPay agent tree (Rogen). India, UPI/Navi sell. Overlap `@Ez_india` lekin alag invite-code, zyada bada. |
+| `@ezpay_rotio` | 13.8k / 1135 / 1d | **KEEP/WATCH** — EZPay (Zylox/Mark). Same app, alag team. |
+| `@official_lg_pay` | 3.3k / 305 / 11d | **WATCH** — LG Pay sister; wave2 already `@lgpay_official`. |
+| `@mobiuspe1413` | 2.4k / 361 / 0d | **WATCH** — Mobius official alt vs running `@mobiuspe0`. |
+| `@showofficiala` | 3.0k / 517 / 6d | **WATCH/skip** — “Mobius payz” clone. |
+| `@zkpay108` | 4.6k / 2935 / 1d | **WATCH** — sister of running `@t_zkpay_999pay`. |
+| `@showpayfamily` | 31.7k / 481 / 0d | **WATCH not Primary** — sell-order copy real, ratio 0.015 inflated. |
+| `@linkpay888jack` | 2.1k / 2075 / 0d | **WATCH weak** — live Linkpay, Spy ads = casino/forex junk. Already weak agent-10. |
+| `@alphapay_alpha_pay` | 4.1k / 324 / 2d | **WATCH weak** — Alpha pay UPI/Mobikwik; “earning website” tone. |
+
+**DROP this hunt (fake / loot / wrong country / dead / mule)**
+
+`@atgpaygo` (shutting down → private group) · `@zippayofficialindia` (team-build ZipPay+TrustPay, ratio 0.013) · `@showpay_parttime` 3.96k/57 thin · `@showpay_officialchannel` 1.5k/med 6 · `@trustpayegp` Egypt Arabic · `@theofficialpaytmmoney` · `@moneyfarmmoney` · `@binance5434` `@freebinancef` (futures signals — auto-KEEP galat) · `@diwapay_support_crypto` (already loot hijack) · `@mobiuspe1` 16k/med 2 · `@trustpaypayment` 18k/37 · `@hoyopay_official` 58d NIFTY · `@rhinopaymentchannel666666` discontinued → Meteor elite · `@wangklda` EZPay Jayden **invite/team commission** · `@quickpay122` &lt;1k · `@ultrapaylas` Turkish adult · `@jaypay_988` `@ayulooterso` loot · `@s11pay_official` promo-board (PakkaGo/Dhan/MM-Pay ads, seller channel nahi) · `@bharatpay269offer` CryptoX earn clone · `@swiftpay_official` preview-restricted (Ads nahi; purana `@swiftpayofficialchannel` stale se alag handle) · `@laicaileya` 1.9k/63 weak · `@mmoney_official3` skip (wave2 uses official2).
+
+Diwa **incoming mentions** almost all loot/earn (`@ayulooterso` `@looplooters` `@p2p_earning_player`) — **unhe mat target**. Mention graph se kaam ke nikaal: Swift/S11/LG-sister/EZPay trees, phir live audit.
+
+### D) Size-tier inventory (Ads-eligible, genuine)
+
+| Bucket | Kahan hain | Ads me kya karo |
+|---|---|---|
+| Bada 15k+ | running Diwa/LinkPay/xWallet + wave2 `wallet_999pay` + WATCH `ezpay_rogen/rotio` + inflated `showpayfamily` | Running mat chhedo. EZPay sisters = wave3 candidate after TON+wave2. `showpayfamily` inflated — skip primary. |
+| Mid 5–15k | running DD/Jay/ZK + wave2 `lgpay_official` `mmoney_official2` | Wave2 already packed. |
+| Chhota 1.5–5k | running ATG/Ultra/Mobius/Ez + wave2 Trust/ATG/Bhaart/Hoyo/Quick | Wave2. Sisters WATCH only. |
+| Nano &lt;1k | `hoyopay_offical` `quickpay122` | Ads reject / dead — nahi. |
+| 5k+ OTC whale-8 | public Ads pe **exist nahi** | Pin: `Min 500 USDT. 5000U+ welcome.` Restricted groups Ads-target nahi. |
+
+**Kami nahi** is sense me: har live official India China-pay app jo Ads-eligible + genuine seller posts rakhta hai, memory me hai (running 16 + wave2 8 + wave3 EZPay 2 + WATCH sisters). **Infinite naye 8-sets nahi** — same shelf recycle / overlap waste.
+
+### E) Ops (create / CPM / refill — user TON + bole tab)
+
+1. Running 16 Active rehne do. CPM mat badhao.
+2. Free TON ~0.63 — naya ad **mat banao**.
+3. Top-up ke baad **sirf China wave2 8 @ 4.50**.
+4. Wave3 sochna tab: `@ezpay_rogen` `@ezpay_rotio` (+ optional `@official_lg_pay` swap), running/wave2 overlap zero-check ke baad.
+5. Education / loot / mule-recruit / Laxmi satta / Showx dest / agent settlement — nahi.
 
 

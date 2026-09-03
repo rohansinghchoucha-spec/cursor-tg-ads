@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Spy reports archived; public Chrome path (no API key) §43. Pro API still locked till ~2026-09-04 08:23 UTC.  
+**Last updated:** 2026-09-03 — Spy website login saved (@Jawan010 PRO) §44. User reverse-spy + Telemetr overlap/mentions + airdrop/forex/SMM run. Next ad still China wave2. Pro API locked till ~2026-09-04 08:23 UTC.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1549,4 +1549,97 @@ Aaj Chrome se (7s gap, sequential):
 | `local/hunt/spy/` | Raw dumps (gitignored): `paid_hunt_2026_09_02.json`, jsonl, `public_chrome.json` |
 
 Naya Ads-8 nahi. Wave2 still next. Showx/MoguEx dest DROP. Mobius apne ads **hamare china-pay winners** pe chala raha hai — wahi shelf sahi hai.
+
+---
+
+## 44) 2026-09-03 — Spy login save + user strategy (reverse-ads / overlap / indirect niches)
+
+User: India phone se Spy login approve; **save** karo; **sahi use** karo; pehle wala reverse-spy + Telemetr overlap/mentions **aur** airdrop/forex/SMM niches **dono** chalao; USDT sellers/holders (liquidity / cash-out) ke **final best channels**.
+
+### A) Login kya save hua (git me nahi)
+
+Yeh **dusra Telegram** hai (India), Ads/Telemetr Chrome session (Rohan / UK) se alag. Spy account:
+
+| Field | Value |
+|---|---|
+| Display | J Jawan |
+| Username | `@Jawan010` |
+| Plan | **PRO** till **2026-10-02** ($49 TON paid 2026-09-02) |
+| API keys | 1 / 10, label `X-Api-Key`, last used 2026-09-03 = **wahi quarantined Pro key** |
+| Alerts | 0 / 5 (bot `@tgadsspybot`, web dashboard nahi) |
+| Buy-map | abhi bhi Enterprise $499 |
+
+**Disk (gitignored `local/`):**
+
+| Store | Path |
+|---|---|
+| Spy cookies | `local/spy_cookies.json` (`tgs_session` + CF) |
+| Chrome profile | `local/chrome-tg-debug/` (Spy + Telegram Web + Telemetr) |
+| Keys | `local/nexa_keys.env` |
+| Restore | `bash local/RESTORE.sh` |
+
+Phone / cookies / API key **git/PR/memory me nahi**. Website session use karo; **`X-Api-Key` is IP pe ~2026-09-04 08:23 UTC se pehle mat bhejo**.
+
+Logged-in nav: Ads, Channels, Advertisers, Niches, Stats, More (Archive / Trending / Countries / Cashier apps / Keywords / Pricing / API…). Account: Dashboard · Alerts · API keys · Billing · Settings. Hindi language filter = creative-lang pill, alag “Hindi audience” toggle nahi.
+
+### B) Strategy actually chali (paid, data)
+
+**Step 1 — reverse-ads (Spy logged-in advertiser pages + Telemetr AdsSearch2 India).** Keyword ads ke **placements** copy karna = galat shelf:
+
+| Query | Ads index | Placement truth (live audit) |
+|---|---|---|
+| USDT to INR | 548 | sports tips, earning, FF hack, wallpaper, cricket — **seller nahi** |
+| Sell USDT | 692 | signals + casino pollution |
+| USDT Buy | 1697 | same dump, worse |
+| Binance P2P | 77 | mix; name-P2P ≠ holders |
+| F2F USDT | **4** | almost empty public Ads |
+| USDT available | 2083 | casino/signals dump |
+
+**Competitor ne paise kahan lagaye** (logged-in Spy, no API key):
+
+| Advertiser | Touched | TOP placements | Hamare Ads me |
+|---|---|---|---|
+| `@mobiuspe0` 4 creatives IN | 21 | **diwapay, linkx, wallet_999pay, linkpay8, atgpay_iop** + testing-8 loot (`kunal_loots`) | Winners + wave2. Loot copy **mat** |
+| `@showxpay` 9 creatives | 27 | inflated P2P `buyer_usdt_seller_crypto_binance`, flash | **DROP dest** |
+| `@lgpay_official` 23 | 58 | `wallet_999pay` + flash/HYIP/COME | wave2 dest sahi; flash **mat** |
+| `@atgpay_iop` 14, Hindi creative 1 | 23 | `jaypay_8` `diwapay` `linkpay8` + WazirX/CoinDCX announce | china-pay keep; **edu DROP** |
+
+**Step 2 — Telemetr catalog + similar + overlap.** `USDT P2P India` catalog **3**. `Crypto OTC India` **0**. `usdt seller india` **14** naam-titles (handles missing / preview-restricted jobs — §43 DROP class). **Similar Channels = 0** bina Export (credits). **Audience Overlap = 403** higher SKU.
+
+**Step 3 — indirect niches (user ne bola, isliye run kiya — Ads me nahi):**
+
+| Niche | Search2 | Top sources live | Verdict |
+|---|---|---|---|
+| Airdrop Hindi / Crypto Loot | 3 / **465** src 268 | `@legendcryptoyt` airdrop, Udemy coupons, CrackBox APK | **DROP** loot/edu |
+| Web3 India | 62 / 47 | CN airdrop intel + generic news | **DROP** |
+| Exness / Forex Signals India | 288 / 31 | `@learningwithpranjal` gold signals, “AI FOREX” | **DROP** buy-side |
+| SMM Panel India | **2** | “Badhiya Loot”, GrowTak | inventory **nahi** |
+| OctaFX Hindi | **0** | — | — |
+
+**Step 4 — Mentions of trusted desks:** Diwa/LinkPay/999/LG/EZPay incoming = `ayulooterso` `p2p_earning_player` `s11pay_official` `swiftpay_official` `vipyirui` — **loot/promo**, pehle DROP. `official_lg_pay` WATCH sister (wave2 already `lgpay_official`).
+
+**ER 15–20% filter trap:** sports `@lupintipss` 16.8k/4785 (~28% “ER”) seller nahi. Seller-intent pehle, ER baad me. Admin se direct post-buy **nahi** — hamara path Telegram Ads targeting hai.
+
+### C) Final best channels (create MAT until TON)
+
+Yeh strategy ne **nayi audience class nahi** kholi. Quality gate ke baad wahi locked shelf. **27 Ads-eligible genuine** = running 16 + wave2 8 + wave3 3. 20–30 ki list yahi hai — loot/forex/P2P-naam se 30 naya **mat** banao.
+
+**1) Abhi Active — refill same 8 / same CPM. Naye ad me mat daalo.**
+
+`8 new china pay` @ 5.00: `@diwapay` `@linkpay8` `@linkxwalletnow` `@alexpay_channel` `@atgpay_iop` `@upaywalle_mahagames` `@wiseway_payment` `@showpayindia`
+
+`china apps 10` @ 4.50: `@mobiuspe0` `@MeteorpayEliteChannel00011` `@ddpay9999` `@ultrapay_official` `@jaypay_8` `@mobiuspayofficial1` `@Ez_india` `@t_zkpay_999pay`
+
+**2) Next naya ad after TON — China wave2 8 @ 4.50 (zero overlap winners)**
+
+`@wallet_999pay` `@lgpay_official` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@bhaartpay` `@hoyopay` `@quickpayoffical1`  
+Swap: `@CryptoMarketHubb`. Spy confirm: Mobius + LG Pay **abhi bhi** inhi pe USDT-sell ads chala rahe hain.
+
+**3) Wave2 convert kare tab — WAVE3**
+
+`@umoney_wallet_official` `@ezpay_rogen` `@ezpay_rotio` (+ thin WATCH sisters, overlap check).
+
+**Kabhi nahi (is pass dubara fail):** testing 8, agent 8, ad 7, famous edu (`shivamcryptouniverse` / WazirX), airdrop/loot, Exness/forex signals, SMM, Showx dest, inflated P2P names, mule-QR. WATCH-only thin: `@tamilp2pusdt`.
+
+Pin on China packs: `Min 500 USDT. 5000U+ welcome.` Public whale-8 exist nahi.
 

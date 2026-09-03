@@ -3033,9 +3033,44 @@
     "after": "31/32 used-channel ad-load 200s then 429 score 99",
     "retry_after": "24h from ~2026-09-03 08:23 UTC",
     "do_not_send_api_key": true,
-    "use_instead": "tools/spy_public.py Chrome public website + memory/spy_reports.json",
+    "website_login": {
+      "display": "J Jawan",
+      "username": "Jawan010",
+      "plan": "PRO until 2026-10-02",
+      "cookies": "local/spy_cookies.json gitignored",
+      "same_api_key_as_quarantine": true
+    },
+    "use_instead": "Logged-in Chrome website (no X-Api-Key) + tools/spy_public.py + memory/spy_reports.json",
     "reports_file": "memory/spy_reports.json",
-    "raw_vm": "local/hunt/spy/"
+    "raw_vm": "local/hunt/spy/ and local/hunt/strategy/"
+  },
+  "hunt_2026_09_03_user_strategy": {
+    "method": "User playbook: Spy reverse-ads keywords + Telemetr catalog/similar/overlap/mentions + airdrop/forex/SMM. Spy website logged-in no API key. No Export.",
+    "spy_keyword_ads_placements": "USDT to INR/Sell/Buy/available = sports tips, earning, casino, signals — not sellers. F2F USDT ads=4.",
+    "spy_advertiser_top": {
+      "mobiuspe0": ["diwapay", "linkxwalletnow", "wallet_999pay", "linkpay8", "atgpay_iop"],
+      "showxpay": "DROP inflated P2P + flash",
+      "lgpay_official": ["wallet_999pay", "flash_usdtkk", "atgpay_iop"],
+      "atgpay_iop": ["jaypay_8", "diwapay", "linkpay8", "wazirx DROP"]
+    },
+    "telemetr": {
+      "similar_channels": "empty without Export",
+      "audience_overlap": "403 Access denied",
+      "catalog_usdt_seller_india": "14 name-titles, restricted/inflated jobs",
+      "mentions": "loot/earn (ayulooterso, s11pay_official) — DROP"
+    },
+    "indirect_niches_drop": [
+      "airdrop_hindi",
+      "crypto_loot",
+      "exness_india",
+      "forex_signals_india",
+      "smm_panel_india",
+      "web3_india_news"
+    ],
+    "no_new_ads8": true,
+    "final_best": "running 16 + china_wave2 8 + wave3 umoney/ezpay. Do not create until TON.",
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
   },
   "ready_if_budget_2026_09_03": {
     "do_not_revive": [

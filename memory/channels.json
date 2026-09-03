@@ -1670,6 +1670,151 @@
       "status": "WATCH",
       "lane": "otc_weak",
       "note": "2026-09-03 933/244 <1k Ads reject risk."
+    },
+    "tamilp2pusdt": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "2026-09-03 liquidity hunt. 3.0k/235 TCU P2P — holders post $500-1500 USDT available. Ads-thin. Not wave2/3."
+    },
+    "rogen_0": {
+      "status": "DROP",
+      "lane": "spro_invite",
+      "note": "2026-09-03 Spro Deal Group Rogen 20.8k/3525 UPI sell orders but Spro family already DROP. Do not revive."
+    },
+    "fastgopay1offical": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 1.55k/523 IOB/MQR account recruit + USDT supplier ask."
+    },
+    "dreampay2580": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Dream Pay city-union/federal cardholder mediator."
+    },
+    "dreamxpayofficial": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 India Bank Work + Dubai AED USDT F2F — kit handler."
+    },
+    "hn_8777pay": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 WL-PAY needs ICICI/Yes/Kotak company accounts 25-50L."
+    },
+    "fastpaygaming": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 FastPay Ivory Coast — Indus/SBM corporate OTP parking."
+    },
+    "acpay00001": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 gateway/F2F fund delivery — agent not holder."
+    },
+    "rspay888": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 9.4k/3160 exporter-title but BOM/Bandhan account list."
+    },
+    "alphapay3333": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 694/385 BOI+MQR 1cr run + game funds 109 INR."
+    },
+    "djpay_ind03": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Kotak CMS / HDFC domain ID recruit."
+    },
+    "benpay514": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 AU/IDBI/IOB corporate submit-account."
+    },
+    "tt_pay666": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Tata Pay game-fund 104 INR, pay USDT in advance."
+    },
+    "ttpay665": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 TT-pay sister of tt_pay666."
+    },
+    "ttpay100100101": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 TT-pay sister."
+    },
+    "superpay_jrbankpayment": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 JR Payment Company — preview-restricted bank recruit."
+    },
+    "usdtbuyandselltoday": {
+      "status": "DROP",
+      "lane": "flash_scam",
+      "note": "2026-09-03 Balaji Enterprises DT ₹135-140 Trust Wallet BEP20 — flash USDT."
+    },
+    "usdtbranch1": {
+      "status": "DROP",
+      "lane": "wrong_side",
+      "note": "2026-09-03 admin selling USDT at ₹93-95; audience is buyers."
+    },
+    "dafapay2009": {
+      "status": "DROP",
+      "lane": "wrong_side",
+      "note": "2026-09-03 Lakshmi tokens-for-USDT + lucky draw. Thin 56/6.2k."
+    },
+    "plusgain_club": {
+      "status": "DROP",
+      "lane": "china_pay_thin",
+      "note": "2026-09-03 PlusGain order app 2.4k/80 thin — not official seller shelf."
+    },
+    "p2p_earning_player": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "2026-09-03 ElePay signup bonus + panel USDT 124."
+    },
+    "xclusor": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 OTP bot channel; one F2F USDT-buy ad is not a seller shelf."
+    },
+    "novasell_payments": {
+      "status": "DROP",
+      "lane": "bot_receipts",
+      "note": "2026-09-03 7.0k/med 5 deposit-receipt bot."
+    },
+    "usdbuyer7": {
+      "status": "DROP",
+      "lane": "restricted_clone",
+      "note": "2026-09-03 preview-restricted title Safepath PAY — not our dest; Ads-unusable."
+    },
+    "paynexox": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-09-03 preview-restricted. Bulk-USDT Search2 source only."
+    },
+    "pesopay1": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-09-03 Golden Payments India-China transfer — preview-restricted."
+    },
+    "labubupayyyyyy8696": {
+      "status": "DROP",
+      "lane": "nano_invite",
+      "note": "2026-09-03 Umoney invite team 646. WAVE3 already has umoney_wallet_official."
+    },
+    "easywallet2": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-09-03 881 members USDT part-time job. <1k Ads-risk."
+    },
+    "tivrapay03": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-09-03 776 SIVP Tivra — buy token and sell. tivrapay already DROP."
     }
   },
   "competitors_to_spy": [
@@ -2855,13 +3000,31 @@
     "watch": [
       "jaipayofficialchannel",
       "tf_exchange",
-      "tamil_usdt_seller"
+      "tamil_usdt_seller",
+      "tamilp2pusdt"
     ],
     "lanes_empty": [
       "freelancer_usdt",
       "forex_prop_payout_sellers",
       "public_whale8"
     ],
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
+  },
+  "hunt_2026_09_03_liquidity_cashout": {
+    "method": "Telemetr AdsSearch2 buyer-ads (we buy USDT/UPI/IMPS) + Search2 holder language. Spy skipped quarantine.",
+    "export": false,
+    "buyer_ads_classified": {
+      "buyer_ad_hunting_sellers": 407,
+      "other": 236,
+      "loot": 26,
+      "mule": 7
+    },
+    "hindi_bechna_indexed": 0,
+    "new_watch": [
+      "tamilp2pusdt"
+    ],
+    "no_new_ads8": true,
     "next_ad": "china_wave2 @ 4.50 after TON",
     "do_not_create": true
   },

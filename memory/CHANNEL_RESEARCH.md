@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — Paid vs hunt honesty + retro of every ad-set we already ran (§41). Spy IP quarantined again after 31 ad-loads.  
+**Last updated:** 2026-09-03 — Liquidity/cash-out holder hunt via Telemetr (not brand-seed) §42. Spy still quarantined. No new Ads-8.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1465,4 +1465,54 @@ Overlap pe dump = same user mehnga, CPM up, CPA kharab. Expert order:
 
 Ready count jo **Ads-eligible + genuine + unused** hai: wave2 **8** + wave3 core **3** + thin WATCH ~5 = **~16 naya**, plus running 16 jo already lag chuke. 50+ clean naya public seller-8 **nahi**.
 
+---
+
+## 42) 2026-09-03 — USDT holders jo cash-out / liquidity chahte hain (paid, language-first)
+
+User bola: sellers/holders (jinhe liquidity chahiye / cash-out) dhundo; Telemetr + TGAdsSpy paid ko data-driven use karo — brand-seed snowball nahi.
+
+Yeh **nayi class nahi**. Yeh wahi locked goal hai (§0). Is pass me method badla: **holder copy + competitor “we buy USDT” placements**, Diwa/LinkPay username nahi.
+
+### Paid kya chala (Spy skip)
+
+Spy Pro identity_quarantined ~24h (31 ad-loads, score 99) — **is pass Spy call nahi**. Telemetr Advanced JWT bot Log in se refresh (`advanced-v1`, credits ~260, Export nahi).
+
+| Call | Query | Result |
+|---|---|---|
+| `AdsSearch2` India | we buy USDT / USDT to INR / UPI / IMPS / live rate | **407** buyer-ads hunting sellers + 236 other + 26 loot + 7 mule. `we buy USDT` = 38 ads. `USDT UPI` index = **1537** (casino pollution) |
+| Placement reverse | un 407 ads ke `chatIds` | Earning apps, movies, signals, carding, cricket — **cheap CPM spray**, seller shelf nahi |
+| `Search2` holder copy | sell karna / se paise / holder / bulk / OTC / CDM / F2F / cashout / need INR | Hindi romanized `bechna`/`nikalna` = **0**. English “selling USDT” = 8k msgs / 1k sources — 95% signals+casino |
+| `SearchForm` | usdt buyer / otc / seller india | Catalog hits = known china-pay + mule desks |
+| Export | — | **nahi** (SEARCH2_SOURCES 800 credits vs ~260) |
+
+`tools/telemetr_liq.py` — 803 chats → 239 uniq after junk filter → 219 **new** vs memory → 80+ live `t.me/s` + pay-named second pass.
+
+### Lane truth — cash-out audience kahan hai
+
+| Lane | Paid data | Ads me |
+|---|---|---|
+| **China-pay official apps** | Competitors bhi yahi “we buy USDT / UPI sell” copy chalate hain. Holders yahan USDT→INR nikalte hain | Running 16 + wave2 + WAVE3 Umoney/EZPay. **Naya bada unused nahi** |
+| **China-pay agent / bank-QR** | FastGoPay, DreamPay, HN-8777, ACPay, RSPay888, AlphaPay3333, DJPay, BenPay, TT-pay, SuperPay JR — “need IOB/corporate + USDT suppliers” | **DROP** — agent-ad fail class |
+| **Spro Rogen group** `@rogen_0` 20.8k/3525 | UPI/Navi **selling** orders — sellers hain, lekin Spro invite family already DROP (`sprodeal` / `sprofitableoffical04`) | **DROP** — revive mat |
+| **Tamil P2P holders** `@tamilp2pusdt` 3.0k/235 | Live “USDT AVAILABLE $500–1500 / medical emergency sale” — **asli chhote holders** | **WATCH** only. `tamil_usdt_seller` jaisa thin. China pack me nahi |
+| **P2P dump / flash** | `@usdtbuyandselltoday` Trust Wallet “DT ₹135–140” flash; `@usdtbranch1` admin ₹93–95 pe USDT **bech** raha (audience = buyers) | DROP wrong-side / scam |
+| **“Cashout USDT” Search2** | Lotus365, 1GO, cricket books — betting cashout, USDT holder nahi | DROP |
+| **Freelancer / whale public Ads-8** | Is language pass pe bhi **exist nahi** | — |
+
+### Naya genuine (unused) — save, create nahi
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@tamilp2pusdt` | 3.0k / 235 / 0d | **WATCH** — Tamil TCU P2P, holders $500–1500 lots post karte hain. Ads-thin. Wave2/3 me nahi |
+
+**DROP this liquidity pass (wapis mat recommend):** `@fastgopay1offical` `@dreampay2580` `@dreamxpayofficial` `@hn_8777pay` `@fastpaygaming` `@acpay00001` `@rspay888` `@alphapay3333` `@djpay_ind03` `@benpay514` `@tt_pay666` `@ttpay665` `@ttpay100100101` `@superpay_jrbankpayment` `@rogen_0` `@usdtbuyandselltoday` `@usdtbranch1` `@dafapay2009` `@plusgain_club` `@p2p_earning_player` `@xclusor` `@novasell_payments` `@usdbuyer7` (preview-restricted “Safepath PAY” clone) `@paynexox` `@pesopay1` `@labubupayyyyyy8696` (Umoney invite nano) `@easywallet2` `@tivrapay03` nano.
+
+### Expert conclusion
+
+Paid plan **kaam kiya**. Liquidity/cash-out search ne confirm kiya:
+
+1. Public Telegram pe jo log USDT **bechna / INR nikalna** chahte hain, woh **china-pay official apps** pe already baithe hain — wahi converting shelf.
+2. “We buy USDT” competitor ads **bohot** hain, lekin woh ads **galat cheap channels** pe padte hain. Un placements ko copy karna = earning/loot CPA.
+3. Organic “I have USDT / cashout” index **casino + signals** se bhara hai. Hindi `bechna` Telemetr me index hi nahi.
+4. Naya Ads-8 **nahi bana**. Next spend still **China wave2 8 @ 4.50** after TON; phir WAVE3 Umoney + EZPay. Running 16 mat chhedo. Spy ~2026-09-04 08:23 UTC se pehle mat chhedo.
 

@@ -3225,5 +3225,47 @@
     "wave2_lgpay_live": "10.7k / med 63 — swap CryptoMarketHubb",
     "ton_100": "15 apps + 10 china pay + 50 wave2 + 15 wave3 later + 10 buffer",
     "do_not_create_until_user_confirms_split": true
+  },
+  "new_ads_now_2026_09_03": {
+    "count": 2,
+    "do_not_retarget_running_16": true,
+    "china_usdt_send_lane": "official cashout desks only",
+    "ad1_china_wave2_8": {
+      "cpm": 4.5,
+      "budget_ton": "40-50",
+      "dest": "t.me/safepathdeals",
+      "creative": "We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate",
+      "channels": [
+        "wallet_999pay",
+        "mmoney_official2",
+        "trustpaynow",
+        "atgofficiale",
+        "bhaartpay",
+        "hoyopay",
+        "quickpayoffical1",
+        "CryptoMarketHubb"
+      ],
+      "dropped_from_pack": "lgpay_official (live med 64)"
+    },
+    "ad2_china_wave3_desks": {
+      "cpm": 4.5,
+      "budget_ton": 20,
+      "channels": [
+        "umoney_wallet_official",
+        "ezpay_rogen",
+        "ezpay_rotio",
+        "honepay118",
+        "tf_exchange"
+      ]
+    },
+    "do_not": [
+      "zkpay108 overlap t_zkpay",
+      "linkpay888jack overlap linkpay8",
+      "s11pay_official promo",
+      "jaipay thin",
+      "loot edu p2p spray"
+    ],
+    "created_in_ads_ui": false,
+    "reason": "ads.telegram.org login wall this session"
   }
 }

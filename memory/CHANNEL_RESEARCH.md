@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — §48 spend vs joins: old cumulative ≠ ab. Agent/testing/7 paani. China apps joins doosri half me giri. Naya paisa wave2; old me drip refill.  
+**Last updated:** 2026-09-03 — §49 new ads: 2 sets only (wave2 8 + wave3 desks 5). China USDT-send lane. Running 16 mat chhedo. Har-jagah spray nahi.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1894,4 +1894,58 @@ Telegram Ads se **organic nahi** aata. Genuine seller = china-pay cashout desk u
 Wave2 8 (lgpay swap ke baad): `@wallet_999pay` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@bhaartpay` `@hoyopay` `@quickpayoffical1` + `@CryptoMarketHubb` (lgpay ki jagah).
 
 Create tab jab user split lock bole. Ads dashboard live nahi khula (auth).
+
+---
+
+## 49) 2026-09-03 — new ads NOW (user: best + China USDT-send clients)
+
+User: pehle naye ads; China-pay wale join karke USDT seedha bhejte hain phir INR; running dekh; kitne sets; naye member/client har jagah se.
+
+**China converting flow = official cashout desk.** Join Diwa/999/Umoney/EZPay → unke paas USDT hai → DM → USDT bhejo → UPI/Bank. Ye **usi shelf** pe milta hai jo running 16 + wave2/3 hai. Loot/YT/P2P-naam = joins, USDT nahi.
+
+**Har jagah se = 2 genuine shelves, 5 ads nahi.** Spray (testing-8 style) 131 joins diye, seller nahi.
+
+Running 16 **naye ad me mat daalo.** Old leftover chalne do; naya TON in 2 me.
+
+Live re-audit 2026-09-03 (wave2/3/D):
+
+| Handle | Live | New ad? |
+|---|---|---|
+| `@lgpay_official` | 10.7k / med **64** | **NAHI** — fat empty |
+| `@CryptoMarketHubb` | 1.3k / 569 / 2d | wave2 swap |
+| `@ezpay_rogen` | 16.1k / **3010** / 1d | wave3 — hottest unused |
+| `@umoney_wallet_official` | 25.3k / 946 / 0d | wave3 |
+| `@honepay118` | 1.1k / **1450** / 3d | wave3 — gaming-fund sellers |
+| `@zkpay108` | 4.6k / 2945 | **NAHI** — running `@t_zkpay_999pay` overlap |
+| `@linkpay888jack` | 2.1k / 2100 | **NAHI** — running `@linkpay8` sister |
+| `@s11pay_official` `@jaipayofficialchannel` `@mmoney_official3` | promo / thin / ads-channel | **NAHI** |
+
+### Ad set count = **2 naye** (pehle #1, TON bache to #2)
+
+**NEW 1 — `china wave2 8` · CPM 4.50 · 40–50 TON · dest `t.me/safepathdeals`**
+
+Creative: `We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate` (dest se match; 120 mat)
+
+1. `@wallet_999pay`  
+2. `@mmoney_official2`  
+3. `@trustpaynow`  
+4. `@atgofficiale`  
+5. `@bhaartpay`  
+6. `@hoyopay`  
+7. `@quickpayoffical1`  
+8. `@CryptoMarketHubb` (lgpay ki jagah)
+
+**NEW 2 — `china wave3 desks` · CPM 4.50 · 20 TON · 5 channels (pad mat)**
+
+1. `@umoney_wallet_official`  
+2. `@ezpay_rogen`  
+3. `@ezpay_rotio`  
+4. `@honepay118`  
+5. `@tf_exchange`
+
+Pin dono: `Sirf USDT sell. Amount + network. App login/support nahi. Min 200U.`
+
+**Mat banao:** 3rd loot/edu/P2P set, agent/testing/7 refill, running 16 retarget, CPM 6+.
+
+Ads UI is session me login-wall — create user Ads me paste kare ya bole to login ke baad agent banaye.
 

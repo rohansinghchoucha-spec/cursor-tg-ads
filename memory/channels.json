@@ -3301,5 +3301,18 @@
     "do_not_edit_running": true,
     "spy_pro_lock": "lifted; channel GET used; no channel-ad-load burst",
     "telemetr_cheater": ["t_zkpay_999pay", "mmoney_official2"]
+  },
+  "ads_refill_2026_09_04": {
+    "user": "refill old + make all active",
+    "method": "incrAdBudget + editAdStatus only; no text/CPM/channels",
+    "free_before": 20.63,
+    "free_after": 0.63,
+    "china_pay": {"ad_id": "20", "added": 12, "left": 12.96, "status": "Active", "cpm": 5.0},
+    "china_apps": {"ad_id": "22", "added": 5, "left": 5.03, "status": "Active", "cpm": 4.5},
+    "agent": {"ad_id": "21", "added": 3, "left": 8.82, "status": "Active", "was": "On Hold"},
+    "wave2": {"ad_id": "23", "status": "In Review", "note": "Can't activate until Telegram approves"},
+    "wave3": {"ad_id": "24", "status": "In Review", "note": "Can't activate until Telegram approves"},
+    "testing": {"ad_id": "19", "status": "Stopped", "reason": "min replenish 1.00 TON; loot CPM 6; leftover 0.63"},
+    "ad7": {"ad_id": "13", "status": "Stopped", "reason": "min replenish 1.00 TON"}
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-04 — §51 Ads created: `china wave2 8` (ad 23, 40 TON) + `china wave3 desks` (ad 24, 20 TON) In Review. Running 16 **not touched**. Free **20.63 TON** reserve. Creative live dest rate UPI ₹122 / Bank ₹117.  
+**Last updated:** 2026-09-04 — §52 Old ads refilled + Active. Wave2/3 still In Review. testing/7 Stopped (min 1 TON, leftover 0.63). Free **0.63 TON**.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2054,4 +2054,26 @@ Creative dono: `We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate`
 - Running ad ka text/rate/CPM/budget **mat badhao** — Review delay.
 - `@lgpay_official` nahi. `@zkpay108` / `@linkpay888jack` nahi.
 - Free **~20 TON** rakho jab tak wave2/3 Active + pehla join data aaye.
+
+---
+
+## 52) 2026-09-04 — old refill + sab Active (user override)
+
+User: purane me bhi refill + sab active. Budget/status only — **text/channels/CPM nahi** (Review trigger nahi).
+
+### Refill (free 20.63 se)
+
+| Ad | ID | +TON | Budget ab | Status |
+|---|---|---|---|---|
+| `8 new china pay` | 20 | **+12** | **12.96** | **Active** (CPM 5.00 same) |
+| `china apps 10` | 22 | **+5** | **5.03** | **Active** (CPM 4.50 same) |
+| `agent settlement 10` | 21 | **+3** | **8.82** | **Active** (Hold se chalu; 5.82 frozen + 3) |
+| `china wave2 8` | 23 | 0 | 40.00 | **In Review** — Telegram “Can't activate” jab tak approve |
+| `china wave3 desks` | 24 | 0 | 20.00 | **In Review** — same |
+| `8 channel testing` | 19 | 0 | 0 | **Stopped** — Active ke liye min **1.00 TON**; loot CPM 6 |
+| `7` | 13 | 0 | 0 | **Stopped** — same min 1.00; leftover sirf 0.63 |
+
+Free after: **0.63 TON**. Testing/7 pe 1+1 nahi tha. Unpe TON daalna loot waste — extra fund aaye tab sochna.
+
+Naye ads ka targeting/text **nahi** chheda. Purane ka creative/CPM **nahi** badla.
 

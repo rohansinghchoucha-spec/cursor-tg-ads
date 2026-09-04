@@ -1,0 +1,3332 @@
+{
+  "updated_at": "2026-09-04",
+  "brand": "Nexa Desk Pay",
+  "destination": "t.me/safepathdeals",
+  "support": [
+    "BussinessMen0",
+    "nexadeskrates"
+  ],
+  "goal": "Indian USDT sellers / holders with meaningful balance; china-pay+gaming allowed; prefer AGENT/OTC",
+  "working_creative": "We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate",
+  "typical_cpm_ton": 4.5,
+  "budget_band_ton": [
+    20,
+    30
+  ],
+  "campaign_snapshot": {
+    "name": "8 channel testing",
+    "status": "Active but exhausted",
+    "cpm_ton": 4.0,
+    "budget_ton": 30,
+    "spent_approx_ton": 7.9,
+    "left_approx_ton": 22.13,
+    "views": 6301,
+    "clicks": 541,
+    "actions": 98,
+    "ctr_approx": 0.0898,
+    "cpa_ton_approx": 0.3,
+    "destination_members_approx": "20→71",
+    "channels": [
+      "uupay_captain",
+      "quickcashwins",
+      "loots_pay",
+      "txtpayz",
+      "base_pay",
+      "usdt_buy_seller_binance_p2p",
+      "skypay_payment_backup_01",
+      "kunal_loots"
+    ],
+    "delivery_share_high_to_low": [
+      "usdt_buy_seller_binance_p2p",
+      "skypay_payment_backup_01",
+      "kunal_loots",
+      "txtpayz",
+      "quickcashwins",
+      "uupay_captain",
+      "loots_pay",
+      "base_pay"
+    ],
+    "budget_left_eur": 4.27,
+    "cpm_eur": 4.05,
+    "cpa_eur_approx": 0.265,
+    "spent_approx_eur": 12.69,
+    "account_budget_eur": 0.29,
+    "checked_at": "2026-08-20",
+    "ads_login": "ok",
+    "note": "Audience saturated ~71 views/day; pause after top-up"
+  },
+  "channels": {
+    "uupay_captain": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "EXHAUSTED testing-8. 2026-09-03 215d stale. Do not revive."
+    },
+    "quickcashwins": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "WingsAPP; current 8-set | 2026-08-20 old ad saturated"
+    },
+    "loots_pay": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "EXHAUSTED testing-8. 2026-09-03 hijack med=1 market-outlook — do not revive."
+    },
+    "txtpayz": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "EXHAUSTED testing-8. 2026-09-03 now wypay loot signup — do not revive."
+    },
+    "base_pay": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "UltraPay family cousin; current 8 | 2026-08-20 old ad saturated"
+    },
+    "usdt_buy_seller_binance_p2p": {
+      "status": "EXHAUSTED",
+      "lane": "otc_p2p",
+      "note": "Was top delivery; old ad exhausted — do not put in next Primary 8"
+    },
+    "skypay_payment_backup_01": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "High delivery in current ad | 2026-08-20 old ad saturated"
+    },
+    "kunal_loots": {
+      "status": "EXHAUSTED",
+      "lane": "china_pay",
+      "note": "EXHAUSTED testing-8. 2026-09-03 WhatsApp loot — do not revive."
+    },
+    "diwapay": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+    },
+    "wallet_999pay": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review. Do not retarget running 16."
+    },
+    "linkxwalletnow": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+    },
+    "linkpay8": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+    },
+    "jaypay_8": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "atg_india": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-02: channel now Russian job-spam, not ATG India"
+    },
+    "diwapay_support_crypto": {
+      "status": "DROP",
+      "lane": "hijack_loot",
+      "note": "2026-09-02: 22.9k/173 Mantri Mall loot hijack — not Diwa sellers"
+    },
+    "Ez_india": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "china apps 8. 2026-09-03 live 2.4k/208 — posts also push UltraPay conversion. Sister trees ezpay_rogen/rotio = WATCH wave3, do not retarget this handle."
+    },
+    "usdt_buyer_crypto_cr": {
+      "status": "DROP",
+      "lane": "wrong_side",
+      "note": "They SELL USDT at 99-100 to buyers; 78d stale — not our sellers"
+    },
+    "hoyopay": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
+    },
+    "hoyopay_offical": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "Skip — <1k; use hoyopay instead"
+    },
+    "showpayindia": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+    },
+    "xwalletcorporate": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "~150-200 views too weak"
+    },
+    "bestpay": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "2026-09-02 101d stale corp-account recruit"
+    },
+    "paisabase_official": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "~100 views deadish"
+    },
+    "atgofficiale": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
+    },
+    "atgpay_iop": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
+    },
+    "elitedealll": {
+      "status": "WATCH",
+      "lane": "deal_clone",
+      "note": "Ad1 SWAP only — 887/199/0d <1k"
+    },
+    "turbodeal100": {
+      "status": "WATCH",
+      "lane": "deal",
+      "note": "Ad1 SWAP only — 1.1k/81/0d views too weak"
+    },
+    "ultra_pay0_family": {
+      "status": "WATCH",
+      "lane": "seller_rate_desk",
+      "note": "2026-08-21: investment VIP copy — prefer ultrapay_official"
+    },
+    "cocopayplus": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "Spy still shows competitor placements Aug2026; public preview restricted — retest only if preview opens"
+    },
+    "ndpay888": {
+      "status": "DEAD",
+      "lane": "china_pay",
+      "note": "2026-09-02 still preview-restricted"
+    },
+    "swiftpayofficialchannel": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "100+ days stale"
+    },
+    "OnePayWorld1": {
+      "status": "DROP",
+      "lane": "operator",
+      "note": "Payment operator not retail seller"
+    },
+    "tg_pay111": {
+      "status": "DROP",
+      "lane": "operator",
+      "note": "Payment operator not retail seller"
+    },
+    "inr_exchange_usdt": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "False-positive / inflated / bank-game risk"
+    },
+    "sum_usdt": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "Old/inflated"
+    },
+    "usdt_to_inr_buyer1": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "Inflated"
+    },
+    "buyer_usdt_seller_crypto_binance": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "Inflated mega"
+    },
+    "trust_usd_market": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "Low views / mix spam"
+    },
+    "Trust_USD_Market": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "Alias"
+    },
+    "usdtsellersindia": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "F2F dirty desk"
+    },
+    "USDTP2PINDIA": {
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "GROUP India/Dubai P2P escrow — not ads list"
+    },
+    "showxpay": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "2026-09-02 21.5k/270/23d stale official — competitor dest, not our 8"
+    },
+    "mobiuspetech": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-02 Spy CTA; live 1.55k/234/0d but bio is gadget/tech news not USDT sellers"
+    },
+    "linkpay_en": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-02 Spy CTA; preview-restricted global virtual cards, not India USDT desk"
+    },
+    "hoyopay777": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "2026-09-02 Spy CTA; 124 subs — Ads reject risk. Use hoyopay instead"
+    },
+    "DiwaPay": {
+      "status": "DROP",
+      "lane": "earn_app",
+      "note": "Early earn worker drop; see diwapay re-qualified"
+    },
+    "payxwork01": {
+      "status": "WATCH",
+      "lane": "agent_restricted",
+      "note": "OLOPay/PayX — restricted; ED-adjacent Payx name — skip Ads"
+    },
+    "cowpay": {
+      "status": "DEAD",
+      "lane": "china_pay",
+      "note": "Shutdown"
+    },
+    "smartwallet0": {
+      "status": "DEAD",
+      "lane": "china_pay",
+      "note": "Dead; confirm exact handle before any spend"
+    },
+    "usdt7": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "China cash OTC — mat laga"
+    },
+    "cbpay": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "<1k / weak"
+    },
+    "COME_Channel_0": {
+      "status": "DROP",
+      "lane": "dukhdha",
+      "note": "2026-09-02 TrustPay elite/winning zone — skip"
+    },
+    "cryptoamanclub": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Views-only wrong bet"
+    },
+    "OfficialCryptoIndia": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Haveli — views-only"
+    },
+    "CryptoPointHi": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "CPH education not sellers"
+    },
+    "PushpendraSinghOfficial": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Education not sellers"
+    },
+    "startfromzerofamily": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "bitcoinexpertindia": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "CryptoHindiO": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "cryptoshyamcs": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "wazirx": {
+      "status": "DROP",
+      "lane": "exchange",
+      "note": "Announce audience weak OTC"
+    },
+    "WazirX": {
+      "status": "DROP",
+      "lane": "exchange",
+      "note": "Alias"
+    },
+    "zebpayofficial": {
+      "status": "DROP",
+      "lane": "exchange",
+      "note": "Wrong bet"
+    },
+    "ZebPayOfficial": {
+      "status": "DROP",
+      "lane": "exchange",
+      "note": "Alias"
+    },
+    "coindcxofficial": {
+      "status": "DROP",
+      "lane": "exchange",
+      "note": "Wrong bet"
+    },
+    "PowerOfStocks": {
+      "status": "DROP",
+      "lane": "forex_stocks",
+      "note": "Wrong intent"
+    },
+    "cryptotwk": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "twkofficial79": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "technovasu": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong intent"
+    },
+    "CryptoKingKeyur": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "FundedNextOfficialCommunity": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "Wrong intent"
+    },
+    "bullishbull": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "Wrong intent"
+    },
+    "cryptokaroo": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Derivatives/INR weak USDT ownership"
+    },
+    "coachsagarsinha": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Loans/stocks/politics"
+    },
+    "deltaexchangeyoutube": {
+      "status": "DROP",
+      "lane": "derivatives",
+      "note": "INR settled no crypto DW"
+    },
+    "ttrcryptogroup": {
+      "status": "DROP",
+      "lane": "derivatives",
+      "note": "Wrong fit"
+    },
+    "everythingajay": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "Wrong bet"
+    },
+    "bitbns": {
+      "status": "DROP",
+      "lane": "exchange",
+      "note": "Wrong bet"
+    },
+    "crypto_rajaluckgiftcode": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated mega gaming"
+    },
+    "bigmumbai_mumbai": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated"
+    },
+    "lottery1wingo": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated"
+    },
+    "lottery1svippredictionwing": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated"
+    },
+    "official101game": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated"
+    },
+    "fastwin_app": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated"
+    },
+    "crypto_jaiclub": {
+      "status": "DROP",
+      "lane": "gaming_inflated",
+      "note": "Inflated"
+    },
+    "loadteam": {
+      "status": "DROP",
+      "lane": "fantasy",
+      "note": "Wrong intent"
+    },
+    "fantasysyndicate": {
+      "status": "DROP",
+      "lane": "fantasy",
+      "note": "Wrong intent"
+    },
+    "devendrayadav112": {
+      "status": "DROP",
+      "lane": "fantasy",
+      "note": "Wrong intent"
+    },
+    "hindbet": {
+      "status": "DROP",
+      "lane": "fantasy",
+      "note": "Wrong intent"
+    },
+    "blocksensealphausdt": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "Skip"
+    },
+    "thesorotrader": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "Skip"
+    },
+    "panda_tenda_cryptocurrency": {
+      "status": "BLOCK",
+      "lane": "scam_risk",
+      "note": "Risky despite ads"
+    },
+    "flash_usdtti": {
+      "status": "BLOCK",
+      "lane": "flash",
+      "note": "Fake flash crowd"
+    },
+    "crypto_coins_seller": {
+      "status": "BLOCK",
+      "lane": "flash",
+      "note": "Fake flash"
+    },
+    "usdt_flashy": {
+      "status": "BLOCK",
+      "lane": "flash",
+      "note": "Fake flash"
+    },
+    "flashusdtbuysell": {
+      "status": "BLOCK",
+      "lane": "flash",
+      "note": "Flash spam"
+    },
+    "ultrapay_official": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "quickpayoffical1": {
+      "status": "IN_REVIEW",
+      "lane": "china_worker",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
+    },
+    "sharkpaypayment": {
+      "status": "RUNNING_TEST",
+      "lane": "gaming_fund_agent",
+      "note": "HOLD agent-10. 2026-09-03 AU retail/corporate need. Do not refill."
+    },
+    "gnspay_upi": {
+      "status": "RUNNING_TEST",
+      "lane": "gaming_fund",
+      "note": "HOLD agent-10. 2026-09-03 live 3.05k/623/0d GNS-Game King — payout rail real, but ad was mule-mix. Do not refill."
+    },
+    "wiseway_payment": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "RUNNING china pay 8. 2026-09-03 live: now BD/agent partner recruit — do not add to new packs. Don't pause running."
+    },
+    "xpay0088": {
+      "status": "RUNNING_TEST",
+      "lane": "agent_accounts",
+      "note": "HOLD agent-10. 2026-09-03 Indian accounts list. Do not refill."
+    },
+    "tivrapay": {
+      "status": "DROP",
+      "lane": "gaming_deposit",
+      "note": "High views but wrong product lane as primary"
+    },
+    "buysellvip": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "2026-08-20 placement hit but Buy Sell Loots — wrong intent"
+    },
+    "earningsupport2": {
+      "status": "DROP",
+      "lane": "loot_earn",
+      "note": "Loot/earn wrong lane"
+    },
+    "lootwitharkaofficial": {
+      "status": "DROP",
+      "lane": "loot_earn",
+      "note": "Rummy/loot wrong lane"
+    },
+    "dailyincome_club": {
+      "status": "DROP",
+      "lane": "rummy",
+      "note": "JaihoSpin rummy"
+    },
+    "cryptoheadlines365": {
+      "status": "DROP",
+      "lane": "famous_crypto",
+      "note": "News lane"
+    },
+    "xd_payman": {
+      "status": "DROP",
+      "lane": "china_pay",
+      "note": "~250 views too weak"
+    },
+    "lgpay_official": {
+      "status": "READY_PACK",
+      "lane": "china_worker",
+      "note": "§34 China wave2 #2 — 2026-09-03 10.7k/454/0d. Spy: LG Pay still running IN USDT-sell ad CTA this handle."
+    },
+    "upaywalle_mahagames": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "RUNNING china pay 8. 2026-09-03 live 18.7k/2850 but 114d stale lucky-code — slot waste. Do not copy into next pack."
+    },
+    "team_11_dream01": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "§34 cut: 30d stale ShortPay — not in China wave2"
+    },
+    "erupeetradingofficialchannel": {
+      "status": "DROP",
+      "lane": "erupee_token",
+      "note": "Persona A Aug11; Aug20 live med~64 collapsed — skip"
+    },
+    "t_zkpay_999pay": {
+      "status": "RUNNING_TEST",
+      "lane": "gaming_fund",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "mobiuspayofficial1": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "alexpay_channel": {
+      "status": "PROVEN",
+      "lane": "china_pay",
+      "note": "RUNNING china pay 8. 2026-09-03 live 3.6k/5220 but 25d stale. Don't add to new packs."
+    },
+    "u8payindia": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "215d stale despite high old views"
+    },
+    "Lm_P2P": {
+      "status": "DROP",
+      "lane": "otc_p2p",
+      "note": "2026-08-21: beware-scammers P2P — dukhdha risk, skip ads"
+    },
+    "infinityforexchannel": {
+      "status": "DROP",
+      "lane": "forex",
+      "note": "wrong side buy USDT"
+    },
+    "tradinghubreal": {
+      "status": "DROP",
+      "lane": "forex",
+      "note": "forex not sellers"
+    },
+    "goatfundedtradergft": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "prop buyers"
+    },
+    "fundingcrusherofficial": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "prop/EA"
+    },
+    "forexpropfirm": {
+      "status": "DROP",
+      "lane": "prop_forex",
+      "note": "prop promo"
+    },
+    "bharatservice1": {
+      "status": "WATCH",
+      "lane": "dukhdha",
+      "note": "High views but FloatPay/xWallet investment funnel — skip Wave5"
+    },
+    "indiapayments_okpayen": {
+      "status": "DROP",
+      "lane": "payment_gateway",
+      "note": "2026-08-20: 345d dead"
+    },
+    "magicpay_168gns": {
+      "status": "DROP",
+      "lane": "gaming_fund_stale",
+      "note": "338d stale MagicPay"
+    },
+    "goldpay666888": {
+      "status": "DROP",
+      "lane": "gaming_fund_stale",
+      "note": "161d stale — skip until revived"
+    },
+    "MeteorpayEliteChannel00011": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay_agent",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "rhinopaymentchannel666666": {
+      "status": "DROP",
+      "lane": "discontinued",
+      "note": "2026-09-03 discontinued, points to MeteorpayEliteChannel00011."
+    },
+    "ddpay9999": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay_worker",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "wisewayamina": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "231d stale personal manager; not inventory"
+    },
+    "rupeedash": {
+      "status": "DROP",
+      "lane": "earn_app",
+      "note": "Earn daily wrong intent; 85d stale"
+    },
+    "uonopay_task_crypto": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "43k subs / ~331 views"
+    },
+    "cowpayqrcodescanningchannel": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "CowCoin USDT-INR; views ~99 weak"
+    },
+    "mmoney_official2": {
+      "status": "IN_REVIEW",
+      "lane": "china_worker",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review. Telemetr cheater flag — watch CPA."
+    },
+    "CryptoMarketHubb": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay_carrier",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review (lgpay swap)."
+    },
+    "come_channel_0": {
+      "status": "WATCH",
+      "lane": "trustpay_rebrand",
+      "note": "Was IPL DROP; now TRUST PAY ~496 med — watch only not primary"
+    },
+    "ygpay147": {
+      "status": "DROP",
+      "lane": "agent_stale",
+      "note": "Agent-tier language but 126d stale / weak views"
+    },
+    "WorldInrUstd": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 now Mast Khel cash games. Spy MoguEx June ads stale. Already weak/stale history."
+    },
+    "worldinrustd": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "Alias WorldInrUstd"
+    },
+    "alliance_hub": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "Buyer creative but placements/geo junk; tiny channel"
+    },
+    "sprodeal_official": {
+      "status": "WATCH",
+      "lane": "deal_clone",
+      "note": "~179 subs live Hindi deal — size weak"
+    },
+    "SPRODEAL_official": {
+      "status": "WATCH",
+      "lane": "buyer_desk",
+      "note": "Alias"
+    },
+    "bhaartpay": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
+    },
+    "winmoneygrey": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "SuperpayZ mid/weak"
+    },
+    "toppay_officialchannel": {
+      "status": "DROP",
+      "lane": "deadish",
+      "note": "med~8"
+    },
+    "mmpay_mm_pay": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "9.7k / ~67 views"
+    },
+    "sdigitalmoney": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "~165 views"
+    },
+    "crypto_usdt_buyer": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "218d stale OTC clone"
+    },
+    "laxmifundscommunity": {
+      "status": "WATCH",
+      "lane": "competitor",
+      "note": "Preview restricted Laxmi community"
+    },
+    "bedane_official": {
+      "status": "WATCH",
+      "lane": "otc_dukhdha",
+      "note": "§34 OPTIONAL later — dispute history"
+    },
+    "mobiuspe0": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "2026-08-21 Ad B china apps 10 — In Review"
+    },
+    "Mobiuspe0": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "Alias mobiuspe0"
+    },
+    "wb_pay": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+    },
+    "world_bank_payment_company": {
+      "status": "RUNNING_TEST",
+      "lane": "china_pay",
+      "note": "2026-08-21 Ad A agent settlement 10 — In Review"
+    },
+    "cryptoto_inr": {
+      "status": "WATCH",
+      "lane": "p2p_board",
+      "note": "§34 OPTIONAL later — $100–200 P2P posts, not whale"
+    },
+    "network_public": {
+      "status": "WATCH",
+      "lane": "rs_wallet",
+      "note": "2026-09-02 preview restricted (was RS Wallet official)"
+    },
+    "linkpay888jack": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 live 2.1k/2075 Linkpay official, but Spy ad-load = casino/forex pollution. Weak backup only. Already in weak agent settlement 10."
+    },
+    "cryptomasterr91": {
+      "status": "WATCH",
+      "lane": "otc_converter",
+      "note": "Strong sell language but <1k subs"
+    },
+    "trusteeexchange": {
+      "status": "DROP",
+      "lane": "otc_weak",
+      "note": "med~56 weak despite escrow USDT→INR title"
+    },
+    "INDIANP2PESCROW": {
+      "status": "WATCH",
+      "lane": "escrow_restricted",
+      "note": "Indian P2P escrow group — restricted"
+    },
+    "usdtsellingandbuyinggroup": {
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "GROUP escrow — not ads list"
+    },
+    "usdtindiahub": {
+      "status": "WATCH",
+      "lane": "escrower_group",
+      "note": "Hub/group preview-restricted"
+    },
+    "CryptoIndiaUnited": {
+      "status": "DROP",
+      "lane": "stale_inflated",
+      "note": "9.8k / one post 464d stale"
+    },
+    "IndiaCrypto_Market": {
+      "status": "WATCH",
+      "lane": "bulk_otc_desk",
+      "note": "IndiaOTC rates; <1k subs + 338d stale — not primary yet"
+    },
+    "keralausdt": {
+      "status": "WATCH",
+      "lane": "remit_restricted",
+      "note": "Kerala cash dealers — restricted"
+    },
+    "malayalamcrypto": {
+      "status": "WATCH",
+      "lane": "remittance_proxy",
+      "note": "Malayalam crypto — restricted"
+    },
+    "usdtotcindia": {
+      "status": "WATCH",
+      "lane": "otc_restricted",
+      "note": "USDT OTC India group — restricted"
+    },
+    "kaakafinance": {
+      "status": "WATCH",
+      "lane": "bulk_desk",
+      "note": "Kaaka desk — contact/restricted"
+    },
+    "ecurrencyteam": {
+      "status": "WATCH",
+      "lane": "bulk_desk",
+      "note": "Ecurrency OTC — restricted"
+    },
+    "hawalainternational_levels": {
+      "status": "BLOCK",
+      "lane": "hawala_risk",
+      "note": "Hawala USDT dealer — policy/legal risk skip ads"
+    },
+    "mvpay9526": {
+      "status": "RUNNING_TEST",
+      "lane": "agent_corporate",
+      "note": "HOLD agent-10. 2026-09-03 still bank/gaming-fund recruit. Do not refill."
+    },
+    "quickpaynetwor": {
+      "status": "DROP",
+      "lane": "wrong_product",
+      "note": "Wrong QuickPay — wallet tasks/giveaway not India USDT desk"
+    },
+    "quickpaybdofficialupdate": {
+      "status": "DROP",
+      "lane": "geo_bd",
+      "note": "Bangladesh QuickPay — not India primary"
+    },
+    "laxmi_trader_official": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "10k subs / med~52 — famous-style fail"
+    },
+    "Laxmi_trader_official": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "alias"
+    },
+    "chinapaymentcorp": {
+      "status": "WATCH",
+      "lane": "china_corp",
+      "note": "Vpay China-India corp — preview restricted"
+    },
+    "acpaya9": {
+      "status": "WATCH",
+      "lane": "agent_accounts",
+      "note": "ACpay bank accounts <1k"
+    },
+    "indiacorporate_accounts": {
+      "status": "WATCH",
+      "lane": "agent_accounts",
+      "note": "Mostly restricted groups"
+    },
+    "topcorporates": {
+      "status": "WATCH",
+      "lane": "agent_accounts",
+      "note": "Cloudpayment corp — restricted"
+    },
+    "pay0000012": {
+      "status": "RUNNING_TEST",
+      "lane": "allpay_agent_mqr",
+      "note": "HOLD agent-10. 2026-09-03 JK Bank deposit recruit. Do not refill."
+    },
+    "DracoDeall": {
+      "status": "WATCH",
+      "lane": "deal_clone",
+      "note": "§34 cut: Paisabase deal clone — not China-best"
+    },
+    "SuperDeall776": {
+      "status": "WATCH",
+      "lane": "deal_clone",
+      "note": "§34 cut: ATG deal clone; atgofficiale already in wave2"
+    },
+    "floatpayme88": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "<1k FloatPay with-us"
+    },
+    "trustpayme88": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "<1k"
+    },
+    "wwwpayme88": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "<1k 3WPay"
+    },
+    "xwalletme88": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "<1k"
+    },
+    "NitroDeal098": {
+      "status": "DROP",
+      "lane": "loot_spam",
+      "note": "2026-08-20: Flipkart/shopping loot spam; not USDT sellers"
+    },
+    "uniqueChineseMarket": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "Unique pay 184/49 live china-app clone"
+    },
+    "moneychangerIN": {
+      "status": "WATCH",
+      "lane": "p2p_otc",
+      "note": "MCX India tiny ~146; intent OK size weak"
+    },
+    "bedaneindia": {
+      "status": "WATCH",
+      "lane": "otc",
+      "note": "Bedane alt; 70d stale / <1k — prefer bedane_official"
+    },
+    "allpay0001": {
+      "status": "DROP",
+      "lane": "allpay",
+      "note": "preview restricted / operator"
+    },
+    "dwpay8888": {
+      "status": "DROP",
+      "lane": "stale_otc",
+      "note": "209d stale med~147"
+    },
+    "honepay118": {
+      "status": "IN_REVIEW",
+      "lane": "gaming_fund",
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Not in running 16 / wave2."
+    },
+    "win777vip9": {
+      "status": "DROP",
+      "lane": "gaming_fund_stale",
+      "note": "ArroPay pure gaming USDT-INR; 133d stale"
+    },
+    "stakecasino": {
+      "status": "DROP",
+      "lane": "global_casino_mega",
+      "note": "Stake.com global mega — wrong India seller Ads fit"
+    },
+    "originalcricketexchange": {
+      "status": "DROP",
+      "lane": "betting_tips",
+      "note": "Cricket tips/ID lane — depositors not USDT sellers"
+    },
+    "onlineidbetting": {
+      "status": "DROP",
+      "lane": "betting_tips",
+      "note": "Dead online ID betting"
+    },
+    "mahagameschannel103": {
+      "status": "DROP",
+      "lane": "rummy_dead",
+      "note": "290d stale tiny rummy"
+    },
+    "euphorias02e04": {
+      "note": "Stake India title but 476d stale inflated ratio — skip",
+      "status": "DROP",
+      "lane": "stake_stale"
+    },
+    "gnspay666": {
+      "status": "WATCH",
+      "lane": "gaming_fund_agent",
+      "note": "MQR/game recharge med~205 stale51d — backup only"
+    },
+    "magicpay168801": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "123 MagicPay home"
+    },
+    "bcgame_india": {
+      "status": "WATCH",
+      "lane": "crypto_casino_india",
+      "note": "§34 OPTIONAL later — casino withdraw, not China-pay"
+    },
+    "bcgamewin": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "763k global BC.Game notifications — skip primary"
+    },
+    "stakecomdailydrops": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "164k Stake bonus drops — code hunters"
+    },
+    "stakecomhighrollers": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Stake high rollers global"
+    },
+    "shuffle": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Shuffle.com official global codes"
+    },
+    "Winna": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Winna.com global bonus drops"
+    },
+    "duelbits": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Duelbits global — not India seller desk"
+    },
+    "rakebit_channel": {
+      "status": "DROP",
+      "lane": "crypto_casino_mega",
+      "note": "Rakebit global promo"
+    },
+    "stakebuysel": {
+      "status": "DROP",
+      "lane": "account_market",
+      "note": "Sells Stake accounts — wrong intent vs USDT→INR"
+    },
+    "stakehelp2": {
+      "status": "DROP",
+      "lane": "stake_india_dead",
+      "note": "33 subs weak"
+    },
+    "stakeindiacommmunity": {
+      "status": "DROP",
+      "lane": "stake_india_restricted",
+      "note": "Preview restricted tiny"
+    },
+    "stake_crypto_to_inr": {
+      "status": "DROP",
+      "lane": "stake_india_empty",
+      "note": "Restricted/empty — no Ads inventory"
+    },
+    "tatapay_acc": {
+      "status": "WATCH",
+      "lane": "gaming_fund",
+      "note": "§34 OPTIONAL later — SharkPay official; China wave2 pehle"
+    },
+    "rspay6": {
+      "status": "WATCH",
+      "lane": "agent_bulk",
+      "note": "§34 OPTIONAL later only — mule/corp not China seller / not 5k whale"
+    },
+    "ttwalletchannel": {
+      "status": "DEAD",
+      "lane": "china_pay",
+      "note": "Bhaaratpay placement leak; live 714d stale"
+    },
+    "cryptopay06": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "CryptoX Pay 2.9k/med54 inflated"
+    },
+    "allpayapp_com": {
+      "status": "DROP",
+      "lane": "spam",
+      "note": "H5 goshare — rotating fake P2P pay clones"
+    },
+    "skyexchange_official_sky_exch": {
+      "status": "DROP",
+      "lane": "betting_book",
+      "note": "Sky Exchange betting book renamed usdt to inr"
+    },
+    "diuwinpayaman": {
+      "status": "DROP",
+      "lane": "lottery",
+      "note": "Diuwin wingo/prediction"
+    },
+    "officialnews00": {
+      "status": "DROP",
+      "lane": "deal_clone",
+      "note": "Motivation + MMpay spam"
+    },
+    "kisspay": {
+      "status": "BLOCK",
+      "lane": "criminal_funds",
+      "note": "KissPay fraud-fund rate card — do not target"
+    },
+    "worldpayrmb": {
+      "status": "BLOCK",
+      "lane": "criminal_funds",
+      "note": "WORLDPAYRMB criminal-origin USDT pricing"
+    },
+    "usdtmalayali": {
+      "status": "WATCH",
+      "lane": "remit_restricted",
+      "note": "Kerala sellers/buyers group — preview restricted, not Ads"
+    },
+    "usdtjaipurcash": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Jaipur F2F cash — not Ads inventory"
+    },
+    "gnspayr1": {
+      "status": "WATCH",
+      "lane": "otp_agent",
+      "note": "GNS OTP/F2F Assam Gramin recruit — mule lean"
+    },
+    "showpay_fastsell": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "CryptoX 156/med7"
+    },
+    "vvipezpayofficialchannel": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "EZPay Pro 198 subs"
+    },
+    "incoinpay_999_pay_999pay": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-02 re-audit 12.6k/med73 inflated 999PAY clone"
+    },
+    "Bankpay_P2Ppay": {
+      "status": "WATCH",
+      "lane": "b2b_gateway",
+      "note": "<1k B2B PG not retail sellers"
+    },
+    "xwalletofficial": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "X Wallet preview restricted"
+    },
+    "usdt_market_trustpay": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "TrustPay USDT exchange restricted"
+    },
+    "rs_wallet": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "148 subs RS wallet exclusive"
+    },
+    "smartpay_777": {
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "China-app clone live but med views 81 — too weak"
+    },
+    "trustpaynow": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
+    },
+    "mmoneywalletofficialgroup": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "MMoney game-fund GROUP not Ads channel"
+    },
+    "royal_mall_vip": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Olapay title — restricted"
+    },
+    "sharkpay": {
+      "status": "WATCH",
+      "lane": "group",
+      "note": "Sharkpay official GROUP 1.1k/129 — prefer tatapay_acc channel"
+    },
+    "gns_upi": {
+      "status": "WATCH",
+      "lane": "weak",
+      "note": "2.4k/143 weak"
+    },
+    "best_deals888": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "223 deal clone"
+    },
+    "DubaiOTCrates": {
+      "status": "WATCH",
+      "lane": "dubai_otc",
+      "note": "§34 OPTIONAL later — AED OTC, INR China-seller nahi"
+    },
+    "dubaiotcrates": {
+      "status": "WATCH",
+      "lane": "dubai_otc",
+      "note": "alias of DubaiOTCrates"
+    },
+    "qikcryptochannel": {
+      "status": "WATCH",
+      "lane": "p2p_tool",
+      "note": "§34 OPTIONAL later — views 83 weak"
+    },
+    "defiexplorero": {
+      "status": "WATCH",
+      "lane": "deal_paisabase",
+      "note": "Ad2 SWAP only — 1.6k/143/27d stale"
+    },
+    "usdtindubai": {
+      "status": "WATCH",
+      "lane": "dubai_p2p_restricted",
+      "note": "REAL Dubai/India P2P group — preview restricted, not Ads"
+    },
+    "dubaiusdtexchange": {
+      "status": "WATCH",
+      "lane": "dubai_otc_restricted",
+      "note": "Dubai USDT Exchange group — restricted"
+    },
+    "usdtdealsinr": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Delhi/Jaipur/Ahmedabad/Chennai USDT deals group — restricted"
+    },
+    "p2p_f2f": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "India F2F P2P cash group — restricted"
+    },
+    "jaipur_usdt_dealer": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Jaipur cash USDT — restricted"
+    },
+    "usdtcashbhopal": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Bhopal/Indore cash — restricted"
+    },
+    "usdtbhubaneswar": {
+      "status": "WATCH",
+      "lane": "f2f_restricted",
+      "note": "Odisha cash — restricted"
+    },
+    "mrstunner123": {
+      "status": "WATCH",
+      "lane": "escrow_restricted",
+      "note": "Escrow buy/sell group — restricted"
+    },
+    "paisabase_discussion": {
+      "status": "WATCH",
+      "lane": "chat_restricted",
+      "note": "Paisabase discussion group — restricted"
+    },
+    "teampaisabase": {
+      "status": "DROP",
+      "lane": "dead_views",
+      "note": "1.3k but med views 2"
+    },
+    "teen_bollywood_channel": {
+      "status": "DROP",
+      "lane": "movies",
+      "note": "Bollywood/Myanmar movies — no USDT sellers"
+    },
+    "changeotc": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "Dubai gold/AED/toman Farsi desk — not INR sellers"
+    },
+    "dubai_exchange_cryptocurrency": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "1.15k / med 12"
+    },
+    "indiap2pprocessing": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "P2P panel operators 393/217 — not retail sellers"
+    },
+    "rockettradep2p": {
+      "status": "WATCH",
+      "lane": "too_small",
+      "note": "326/209 processing sister"
+    },
+    "qikcryptobot": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "QikCrypto bot"
+    },
+    "mobilewholesalecityofficial": {
+      "status": "DEAD",
+      "lane": "shopping",
+      "note": "664d stale MY mobile wholesale"
+    },
+    "mobileaccessoriesdubai": {
+      "status": "DEAD",
+      "lane": "shopping",
+      "note": "1213d dead"
+    },
+    "secondhandmobilestore2": {
+      "status": "DROP",
+      "lane": "shopping",
+      "note": "Punjab shop bulbs — not USDT"
+    },
+    "usdtd": {
+      "status": "WATCH",
+      "lane": "dubai_restricted",
+      "note": "USDT UAE group restricted"
+    },
+    "binancep2pusdttoinr": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Binance P2P USDT deals group"
+    },
+    "usdt_seller_buyer_indian_binance": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Binance P2P Indian group"
+    },
+    "cryptocrypto_chat": {
+      "status": "DROP",
+      "lane": "stale_global",
+      "note": "282d global swap chat"
+    },
+    "tap_tether_chat": {
+      "status": "DEAD",
+      "lane": "stale",
+      "note": "672d TapTether"
+    },
+    "telugu_chatting231": {
+      "status": "BLOCK",
+      "lane": "adult_spam",
+      "note": "Kerala Dubai chatting = dating spam"
+    },
+    "mmoney_official3": {
+      "status": "WATCH",
+      "lane": "china_worker",
+      "note": "2026-09-03 4.6k/92 weak ads-channel. Use mmoney_official2 in wave2."
+    },
+    "toppay_official": {
+      "status": "WATCH",
+      "lane": "restricted",
+      "note": "Hoyopay token selling — preview restricted"
+    },
+    "officialskypay": {
+      "status": "DROP",
+      "lane": "agent_not_seller",
+      "note": "2026-09-02: 13.8k/7635 live but bank/MQR agent recruit — same fail as agent settlement 10"
+    },
+    "diwaappcode": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "Yono gift codes"
+    },
+    "jaypay_988": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "Elite Earners loot/signup — not JayPay official"
+    },
+    "Officialnews00": {
+      "status": "DROP",
+      "lane": "earn_clone",
+      "note": "MMPay earn clone + generic news"
+    },
+    "ezpay_rogen": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Hottest unused. Do not mix running Ez_india."
+    },
+    "ezpay_rotio": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Sister of Ez_india — different tree, not retarget running."
+    },
+    "official_lg_pay": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 3.3k/305/11d LG Pay sister. Wave2 already has lgpay_official."
+    },
+    "mobiuspe1413": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 2.4k/361 Mobius official alt. Overlap running mobiuspe0."
+    },
+    "showofficiala": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 3.0k/517 'Mobius payz' clone. Overlap — skip primary."
+    },
+    "zkpay108": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 4.6k/2935 sister of running t_zkpay_999pay. Overlap."
+    },
+    "showpayfamily": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 31.7k/481 ratio 0.015 — sell-order copy real but inflated. Not Primary."
+    },
+    "alphapay_alpha_pay": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 4.1k/324 Alpha pay UPI/Mobikwik. Earning-website tone — weak WATCH only."
+    },
+    "s11pay_official": {
+      "status": "DROP",
+      "lane": "promo_board",
+      "note": "2026-09-03 1.9k/1020 — posts PakkaGo/Dhan/MM-Pay ads, not a seller community."
+    },
+    "swiftpay_official": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-09-03 preview-restricted. Distinct from stale swiftpayofficialchannel. Ads cannot target."
+    },
+    "atgpaygo": {
+      "status": "DROP",
+      "lane": "shutting_down",
+      "note": "2026-09-03 shutting down, invite to private group. Use atgpay_iop / atgofficiale."
+    },
+    "zippayofficialindia": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 6.9k/88 ratio 0.013 ZipPay+TrustPay team-building, not sellers."
+    },
+    "showpay_parttime": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 4.0k/57 thin Showpay clone."
+    },
+    "showpay_officialchannel": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-09-03 1.5k/med 6."
+    },
+    "trustpayegp": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 Egypt Arabic Trust Pay — not India sellers."
+    },
+    "theofficialpaytmmoney": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 Paytm Money — not USDT sellers."
+    },
+    "moneyfarmmoney": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 Russian pay-for-posts, not India USDT."
+    },
+    "binance5434": {
+      "status": "DROP",
+      "lane": "futures_signals",
+      "note": "2026-09-03 auto-hunt false KEEP — futures signals."
+    },
+    "freebinancef": {
+      "status": "DROP",
+      "lane": "futures_signals",
+      "note": "2026-09-03 auto-hunt false KEEP — futures signals."
+    },
+    "wangklda": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 EZPay Jayden invite/team commission 0.4–0.6%."
+    },
+    "quickpay122": {
+      "status": "DROP",
+      "lane": "too_small",
+      "note": "2026-09-03 Spy advertiser slug. 525/med 10 — Ads reject + dead."
+    },
+    "ultrapaylas": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 Turkish adult, not UltraPay India."
+    },
+    "bharatpay269offer": {
+      "status": "DROP",
+      "lane": "earn_clone",
+      "note": "2026-09-03 CryptoX Pay earn clone, thin views."
+    },
+    "laicaileya": {
+      "status": "DROP",
+      "lane": "weak",
+      "note": "2026-09-03 1.9k/63 weak Linkpay clone."
+    },
+    "hoyopay_official": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "2026-09-03 16k/270/58d now NIFTY posts — not Hoyo sellers. Use hoyopay."
+    },
+    "mobiuspe1": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 16k/med 2 inflated."
+    },
+    "trustpaypayment": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 18k/37 inflated."
+    },
+    "umoney_wallet_official": {
+      "status": "IN_REVIEW",
+      "lane": "china_pay",
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Volume, quieter views."
+    },
+    "jaipayofficialchannel": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-09-03 9.4k/137 ratio 0.015 — genuine 'already have USDT → INR 108' copy but thin. Wave3 swap only."
+    },
+    "tf_exchange": {
+      "status": "IN_REVIEW",
+      "lane": "p2p_board",
+      "note": "2026-09-04 ad 24 china wave3 desks In Review."
+    },
+    "qqpayoff": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 5.1k/859 QQ Pay needs Assam Gramin bank + 500U deposit — agent/mule."
+    },
+    "olopaywork": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 4.6k/1002 HK payment co recruiting India gramin/corporate accounts."
+    },
+    "pay4btccompany": {
+      "status": "DROP",
+      "lane": "agent_not_seller",
+      "note": "2026-09-03 19.8k/116 QR/MQR account recruit + gaming-fund rates."
+    },
+    "spaypayins": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 18.7k/med 25 Spay gaming-fund partner recruit."
+    },
+    "dukepay_officer88": {
+      "status": "DROP",
+      "lane": "agent_not_seller",
+      "note": "2026-09-03 corporate/wallet gaming-fund suppliers."
+    },
+    "indian123payments": {
+      "status": "DROP",
+      "lane": "agent_settlement",
+      "note": "2026-09-03 5.2k/293 gaming+stock fund exchange — same fail lane as agent settlement 10."
+    },
+    "dmpay_888": {
+      "status": "DROP",
+      "lane": "wrong_side_dead",
+      "note": "2026-09-03 5.2k/med 7 they NEED USDT (deposit first, 140 INR) — buyer/partner not retail sellers."
+    },
+    "hgpayofficial": {
+      "status": "DROP",
+      "lane": "dead_recruit",
+      "note": "2026-09-03 5.0k/med 16 HK pay partner recruit."
+    },
+    "wywalletofficialrecruitment": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 29k/5295 agent recruitment not sellers."
+    },
+    "sprofitableoffical04": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Spro Deal Even 13.9k/5035 invite 0.4–0.6% team commission."
+    },
+    "sureswapio": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-09-03 1.1k/med 2 bank-account partnership proofs."
+    },
+    "pw_p2p_ads": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-09-03 4.0k/med 7 P2P ad board — views dead."
+    },
+    "usdt_to_inr_buyer": {
+      "status": "DROP",
+      "lane": "inflated",
+      "note": "2026-09-03 41.8k/148 ratio 0.004 mega desk — same family as usdt_to_inr_buyer1."
+    },
+    "switchremit": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 MYR/THB/Alipay remit desk — not India USDT sellers."
+    },
+    "neptuneexchange_com": {
+      "status": "DROP",
+      "lane": "wrong_geo",
+      "note": "2026-09-03 Cyprus/EUR OTC 5000U+ — not India Ads audience."
+    },
+    "tamil_usdt_seller": {
+      "status": "WATCH",
+      "lane": "otc_f2f",
+      "note": "2026-09-03 1.9k/med 24 Tuticorin F2F TRC20 — real seller language, Ads-thin. Skip primary."
+    },
+    "fctusdtbuysell": {
+      "status": "WATCH",
+      "lane": "otc_weak",
+      "note": "2026-09-03 933/244 <1k Ads reject risk."
+    },
+    "tamilp2pusdt": {
+      "status": "WATCH",
+      "lane": "otc_p2p",
+      "note": "2026-09-03 liquidity hunt. 3.0k/235 TCU P2P — holders post $500-1500 USDT available. Ads-thin. Not wave2/3."
+    },
+    "rogen_0": {
+      "status": "DROP",
+      "lane": "spro_invite",
+      "note": "2026-09-03 Spro Deal Group Rogen 20.8k/3525 UPI sell orders but Spro family already DROP. Do not revive."
+    },
+    "fastgopay1offical": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 1.55k/523 IOB/MQR account recruit + USDT supplier ask."
+    },
+    "dreampay2580": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Dream Pay city-union/federal cardholder mediator."
+    },
+    "dreamxpayofficial": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 India Bank Work + Dubai AED USDT F2F — kit handler."
+    },
+    "hn_8777pay": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 WL-PAY needs ICICI/Yes/Kotak company accounts 25-50L."
+    },
+    "fastpaygaming": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 FastPay Ivory Coast — Indus/SBM corporate OTP parking."
+    },
+    "acpay00001": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 gateway/F2F fund delivery — agent not holder."
+    },
+    "rspay888": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 9.4k/3160 exporter-title but BOM/Bandhan account list."
+    },
+    "alphapay3333": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 694/385 BOI+MQR 1cr run + game funds 109 INR."
+    },
+    "djpay_ind03": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Kotak CMS / HDFC domain ID recruit."
+    },
+    "benpay514": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 AU/IDBI/IOB corporate submit-account."
+    },
+    "tt_pay666": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 Tata Pay game-fund 104 INR, pay USDT in advance."
+    },
+    "ttpay665": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 TT-pay sister of tt_pay666."
+    },
+    "ttpay100100101": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 TT-pay sister."
+    },
+    "superpay_jrbankpayment": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-09-03 JR Payment Company — preview-restricted bank recruit."
+    },
+    "usdtbuyandselltoday": {
+      "status": "DROP",
+      "lane": "flash_scam",
+      "note": "2026-09-03 Balaji Enterprises DT ₹135-140 Trust Wallet BEP20 — flash USDT."
+    },
+    "usdtbranch1": {
+      "status": "DROP",
+      "lane": "wrong_side",
+      "note": "2026-09-03 admin selling USDT at ₹93-95; audience is buyers."
+    },
+    "dafapay2009": {
+      "status": "DROP",
+      "lane": "wrong_side",
+      "note": "2026-09-03 Lakshmi tokens-for-USDT + lucky draw. Thin 56/6.2k."
+    },
+    "plusgain_club": {
+      "status": "DROP",
+      "lane": "china_pay_thin",
+      "note": "2026-09-03 PlusGain order app 2.4k/80 thin — not official seller shelf."
+    },
+    "p2p_earning_player": {
+      "status": "DROP",
+      "lane": "loot",
+      "note": "2026-09-03 ElePay signup bonus + panel USDT 124."
+    },
+    "xclusor": {
+      "status": "DROP",
+      "lane": "wrong_intent",
+      "note": "2026-09-03 OTP bot channel; one F2F USDT-buy ad is not a seller shelf."
+    },
+    "novasell_payments": {
+      "status": "DROP",
+      "lane": "bot_receipts",
+      "note": "2026-09-03 7.0k/med 5 deposit-receipt bot."
+    },
+    "usdbuyer7": {
+      "status": "DROP",
+      "lane": "restricted_clone",
+      "note": "2026-09-03 preview-restricted title Safepath PAY — not our dest; Ads-unusable."
+    },
+    "paynexox": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-09-03 preview-restricted. Bulk-USDT Search2 source only."
+    },
+    "pesopay1": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-09-03 Golden Payments India-China transfer — preview-restricted."
+    },
+    "labubupayyyyyy8696": {
+      "status": "DROP",
+      "lane": "nano_invite",
+      "note": "2026-09-03 Umoney invite team 646. WAVE3 already has umoney_wallet_official."
+    },
+    "easywallet2": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-09-03 881 members USDT part-time job. <1k Ads-risk."
+    },
+    "tivrapay03": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-09-03 776 SIVP Tivra — buy token and sell. tivrapay already DROP."
+    }
+  },
+  "competitors_to_spy": [
+    "ShowxPay",
+    "MobiusPe",
+    "Laxmi",
+    "QuickPay",
+    "CryptoMarketHub",
+    "Trust Pay"
+  ],
+  "rules": [
+    "Members != audience; if mega members and ~1-100 live views → DROP",
+    "Famous crypto education/exchange announce = DROP for seller acquisition",
+    "Prefer China-pay / live USDT-rate channels with recent competitor ads",
+    "CPM ~4 TON quality lane working; ultra-low CPM previously zero delivery",
+    "True KPI = DM + deal, not only Actions/joins",
+    "Do not re-recommend DROP/HATA without fresh live audit that overturns reason",
+    "Update this file + CHANNEL_RESEARCH.md after every research/campaign result"
+  ],
+  "new_ad_primary": [
+    "mvpay9526",
+    "pay0000012",
+    "xpay0088",
+    "sharkpaypayment",
+    "gnspay_upi",
+    "wb_pay",
+    "world_bank_payment_company",
+    "linkpay888jack"
+  ],
+  "new_ad_backup": [
+    "mobiuspe0",
+    "MeteorpayEliteChannel00011",
+    "ddpay9999",
+    "ultrapay_official",
+    "jaypay_8",
+    "mobiuspayofficial1",
+    "Ez_india",
+    "t_zkpay_999pay"
+  ],
+  "access_note": "Ads login OK on 2026-08-11 via Chrome profile; per-channel joins not available in TG Ads UI",
+  "seller_personas_2026_08": [
+    {
+      "rank": 1,
+      "persona": "China-pay / game-pay order takers",
+      "tg_fit": "best_proven_mixed_junk"
+    },
+    {
+      "rank": 2,
+      "persona": "Agent / settlement / MQR suppliers",
+      "tg_fit": "best_expansion"
+    },
+    {
+      "rank": 3,
+      "persona": "Gaming-fund settlers",
+      "tg_fit": "good"
+    },
+    {
+      "rank": 4,
+      "persona": "P2P/OTC merchants",
+      "tg_fit": "good_if_live"
+    },
+    {
+      "rank": 5,
+      "persona": "Gulf remittance receivers",
+      "tg_fit": "scarce_public_tg"
+    },
+    {
+      "rank": 6,
+      "persona": "Freelancers paid in USDT",
+      "tg_fit": "scarce"
+    },
+    {
+      "rank": 7,
+      "persona": "eRupee/wallet depositors",
+      "tg_fit": "weak"
+    },
+    {
+      "rank": 8,
+      "persona": "Forex/prop / memecoin / flash",
+      "tg_fit": "avoid_primary"
+    }
+  ],
+  "new_ad_extra_aug11": [
+    "upaywalle_mahagames",
+    "team_11_dream01",
+    "atgofficiale",
+    "erupeetradingofficialchannel",
+    "t_zkpay_999pay",
+    "mobiuspayofficial1",
+    "alexpay_channel",
+    "u8payindia"
+  ],
+  "new_ad_backup_aug14": [
+    "wallet_999pay",
+    "hoyopay",
+    "bestpay",
+    "u8payindia",
+    "erupeetradingofficialchannel",
+    "ultrapay_official",
+    "Ez_india",
+    "t_zkpay_999pay",
+    "atgofficiale",
+    "u8payindia"
+  ],
+  "new_ad_live": {
+    "name": "8 new china pay",
+    "created": "2026-08-14",
+    "status": "Stopped 2026-08-20 — budget depleted (was On Hold 16 Aug over-correction)",
+    "cpm": 4.0,
+    "budget_set": 3.0,
+    "account_balance_approx": 0.29,
+    "note": "Top up then restart this set; also create next Primary 8 (new_ad_primary)",
+    "destination": "t.me/safepathdeals",
+    "channels": [
+      "diwapay",
+      "linkpay8",
+      "linkxwalletnow",
+      "alexpay_channel",
+      "atgpay_iop",
+      "upaywalle_mahagames",
+      "wiseway_payment",
+      "showpayindia"
+    ],
+    "old_ad": "8 channel testing still Active untouched",
+    "views": 5331,
+    "clicks": 441,
+    "joins": 91,
+    "verdict": "BEST; 1 converting Bihar seller — RESTART after top-up"
+  },
+  "hard_lesson_2026_08_16": "OVER-CORRECTED: junk DMs from LinkPay ≠ kill china-pay lane. See correction_2026_08_20.",
+  "audience_right": [
+    "OTC/P2P USDT sellers with inventory",
+    "AGENT / settlement / gaming-fund suppliers on USDT rails",
+    "China-pay / game-pay cohorts that hold USDT (proven convert)",
+    "freelancer USDT cashout",
+    "trader cashout"
+  ],
+  "audience_wrong": [
+    "Pure login-help seekers (filter via creative/pin, not by killing whole lane)",
+    "famous crypto education",
+    "forex/prop buy-side",
+    "flash USDT / loot-rummy primary"
+  ],
+  "ads_snapshot_2026_08_20": {
+    "8 new china pay": {
+      "views": 5331,
+      "clicks": 441,
+      "joins": 91,
+      "status": "Stopped - budget depleted",
+      "cpm": 5.0,
+      "verdict": "BEST performer; produced converting Bihar seller"
+    },
+    "8 channel testing": {
+      "views": 6301,
+      "clicks": 541,
+      "joins": 98,
+      "status": "Active",
+      "budget_left": 4.27,
+      "verdict": "Audience exhausted 71 views/day"
+    },
+    "7": {
+      "views": 171,
+      "clicks": 42,
+      "joins": 7,
+      "status": "On Hold"
+    },
+    "account_balance_eur": 0.29
+  },
+  "correction_2026_08_20": "China-pay/gaming lane converts. Judge by cost-per-converting-seller, not junk-DM count. Re-enable 8 new china pay after top-up.",
+  "proven_restart_primary": [
+    "diwapay",
+    "linkpay8",
+    "linkxwalletnow",
+    "alexpay_channel",
+    "atgpay_iop",
+    "upaywalle_mahagames",
+    "wiseway_payment",
+    "showpayindia"
+  ],
+  "next_ops": [
+    "Monitor Active: 8 new china pay (~18 TON)",
+    "Deposit >=10-25 TON",
+    "Add budget to china apps 10 and Activate",
+    "Do not revive agent settlement / testing / 7"
+  ],
+  "angles_completed_2026_08_20": {
+    "angle1_reverse_spy": "done_by_main_agent",
+    "angle2_high_balance": "done_scarce_otc",
+    "angle3_bihar_regional": "done_no_clean_ads_inventory",
+    "angle4_agent_tier": "done_strongest_lane",
+    "opus_subagents": "all_ERROR_limit_no_salvage"
+  },
+  "opus_salvage_2026_08_20": {
+    "persona_complete": true,
+    "angles_1_to_4": "partial_crash_no_final_lists",
+    "primary_unchanged": true,
+    "note": "Persona A-tier aged poorly (erupee collapsed). Keep Aug20 Primary 8."
+  },
+  "usdt_holder_map_2026_08_20": {
+    "bands": [
+      "nano_<100",
+      "small_100_1k",
+      "mid_1k_10k",
+      "bulk_10k_plus"
+    ],
+    "proven_ads_lane": "china_pay_game_pay_mixed_junk_ok",
+    "beyond_china": [
+      "agent_settlement",
+      "p2p_otc",
+      "gulf_remittance_receive",
+      "freelancer_scarce"
+    ],
+    "bihar": "no_clean_geo_channels; converts_via_china_pay_hindi; small_to_mid_typical",
+    "junk_signal": "LinkPay/TrustPay/Diwa wallet withdraw or login issues"
+  },
+  "persona_channel_map_2026_08_20": {
+    "1_china_workers": [
+      "proven_8",
+      "mobiuspe0",
+      "ddpay9999",
+      "MeteorpayEliteChannel00011",
+      "linkpay888jack"
+    ],
+    "2_agents": [
+      "u8payindia",
+      "xpay0088",
+      "bestpay",
+      "gnspay_upi",
+      "sharkpaypayment",
+      "wb_pay",
+      "world_bank_payment_company"
+    ],
+    "3_gaming_fund": [
+      "gnspay_upi",
+      "t_zkpay_999pay",
+      "goldpay666888",
+      "MeteorpayEliteChannel00011"
+    ],
+    "4_p2p_merchants": [
+      "Lm_P2P",
+      "usdt_buyer_crypto_cr",
+      "cryptoto_inr"
+    ],
+    "5_gray_otc": [
+      "bedane_official",
+      "cryptomasterr91",
+      "ultra_pay0_family"
+    ],
+    "6_remittance": [
+      "groups_f2f_restricted_scarce_ads"
+    ],
+    "7_freelancers": [
+      "scarce_public_tg"
+    ],
+    "8_erupee_wallet": [
+      "bhaartpay",
+      "weak"
+    ],
+    "9_avoid": [
+      "famous_crypto",
+      "forex",
+      "flash",
+      "memecoin"
+    ],
+    "escrower_NEW": [
+      "live_in_GROUPS_not_ads",
+      "catch_via_otc_china_usdt_to_inr_channels",
+      "cryptoto_inr_adjacent"
+    ],
+    "newbie_converter": [
+      "bedane_official",
+      "COME_Channel_0",
+      "ultra_pay0_family",
+      "cryptoto_inr",
+      "wb_pay"
+    ]
+  },
+  "expansion_wave2_primary": [
+    "bedane_official",
+    "mobiuspe0",
+    "wb_pay",
+    "world_bank_payment_company",
+    "MeteorpayEliteChannel00011",
+    "ddpay9999",
+    "ultrapay_official",
+    "jaypay_8"
+  ],
+  "expansion_wave2_note": "Zero overlap with proven+exhausted+wave1 primary; escrower mainly via group adjacency not direct group targeting",
+  "strategy_note_2026_08_20": "Escrower Bihar lead = one newbie+real-USDT example only. Balance focus across personas 1-8; do not overfit to escrow or china-only.",
+  "persona_6_8_bulk_research_2026_08_20": {
+    "6_remittance": {
+      "reality": "Gulf/UAE→India USDT via money changers; India agent holds/sells USDT; family gets INR or USDT",
+      "platforms": "WhatsApp/private TG/angadia more than public channels; ED crackdown 2026",
+      "ads_inventory": "scarce public; proxies=OTC bulk + agent settlement + newbie USDT→INR",
+      "kerala_dubai": "real corridor; keralausdt/malayalam restricted"
+    },
+    "7_freelancers": {
+      "reality": "Paid USDT by foreign clients; prefer Mudrex/CoinDCX compliant path",
+      "platforms": "Reddit/LinkedIn/Twitter tips → CEX not TG sell groups",
+      "ads_inventory": "very scarce on TG Ads; secondary only"
+    },
+    "8_erupee": {
+      "reality": "wallet/token depositors; weak seller intent",
+      "ads": "bhaartpay weak — low priority"
+    },
+    "bulk_sellers": {
+      "where": "IndiaOTC-style desks, Binance P2P block merchants, Cr-volume china agents, Bedane OTC, CryptoMarketHubb viewers",
+      "ads_usable": [
+        "CryptoMarketHubb",
+        "bedane_official",
+        "Lm_P2P",
+        "sharkpaypayment",
+        "u8payindia",
+        "xpay0088",
+        "wb_pay"
+      ],
+      "creative": "Min 500–1000 USDT · Bank preferred · Bulk welcome"
+    }
+  },
+  "bulk_test_shortlist": [
+    "bedane_official",
+    "Lm_P2P",
+    "sharkpaypayment",
+    "wb_pay",
+    "u8payindia",
+    "xpay0088",
+    "ultra_pay0_family",
+    "world_bank_payment_company"
+  ],
+  "bulk_creative": "We Buy USDT · Min 500–1000U · Bank/UPI · Bulk welcome · DM amount+network",
+  "expansion_wave3_multi_cat": [
+    "mvpay9526",
+    "linkpay888jack",
+    "quickpayoffical1",
+    "network_public",
+    "turbodeal100",
+    "gnspay_upi",
+    "mobiuspayofficial1",
+    "cryptoto_inr"
+  ],
+  "forex_policy": {
+    "prop_signal": "SKIP — mostly buy USDT for fees; education/signal junk",
+    "business_fx_money_changer": "REAL remit adjacent but public TG scarce",
+    "prop_usdt_payout_slice": "thin; not primary"
+  },
+  "export_business_finding": "True garment/IT export TG Ads shelves almost empty. TG-visible business=China-India payment + corporate/MQR account agents (mvpay9526, xpay0088, vpay clusters) who settle foreign/gaming funds in USDT.",
+  "competitor_ads_summary": "Across 100+ placements: china-pay wallets, deal clones, famous crypto noise. Almost zero ads on pure freelancer/export/remit public channels because those shelves are private/restricted.",
+  "research_methods_ranked_2026_08_20": [
+    "1_competitor_placement_mining_tgadsspy",
+    "2_live_audit_tme_s",
+    "3_snowball_mentions_from_winners",
+    "4_spy_ads_creative_cta_dump",
+    "5_channel_directory_telemetr_keywords",
+    "6_web_news_persona_only_scarce_ads"
+  ],
+  "research_honesty": "TGAdsSpy archive + live t.me/s audits; not live Ads Manager competitor UI each run. Placement lists heavy with loot/rummy/matka/edu noise — audit gate mandatory.",
+  "expansion_wave4_multi_method": [
+    "pay0000012",
+    "Lgpay_official",
+    "DracoDeall",
+    "SuperDeall776",
+    "floatpayme88",
+    "trustpayme88",
+    "wwwpayme88",
+    "xwalletme88"
+  ],
+  "expansion_wave4_note": "Method1 placements + Method3 snowball + live audit. Best new=@pay0000012 ALLpay. Wave2 then Wave3 then Wave4 after proven restart.",
+  "expansion_wave4_drop_noise": [
+    "buysellvip",
+    "NitroDeal098",
+    "wallet_999pay",
+    "xd_payman"
+  ],
+  "betting_lane_policy_2026_08_20": {
+    "use": "gaming_fund_settlement_and_wallet_rails",
+    "skip_primary": [
+      "betting_tips",
+      "bookie_id",
+      "matka",
+      "cricket_exchange_tips",
+      "global_stake_mega",
+      "otp_rent_groups"
+    ],
+    "why": "Bettors withdraw in USDT = real sellers, but public Ads shelf is the payment/settlement channels (GNS/Shark/Zk/Meteor/ALLpay), not tip/ID spam channels",
+    "ads_proxy_handles": [
+      "gnspay_upi",
+      "sharkpaypayment",
+      "t_zkpay_999pay",
+      "MeteorpayEliteChannel00011",
+      "mvpay9526",
+      "pay0000012",
+      "upaywalle_mahagames"
+    ],
+    "creative": "We Buy USDT · Game/Safe/Mix ok · Bank/UPI · Rate DM"
+  },
+  "research_session_map_2026_08_20": [
+    "proven_china_restart",
+    "exhausted_old8_pause",
+    "famous_edu_DROP",
+    "wave1_agent_otc",
+    "wave2_bedane_mobius_wb",
+    "wave3_mvpay_multi_cat",
+    "wave4_allpay_methods",
+    "remit_freelancer_scarce",
+    "forex_prop_SKIP",
+    "betting_tips_DROP",
+    "betting_gaming_fund_USE"
+  ],
+  "stake_class_casino_policy_2026_08_20": {
+    "sites": [
+      "Stake",
+      "BC.Game",
+      "Roobet",
+      "Shuffle",
+      "Duelbits",
+      "Winna",
+      "Rakebit"
+    ],
+    "withdraw": "USDT/crypto common — real seller after cashout",
+    "where_audience_lives": {
+      "official_tg": "bonus/rain/VIP codes — mostly depositors, global",
+      "india_official": [
+        "bcgame_india"
+      ],
+      "stake_india_shells": "scarce/restricted/dead",
+      "after_withdraw_sellers": "OTC + We Buy USDT + china-pay + gaming-fund rails (same as main pipeline)"
+    },
+    "ads_policy": "Skip official megas as core. Optional micro-test bcgame_india only. Catch Stake-class sellers on USDT→INR desks with creative mentioning casino withdraw.",
+    "creative": "Stake/BC.Game withdraw USDT? We buy · UPI/Bank · live rate"
+  },
+  "final_run_10_10_ton_2026_08_20": {
+    "total_budget_ton": 20,
+    "cpm_ton": "4-5",
+    "destination": "t.me/safepathdeals",
+    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+    "ad_a_proven_10ton": [
+      "diwapay",
+      "linkpay8",
+      "linkxwalletnow",
+      "alexpay_channel",
+      "atgpay_iop",
+      "upaywalle_mahagames",
+      "wiseway_payment",
+      "showpayindia"
+    ],
+    "ad_b_expansion_10ton": [
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "bharatservice1",
+      "ultra_pay0_family",
+      "mvpay9526",
+      "ddpay9999",
+      "Lm_P2P",
+      "bedane_official"
+    ],
+    "ad_b_swap": [
+      "pay0000012",
+      "xpay0088",
+      "ultrapay_official",
+      "linkpay888jack",
+      "sharkpaypayment"
+    ],
+    "demoted_this_scan": [
+      "u8payindia",
+      "indiapayments_okpayen",
+      "bestpay",
+      "usdt_buyer_crypto_cr",
+      "cryptoto_inr",
+      "DracoDeall",
+      "SuperDeall776",
+      "floatpayme88",
+      "trustpayme88"
+    ]
+  },
+  "final_run_10_10_ton_2026_08_21": {
+    "total_budget_ton": 20,
+    "cpm_ton": "4-5",
+    "destination": "t.me/safepathdeals",
+    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+    "rules": [
+      "do_not_touch_running_8_channel_testing",
+      "do_not_reuse_proven_china_8_in_this_pair",
+      "skip_scam_dukhdha_channels"
+    ],
+    "ad_a_agent_10ton": [
+      "mvpay9526",
+      "pay0000012",
+      "xpay0088",
+      "sharkpaypayment",
+      "gnspay_upi",
+      "wb_pay",
+      "world_bank_payment_company",
+      "linkpay888jack"
+    ],
+    "ad_b_china_apps_10ton": [
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "ddpay9999",
+      "ultrapay_official",
+      "jaypay_8",
+      "mobiuspayofficial1",
+      "Ez_india",
+      "t_zkpay_999pay"
+    ],
+    "excluded_scam_dukhdha": [
+      "Lm_P2P",
+      "bedane_official",
+      "bharatservice1",
+      "ultra_pay0_family",
+      "DracoDeall",
+      "SuperDeall776"
+    ],
+    "excluded_overlap": {
+      "running": [
+        "uupay_captain",
+        "quickcashwins",
+        "loots_pay",
+        "txtpayz",
+        "base_pay",
+        "usdt_buy_seller_binance_p2p",
+        "skypay_payment_backup_01",
+        "kunal_loots"
+      ],
+      "proven_china": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ]
+    }
+  },
+  "ads_snapshot_2026_08_21": {
+    "balance_eur_after": 3.29,
+    "ad_a": {
+      "title": "agent settlement 10",
+      "budget_ton": 10,
+      "cpm_ton": 4.5,
+      "status": "Active",
+      "channels": [
+        "mvpay9526",
+        "pay0000012",
+        "xpay0088",
+        "sharkpaypayment",
+        "gnspay_upi",
+        "wb_pay",
+        "world_bank_payment_company",
+        "linkpay888jack"
+      ],
+      "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate"
+    },
+    "ad_b": {
+      "title": "china apps 10",
+      "budget_ton": 10,
+      "cpm_ton": 4.5,
+      "status": "Active",
+      "channels": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ],
+      "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate"
+    },
+    "left_untouched": [
+      "8 channel testing Active",
+      "old china Stopped"
+    ],
+    "destination": "t.me/safepathdeals"
+  },
+  "ads_snapshot_2026_08_28": {
+    "balance_ton": 0.29,
+    "ton_usd_approx": 1.41,
+    "usd_130_approx_ton": 92,
+    "ads": {
+      "8 new china pay": {
+        "status": "Stopped",
+        "views": 8933,
+        "clicks": 751,
+        "joins": 154,
+        "cpm": 5.0,
+        "budget_left": 0,
+        "verdict": "BEST_VOLUME_proven_convert"
+      },
+      "china apps 10": {
+        "status": "Stopped",
+        "views": 4446,
+        "clicks": 558,
+        "joins": 86,
+        "cpm": 4.5,
+        "budget_left": 0,
+        "verdict": "BEST_CTR_CPA"
+      },
+      "8 channel testing": {
+        "status": "Active",
+        "views": 7846,
+        "clicks": 645,
+        "joins": 117,
+        "cpm": 6.0,
+        "budget_left": 5.93,
+        "verdict": "EXHAUSTED_PAUSE"
+      },
+      "agent settlement 10": {
+        "status": "Active",
+        "views": 3105,
+        "clicks": 111,
+        "joins": 20,
+        "cpm": 4.5,
+        "budget_left": 6.05,
+        "verdict": "WEAK_CTR_low_priority"
+      },
+      "7": {
+        "status": "On Hold",
+        "views": 171,
+        "clicks": 42,
+        "joins": 7,
+        "budget_left": 3.66
+      }
+    }
+  },
+  "plan_130_usd_2026_08_28": {
+    "pause": [
+      "8 channel testing"
+    ],
+    "restart_primary": {
+      "ad": "8 new china pay",
+      "ton": 40
+    },
+    "restart_secondary": {
+      "ad": "china apps 10",
+      "ton": 30,
+      "keep": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "jaypay_8",
+        "t_zkpay_999pay"
+      ],
+      "swap_out": [
+        "ultrapay_official",
+        "mobiuspayofficial1",
+        "Ez_india"
+      ],
+      "swap_in": [
+        "linkpay888jack",
+        "pay0000012",
+        "mvpay9526"
+      ]
+    },
+    "agent_settlement": "do_not_heavy_refill; finish remaining or max 10 TON",
+    "new_wave": "defer until winners running",
+    "creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+    "cpm": "4.5-5"
+  },
+  "ads_resume_2026_08_28": {
+    "balance_in_ton": 60.29,
+    "balance_after_ton": 0.29,
+    "no_new_ads": true,
+    "actions": {
+      "8 new china pay": {
+        "add_ton": 35,
+        "status": "Active"
+      },
+      "china apps 10": {
+        "add_ton": 25,
+        "status": "Active"
+      },
+      "8 channel testing": {
+        "status": "On Hold",
+        "note": "paused exhausted"
+      },
+      "agent settlement 10": {
+        "status": "Active untouched"
+      },
+      "7": {
+        "status": "On Hold untouched"
+      }
+    }
+  },
+  "ads_snapshot_2026_09_01": {
+    "balance_ton": 0.29,
+    "all_on_hold_or_stopped": true,
+    "ads": {
+      "china apps 10": {
+        "status": "Stopped",
+        "views": 10005,
+        "clicks": 2109,
+        "joins": 105,
+        "spent": 45,
+        "left": 0,
+        "cpm": 4.5
+      },
+      "8 new china pay": {
+        "status": "On Hold",
+        "views": 12331,
+        "clicks": 1025,
+        "joins": 205,
+        "spent": 57.99,
+        "left": 18.01,
+        "cpm": 5.0
+      },
+      "agent settlement 10": {
+        "status": "On Hold",
+        "views": 3854,
+        "clicks": 142,
+        "joins": 26,
+        "spent": 17.34,
+        "left": 2.66,
+        "cpm": 4.5
+      },
+      "8 channel testing": {
+        "status": "On Hold",
+        "views": 8830,
+        "clicks": 693,
+        "joins": 131,
+        "spent": 39.98,
+        "left": 0.02,
+        "cpm": 6.0
+      },
+      "7": {
+        "status": "On Hold",
+        "views": 171,
+        "clicks": 42,
+        "joins": 7,
+        "spent": 0.35,
+        "left": 3.66,
+        "cpm": 3.0
+      }
+    },
+    "topup_plan_ton": {
+      "china apps 10": 35,
+      "8 new china pay": 15,
+      "total_deposit": 50,
+      "resume": [
+        "china apps 10",
+        "8 new china pay"
+      ],
+      "keep_hold": [
+        "agent settlement 10",
+        "8 channel testing",
+        "7"
+      ]
+    },
+    "channels_by_ad": {
+      "china apps 10": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ],
+      "8 new china pay": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ],
+      "agent settlement 10": [
+        "mvpay9526",
+        "pay0000012",
+        "xpay0088",
+        "sharkpaypayment",
+        "gnspay_upi",
+        "wb_pay",
+        "world_bank_payment_company",
+        "linkpay888jack"
+      ],
+      "8 channel testing": [
+        "uupay_captain",
+        "quickcashwins",
+        "loots_pay",
+        "txtpayz",
+        "base_pay",
+        "usdt_buy_seller_binance_p2p",
+        "skypay_payment_backup_01",
+        "kunal_loots"
+      ],
+      "7": [
+        "ultra_pay0_family"
+      ]
+    }
+  },
+  "ads_snapshot_2026_09_02": {
+    "balance_ton": 6.63,
+    "active": {
+      "8 new china pay": {
+        "budget_left": 18.0,
+        "joins": 205,
+        "views": 12334,
+        "clicks": 1025,
+        "cpm": 5.0
+      }
+    },
+    "stopped_zero_budget": [
+      "china apps 10",
+      "agent settlement 10",
+      "8 channel testing",
+      "7"
+    ],
+    "backup_path": "memory/ads-backup-2026-09-02/",
+    "next": "Top-up >=10 TON then activate china apps 10"
+  },
+  "ads_snapshot_2026_09_02_pm": {
+    "note": "New Fragment/wallet topped OLD Ads (+30 TON). Keep running on old account.",
+    "top_up_ton": 30.0,
+    "balance_free_ton": 0.63,
+    "active": {
+      "china apps 10": {
+        "status": "Active",
+        "cpm": 4.5,
+        "budget_left": 24.18,
+        "views": 10188,
+        "clicks": 2135,
+        "joins": 111,
+        "ctr": 0.209,
+        "views_per_day_now": "1000-2000",
+        "peak_views_day": "4000 Aug 29"
+      },
+      "8 new china pay": {
+        "status": "Active",
+        "cpm": 5.0,
+        "budget_left": 19.7,
+        "views": 12994,
+        "clicks": 1073,
+        "joins": 216,
+        "ctr": 0.083,
+        "views_per_day_now": "400-600",
+        "peak_views_day": "1600 Aug 18"
+      }
+    },
+    "on_hold": {
+      "agent settlement 10": {
+        "budget_frozen": 5.82,
+        "cpm": 4.5,
+        "reason": "weak CTR/CPA — do not refill"
+      }
+    },
+    "stopped_zero_budget": [
+      "8 channel testing",
+      "7"
+    ],
+    "do_not_refill": [
+      "agent settlement 10",
+      "8 channel testing",
+      "7"
+    ],
+    "next": "Do not raise CPM. Do not create until TON. Then China wave2 8. Ad2 mix later only.",
+    "checked_at_utc": "2026-09-02 11:58",
+    "cpm_call": "Do not raise. Decline is frequency saturation of the same 8s, not lost auction. Next inventory = China wave2 @4.50."
+  },
+  "wave5_2026_09_02": {
+    "goal": "New zero-overlap 8 for Indian USDT sellers all sizes; do not touch running winners",
+    "running_do_not_touch": [
+      "diwapay",
+      "linkpay8",
+      "linkxwalletnow",
+      "alexpay_channel",
+      "atgpay_iop",
+      "upaywalle_mahagames",
+      "wiseway_payment",
+      "showpayindia",
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "ddpay9999",
+      "ultrapay_official",
+      "jaypay_8",
+      "mobiuspayofficial1",
+      "Ez_india",
+      "t_zkpay_999pay"
+    ],
+    "primary8": [
+      "lgpay_official",
+      "mmoney_official2",
+      "bhaartpay",
+      "quickpayoffical1",
+      "cryptoto_inr",
+      "honepay118",
+      "tatapay_acc",
+      "DracoDeall"
+    ],
+    "swap": [
+      "SuperDeall776",
+      "hoyopay_offical",
+      "rspay6"
+    ],
+    "sizes": {
+      "nano_small": [
+        "lgpay_official",
+        "mmoney_official2",
+        "bhaartpay",
+        "quickpayoffical1",
+        "DracoDeall"
+      ],
+      "small_mid": [
+        "cryptoto_inr"
+      ],
+      "mid_bulk": [
+        "honepay118",
+        "tatapay_acc"
+      ],
+      "bulk_optional_separate": [
+        "rspay6"
+      ]
+    },
+    "do_not_create_until_ton": 15,
+    "account_free_ton": 0.63,
+    "note": "City/state public Ads inventory still scarce. Catch all-India sellers on china-app + P2P + gaming-fund rails."
+  },
+  "wave6_wide_2026_09_02": {
+    "lesson": "Sellers live in restricted groups (Dubai/city F2F/chats). Movies/shopping public channels are not sellers. Ads catch via Wave5 rails + optional DubaiOTCrates/qikcrypto/defiexplorero.",
+    "restricted_real": [
+      "usdtindubai",
+      "dubaiusdtexchange",
+      "usdtdealsinr",
+      "p2p_f2f",
+      "jaipur_usdt_dealer",
+      "usdtcashbhopal",
+      "usdtbhubaneswar",
+      "INDIANP2PESCROW",
+      "usdtotcindia",
+      "mrstunner123",
+      "paisabase_discussion"
+    ],
+    "ads_extra_optional": [
+      "DubaiOTCrates",
+      "qikcryptochannel",
+      "defiexplorero",
+      "SuperDeall776"
+    ],
+    "do_not_target": [
+      "teen_bollywood_channel",
+      "loot iphone deals",
+      "kerala dubai chatting"
+    ]
+  },
+  "final_genuine_2026_09_02": {
+    "ops": "Winners refill same CPM. Next new ad = ready_packs china_wave2. Do not create until TON.",
+    "running": [
+      "8 new china pay",
+      "china apps 10"
+    ],
+    "only_clean_public_board": [
+      "cryptoto_inr"
+    ],
+    "do_not_create": [
+      "lgpay_official",
+      "mmoney_official2",
+      "bhaartpay",
+      "quickpayoffical1",
+      "cryptoto_inr",
+      "honepay118",
+      "tatapay_acc",
+      "DracoDeall"
+    ],
+    "reason": "Daily India USDT volume is CEX P2P + restricted groups. Ads-eligible genuine seller channels do not fill an 8-set.",
+    "superseded_for_next_ads_by": "ready_packs_2026_09_02.china_wave2"
+  },
+  "ready_packs_2026_09_02": {
+    "do_not_create_until_ton": true,
+    "account_free_ton": 0.63,
+    "cpm_call": "Do not raise. Decline is frequency saturation of the same 8s, not lost auction. Next inventory = China wave2 @4.50.",
+    "ad1_superseded": true,
+    "ad2_optional_later": true,
+    "china_wave2": [
+      "wallet_999pay",
+      "lgpay_official",
+      "mmoney_official2",
+      "trustpaynow",
+      "atgofficiale",
+      "bhaartpay",
+      "hoyopay",
+      "quickpayoffical1"
+    ],
+    "china_wave2_swap": [
+      "CryptoMarketHubb"
+    ],
+    "keep_running_do_not_retarget": {
+      "china_pay_8": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ],
+      "china_apps_8": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ]
+    },
+    "whale_5k": "No Ads-eligible 8. Restricted groups + CEX P2P. Filter via Min 500U / 5000U welcome on China lane. Do not revive agent 8.",
+    "live_audit_utc": "2026-09-02 ~13:10",
+    "note": "Own-money: China wave2 only. Old Ad1 deal-clones cut. Ad2 mix not China/whale.",
+    "live_ads_1158": {
+      "china_apps_left": 24.18,
+      "china_pay_left": 19.7,
+      "free_ton": 0.63
+    }
+  },
+  "paid_research_stack_2026_09_02": {
+    "buy_first": [
+      {
+        "tool": "TGAdsSpy Pro",
+        "usd_mo": 49,
+        "give": "X-Api-Key",
+        "status": "LIVE 2026-09-03 plan=PRO (24h quarantine lifted). placementCount still 0. buy-map 403 BUSINESS.",
+        "pace": "1 req / 2.5s sequential; tools/spy_pro.py; stop on 429",
+        "buy_map": "403 BUSINESS / Enterprise $499 — not in Pro"
+      },
+      {
+        "tool": "Telemetr.io Advanced website",
+        "usd_mo": 55,
+        "credits": "keep default 250/mo; no extra pack month 1",
+        "give": "website session via @telemetr_io_bot Log in (not website popup)",
+        "status": "LIVE ADV ~259.95 credits to 2026-10-02. SearchForm+AdsSearch2+GetById+incoming mentions used. Similar=Export-only skip. IntersectAudience 403.",
+        "login": "@telemetr_io_bot /start then Log in → telemetr.io/en#login=true&provider=telegram"
+      }
+    ],
+    "telemetr_bot_api": {
+      "product": "Public API api.tlmtr.io",
+      "tier": "FREE (catalog/info/mentions/add locked)",
+      "works": "GET /v1/channels/search?term=@handle&peer_type=Channel",
+      "do_not_buy": "API S $25 / M $65 until website CSV workflow is tried"
+    },
+    "telemetr_public_ads_advertisers_india": {
+      "url": "https://telemetr.io/en/tg-ads/advertisers?country=india",
+      "without_login": "top 5 per column only",
+      "with_advanced": "7249 advertisers / 208567 channels (2026-09-03)",
+      "visible": "gambling/betting/trading still dominate unfiltered India sort — skip",
+      "china_pay": "not in unfiltered top; use on-page advertiser search + similar, do not Export"
+    },
+    "buy_later_only": {
+      "tool": "TGAdsSpy Enterprise/Business buy-map",
+      "usd_mo": 499
+    },
+    "skip": [
+      "seller lead lists",
+      "Ads similar-channels mix",
+      "Enterprise in month 1",
+      "Telemetr API S/M while website Advanced unused"
+    ],
+    "secrets": "local/nexa_keys.env + /tmp/nexa_keys.env — never git. Chrome profile local/chrome-tg-debug gitignored.",
+    "expected": "More complete china-app inventory, not a new whale class. New 8 quality similar to china apps 10."
+  },
+  "free_max_hunt_2026_09_02": {
+    "telemetr_rows": 544,
+    "verdict": "Ads-eligible china seller shelf already mapped. Wave2 remains next 8. Paid unlock = competitor placements not more titles.",
+    "next_ad": "china_wave2"
+  },
+  "hunt_2026_09_03_paid_full": {
+    "date": "2026-09-03",
+    "tools": [
+      "TGAdsSpy Pro",
+      "Telemetr Advanced website"
+    ],
+    "session": "gitignored local/ — keys + Chrome TG Web + Telemetr ADV cookies",
+    "auto_keep_dirty": true,
+    "next_ad_unchanged": "china_wave2 @ 4.50 after TON",
+    "running_do_not_retarget": {
+      "china_pay_8": [
+        "diwapay",
+        "linkpay8",
+        "linkxwalletnow",
+        "alexpay_channel",
+        "atgpay_iop",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "showpayindia"
+      ],
+      "china_apps_8": [
+        "mobiuspe0",
+        "MeteorpayEliteChannel00011",
+        "ddpay9999",
+        "ultrapay_official",
+        "jaypay_8",
+        "mobiuspayofficial1",
+        "Ez_india",
+        "t_zkpay_999pay"
+      ]
+    },
+    "wave3_after_wave2": [
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "watch_sisters_overlap": [
+      "official_lg_pay",
+      "mobiuspe1413",
+      "showofficiala",
+      "zkpay108",
+      "showpayfamily",
+      "linkpay888jack",
+      "alphapay_alpha_pay"
+    ],
+    "drop_this_hunt": [
+      "atgpaygo",
+      "zippayofficialindia",
+      "showpay_parttime",
+      "showpay_officialchannel",
+      "trustpayegp",
+      "theofficialpaytmmoney",
+      "moneyfarmmoney",
+      "binance5434",
+      "freebinancef",
+      "wangklda",
+      "quickpay122",
+      "ultrapaylas",
+      "bharatpay269offer",
+      "s11pay_official",
+      "swiftpay_official",
+      "laicaileya",
+      "rhinopaymentchannel666666",
+      "hoyopay_official",
+      "mobiuspe1",
+      "trustpaypayment"
+    ],
+    "size_shelf": {
+      "large_running": [
+        "diwapay",
+        "linkxwalletnow",
+        "linkpay8",
+        "ddpay9999"
+      ],
+      "large_unused_wave2": [
+        "wallet_999pay"
+      ],
+      "large_watch_wave3": [
+        "ezpay_rogen",
+        "ezpay_rotio"
+      ],
+      "mid_wave2": [
+        "lgpay_official",
+        "mmoney_official2"
+      ],
+      "small_wave2": [
+        "trustpaynow",
+        "atgofficiale",
+        "bhaartpay",
+        "hoyopay",
+        "quickpayoffical1"
+      ],
+      "no_public_whale8": true
+    },
+    "spy_cta_confirms": {
+      "tg-showxpay": "DROP dest showxpay still advertising",
+      "tg-mobiuspe0": "RUNNING dest mobiuspe0 still advertising",
+      "tg-lgpay-official": "wave2 dest lgpay_official still advertising USDT sell IN"
+    },
+    "telemetr_note": "Similar Channels empty without Export credits. Incoming mentions of diwapay = loot/earn — skip those. Mentions of lgpay/linkpay/ezpay surfaced swiftpay_official (restricted), s11pay_official (promo board), official_lg_pay, ezpay trees.",
+    "do_not_create_until_ton": true
+  },
+  "hunt_2026_09_03_wide_intent": {
+    "method": "Telemetr AdsSearch2+Search2 India terms (no destChannel seed) + Spy ads q=USDT geo=IN",
+    "export": "SEARCH2_SOURCES 800 credits blocked; pagination used instead",
+    "candidates_scanned": 391,
+    "new_wave3": [
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "watch": [
+      "jaipayofficialchannel",
+      "tf_exchange",
+      "tamil_usdt_seller",
+      "tamilp2pusdt"
+    ],
+    "lanes_empty": [
+      "freelancer_usdt",
+      "forex_prop_payout_sellers",
+      "public_whale8"
+    ],
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
+  },
+  "hunt_2026_09_03_liquidity_cashout": {
+    "method": "Telemetr AdsSearch2 buyer-ads (we buy USDT/UPI/IMPS) + Search2 holder language. Spy skipped quarantine.",
+    "export": false,
+    "buyer_ads_classified": {
+      "buyer_ad_hunting_sellers": 407,
+      "other": 236,
+      "loot": 26,
+      "mule": 7
+    },
+    "hindi_bechna_indexed": 0,
+    "new_watch": [
+      "tamilp2pusdt"
+    ],
+    "no_new_ads8": true,
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
+  },
+  "spy_status_2026_09_03": {
+    "identity_quarantined": true,
+    "after": "31/32 used-channel ad-load 200s then 429 score 99",
+    "retry_after": "24h from ~2026-09-03 08:23 UTC",
+    "do_not_send_api_key": true,
+    "website_login": {
+      "display": "J Jawan",
+      "username": "Jawan010",
+      "plan": "PRO until 2026-10-02",
+      "cookies": "local/spy_cookies.json gitignored",
+      "same_api_key_as_quarantine": true
+    },
+    "use_instead": "Logged-in Chrome website (no X-Api-Key) + tools/spy_public.py + memory/spy_reports.json",
+    "reports_file": "memory/spy_reports.json",
+    "raw_vm": "local/hunt/spy/ and local/hunt/strategy/"
+  },
+  "hunt_2026_09_03_user_strategy": {
+    "method": "User playbook: Spy reverse-ads keywords + Telemetr catalog/similar/overlap/mentions + airdrop/forex/SMM. Spy website logged-in no API key. No Export.",
+    "spy_keyword_ads_placements": "USDT to INR/Sell/Buy/available = sports tips, earning, casino, signals — not sellers. F2F USDT ads=4.",
+    "spy_advertiser_top": {
+      "mobiuspe0": ["diwapay", "linkxwalletnow", "wallet_999pay", "linkpay8", "atgpay_iop"],
+      "showxpay": "DROP inflated P2P + flash",
+      "lgpay_official": ["wallet_999pay", "flash_usdtkk", "atgpay_iop"],
+      "atgpay_iop": ["jaypay_8", "diwapay", "linkpay8", "wazirx DROP"]
+    },
+    "telemetr": {
+      "similar_channels": "empty without Export",
+      "audience_overlap": "403 Access denied",
+      "catalog_usdt_seller_india": "14 name-titles, restricted/inflated jobs",
+      "mentions": "loot/earn (ayulooterso, s11pay_official) — DROP"
+    },
+    "indirect_niches_drop": [
+      "airdrop_hindi",
+      "crypto_loot",
+      "exness_india",
+      "forex_signals_india",
+      "smm_panel_india",
+      "web3_india_news"
+    ],
+    "no_new_ads8": true,
+    "final_best": "running 16 + china_wave2 8 + wave3 umoney/ezpay. Do not create until TON.",
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
+  },
+  "hunt_2026_09_03_payout_vs_spray": {
+    "thesis": "Casino/loot audiences can hold USDT (payouts). Catch them on cashout desks + gaming-fund rails, not tip/loot-YT spray.",
+    "telemetr_placement_mix_buyer_ads": {
+      "other_cheap": 88,
+      "loot_earn": 26,
+      "china_pay_official": 13,
+      "tips_signals": 10,
+      "gaming_fund_rail": 1
+    },
+    "quality_competitors_buy": "china_pay official (Mobius/ATG/LG)",
+    "cheap_competitors_spray": "tips/loot/flash/inflated P2P (Showx)",
+    "acche_count": {
+      "running_do_not_retarget": 16,
+      "wave2_next": 8,
+      "wave3": 3,
+      "optional_payout_experiment_after": [
+        "honepay118",
+        "tf_exchange",
+        "cryptoto_inr",
+        "bcgame_india",
+        "tamilp2pusdt",
+        "jaipayofficialchannel",
+        "CryptoMarketHubb"
+      ],
+      "spend_sequence_total_approx": "31-34"
+    },
+    "next_ad": "china_wave2 @ 4.50 after TON",
+    "do_not_create": true
+  },
+  "ready_if_budget_2026_09_03": {
+    "do_not_revive": [
+      "8 channel testing",
+      "agent settlement 10",
+      "7"
+    ],
+    "keep_running_refill_same": [
+      "8 new china pay",
+      "china apps 10"
+    ],
+    "next_new_8": [
+      "wallet_999pay",
+      "lgpay_official",
+      "mmoney_official2",
+      "trustpaynow",
+      "atgofficiale",
+      "bhaartpay",
+      "hoyopay",
+      "quickpayoffical1"
+    ],
+    "wave3_after_wave2": [
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "note": "Do not dump 40 overlapping china-pay sisters in one ad. Sequence."
+  },
+  "cpm_inchannel_audit_2026_09_03": {
+    "method": "Spy website cookie GET /channels/<handle> (no X-Api-Key). Telemetr GetById adsIndex. destChannel ads = promote-spam, not placement CPM.",
+    "spy_cpm_est": "dash on every final handle — rival CPM unpublished",
+    "our_exact_cpm": {
+      "8 new china pay": 5.0,
+      "china apps 10": 4.5
+    },
+    "call": "Do not raise running CPMs. Next new ad china_wave2 @ 4.50. If wave2 under-delivers on bhaartpay/wallet_999pay only then 5.00 on that ad. No 6+ bid-war.",
+    "hottest_spy_ads_indexed": {
+      "bhaartpay": 41,
+      "diwapay": 32,
+      "atgpay_iop": 31,
+      "cap_around_30": [
+        "linkpay8",
+        "linkxwalletnow",
+        "upaywalle_mahagames",
+        "wiseway_payment",
+        "ddpay9999",
+        "jaypay_8",
+        "t_zkpay_999pay",
+        "wallet_999pay",
+        "mmoney_official2",
+        "atgofficiale"
+      ]
+    },
+    "top_advertisers_are_mostly": "loot/deal/signal bots, not USDT-desk whales",
+    "quality_desks_seen_in_channel": {
+      "mobiuspe0": ["atgpay_iop"],
+      "cryptomarkethubb": ["diwapay", "linkxwalletnow", "atgpay_iop", "jaypay_8"],
+      "atgpay_iop_as_advertiser": ["jaypay_8"],
+      "showpay_fastsell": ["atgofficiale"]
+    },
+    "quiet_spy_zero_ads": [
+      "alexpay_channel",
+      "showpayindia",
+      "mobiuspe0",
+      "MeteorpayEliteChannel00011",
+      "ultrapay_official",
+      "Ez_india",
+      "lgpay_official",
+      "trustpaynow",
+      "hoyopay",
+      "umoney_wallet_official",
+      "ezpay_rogen",
+      "ezpay_rotio"
+    ],
+    "telemetr_grade_high": ["linkpay8 A", "wiseway_payment A", "ddpay9999 A", "bhaartpay A", "hoyopay A", "diwapay B+", "atgpay_iop B+", "ultrapay_official B+"],
+    "do_not_create": true,
+    "next_ad": "china_wave2 @ 4.50 after TON"
+  },
+  "dest_audit_100ton_2026_09_03": {
+    "safepathdeals": {
+      "subscribers": 434,
+      "views_median": 491,
+      "stale_days": 0,
+      "content": "rate-board clones; live UPI 117 / Bank 110 vs ads creative 120/115",
+      "leak": "trains rate-shop not sell; nexadeskrates CTA splits traffic"
+    },
+    "nexadeskrates": {
+      "subscribers": 32,
+      "views_median": 31,
+      "verdict": "DEAD duplicate — stop sending dest posts here"
+    },
+    "ghost_dms": "expected china-pay mix (app-support + rate-shop). Fix pin + first reply amount/network + match ad rate. Not more of same 16.",
+    "ton_100_split": {
+      "china_apps_10_refill": 15,
+      "china_pay_8_refill": 10,
+      "wave2_new": 50,
+      "wave3_later": 15,
+      "buffer": 10,
+      "note": "Revised §48: china apps join-rate collapsed second half; china pay saturated; do not pour old."
+    },
+    "do_not": [
+      "dump 100 on running 16",
+      "refill agent/testing/7",
+      "raise CPM",
+      "retarget running 16 in new ad"
+    ],
+    "next_ad": "china_wave2 @ 4.50",
+    "do_not_create_until_user_confirms_split": true
+  },
+  "spend_vs_joins_2026_09_03": {
+    "ads_ui": "per-channel joins unavailable; last full dash 2026-09-02 11:58 UTC; 2026-09-03 ads.telegram.org login wall",
+    "dest_members_now": 434,
+    "lifetime_actions_approx": 490,
+    "money_eaters_zero_refill": ["agent settlement 10", "8 channel testing", "7"],
+    "diminishing": {
+      "china apps 10": "join rate 1.93% first half -> 0.34% second half despite 21% CTR",
+      "8 new china pay": "views/day 1600 peak -> 400-600; join-rate held; volume saturated"
+    },
+    "china_pay_sinks": ["upaywalle_mahagames 115d", "alexpay_channel 25d", "diwapay volume"],
+    "china_pay_best_live": "linkpay8",
+    "china_apps_best_live": "MeteorpayEliteChannel00011",
+    "china_apps_thin": ["mobiuspayofficial1", "Ez_india"],
+    "wave2_lgpay_live": "10.7k / med 63 — swap CryptoMarketHubb",
+    "ton_100": "15 apps + 10 china pay + 50 wave2 + 15 wave3 later + 10 buffer",
+    "do_not_create_until_user_confirms_split": true
+  },
+  "new_ads_now_2026_09_03": {
+    "count": 2,
+    "do_not_retarget_running_16": true,
+    "china_usdt_send_lane": "official cashout desks only",
+    "ad1_china_wave2_8": {
+      "cpm": 4.5,
+      "budget_ton": 40,
+      "dest": "t.me/safepathdeals",
+      "creative": "We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate",
+      "channels": [
+        "wallet_999pay",
+        "mmoney_official2",
+        "trustpaynow",
+        "atgofficiale",
+        "bhaartpay",
+        "hoyopay",
+        "quickpayoffical1",
+        "CryptoMarketHubb"
+      ],
+      "dropped_from_pack": "lgpay_official (live med 64)"
+    },
+    "ad2_china_wave3_desks": {
+      "cpm": 4.5,
+      "budget_ton": 20,
+      "channels": [
+        "umoney_wallet_official",
+        "ezpay_rogen",
+        "ezpay_rotio",
+        "honepay118",
+        "tf_exchange"
+      ]
+    },
+    "do_not": [
+      "zkpay108 overlap t_zkpay",
+      "linkpay888jack overlap linkpay8",
+      "s11pay_official promo",
+      "jaipay thin",
+      "loot edu p2p spray"
+    ],
+    "created_in_ads_ui": true,
+    "reason": "2026-09-04 created via Create Similar from ad 20; running ads not edited"
+  },
+  "ads_live_2026_09_04": {
+    "balance_ton_before": 80.63,
+    "balance_ton_free_after": 20.63,
+    "dest_members": 470,
+    "creative_live": "We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate",
+    "dest_rate_post": "safepathdeals/240 2026-09-04 05:05 UTC UPI 122 Bank 117",
+    "china_pay": {"ad_id": "20", "status": "Active", "left": 1.2, "views": 16693, "joins": 288, "cpm": 5.0, "touched": false},
+    "china_apps": {"ad_id": "22", "status": "Active", "left": 0.06, "views": 15547, "joins": 135, "cpm": 4.5, "touched": false},
+    "agent": {"ad_id": "21", "status": "On Hold", "left": 5.82, "joins": 26, "touched": false},
+    "testing": {"ad_id": "19", "status": "Stopped", "joins": 131, "touched": false},
+    "ad7": {"ad_id": "13", "status": "Stopped", "joins": 7, "touched": false},
+    "wave2": {
+      "ad_id": "23",
+      "title": "china wave2 8",
+      "status": "Active",
+      "budget": 40,
+      "cpm": 4.5,
+      "created_utc": "2026-09-04 09:19",
+      "channels": ["wallet_999pay", "mmoney_official2", "trustpaynow", "atgofficiale", "bhaartpay", "hoyopay", "quickpayoffical1", "CryptoMarketHubb"]
+    },
+    "wave3": {
+      "ad_id": "24",
+      "title": "china wave3 desks",
+      "status": "Active",
+      "budget": 20,
+      "cpm": 4.5,
+      "created_utc": "2026-09-04 09:20",
+      "channels": ["umoney_wallet_official", "ezpay_rogen", "ezpay_rotio", "honepay118", "tf_exchange"]
+    },
+    "ton_split_done": {"wave2": 40, "wave3": 20, "running_drip": 0, "reserve_free": 20.63},
+    "do_not_edit_running": true,
+    "spy_pro_lock": "lifted; channel GET used; no channel-ad-load burst",
+    "telemetr_cheater": ["t_zkpay_999pay", "mmoney_official2"]
+  },
+  "ads_refill_2026_09_04": {
+    "user": "refill old + make all active",
+    "method": "incrAdBudget + editAdStatus only; no text/CPM/channels",
+    "free_before": 20.63,
+    "free_after": 0.63,
+    "china_pay": {"ad_id": "20", "added": 12, "left": 12.96, "status": "Active", "cpm": 5.0},
+    "china_apps": {"ad_id": "22", "added": 5, "left": 5.03, "status": "Active", "cpm": 4.5},
+    "agent": {"ad_id": "21", "added": 3, "left": 8.82, "status": "Active", "was": "On Hold"},
+    "wave2": {"ad_id": "23", "status": "In Review", "note": "Can't activate until Telegram approves"},
+    "wave3": {"ad_id": "24", "status": "In Review", "note": "Can't activate until Telegram approves"},
+    "testing": {"ad_id": "19", "status": "Stopped", "reason": "min replenish 1.00 TON; loot CPM 6; leftover 0.63"},
+    "ad7": {"ad_id": "13", "status": "Stopped", "reason": "min replenish 1.00 TON"}
+  },
+  "minus_one_channel_2026_09_04": {
+    "wave3": "5 channels -1 = exclude dest safepathdeals / Nexa Desk Pay",
+    "wave2": "8 channels -1 = same dest exclude",
+    "old_ads": "no dest exclude so no minus",
+    "action": "do not edit targeting; locked after create",
+    "mistake": "agent added dest exclude after clone; winner ad 20 had empty exclude. Never add dest to exclude_channels on create similar."
+  },
+  "overlap_audit_2026_09_04": {
+    "same_handle_repeat_new_vs_running16": false,
+    "wave2_wave3_overlap": false,
+    "sisters_intentional": ["atgpay_iop vs atgofficiale", "Ez_india vs ezpay_rogen/ezpay_rotio"],
+    "locked_best_unused_all_placed": true,
+    "skipped_on_purpose": ["lgpay_official", "zkpay108", "linkpay888jack", "official_lg_pay", "jaipayofficialchannel", "s11pay_official"]
+  }
+}

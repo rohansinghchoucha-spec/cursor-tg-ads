@@ -1,0 +1,193 @@
+{
+  "updated_at": "2026-09-04",
+  "purpose": "Reusable TGAdsSpy reports. Pro API lock lifted 2026-09-04. Channel GET OK. Do NOT burst channel-ad-load (that caused 24h quarantine).",
+  "website_login": {
+    "display": "J Jawan",
+    "username": "Jawan010",
+    "plan": "PRO",
+    "plan_until": "2026-10-02",
+    "api_keys_on_account": 1,
+    "same_key_as_quarantine": true,
+    "cookies": "gitignored local/spy_cookies.json (tgs_session). Never git.",
+    "use": "Chrome profile local/chrome-tg-debug + cookies. Do not send X-Api-Key until lock lifts."
+  },
+  "api_lock": {
+    "identity_quarantined": false,
+    "why": "Pro X-Api-Key + this cloud IP bursted channel-ad-load (31/32 used channels). 429 score 99/100. retryAfterMs=86400000.",
+    "do_not_send_api_key_until": "lifted 2026-09-04 ~08:24 UTC — channel GET 200. Do NOT burst channel-ad-load.",
+    "if_retry_early": "24h cooldown can reset/extend",
+    "support": "support@tgadsspy.com if false-positive"
+  },
+  "safe_use_now": {
+    "method": "Pro channel GET with 2.5s+ gap. Cookie HTML for ads-indexed/top advertisers. Chrome if CF. Never burst channel-ad-load.",
+    "tool": "tools/spy_pro.py channel (slow). tools/spy_public.py if CF. Skip mass adload.",
+    "python_curl": "API with key OK after lift; cookie HTML also OK",
+    "anon_analytics_no_key": "estimatedCpm still null on channel GET"
+  },
+  "raw_dumps_this_vm": {
+    "note": "gitignored local/hunt/spy/ — copy exists on this disk only",
+    "paid_hunt": "local/hunt/spy/paid_hunt_2026_09_02.json",
+    "public_chrome": "local/hunt/spy/public_chrome.json",
+    "strategy_2026_09_03": "local/hunt/strategy/",
+    "jsonl": [
+      "local/hunt/spy/spy_ads_sep2.jsonl",
+      "local/hunt/spy/spy_ads2_sep2.jsonl",
+      "local/hunt/spy/spy_final.jsonl"
+    ]
+  },
+  "competitors_crypto_IN": {
+    "showxpay": {
+      "slug": "tg-showxpay",
+      "creatives": 9,
+      "last_seen": "2026-09-03",
+      "cta_dest": "showxpay",
+      "verdict": "DROP dest — stale official, sprays loot/P2P inflated",
+      "copy": "buy/sell USDT 112rs",
+      "top_placements": [
+        {"handle": "buyer_usdt_seller_crypto_binance", "subs": "114.4k", "ads": 8, "status": "DROP"},
+        {"handle": "usdt_buy_seller_binance_p2p", "subs": "33.9k", "ads": 8, "status": "EXHAUSTED testing-8"},
+        {"handle": "cryptoheadlines365", "subs": "11.7k", "ads": 4, "status": "DROP"},
+        {"handle": "xd_payman", "subs": "1.2k", "ads": 4, "status": "DROP"},
+        {"handle": "crypto_coins_seller", "subs": "64.1k", "ads": 3, "status": "DROP flash"},
+        {"handle": "flashusdtbuysell", "subs": "7.3k", "ads": 3, "status": "DROP flash"}
+      ]
+    },
+    "mobiuspe0": {
+      "slug": "tg-mobiuspe0",
+      "creatives": 4,
+      "last_seen": "2026-09-03",
+      "cta_dest": "mobiuspe0",
+      "verdict": "RUNNING — do not retarget dest. Placements = our china-pay shelf (confirms lane).",
+      "top_placements": [
+        {"handle": "atgpay_iop", "ads": 4, "status": "PROVEN running"},
+        {"handle": "diwapay", "ads": 3, "status": "PROVEN running"},
+        {"handle": "linkxwalletnow", "ads": 3, "status": "PROVEN running"},
+        {"handle": "wallet_999pay", "ads": 3, "status": "READY_PACK wave2"},
+        {"handle": "diwapay_support_crypto", "ads": 3, "status": "DROP loot hijack"},
+        {"handle": "linkpay8", "ads": 3, "status": "PROVEN running"},
+        {"handle": "skypay_payment_backup_01", "ads": 3, "status": "EXHAUSTED testing-8"},
+        {"handle": "kunal_loots", "ads": 3, "status": "EXHAUSTED loot"},
+        {"handle": "quickcashwins", "ads": 3, "status": "EXHAUSTED"}
+      ]
+    },
+    "lgpay_official": {
+      "slug": "tg-lgpay-official",
+      "creatives": 23,
+      "last_seen": "2026-09-03",
+      "cta_dest": "lgpay_official",
+      "verdict": "READY_PACK wave2. Still advertising USDT sell IN.",
+      "top_placements": [
+        {"handle": "flash_usdtkk", "ads": 3, "status": "DROP flash restricted"},
+        {"handle": "wallet_999pay", "ads": 2, "status": "READY_PACK wave2"},
+        {"handle": "nft_radar05", "ads": 2, "status": "DROP HYIP/VIP earn"},
+        {"handle": "come_channel_0", "ads": 2, "status": "DROP"},
+        {"handle": "vipyirui", "ads": 2, "status": "DROP loot earning"},
+        {"handle": "atgpay_iop", "ads": 2, "status": "PROVEN running"},
+        {"handle": "uupay_captain", "ads": 2, "status": "EXHAUSTED stale"}
+      ]
+    },
+    "bhaartpay": {
+      "slug": "tg-bhaartpay",
+      "creatives": 11,
+      "last_seen": "2026-09-02",
+      "cta_dest": "bhaartpay",
+      "verdict": "READY_PACK wave2",
+      "placement_handles_seen": [
+        "sdigitalmoney",
+        "ndpay888",
+        "incoinpay_999_pay_999pay",
+        "mmpay_mm_pay",
+        "team_11_dream01",
+        "ttwalletchannel",
+        "linkxwalletnow"
+      ]
+    }
+  },
+  "advertisers_index_2026_09_02": [
+    {"slug": "tg-showxpay", "user": "showxpay", "creatives": 9, "niche": "crypto", "verdict": "DROP dest"},
+    {"slug": "tg-mobiuspe0", "user": "mobiuspe0", "creatives": 4, "niche": "crypto", "verdict": "RUNNING"},
+    {"slug": "tg-mobiuspayofficial1", "user": "mobiuspayofficial1", "creatives": 1, "niche": "crypto", "verdict": "RUNNING_TEST"},
+    {"slug": "tg-mobiuspetech", "user": "mobiuspetech", "creatives": 10, "niche": "crypto", "verdict": "DROP signals"},
+    {"slug": "tg-lgpay-official", "user": "lgpay_official", "creatives": 23, "niche": "crypto", "verdict": "wave2"},
+    {"slug": "tg-bhaartpay", "user": "bhaartpay", "creatives": 11, "niche": "crypto", "verdict": "wave2"},
+    {"slug": "tg-atgpay-iop", "user": "atgpay_iop", "creatives": 14, "niche": "crypto", "verdict": "PROVEN running"},
+    {"slug": "tg-quickpayoffical1", "user": "quickpayoffical1", "creatives": 5, "niche": "crypto", "verdict": "wave2"},
+    {"slug": "tg-cryptomarkethubb", "user": "cryptomarkethubb", "creatives": 6, "niche": "crypto", "verdict": "WATCH swap"},
+    {"slug": "tg-hoyopay777", "user": "hoyopay777", "creatives": 1, "niche": "crypto", "verdict": "DROP"},
+    {"slug": "tg-linkpay-en", "user": "linkpay_en", "creatives": 3, "niche": "crypto", "verdict": "DROP"},
+    {"slug": "tg-diwapay", "user": "diwapay", "creatives": 2, "niche": "crypto", "verdict": "PROVEN running"},
+    {"slug": "tg-wisewayamina", "user": "wisewayamina", "creatives": 5, "niche": null, "verdict": "DROP"},
+    {"slug": "tg-quickpay122", "user": "quickpay122", "creatives": 2, "niche": null, "verdict": "DROP nano"},
+    {"slug": "tg-laxmifundscommunity", "user": "laxmifundscommunity", "creatives": 16, "niche": "crypto", "verdict": "DROP satta-adjacent"},
+    {"slug": "tg-usdt-market-trustpay", "user": "usdt_market_trustpay", "creatives": 4, "niche": "crypto", "verdict": "WATCH"}
+  ],
+  "india_usdt_ads_public_2026_09_03": {
+    "query": "USDT geo=IN",
+    "found": 84,
+    "page1_live": [
+      {"who": "ATG PAY / TRUST PAY", "copy": "USDT SELL ₹111 safe/gaming", "age": "2d", "lane": "china_pay dest already running/wave2"},
+      {"who": "paisabase", "copy": "USDT 111 | INR 4%", "age": "3d", "lane": "known DROP/WATCH paisabase"},
+      {"who": "Official news", "copy": "3.5% token trading USDT 110", "age": "4d", "lane": "DROP Officialnews00"},
+      {"who": "SPRO DEAL", "copy": "USDT 109.5 UPI withdraw", "age": "5d", "lane": "DROP spro invite"},
+      {"who": "EZPAY", "copy": "USDT 109-110 PhonePe/Navi 20-30m", "age": "6d", "lane": "WAVE3 ezpay trees / running Ez_india"},
+      {"who": "SHOWX", "copy": "buy/sell 112rs", "query": "sell USDT IN", "age": "1-2mo", "lane": "DROP dest"},
+      {"who": "MoguEx", "copy": "Sell USDT 109 INR", "query": "sell USDT IN", "age": "2mo", "lane": "DROP WorldInrUstd now Mast Khel"}
+    ]
+  },
+  "in_dests_from_jsonl": [
+    {"handle": "WorldInrUstd", "n": 20, "note": "DROP Mast Khel"},
+    {"handle": "Lgpay_official", "n": 17, "note": "wave2"},
+    {"handle": "Showpay_Fastsell", "n": 17, "note": "WATCH/known"},
+    {"handle": "showxpay", "n": 16, "note": "DROP dest"},
+    {"handle": "LaxmiFundsCommunity", "n": 13, "note": "DROP"},
+    {"handle": "COME_Channel_0", "n": 12, "note": "DROP"},
+    {"handle": "SPRODEAL_official", "n": 10, "note": "DROP"},
+    {"handle": "vvipEzpayOfficialChannel", "n": 9, "note": "nano/DROP"},
+    {"handle": "network_public", "n": 9, "note": "known"},
+    {"handle": "quickpayoffical1", "n": 6, "note": "wave2"}
+  ],
+  "channel_directory_usdt_india": {
+    "note": "Spy channel search is name-match, not seller quality. Live audit 2026-09-03: almost all preview-restricted jobs/mule titles.",
+    "drop": [
+      "indianusdtsellr",
+      "usdtindianepal",
+      "sellerusdt0",
+      "usdtindiansellef",
+      "buysellexchangeusdt",
+      "indianusdtsellerr",
+      "usdtsellerindia88"
+    ]
+  },
+  "geo_snapshot_IN_2026_09_02": {
+    "advertisers": 3485,
+    "creatives": 17134,
+    "top_niches": ["gambling", "trading", "betting", "casino"],
+    "do_not_target_unfiltered_top": true,
+    "why": "Unfiltered India top = 1Win-class advertisers, not USDT-seller shelves. Quality USDT buyers (Mobius/ATG/LG) niche=crypto and buy china-pay official apps. Showx sprays inflated P2P/flash."
+  },
+  "payout_vs_spray_2026_09_03": {
+    "holders_exist_in_casino_loot": true,
+    "catch_on": "china-pay cashout desks + gaming-fund rails (Meteor/Zk already in china apps; honepay118 WATCH after wave2)",
+    "do_not_copy": "tip/loot-YT/flash placements of cheap we-buy-USDT ads"
+  },
+  "buy_map": {
+    "endpoint": "/advertisers/{slug}/channels",
+    "status": "403 BUSINESS / Enterprise $499",
+    "pro_placementCount": 0,
+    "workaround": "Public advertiser page lists TOP 10 placement channels (used 2026-09-03 Chrome)."
+  },
+  "in_channel_cpm_2026_09_03": {
+    "pages": "Cookie GET https://tgadsspy.com/channels/<handle> for final 27. No X-Api-Key. HTML gitignored local/hunt/cpm/spy_html/",
+    "cpm_est": "em dash on every handle — Spy does not publish rival CPM",
+    "ads_indexed_hot": {
+      "bhaartpay": 41,
+      "diwapay": 32,
+      "atgpay_iop": 31,
+      "many_at_30": true
+    },
+    "top_advertisers_pattern": "loot/deal/signal (titandeal777 glacierdeal1 luxedeallll) lead counts; USDT desks (mobiuspe0 cryptomarkethubb atgpay_iop showpay_fastsell) appear but are not volume leaders",
+    "diwapay_note": "Spy flags inaccessible/not-found on last check 2026-09-02; historical archive still has 32 ads",
+    "ezpay_rotio": "Spy channel-not-found / collecting, ads 0",
+    "exact_cpm_source": "only our live Ads CPMs 5.00 china pay / 4.50 china apps"
+  }
+}

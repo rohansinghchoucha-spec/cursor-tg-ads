@@ -3321,5 +3321,12 @@
     "old_ads": "no dest exclude so no minus",
     "action": "do not edit targeting; locked after create",
     "mistake": "agent added dest exclude after clone; winner ad 20 had empty exclude. Never add dest to exclude_channels on create similar."
+  },
+  "overlap_audit_2026_09_04": {
+    "same_handle_repeat_new_vs_running16": false,
+    "wave2_wave3_overlap": false,
+    "sisters_intentional": ["atgpay_iop vs atgofficiale", "Ez_india vs ezpay_rogen/ezpay_rotio"],
+    "locked_best_unused_all_placed": true,
+    "skipped_on_purpose": ["lgpay_official", "zkpay108", "linkpay888jack", "official_lg_pay", "jaipayofficialchannel", "s11pay_official"]
   }
 }

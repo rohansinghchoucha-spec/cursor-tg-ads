@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-04 — §53 galti: wave2/3 pe dest exclude (`-1 channel`). Winner clone me ye nahi tha. Agli baar dest exclude mat daalna.  
+**Last updated:** 2026-09-04 — §54 overlap audit: wave2/3 vs running 16 **zero same handles**. Locked best unused packs fully placed.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2097,4 +2097,25 @@ Wave2/3 is check pe **Active** (Review nikal gaya). Views abhi 4 / 5.
 Create similar **ad 20 china pay** se kiya. Clone ke baad `exclude_channels` **khaali** thi — winner pe dest exclude nahi. Phir bhi agent ne `@safepathdeals` exclude me daal diya (“apne members pe CPM mat katao”). Purane converting ads aisa nahi karte. Result: dashboard `5 − 1` / `8 − 1`.
 
 **Rule:** Create similar = title/text/CPM/budget/channels swap only. Dest exclude, extra topics, “smart” targeting **mat add**. Jo winner pe nahi, naya me bhi nahi.
+
+---
+
+## 54) 2026-09-04 — repeat / miss audit (live Ads UI)
+
+Live target lists (ad 20/22/23/24). Agent-10 alag mule pack — “best” nahi.
+
+**Same handle repeat naye vs purane 16: zero.** Wave2 ∩ wave3: zero.
+
+| Pack | Live targets (8 / 8 / 8 / 5) |
+|---|---|
+| china pay 20 | diwapay linkpay8 linkxwalletnow alexpay_channel atgpay_iop upaywalle_mahagames wiseway_payment showpayindia |
+| china apps 22 | mobiuspe0 MeteorpayEliteChannel00011 ddpay9999 ultrapay_official jaypay_8 mobiuspayofficial1 Ez_india t_zkpay_999pay |
+| wave2 23 | wallet_999pay mmoney_official2 trustpaynow atgofficiale bhaartpay hoyopay quickpayoffical1 CryptoMarketHubb |
+| wave3 24 | umoney_wallet_official ezpay_rogen ezpay_rotio honepay118 tf_exchange |
+
+**Sisters (same app, alag channel — jaan ke):** `atgpay_iop` vs `atgofficiale`; `Ez_india` vs `ezpay_rogen`/`ezpay_rotio`. Same handle nahi.
+
+**Locked best unused — sab lage:** wave2 8 (lgpay→CMH swap) + wave3 5. Hottest unused `@ezpay_rogen` wave3 me.
+
+**Jaan ke nahi (miss nahi, skip):** `@lgpay_official` fat-empty; `@zkpay108` overlap running zk; `@linkpay888jack` overlap linkpay8 + already agent; `@official_lg_pay` `@jaipayofficialchannel` `@s11pay_official` thin/promo. Loot/edu/testing-8 nahi.
 

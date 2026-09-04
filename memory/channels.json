@@ -3266,6 +3266,18 @@
       "loot edu p2p spray"
     ],
     "created_in_ads_ui": false,
-    "reason": "ads.telegram.org login wall this session"
+    "reason": "report-first 2026-09-04; Ads login OK, not created yet"
+  },
+  "ads_live_2026_09_04": {
+    "balance_ton": 80.63,
+    "dest_members": 470,
+    "china_pay": {"status": "Active", "left": 1.7, "views": 16593, "joins": 285, "cpm": 5.0},
+    "china_apps": {"status": "Active", "left": 0.25, "views": 15504, "joins": 132, "cpm": 4.5, "late_ton_per_join_approx": 1.1},
+    "agent": {"status": "On Hold", "left": 5.82, "joins": 26},
+    "testing": {"status": "Stopped", "joins": 131},
+    "ad7": {"status": "Stopped", "joins": 7},
+    "ton_split": {"china_pay_drip": 15, "china_apps": 0, "wave2": 45, "wave3": 20, "buffer": "rest"},
+    "spy_pro_lock": "lifted; channel GET used; no channel-ad-load burst",
+    "telemetr_cheater": ["t_zkpay_999pay", "mmoney_official2"]
   }
 }

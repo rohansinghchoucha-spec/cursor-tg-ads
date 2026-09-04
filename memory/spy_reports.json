@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03",
-  "purpose": "Reusable TGAdsSpy reports. Do not re-hit Pro API until quarantine lifts. Logged-in website (Chrome cookies, no API key) is the safe path.",
+  "updated_at": "2026-09-04",
+  "purpose": "Reusable TGAdsSpy reports. Pro API lock lifted 2026-09-04. Channel GET OK. Do NOT burst channel-ad-load (that caused 24h quarantine).",
   "website_login": {
     "display": "J Jawan",
     "username": "Jawan010",
@@ -12,9 +12,9 @@
     "use": "Chrome profile local/chrome-tg-debug + cookies. Do not send X-Api-Key until lock lifts."
   },
   "api_lock": {
-    "identity_quarantined": true,
+    "identity_quarantined": false,
     "why": "Pro X-Api-Key + this cloud IP bursted channel-ad-load (31/32 used channels). 429 score 99/100. retryAfterMs=86400000.",
-    "do_not_send_api_key_until": "2026-09-04T08:23:00Z",
+    "do_not_send_api_key_until": "lifted 2026-09-04 ~08:24 UTC — channel GET 200. Do NOT burst channel-ad-load.",
     "if_retry_early": "24h cooldown can reset/extend",
     "support": "support@tgadsspy.com if false-positive"
   },

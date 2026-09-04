@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-03 — §49 new ads: 2 sets only (wave2 8 + wave3 desks 5). China USDT-send lane. Running 16 mat chhedo. Har-jagah spray nahi.  
+**Last updated:** 2026-09-04 — §50 Ads live + Spy/Telemetr/live score of every old+new handle. Fund 80.63 TON. China pay still cheap joins; china apps late-stage paani. New = wave2 8 + wave3 5.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -1948,4 +1948,67 @@ Pin dono: `Sirf USDT sell. Amount + network. App login/support nahi. Min 200U.`
 **Mat banao:** 3rd loot/edu/P2P set, agent/testing/7 refill, running 16 retarget, CPM 6+.
 
 Ads UI is session me login-wall — create user Ads me paste kare ya bole to login ke baad agent banaye.
+
+---
+
+## 50) 2026-09-04 — Ads live + har channel score (simple)
+
+**Account:** Rohan Singh · free **80.63 TON** · dest `@safepathdeals` **470** members (kal 434).  
+Method: Ads UI read-only · live `t.me/s` · Spy Pro channel GET (lock lift, **ad-load nahi**) · Spy HTML ads-indexed · Telemetr GetById (adsIndex + cheater). Spy `estimatedCpm` ab bhi **null**. Live views = health; Spy avgViews aksar galat-kam.
+
+### Ads ab (dashboard)
+
+| Ad | Status | Left | Views | Joins | CPM | Ab kya |
+|---|---|---|---|---|---|---|
+| `8 new china pay` | **Active** | **1.70** | 16,593 | **285** | 5.00 | Kal se +~69 joins sasta (~0.26 TON/join). Drip OK, 50 mat |
+| `china apps 10` | **Active** | **0.25** | 15,504 | 132 | 4.50 | CTR 23% lekin late ~24 TON pe +21 joins (**~1.1 TON/join**). Refill mat |
+| `agent settlement 10` | **On Hold** | 5.82 frozen | 3,893 | 26 | 4.50 | **Chhedo mat** |
+| `8 channel testing` | **Stopped** | 0 | 8,830 | 131 | 6.00 | Loot. **0** |
+| `7` | **Stopped** | 0 | 171 | 7 | 3.00 | **0** |
+
+### Har ad-set — 🟢 kaam ka · 🟡 thaka/patla · 🔴 bekar
+
+**`8 new china pay` (chalu, leftover 1.70)**  
+🟢 `@linkpay8` (23.5k / ~9k views — sabse garam) · `@diwapay` (61.8k / 6.5k — volume + convert) · `@atgpay_iop` · `@wiseway_payment` · `@linkxwalletnow`  
+🟡 `@showpayindia` (preview band)  
+🔴-inside-pack (hata nahi sakte bina ad todo): `@upaywalle_mahagames` **115d stale** · `@alexpay_channel` **26d stale**
+
+**`china apps 10` (chalu, 0.25)**  
+🟢 `@MeteorpayEliteChannel00011` · `@ddpay9999` · `@jaypay_8` · `@mobiuspe0` · `@ultrapay_official`  
+🟡 `@t_zkpay_999pay` (Telemetr **cheater** flag) · `@Ez_india` patla  
+🔴 `@mobiuspayofficial1` (med ~148)
+
+**`agent settlement 10` (HOLD)** — poora **🔴 refill**. `@linkpay888jack` live garam hai lekin running `@linkpay8` ka bhai. `@world_bank_payment_company` 38d stale.
+
+**`8 channel testing` (STOPPED)** — poora **🔴**. `@loots_pay` hijack views **2** · `@uupay_captain` 216d · `@kunal_loots` loot · P2P/SkyPay restricted inflate.
+
+**`7`** — `@ultra_pay0_family` **🔴** skip.
+
+**NEW 1 wave2 8** (lgpay hata diya)  
+🟢 `@trustpaynow` · `@hoyopay` · `@atgofficiale` · `@bhaartpay` · `@quickpayoffical1` · `@CryptoMarketHubb` (live ~630; Spy views 1 ignore)  
+🟡 `@wallet_999pay` bada 26k lekin views ~330 (khata hai, garam nahi) · `@mmoney_official2` official wallet + Telemetr **cheater** warning  
+🔴 `@lgpay_official` 10.7k / views ~120 — **mat lagana**
+
+**NEW 2 wave3 5**  
+🟢 `@ezpay_rogen` (**sabse garam unused** 16k/~3k) · `@ezpay_rotio` · `@honepay118` · `@tf_exchange`  
+🟡 `@umoney_wallet_official` 25k / views ~780 (999pay jaisa bada-shant)
+
+### Purane vs naye (seedha)
+
+Jo **purane me best audience** (China USDT-send): `linkpay8` `diwapay` `Meteorpay` `jaypay` `atgpay` `wiseway`. Unko naye ad me **dubara mat**.  
+Jo **naye me usi type ke acche**: `ezpay_rogen` `hoyopay` `trustpaynow` `honepay118` `atgofficiale`.  
+Jo **purane se kamzor naye**: `wallet_999pay` / `umoney` (bade, shant) — pack me volume ke liye, engine nahi. `lgpay` bekar.
+
+### Paisa (80 TON) — ads abhi create nahi kiye
+
+| TON | Kahan |
+|---|---|
+| **15** | `8 new china pay` drip @ 5.00 (joins ab bhi sasti) |
+| **0** | china apps / agent / testing / 7 |
+| **45** | **naya** `china wave2 8` @ 4.50 |
+| **20** | **naya** `china wave3 desks` 5 @ 4.50 |
+| **rest** | buffer |
+
+Wave2 handles: `wallet_999pay` `mmoney_official2` `trustpaynow` `atgofficiale` `bhaartpay` `hoyopay` `quickpayoffical1` `CryptoMarketHubb`.  
+Wave3: `umoney_wallet_official` `ezpay_rogen` `ezpay_rotio` `honepay118` `tf_exchange`.
 

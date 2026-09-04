@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03",
+  "updated_at": "2026-09-04",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -7,7 +7,7 @@
     "nexadeskrates"
   ],
   "goal": "Indian USDT sellers / holders with meaningful balance; china-pay+gaming allowed; prefer AGENT/OTC",
-  "working_creative": "We Buy USDT · UPI ₹120 · Bank ₹115 · Join for live rate",
+  "working_creative": "We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate",
   "typical_cpm_ton": 4.5,
   "budget_band_ton": [
     20,
@@ -102,9 +102,9 @@
       "note": "2026-08-20: part of 8 new china pay — 91 joins, 1 converting Bihar seller. Re-run."
     },
     "wallet_999pay": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "§34 China wave2 #1 — 2026-09-03 live 26.5k/282/0d official 999PAY. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review. Do not retarget running 16."
     },
     "linkxwalletnow": {
       "status": "PROVEN",
@@ -142,9 +142,9 @@
       "note": "They SELL USDT at 99-100 to buyers; 78d stale — not our sellers"
     },
     "hoyopay": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "§34 China wave2 #7 — 2026-09-03 1.8k/1550/0d. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
     },
     "hoyopay_offical": {
       "status": "WATCH",
@@ -172,9 +172,9 @@
       "note": "~100 views deadish"
     },
     "atgofficiale": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "§34 China wave2 #5 — 2026-09-03 3.3k/564/6d ATG official. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
     },
     "atgpay_iop": {
       "status": "PROVEN",
@@ -542,9 +542,9 @@
       "note": "2026-08-21 Ad B china apps 10 — In Review"
     },
     "quickpayoffical1": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_worker",
-      "note": "§34 China wave2 #8 — 2026-09-03 1.8k/310/0d. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
     },
     "sharkpaypayment": {
       "status": "RUNNING_TEST",
@@ -727,14 +727,14 @@
       "note": "CowCoin USDT-INR; views ~99 weak"
     },
     "mmoney_official2": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_worker",
-      "note": "§34 China wave2 #3 — 2026-09-03 5.5k/546/0d. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review. Telemetr cheater flag — watch CPA."
     },
     "CryptoMarketHubb": {
-      "status": "WATCH",
+      "status": "IN_REVIEW",
       "lane": "china_pay_carrier",
-      "note": "§34 China wave2 SWAP only — 1.3k/523 RS Wallet"
+      "note": "2026-09-04 ad 23 china wave2 8 In Review (lgpay swap)."
     },
     "come_channel_0": {
       "status": "WATCH",
@@ -772,9 +772,9 @@
       "note": "Alias"
     },
     "bhaartpay": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "§34 China wave2 #6 — 2026-09-03 2.4k/325/0d. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
     },
     "winmoneygrey": {
       "status": "DROP",
@@ -1022,9 +1022,9 @@
       "note": "209d stale med~147"
     },
     "honepay118": {
-      "status": "WATCH",
+      "status": "IN_REVIEW",
       "lane": "gaming_fund",
-      "note": "2026-09-03 live 1.12k/med 1450/3d Honeypay gaming funds. OPTIONAL payout-pack AFTER wave2+wave3. Not China wave2. Agent-10 mat mix."
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Not in running 16 / wave2."
     },
     "win777vip9": {
       "status": "DROP",
@@ -1232,9 +1232,9 @@
       "note": "China-app clone live but med views 81 — too weak"
     },
     "trustpaynow": {
-      "status": "READY_PACK",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "§34 China wave2 #4 — 2026-09-03 4.0k/1930/3d. Create after TON."
+      "note": "2026-09-04 ad 23 china wave2 8 In Review."
     },
     "mmoneywalletofficialgroup": {
       "status": "WATCH",
@@ -1437,14 +1437,14 @@
       "note": "MMPay earn clone + generic news"
     },
     "ezpay_rogen": {
-      "status": "WATCH",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "2026-09-03 WAVE3 candidate. 16.1k/3000/1d EZPay agent tree Rogen. India UPI/Navi sell. Overlap running Ez_india — do not mix into wave2."
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Hottest unused. Do not mix running Ez_india."
     },
     "ezpay_rotio": {
-      "status": "WATCH",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "2026-09-03 WAVE3 candidate. 13.8k/1135/1d EZPay Zylox/Mark. Same app as Ez_india/rogen, different invite tree."
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Sister of Ez_india — different tree, not retarget running."
     },
     "official_lg_pay": {
       "status": "WATCH",
@@ -1572,9 +1572,9 @@
       "note": "2026-09-03 18k/37 inflated."
     },
     "umoney_wallet_official": {
-      "status": "WATCH",
+      "status": "IN_REVIEW",
       "lane": "china_pay",
-      "note": "2026-09-03 WAVE3. 25.3k/842/0d Umoney wallet India 4y — unused china-pay sellers. After wave2. Do not mix into running 16."
+      "note": "2026-09-04 ad 24 china wave3 desks In Review. Volume, quieter views."
     },
     "jaipayofficialchannel": {
       "status": "WATCH",
@@ -1582,9 +1582,9 @@
       "note": "2026-09-03 9.4k/137 ratio 0.015 — genuine 'already have USDT → INR 108' copy but thin. Wave3 swap only."
     },
     "tf_exchange": {
-      "status": "WATCH",
+      "status": "IN_REVIEW",
       "lane": "p2p_board",
-      "note": "2026-09-03 5.0k/762 Technical Fantasy Exchange USDT→INR CDM. Bookie cashout not edu. Separate experiment, not China wave2."
+      "note": "2026-09-04 ad 24 china wave3 desks In Review."
     },
     "qqpayoff": {
       "status": "DROP",
@@ -3232,9 +3232,9 @@
     "china_usdt_send_lane": "official cashout desks only",
     "ad1_china_wave2_8": {
       "cpm": 4.5,
-      "budget_ton": "40-50",
+      "budget_ton": 40,
       "dest": "t.me/safepathdeals",
-      "creative": "We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate",
+      "creative": "We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate",
       "channels": [
         "wallet_999pay",
         "mmoney_official2",
@@ -3265,18 +3265,40 @@
       "jaipay thin",
       "loot edu p2p spray"
     ],
-    "created_in_ads_ui": false,
-    "reason": "report-first 2026-09-04; Ads login OK, not created yet"
+    "created_in_ads_ui": true,
+    "reason": "2026-09-04 created via Create Similar from ad 20; running ads not edited"
   },
   "ads_live_2026_09_04": {
-    "balance_ton": 80.63,
+    "balance_ton_before": 80.63,
+    "balance_ton_free_after": 20.63,
     "dest_members": 470,
-    "china_pay": {"status": "Active", "left": 1.7, "views": 16593, "joins": 285, "cpm": 5.0},
-    "china_apps": {"status": "Active", "left": 0.25, "views": 15504, "joins": 132, "cpm": 4.5, "late_ton_per_join_approx": 1.1},
-    "agent": {"status": "On Hold", "left": 5.82, "joins": 26},
-    "testing": {"status": "Stopped", "joins": 131},
-    "ad7": {"status": "Stopped", "joins": 7},
-    "ton_split": {"china_pay_drip": 15, "china_apps": 0, "wave2": 45, "wave3": 20, "buffer": "rest"},
+    "creative_live": "We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate",
+    "dest_rate_post": "safepathdeals/240 2026-09-04 05:05 UTC UPI 122 Bank 117",
+    "china_pay": {"ad_id": "20", "status": "Active", "left": 1.2, "views": 16693, "joins": 288, "cpm": 5.0, "touched": false},
+    "china_apps": {"ad_id": "22", "status": "Active", "left": 0.06, "views": 15547, "joins": 135, "cpm": 4.5, "touched": false},
+    "agent": {"ad_id": "21", "status": "On Hold", "left": 5.82, "joins": 26, "touched": false},
+    "testing": {"ad_id": "19", "status": "Stopped", "joins": 131, "touched": false},
+    "ad7": {"ad_id": "13", "status": "Stopped", "joins": 7, "touched": false},
+    "wave2": {
+      "ad_id": "23",
+      "title": "china wave2 8",
+      "status": "In Review",
+      "budget": 40,
+      "cpm": 4.5,
+      "created_utc": "2026-09-04 09:19",
+      "channels": ["wallet_999pay", "mmoney_official2", "trustpaynow", "atgofficiale", "bhaartpay", "hoyopay", "quickpayoffical1", "CryptoMarketHubb"]
+    },
+    "wave3": {
+      "ad_id": "24",
+      "title": "china wave3 desks",
+      "status": "In Review",
+      "budget": 20,
+      "cpm": 4.5,
+      "created_utc": "2026-09-04 09:20",
+      "channels": ["umoney_wallet_official", "ezpay_rogen", "ezpay_rotio", "honepay118", "tf_exchange"]
+    },
+    "ton_split_done": {"wave2": 40, "wave3": 20, "running_drip": 0, "reserve_free": 20.63},
+    "do_not_edit_running": true,
     "spy_pro_lock": "lifted; channel GET used; no channel-ad-load burst",
     "telemetr_cheater": ["t_zkpay_999pay", "mmoney_official2"]
   }

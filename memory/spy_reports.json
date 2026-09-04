@@ -19,10 +19,10 @@
     "support": "support@tgadsspy.com if false-positive"
   },
   "safe_use_now": {
-    "method": "Logged-in website in real Chrome. Session cookie, no X-Api-Key. Advertiser pages work; /ads?q= navigations often hit extra Cloudflare — click Ads nav, wait CF, 7s+.",
-    "tool": "tools/spy_public.py (Chrome CDP). Do not use tools/spy_pro.py until lock lifts.",
-    "python_curl": "403 Cloudflare from this IP — skip",
-    "anon_analytics_no_key": "401 CSV/analytics require Pro — skip while key is locked"
+    "method": "Pro channel GET with 2.5s+ gap. Cookie HTML for ads-indexed/top advertisers. Chrome if CF. Never burst channel-ad-load.",
+    "tool": "tools/spy_pro.py channel (slow). tools/spy_public.py if CF. Skip mass adload.",
+    "python_curl": "API with key OK after lift; cookie HTML also OK",
+    "anon_analytics_no_key": "estimatedCpm still null on channel GET"
   },
   "raw_dumps_this_vm": {
     "note": "gitignored local/hunt/spy/ — copy exists on this disk only",

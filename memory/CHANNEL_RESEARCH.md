@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-04 — §50 Ads live + Spy/Telemetr/live score of every old+new handle. Fund 80.63 TON. China pay still cheap joins; china apps late-stage paani. New = wave2 8 + wave3 5.  
+**Last updated:** 2026-09-04 — §51 Ads created: `china wave2 8` (ad 23, 40 TON) + `china wave3 desks` (ad 24, 20 TON) In Review. Running 16 **not touched**. Free **20.63 TON** reserve. Creative live dest rate UPI ₹122 / Bank ₹117.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -21,7 +21,7 @@ Har nayi chat me ye file pehle padho. Yeh long-term memory hai — pehle recomme
 | Support | `@BussinessMen0`, `@nexadeskrates` |
 | Audience | Indian USDT **sellers / holders** with meaningful balance who want INR cashout. China-pay / gaming lane **allowed** (proven convert 2026-08-20); prefer AGENT/settlement/OTC over pure login-help workers. |
 | Avoid | Famous crypto education, flash USDT, forex/prop (buy-side), inflated mega gaming/lottery, loot/rummy as primary |
-| Creative (working) | `We Buy USDT · UPI ₹117 · Bank ₹110 · Join for live rate` + Nexa Desk Pay photo |
+| Creative (working) | `We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate` + Nexa Desk Pay photo |
 | Typical CPM | ~4.00 TON (quality ok; cheap CPM pehle fail hua) |
 | Budget band | 20–30 TON tests |
 
@@ -2011,4 +2011,47 @@ Jo **purane se kamzor naye**: `wallet_999pay` / `umoney` (bade, shant) — pack 
 
 Wave2 handles: `wallet_999pay` `mmoney_official2` `trustpaynow` `atgofficiale` `bhaartpay` `hoyopay` `quickpayoffical1` `CryptoMarketHubb`.  
 Wave3: `umoney_wallet_official` `ezpay_rogen` `ezpay_rotio` `honepay118` `tf_exchange`.
+
+---
+
+## 51) 2026-09-04 — naye ads CREATE (running mat chhedo)
+
+User: Create similar + latest dest rate + new channels + **20 TON reserve**. Follow-up: **running ads mat chhedo** (edit/budget/text se wapas Review).
+
+**Dest live rate (t.me/s/safepathdeals #240, 2026-09-04 05:05 UTC):** UPI **122** / Bank **117** / F2F 121 / CDM 119. Purani 120/115 aur kal wali 117/110 **mat**.
+
+**Method:** Ads UI Create Similar from winner `8 new china pay` (ad 20) → **naya draft only**. Cloned running-8 hata ke naye handles. Dest `t.me/safepathdeals`. Picture on. Daily views 1. CPM **4.50**. RU/UA exclude (platform). Dest channel exclude. **Running 16 ke ads pe Save/budget/CPM/text nahi.**
+
+### Jo bana
+
+| Ad | ID | Status | TON | CPM | Channels |
+|---|---|---|---|---|---|
+| `china wave2 8` | **23** | **In Review** 09:19 | **40.00** | 4.50 | `@wallet_999pay` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@bhaartpay` `@hoyopay` `@quickpayoffical1` `@CryptoMarketHubb` |
+| `china wave3 desks` | **24** | **In Review** 09:20 | **20.00** | 4.50 | `@umoney_wallet_official` `@ezpay_rogen` `@ezpay_rotio` `@honepay118` `@tf_exchange` |
+
+Creative dono: `We Buy USDT · UPI ₹122 · Bank ₹117 · Join for live rate`
+
+### Paisa (pehle 80.63 free)
+
+| TON | Kahan |
+|---|---|
+| **40** | naya wave2 8 |
+| **20** | naya wave3 5 (china-pay drip yahan shift — running mat top-up) |
+| **20.63** | **reserve free** |
+| **0** | china pay / china apps / agent / testing / 7 — **haath nahi** |
+
+### Running — unchanged (Active/Hold same)
+
+| Ad | Status | Left | Note |
+|---|---|---|---|
+| `8 new china pay` | **Active** | ~1.20 | CPM 5.00. Text abhi bhi 117/110 — **edit mat** (Review) |
+| `china apps 10` | **Active** | ~0.06 | refill mat |
+| `agent settlement 10` | **On Hold** | 5.82 frozen | chhedo mat |
+| testing / 7 | Stopped | 0 | 0 |
+
+### Rule lock
+- Running 16 handles **naye ad me nahi**. Wave2/3 zero overlap verified.
+- Running ad ka text/rate/CPM/budget **mat badhao** — Review delay.
+- `@lgpay_official` nahi. `@zkpay108` / `@linkpay888jack` nahi.
+- Free **~20 TON** rakho jab tak wave2/3 Active + pehla join data aaye.
 

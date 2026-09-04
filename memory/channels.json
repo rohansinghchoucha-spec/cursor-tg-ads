@@ -3319,6 +3319,7 @@
     "wave3": "5 channels -1 = exclude dest safepathdeals / Nexa Desk Pay",
     "wave2": "8 channels -1 = same dest exclude",
     "old_ads": "no dest exclude so no minus",
-    "action": "do not edit targeting; locked after create"
+    "action": "do not edit targeting; locked after create",
+    "mistake": "agent added dest exclude after clone; winner ad 20 had empty exclude. Never add dest to exclude_channels on create similar."
   }
 }

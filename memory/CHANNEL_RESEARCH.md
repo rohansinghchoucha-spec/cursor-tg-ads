@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-04 — §52 Old ads refilled + Active. Wave2/3 still In Review. testing/7 Stopped (min 1 TON, leftover 0.63). Free **0.63 TON**.  
+**Last updated:** 2026-09-04 — §53 `-1 channel` = dest `@safepathdeals` exclude on wave2/wave3. Wave2/3 now **Active**.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2076,4 +2076,20 @@ User: purane me bhi refill + sab active. Budget/status only — **text/channels/
 Free after: **0.63 TON**. Testing/7 pe 1+1 nahi tha. Unpe TON daalna loot waste — extra fund aaye tab sochna.
 
 Naye ads ka targeting/text **nahi** chheda. Purane ka creative/CPM **nahi** badla.
+
+---
+
+## 53) 2026-09-04 — `5 channels / -1 channel` kya hai
+
+Dashboard pe `china wave3 desks` = **5 channels −1 channel**. Wave2 = **8 −1**. Purane ads pe sirf `8 channels` (minus nahi).
+
+**Minus = exclude, missing target nahi.** Create similar pe dest `@safepathdeals` (Nexa Desk Pay) **Exclude specific channels** me dala tha taaki apne hi 470 members pe CPM na kate.
+
+Ad 24 live: shown = Umoney, EZPay Rogen, EZPay Rotio, Honeypay, TF Exchange. **Will not be shown in Nexa Desk Pay.**
+
+Ad 20 china pay pe ye exclude nahi — isliye wahan `-1` nahi dikhta.
+
+**Mat hatao ab:** target create ke baad lock. Edit = wapas Review. 5 target sahi hain; −1 apna dest hai.
+
+Wave2/3 is check pe **Active** (Review nikal gaya). Views abhi 4 / 5.
 

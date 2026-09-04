@@ -2356,7 +2356,7 @@
       "title": "agent settlement 10",
       "budget_ton": 10,
       "cpm_ton": 4.5,
-      "status": "In Review",
+      "status": "Active",
       "channels": [
         "mvpay9526",
         "pay0000012",
@@ -2373,7 +2373,7 @@
       "title": "china apps 10",
       "budget_ton": 10,
       "cpm_ton": 4.5,
-      "status": "In Review",
+      "status": "Active",
       "channels": [
         "mobiuspe0",
         "MeteorpayEliteChannel00011",
@@ -3282,7 +3282,7 @@
     "wave2": {
       "ad_id": "23",
       "title": "china wave2 8",
-      "status": "In Review",
+      "status": "Active",
       "budget": 40,
       "cpm": 4.5,
       "created_utc": "2026-09-04 09:19",
@@ -3291,7 +3291,7 @@
     "wave3": {
       "ad_id": "24",
       "title": "china wave3 desks",
-      "status": "In Review",
+      "status": "Active",
       "budget": 20,
       "cpm": 4.5,
       "created_utc": "2026-09-04 09:20",
@@ -3314,5 +3314,11 @@
     "wave3": {"ad_id": "24", "status": "In Review", "note": "Can't activate until Telegram approves"},
     "testing": {"ad_id": "19", "status": "Stopped", "reason": "min replenish 1.00 TON; loot CPM 6; leftover 0.63"},
     "ad7": {"ad_id": "13", "status": "Stopped", "reason": "min replenish 1.00 TON"}
+  },
+  "minus_one_channel_2026_09_04": {
+    "wave3": "5 channels -1 = exclude dest safepathdeals / Nexa Desk Pay",
+    "wave2": "8 channels -1 = same dest exclude",
+    "old_ads": "no dest exclude so no minus",
+    "action": "do not edit targeting; locked after create"
   }
 }

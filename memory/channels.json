@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04",
+  "updated_at": "2026-10-02",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -729,7 +729,7 @@
     "mmoney_official2": {
       "status": "IN_REVIEW",
       "lane": "china_worker",
-      "note": "2026-09-04 ad 23 china wave2 8 In Review. Telemetr cheater flag — watch CPA."
+      "note": "2026-10-02 WAVE2 FAIL pack. 3 joins / 40 TON. Loot hijack DmaPay. Do not restart this handle."
     },
     "CryptoMarketHubb": {
       "status": "IN_REVIEW",
@@ -3328,5 +3328,27 @@
     "sisters_intentional": ["atgpay_iop vs atgofficiale", "Ez_india vs ezpay_rogen/ezpay_rotio"],
     "locked_best_unused_all_placed": true,
     "skipped_on_purpose": ["lgpay_official", "zkpay108", "linkpay888jack", "official_lg_pay", "jaipayofficialchannel", "s11pay_official"]
+  },
+  "ads_check_2026_10_02": {
+    "logged_in": true,
+    "phone": "+447436763940",
+    "free_ton": 0.63,
+    "all_stopped": true,
+    "oct_spend": 0,
+    "dest_subs": 488,
+    "dest_last_rate_days": 9,
+    "verdict": {
+      "restart_first": "8 new china pay small drip after top-up",
+      "never": ["china wave2 8", "agent settlement 10", "8 channel testing", "7"],
+      "skip_for_now": ["china apps 10", "china wave3 desks"]
+    },
+    "cpa": {
+      "china_pay": 0.28,
+      "wave2": 13.33,
+      "wave3": 0.95,
+      "apps": 0.52,
+      "agent": 0.75
+    },
+    "spy_telemetr": "keys missing on this VM"
   }
 }

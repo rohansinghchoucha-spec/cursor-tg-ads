@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-09-04 — §54 overlap audit: wave2/3 vs running 16 **zero same handles**. Locked best unused packs fully placed.  
+**Last updated:** 2026-10-02 — §55 Ads login OK. Sab Stopped, leftover 0. TON 0.63. Wave2 fail (3 joins / 40 TON). Sirf china pay wapas sochna, pehle top-up.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2118,4 +2118,28 @@ Live target lists (ad 20/22/23/24). Agent-10 alag mule pack — “best” nahi.
 **Locked best unused — sab lage:** wave2 8 (lgpay→CMH swap) + wave3 5. Hottest unused `@ezpay_rogen` wave3 me.
 
 **Jaan ke nahi (miss nahi, skip):** `@lgpay_official` fat-empty; `@zkpay108` overlap running zk; `@linkpay888jack` overlap linkpay8 + already agent; `@official_lg_pay` `@jaipayofficialchannel` `@s11pay_official` thin/promo. Loot/edu/testing-8 nahi.
+
+---
+
+## 55) 2026-10-02 — Ads check (login + live audit). Restart nahi (0.63 TON)
+
+Account: Rohan Singh **`+447436763940`**. Free **0.63 TON**. Dest `@safepathdeals` **488** (Sep 4 pe 470). Last dest rate **9d** stale (UPI 118 / Bank 115). Spy/Telemetr keys is VM pe nahi — decision Ads numbers + `t.me/s`.
+
+Oct 2026 spend **0**. Sab ads **Stopped**, leftover **0**. Active ke liye min 1 TON — ab kuch nahi chala sakte jab tak top-up.
+
+| Ad | Spent | Joins | CPA | CTR | Ab |
+|---|---|---|---|---|---|
+| `8 new china pay` | 93 | **334** | **0.28** | 8.3% | **Wapas #1** — chhota drip after TON. Andar stale: upay 143d, alexpay 54d, atgpay 30d (hata nahi sakte bina ad todo) |
+| `china apps 10` | 75 | 143 | 0.52 | 23% | **Mat**. Late paani. `@ultrapay_official` ab 2 subs |
+| `china wave3 desks` | 20 | 21 | 0.95 | 6% | **Mat pehle**. 3x mehnga china pay se. EZPay/Umoney live hain lekin CPA weak |
+| `agent settlement 10` | 26 | 35 | 0.75 | 3.7% | **Mat** — mule |
+| `china wave2 8` | **40** | **3** | **13.33** | 29% click, 0.11% join | **Kabhi mat**. Click bait, join nahi. `@mmoney_official2` loot hijack |
+| testing / `7` | — | — | — | — | **Mat** |
+
+**Live 2026-10-02 (abhi garam):** `diwapay` `linkpay8` `wiseway_payment` `MeteorpayElite` `ddpay9999` `wallet_999pay` `ezpay_rogen` `umoney`.  
+**Stale/dead andar running packs:** `upaywalle_mahagames` `alexpay_channel` `showpayindia` preview band `ultrapay_official`.
+
+**Naya kaam ka unused aaj nahi mila.** `jaipayofficialchannel` earn-app tasks — DROP primary. `lgpay` ab bhi ~29 views. `zkpay108`/`linkpay888jack` overlap. Spy login ke bina competitor placement hunt pending.
+
+**TON aaye to:** pehle **sirf china pay drip** (10–15, CPM 5.00, text mat badalna = Review). Wave2 pack delete/ignore. Naya 8 = live desks only, mmoney loot nahi. Dest pe rate post karo pehle.
 

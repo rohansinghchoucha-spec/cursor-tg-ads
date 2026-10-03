@@ -602,9 +602,9 @@
       "note": "~250 views too weak"
     },
     "lgpay_official": {
-      "status": "READY_PACK",
+      "status": "WATCH",
       "lane": "china_worker",
-      "note": "§34 China wave2 #2 — 2026-09-03 10.7k/454/0d. Spy: LG Pay still running IN USDT-sell ad CTA this handle."
+      "note": "2026-10-03 7.2k/87 views collapsed + part-time recharge job. Not READY. Skip next pack."
     },
     "upaywalle_mahagames": {
       "status": "PROVEN",
@@ -809,7 +809,7 @@
     "bedane_official": {
       "status": "WATCH",
       "lane": "otc_dukhdha",
-      "note": "§34 OPTIONAL later — dispute history"
+      "note": "2026-10-03 1.7k/1600/5d live OTC but USDT-deduct dispute. Risky WATCH, not next TEST."
     },
     "mobiuspe0": {
       "status": "RUNNING_TEST",
@@ -834,7 +834,7 @@
     "cryptoto_inr": {
       "status": "WATCH",
       "lane": "p2p_board",
-      "note": "§34 OPTIONAL later — $100–200 P2P posts, not whale"
+      "note": "2026-10-03 3.6k/282/1d buyer-board urgent need. Thin optional 3rd after zkpay108+tamilp2pusdt."
     },
     "network_public": {
       "status": "WATCH",
@@ -844,7 +844,7 @@
     "linkpay888jack": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-09-03 live 2.1k/2075 Linkpay official, but Spy ad-load = casino/forex pollution. Weak backup only. Already in weak agent settlement 10."
+      "note": "2026-10-03 2.4k/4000/11d. Overlap running linkpay8 + Spy casino pollution. Skip primary."
     },
     "cryptomasterr91": {
       "status": "WATCH",
@@ -1127,9 +1127,9 @@
       "note": "Restricted/empty — no Ads inventory"
     },
     "tatapay_acc": {
-      "status": "WATCH",
-      "lane": "gaming_fund",
-      "note": "§34 OPTIONAL later — SharkPay official; China wave2 pehle"
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-10-03 SharkPay 2.5k/941/7d — gateway needs Indian accounts. Mule-lean."
     },
     "rspay6": {
       "status": "WATCH",
@@ -1464,7 +1464,7 @@
     "zkpay108": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-09-03 4.6k/2935 sister of running t_zkpay_999pay. Overlap."
+      "note": "2026-10-03 HOTTEST unused 4.9k/4690/0d USDT sell. Sister of running t_zkpay_999pay. Next TEST #1 after china-pay drip."
     },
     "showpayfamily": {
       "status": "WATCH",
@@ -1577,9 +1577,9 @@
       "note": "2026-09-04 ad 24 china wave3 desks In Review. Volume, quieter views."
     },
     "jaipayofficialchannel": {
-      "status": "WATCH",
-      "lane": "china_pay",
-      "note": "2026-09-03 9.4k/137 ratio 0.015 — genuine 'already have USDT → INR 108' copy but thin. Wave3 swap only."
+      "status": "DROP",
+      "lane": "earn_guide",
+      "note": "2026-10-03 9.5k/141 PhonePe unblock guide — earn/task, not sellers."
     },
     "tf_exchange": {
       "status": "IN_REVIEW",
@@ -1674,7 +1674,7 @@
     "tamilp2pusdt": {
       "status": "WATCH",
       "lane": "otc_p2p",
-      "note": "2026-09-03 liquidity hunt. 3.0k/235 TCU P2P — holders post $500-1500 USDT available. Ads-thin. Not wave2/3."
+      "note": "2026-10-03 still live 3.0k/222/0d USDT SELL ALERT holders. Next TEST #2 different lane (not china-app)."
     },
     "rogen_0": {
       "status": "DROP",
@@ -1870,6 +1870,31 @@
       "status": "DROP",
       "lane": "spro_invite",
       "note": "2026-10-03 Spro Deal Official Jayden 11.2k invite/withdraw — Spro family DROP."
+    },
+    "WorldInrUstd": {
+      "status": "DROP",
+      "lane": "gambling",
+      "note": "2026-10-03 Spy sell-USDT CTA. Live title MAST Khel cash games — not sellers."
+    },
+    "meteorpay2": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-10-03 preview restricted. Use running MeteorpayEliteChannel00011."
+    },
+    "rhinopaymentchannel666666": {
+      "status": "DROP",
+      "lane": "discontinued",
+      "note": "2026-10-03 MeteorPay Channel discontinued → points to running Meteor elite."
+    },
+    "usdt_xminer": {
+      "status": "DROP",
+      "lane": "earn_task",
+      "note": "2026-10-03 Novapay Task watch-to-earn bot."
+    },
+    "indiausdtbuysells": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "2026-10-03 rolce inr-usdt-banks 7.1k last post 2025-06."
     }
   },
   "competitors_to_spy": [
@@ -3414,5 +3439,14 @@
     "spy_website": "OAuth waiting phone confirm on Rohan number",
     "new_seller_pack": false,
     "restart_unchanged": "china pay drip after TON; never wave2"
+  },
+  "expand_hunt_2026_10_03": {
+    "both_pro_expired": true,
+    "telemetr": "website FREE cap + bot API inactive",
+    "spy": "API plan FREE; no extra MCP/skill in this env",
+    "cli_used": ["spy_pro.py", "telemetr_gw.py", "tg_audit.py", "discover_mentions.py", "tg_discover.py"],
+    "next_new_test_after_china_pay_drip": ["zkpay108", "tamilp2pusdt"],
+    "optional_third": "cryptoto_inr",
+    "do_not_pad_to_8": true
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-03 — §56 keys + Telegram Web login. Telemetr Advanced **ended (FREE)**. Spy key **FREE**. Paid hunt: naya seller pack nahi. Restart still china-pay drip after TON.  
+**Last updated:** 2026-10-03 — §57 expand hunt. Dono Pro **expire/FREE**. Naya magic 8 nahi; leftover TEST = `zkpay108` + `tamilp2pusdt` + thin P2P. Pehle china-pay drip.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2203,4 +2203,74 @@ Naya 8-pack is hunt se **nahi bana**. Paid Advanced + Spy PRO **dobara live** ho
 1. Telemetr.io pe **Upgrade to Advanced** (Rohan Telegram account) — bot `/api_key` se nahi hoga.
 2. Spy PRO: ya to naya `tgs_` key account page se (plan PRO dikhe), ya phone pe OAuth Allow + check Billing. Purani pasted key FREE hai.
 3. Ads restart: pehle TON top-up, phir sirf china-pay drip.
+
+---
+
+## 57) 2026-10-03 PM — expand hunt (skills/MCP + saari old data)
+
+User: dono Pro expire? ruk mat; skills/MCP/CLI se aur channels; naye ads naye logon pe.
+
+### Dono Pro — haan, ab paid nahi
+
+| Product | Pehle | Aaj 2026-10-03 |
+|---|---|---|
+| Telemetr **Advanced $55** (website, Rohan bot login) | ADV + ~260 credits (Sep) | Banner **paid plan ended**. Header **FREE**, 10 credits, 3 search/day. Is session me search baad me `count=None` (FREE cap). |
+| Telemetr **bot API** | Active till **2026-10-02** | **Inactive subscription** |
+| TGAdsSpy **PRO $49** (`@Jawan010`, till 2026-10-02) | `plan=PRO` `maxOffset=50000` | Pasted key **`plan=FREE`** `maxOffset=5000`. Website OAuth Rohan phone pe pending. |
+
+Ye “thoda kam data” hai, **band nahi**. FREE Spy ads + Telemetr search (cap tak) + `t.me/s` + mention-snowball + Lyzem index + 361-handle memory — sab chala.
+
+### Skills / MCP / CLI — kya hai, kya nahi
+
+Is Cursor environment me **Telegram-channel MCP nahi** (sirf cursor / cursor-cloud / subscriptions). Repo me alag SKILL.md bhi nahi.
+
+Jo **kaam ka CLI already hai** (isi repo, aaj use):
+
+| Tool | Kya nikalta hai |
+|---|---|
+| `tools/spy_pro.py` | Competitor ads/CTAs (FREE = shallow) |
+| `tools/telemetr_gw.py` | Website session search (FREE cap) |
+| `tools/tg_audit.py` | Live `t.me/s` subs/views/last post |
+| `tools/discover_mentions.py` | Winner channels se @mention graph |
+| `tools/tg_discover.py` | Lyzem public index |
+
+Naya random MCP install **mat** — seller-intent filter wahi live audit hai; extra scraper loot/signals dump karega.
+
+### Expand kya chala
+
+Mentions winners se · Lyzem “sell usdt / we buy / 999pay official” · Spy `USDT/sell USDT` IN + Showx/Mobius advertisers · Telemetr extra brands · unused WATCH 89 ka live re-audit · 361 known vs 29 already-in-ads.
+
+**Lyzem almost sab galat geo / scam / education.** Mentions = CS bots + zkpay/linkpay sisters. Spy naya dest: `@WorldInrUstd` = **MAST Khel gambling** (DROP). Showx CTA ab bhi `@showxpay` (already DROP dest).
+
+### Live leftover (already-in-ads 29 ke bahar)
+
+| Handle | Live 2026-10-03 | Verdict |
+|---|---|---|
+| `@zkpay108` | **4.9k / 4690 / 0d** USDT sell + Paytm orders | **#1 unused.** Sister of running `@t_zkpay_999pay` — naya ad me overlap risk, lekin sabse garam leftover |
+| `@tamilp2pusdt` | 3.0k / 222 / 0d “USDT SELL ALERT” holders $lots | **TEST alag lane** — asli chhote sellers, china-app nahi. Thin views |
+| `@cryptoto_inr` | 3.6k / 282 / 1d buyer-board “urgent need” | **WATCH thin** P2P rate-watchers. Experiment only |
+| `@linkpay888jack` | 2.4k / 4000 / 11d | Overlap `@linkpay8` + Spy casino pollution — **skip primary** |
+| `@bedane_official` | 1.7k / 1600 / 5d OTC, USDT-deduct dispute | **WATCH risky** — mat pehle |
+| `@tatapay_acc` | 2.5k / 941 / 7d SharkPay “need accounts” | **DROP-lean mule** |
+| `@lgpay_official` | 7.2k / **87** / 1d part-time recharge | Views collapse — **READY_PACK hatao**, skip |
+| `@jaipayofficialchannel` | 9.5k / 141 PhonePe unblock | **DROP** earn-guide, seller nahi |
+| `@mmoney_official3` | 4.5k / 174 earn platform | Sister of **failed** wave2 mmoney — skip |
+| `@mobiuspe1413` | 3.3k / 581 recharge earn | Overlap `@mobiuspe0` worker — skip |
+| `@showxpay` | 20.8k / 126 deposit bonus | already DROP dest |
+| `@WorldInrUstd` | 4.5k / 1100 MAST Khel | **DROP** gambling |
+| `@meteorpay2` | preview restricted | **DROP** Ads-unusable; use running Meteor |
+| `@rhinopaymentchannel666666` | discontinued → Meteor running | skip |
+
+### Naya ad — sach (8 fake mat banao)
+
+Public Ads pe **naya whale class nahi**. 50+ clean unused seller-8 **exist nahi**. Same china-pay shelf mapped.
+
+**TON aaye to order:**
+
+1. Pehle **`8 new china pay` drip** 10–15 @ 5.00 (CPA 0.28). Text mat.
+2. Phir **naya chhota TEST 2** (Create similar, running 29 mat mix): `@zkpay108` + `@tamilp2pusdt`. CPM 4.50. Alag audience test (zk sister vs Tamil P2P).
+3. Optional 3rd sirf data ke baad: `@cryptoto_inr`.
+4. **Kabhi nahi:** wave2 pack, WYpay/ShortPay/Jaipay/LG-dead/gambling/education.
+
+Paid Advanced + Spy PRO renew → placement list complete ho sakti hai, **nayi audience class nahi**.
 

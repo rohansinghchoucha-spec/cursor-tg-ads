@@ -1895,6 +1895,16 @@
       "status": "DROP",
       "lane": "stale",
       "note": "2026-10-03 rolce inr-usdt-banks 7.1k last post 2025-06."
+    },
+    "linkpay_link_pay_999pay": {
+      "status": "DROP",
+      "lane": "worker_earn",
+      "note": "2026-10-03 telemetr.com ANON. 12.4k/197 Linkpay 4.5% commission clone."
+    },
+    "indianx123": {
+      "status": "DROP",
+      "lane": "inflated_earn",
+      "note": "2026-10-03 Incoin Pay 123k/69k Paytm 3% withdraw bonus — mega earn, not sellers."
     }
   },
   "competitors_to_spy": [
@@ -3448,5 +3458,13 @@
     "next_new_test_after_china_pay_drip": ["zkpay108", "tamilp2pusdt"],
     "optional_third": "cryptoto_inr",
     "do_not_pad_to_8": true
+  },
+  "web_research_2026_10_03": {
+    "cursor_telegram_mcp": false,
+    "skill_added": ".cursor/skills/channel-hunt/SKILL.md",
+    "telemetr_com": "G.Media sister of TGAdsSpy; ANON API works without key",
+    "tgstat_mcp": "needs paid token; India catalog education-heavy; cloud 403",
+    "telegram_ads_mcp": "manages our ads, not discovery",
+    "telega_in": "native post buy — skip"
   }
 }

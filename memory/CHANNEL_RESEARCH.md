@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-03 — §57 expand hunt. Dono Pro **expire/FREE**. Naya magic 8 nahi; leftover TEST = `zkpay108` + `tamilp2pusdt` + thin P2P. Pehle china-pay drip.  
+**Last updated:** 2026-10-03 — §58 web research. Naya MCP magic nahi. `telemetr.com` = Spy sister (ANON bina key). Skill: `.cursor/skills/channel-hunt/`. Leftover TEST same.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2273,4 +2273,48 @@ Public Ads pe **naya whale class nahi**. 50+ clean unused seller-8 **exist nahi*
 4. **Kabhi nahi:** wave2 pack, WYpay/ShortPay/Jaipay/LG-dead/gambling/education.
 
 Paid Advanced + Spy PRO renew → placement list complete ho sakti hai, **nayi audience class nahi**.
+
+---
+
+## 58) 2026-10-03 — web research: skills / MCP / naya tarika
+
+User: web pe skill/MCP dhoondho jisse sahi target channel mile.
+
+### Cursor me built-in Telegram skill nahi
+
+Cloud Agent catalog = cursor / cursor-cloud / subscriptions. Channel-hunt ke liye naya official MCP nahi tha. Isliye repo me skill likha: **`.cursor/skills/channel-hunt/SKILL.md`** — agle chats me yahi playbook.
+
+### Web pe jo mila (live probe)
+
+| Product | Kya hai | Hamare liye |
+|---|---|---|
+| **telemetr.com** (G.Media) | TGAdsSpy ka **sister** — same `/api/v1/ads` + `/channels`. Pricing bhi $49 / $499 buy-map | **ANON bina key 200**. `channel-ad-load` = 401. Naya data source nahi, wahi archive. CLI pehle se: `tools/telemetr_search.py` |
+| **TGAdsSpy API** | Creatives, CTA dest, channel catalog | Pro expire = shallow. Enterprise buy-map ab bhi $499 |
+| **Telemetr.io Advanced** | Ads Index + similar + placement export | Plan end. Bot API alag, expire. Extra API S/M mat |
+| **[TGStat MCP](https://github.com/theyahia/tgstat-mcp)** | `search_channels` country/lang filter, mentions, posts | Token = paid Stat/Search (RUB). India site `in.tgstat.com` (61k channels) — default education/govt megas. Is cloud se search **403** |
+| **[Telemetr.me MCP](https://mcp.telemetr.me/)** | Catalog/ER MCP | telemetr.**io** nahi. Similar-channels MCP pe missing |
+| **[telegram_ads_mcp](https://github.com/Free-cat/telegram_ads_mcp)** | Playwright se *hamare* Ads create/stats | Discovery nahi — targeting chips read-only |
+| **Telega.in / Tagio** | Native post-buy exchange | Telegram Ads target list nahi |
+| **Lyzem** | Public message index | Pehle try: galat geo / loot |
+
+### ANON `telemetr.com` se extra names (live audit)
+
+Keyword `pay/wallet/usdt` = Trust Wallet / Paytm-hijack / Iran-Iraq / flash USDT. India-ish naya:
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@linkpay_link_pay_999pay` | 12.4k / 197 / 0d 4.5% earn | **DROP** worker clone |
+| `@indianx123` Incoin Pay | 123k / 69k Paytm 3% withdraw | **DROP** inflated earn mega |
+| `@ez2payofficel` | dead 2025 | skip |
+| `@atlasp2pprocessing` | Spy CTA processing | already WATCH operators, retail seller nahi |
+| Bots (`plb887_bot` `fxxpulse_bot`) | Ads dest bots | Channel-target nahi |
+
+### Sahi tarika (lock)
+
+1. Competitor **CTA dest** + official app catalog + mention snowball + `t.me/s`.
+2. Keyword spray placements copy **mat**.
+3. Paisa ho to **Spy PRO + Telemetr.io Advanced renew** — MCP se pehle. TGStat tab sochna jab Hindi/Tamil P2P catalog chahiye (education wall ke peeche).
+4. Random GitHub scraper / naya MCP install **mat**.
+
+Leftover TEST unchanged: `@zkpay108` + `@tamilp2pusdt`.
 

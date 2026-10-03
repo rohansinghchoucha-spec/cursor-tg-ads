@@ -1469,7 +1469,7 @@
     "showpayfamily": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-09-03 31.7k/481 ratio 0.015 — sell-order copy real but inflated. Not Primary."
+      "note": "2026-10-03 still 30.1k/508 live but deposit-bonus events. Inflated WATCH, not Primary."
     },
     "alphapay_alpha_pay": {
       "status": "WATCH",

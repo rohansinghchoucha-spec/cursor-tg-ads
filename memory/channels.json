@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-03",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -1815,6 +1815,61 @@
       "status": "DROP",
       "lane": "nano",
       "note": "2026-09-03 776 SIVP Tivra — buy token and sell. tivrapay already DROP."
+    },
+    "shortpay_family": {
+      "status": "DROP",
+      "lane": "restricted_cta",
+      "note": "2026-10-03 Spy IN USDT CTA (122.99). Preview restricted — Ads-unusable."
+    },
+    "wypay_official": {
+      "status": "DROP",
+      "lane": "worker_earn",
+      "note": "2026-10-03 60.6k/8470 live but 4% pay-on-behalf worker earn, not USDT sellers."
+    },
+    "dmapay_dma_pay_wypay": {
+      "status": "DROP",
+      "lane": "earn_bonus",
+      "note": "2026-10-03 7.3k/39 Dma Pay daily buy bonus."
+    },
+    "cryptomarkek1": {
+      "status": "DROP",
+      "lane": "education",
+      "note": "2026-10-03 Spy CTA Crypto Chre News / Paisabase — famous-edu lane."
+    },
+    "superbigsaleocy": {
+      "status": "DROP",
+      "lane": "dest_clickbait",
+      "note": "2026-10-03 1.1k/23 Show Pay 125rs dest, dead views."
+    },
+    "channelzippay": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-10-03 5.6k/2290 Zippay official — recruit bank suppliers + USDT acceptors."
+    },
+    "fortunepayofficalchannel": {
+      "status": "DROP",
+      "lane": "stale_signup",
+      "note": "2026-10-03 now NovaPay 1.8k/58, 66d, signup bonus."
+    },
+    "fortunepayindianofficialchannel": {
+      "status": "DROP",
+      "lane": "mule_nano",
+      "note": "2026-10-03 154 members bank recruit."
+    },
+    "dwpay8888": {
+      "status": "DROP",
+      "lane": "stale_dest",
+      "note": "2026-10-03 1.2k/158 last post ~253d USDT-INR dest desk."
+    },
+    "world_bank_payment_company": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-10-03 WBPay 1.4k/591 agents+cardholders, 68d."
+    },
+    "saqitbdytr": {
+      "status": "DROP",
+      "lane": "spro_invite",
+      "note": "2026-10-03 Spro Deal Official Jayden 11.2k invite/withdraw — Spro family DROP."
     }
   },
   "competitors_to_spy": [
@@ -3350,5 +3405,14 @@
       "agent": 0.75
     },
     "spy_telemetr": "keys missing on this VM"
+  },
+  "paid_login_2026_10_03": {
+    "telegram_web": "Rohan +447436763940 OK via OTP+2FA",
+    "telemetr_bot_api": "Inactive subscription (free/expired)",
+    "telemetr_website": "logged in via @telemetr_io_bot; plan FREE; paid Advanced ended",
+    "spy_api_key_plan": "FREE",
+    "spy_website": "OAuth waiting phone confirm on Rohan number",
+    "new_seller_pack": false,
+    "restart_unchanged": "china pay drip after TON; never wave2"
   }
 }

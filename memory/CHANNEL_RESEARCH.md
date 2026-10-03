@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-02 — §55 Ads login OK. Sab Stopped, leftover 0. TON 0.63. Wave2 fail (3 joins / 40 TON). Sirf china pay wapas sochna, pehle top-up.  
+**Last updated:** 2026-10-03 — §56 keys + Telegram Web login. Telemetr Advanced **ended (FREE)**. Spy key **FREE**. Paid hunt: naya seller pack nahi. Restart still china-pay drip after TON.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2142,4 +2142,65 @@ Oct 2026 spend **0**. Sab ads **Stopped**, leftover **0**. Active ke liye min 1 
 **Naya kaam ka unused aaj nahi mila.** `jaipayofficialchannel` earn-app tasks — DROP primary. `lgpay` ab bhi ~29 views. `zkpay108`/`linkpay888jack` overlap. Spy login ke bina competitor placement hunt pending.
 
 **TON aaye to:** pehle **sirf china pay drip** (10–15, CPM 5.00, text mat badalna = Review). Wave2 pack delete/ignore. Naya 8 = live desks only, mmoney loot nahi. Dest pe rate post karo pehle.
+
+---
+
+## 56) 2026-10-03 — paid keys + Telegram bot login + hunt
+
+User ne 2 keys bheji + kaha dono number pe Pro liya; pehle wala Telemetr login **website popup se nahi**, `@telemetr_io_bot` → Log in.
+
+**Secrets git me nahi.** Keys sirf `local/nexa_keys.env` (gitignored) + `/tmp/nexa_keys.env`. Password/OTP memory me nahi.
+
+### Login kya hua
+
+| Tool | Status | Sach |
+|---|---|---|
+| Telegram Web | **OK** | Rohan `+447436763940` (OTP + 2-step). Ads tab pehle se logged in. |
+| Telemetr **bot API** (`api.tlmtr.io`) | **Inactive subscription** | Ye `/api_key` = Public API, Advanced $55 nahi. Expiry ~2026-10-02. |
+| Telemetr **website** via `@telemetr_io_bot` Log in | **Logged in, plan FREE** | Banner: *Your paid plan has ended*. Header **FREE**, bag 0. Pricing = Current plan Free / 10 credits. SearchForm abhi 200 deta hai. Catalog/Ads export Advanced nahi. Extra API S/M mat khareedo. |
+| TGAdsSpy `X-Api-Key` | **plan FREE** | `meta.plan=FREE`, `maxOffset=5000`. `/ads?q=USDT&geo=IN` chalta hai. Ye woh PRO key nahi jo Sep me `maxOffset=50000` thi (`@Jawan010` Pro till 2026-10-02). |
+| TGAdsSpy website | **OAuth pending** | Rohan number pe Telegram confirm (“confirm access there”). Phone pe Allow ke bina website session nahi. Alag India number (`@Jawan010`) is Chrome me nahi. |
+
+### Restart (TON ke baad) — same as §55
+
+| Ad | Verdict |
+|---|---|
+| `8 new china pay` | **#1 drip** 10–15 TON @ 5.00. Text mat badalna. |
+| `china apps 10` | Mat pehle |
+| `china wave3 desks` | Mat pehle (CPA 0.95) |
+| `agent settlement 10` | **Mat** mule |
+| `china wave2 8` | **Kabhi mat** (3 joins / 40 TON) |
+| testing / `7` | **Mat** |
+
+Abhi Ads **Stopped**, free **0.63 TON** — kuch nahi chala sakte.
+
+### Paid hunt (FREE-gated tools) — naya seller pack nahi
+
+Telemetr search (diwapay/linkpay/ezpay/umoney/usdt-to-inr…) + Spy IN USDT creatives + live `t.me/s`.
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@shortpay_family` | preview **restricted** | **DROP** Ads-unusable. Spy CTA “USDT 122.99” dest jaisa. |
+| `@wypay_official` | 60.6k / med 8470 / 0d | **DROP** — 4% commission / pay-on-behalf **worker earn**, seller nahi |
+| `@dmapay_dma_pay_wypay` | 7.3k / 39 | **DROP** earn/buy-bonus |
+| `@cryptomarkek1` | 1.3k / 1680 | **DROP** education/news (famous-edu lane) |
+| `@superbigsaleocy` | 1.1k / 23 | **DROP** dest/clickbait “Show Pay 125rs”, views dead |
+| `@officialskypay` | 20.1k / 8720 / 0d | already **DROP** — bank/MQR **agent recruit** |
+| `@showpayfamily` | 30.1k / 508 / 0d | **WATCH** — deposit-bonus events, inflated; Primary nahi |
+| `@channelzippay` | 5.6k / 2290 / 8d | **DROP** — “recruit Indian bank account suppliers” mule |
+| `@fortunepayofficalchannel` | 1.8k / 58 / 66d | **DROP** NovaPay signup-bonus stale |
+| `@fortunepayindianofficialchannel` | 154 | **DROP** &lt;1k + bank recruit |
+| `@dwpay8888` | 1.2k / 158 / **253d** | **DROP** stale dest-desk |
+| `@world_bank_payment_company` | 1.4k / 591 / 68d | **DROP** agent/cardholder recruit |
+| `@saqitbdytr` | 11.2k / 1270 | **DROP** Spro Deal invite (Spro family already DROP) |
+
+**Garam pehle se mapped (retarget mat):** `diwapay` `linkpay8` `wiseway_payment` `wallet_999pay` `ezpay_rogen` `umoney` / Meteor / ddpay.
+
+Naya 8-pack is hunt se **nahi bana**. Paid Advanced + Spy PRO **dobara live** hon tab Showx/Mobius placement list complete nikalegi — uske bina bhi china-pay shelf mapped hai.
+
+### User ko kya chahiye agar paid wapas chahiye
+
+1. Telemetr.io pe **Upgrade to Advanced** (Rohan Telegram account) — bot `/api_key` se nahi hoga.
+2. Spy PRO: ya to naya `tgs_` key account page se (plan PRO dikhe), ya phone pe OAuth Allow + check Billing. Purani pasted key FREE hai.
+3. Ads restart: pehle TON top-up, phir sirf china-pay drip.
 

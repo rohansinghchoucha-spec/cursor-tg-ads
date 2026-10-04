@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-04 — §61 deep recheck of every “naa” ad. China pay still #1. Wave2 *ad* failed; kuch channels ab bhi sahi audience. WiseWay slot ab Pakistan agents.  
+**Last updated:** 2026-10-04 — §62 waste ka reason: placement hua, per-channel split nahi. Bade galat channel ne 8-set kha liya. TON se pehle clean 8.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2509,4 +2509,64 @@ Naye catalog names (`ddpayw`, `zkpay_umoney`, `flamepay_ipay`, `umoney_india_onl
 2. Phir **naya** chhota: `@zkpay108` + live apps cut (`Meteor` `ddpay9999` `jaypay_8` `mobiuspe0`) **ya** wave3 ke teen (`ezpay_rogen` `umoney` `tf_exchange`). Dono ek saath 40 TON mat.
 3. Wave2 ka **purana ad 23 mat**. Trust/ATG-official/Hoyo/999 sirf alag test, mmoney ke bina.
 4. Agent, testing, flash, Nepal groups — nahi.
+
+---
+
+## 62) 2026-10-04 — waste kyun hua, placement hua ya nahi, clean 8
+
+User: TON se pehle sahi set. Pehle galti kyun, jisne performance nahi di uspe ad pahuncha bhi ya nahi, 8/25 me accha channel miss to nahi.
+
+### Ads dashboard abhi (account list, budget 0.63, sab Stopped)
+
+| Ad | Views | Clicks | Joins | CPM label | CTR | Join/view | Spend check |
+|---|---|---|---|---|---|---|---|
+| `8 new china pay` | 19,334 | 1,603 | **334** | 5.00 | 8.3% | **1.73%** | ~97 TON at 5.00. Clicker ka **21%** join |
+| `china apps 10` | 16,633 | 3,813 | 143 | 5.00 label | 23% | 0.86% | ~75 TON agar average 4.50. Clicker ka **3.8%** join |
+| `china wave2 8` | **8,893** | **2,622** | **3** | 4.50 | **29.5%** | **0.03%** | 8,893 × 4.50 / 1000 = **40.02 TON exact** |
+| `china wave3` | 4,010 | 242 | 21 | 5.00 | 6.0% | 0.52% | ~20 TON. Poora budget views ban gaya |
+| `agent settlement` | 5,854 | 214 | 35 | 4.50 | 3.7% | 0.60% | ~26 TON. Logon ne ad dekha, click nahi |
+| `8 channel testing` | 8,830 | 693 | 131 | 6.00 | 7.8% | 1.48% | ~53 TON. Joins aaye, seller nahi bache |
+| `7` | **171** | 42 | 7 | **3.00** | — | — | ~0.5 TON. **Yahan placement almost nahi** |
+
+Telegram **kis channel pe kitne views** nahi dikhata. Stats page = sirf ad total. Spy “ads indexed” = *doosre* advertisers ki purani creatives, hamari delivery nahi.
+
+### Placement hua
+
+Wave2, wave3, china pay, apps, agent, testing — **poora TON views ban chuka.** Matlab ad un target channels ke feed me gaya. Ad 7 alag: CPM 3 + 1 dead channel = delivery nahi.
+
+Wave2 ka waste **zero-impression nahi.** 2,622 logon ne click kiya aur 3 join. 29% CTR loot/bonus wala click hai (mmoney rummy/Raxi). Dest “We Buy USDT” unke gift-code intent se match nahi. Chhote sahi desks (`trustpaynow` 4.1k, `hoyopay` 1.9k) is 26k + 14k ke saamne impression share me dab gaye. Set fail dikha, unka audience fail prove nahi hua.
+
+### Galti jo samajh nahi aayi thi
+
+Ek budget 8 channels me **member-size** pe banta hai, quality pe nahi. Jo channel bada + roz khulta hai, woh views khaata hai.
+
+| Set | Kisne budget khaya (size + live) | Sahi channel jo dab gaya |
+|---|---|---|
+| Wave2 | `@mmoney_official2` hijack 14.7k/1920 + `@wallet_999pay` 26k/580 shant | `trustpaynow` `atgofficiale` `hoyopay` |
+| Wave3 | `@umoney_wallet_official` 26k/859 | `ezpay_rogen` `tf_exchange` (rate board) |
+| Apps | Click-heavy workers + ab `@ultrapay_official` **2 subs** | Meteor / DD / Jay / Mobius — pack CPA 0.52 tha, late refill mehanga |
+| China pay | Bade **sahi** the (Diwa/Link/xWallet) isliye 334 joins | Waste slice: `upay` May se band 18k, `showpayindia` preview band, `wiseway` ab PK/TN agents |
+| Testing | Restricted P2P + `@kunal_loots` + hijack | `@quickcashwins` WingsApp USDT ₹108 dab gaya |
+| Kabhi set me nahi | — | `@zkpay108` 4.9k/**4720** — sabse garam unused |
+
+25-set me “miss” = handle list se gayab kam, **impression list se gayab zyada.** Sahi naam 8 ke andar tha, galat bade bhai ne spend le liya. Phir blended CPA dekh ke poora 8 “naa” ho gaya.
+
+### TON se pehle — clean 8 (dead/hijack/mule bahar)
+
+Alag naya ad. Purane ad 23 (wave2) aur apps refill mat. China pay drip alag, chhota, kyunki wahi 0.28 hai — andar 3 kamzor slot rahenge.
+
+| # | Handle | Aaj kyun |
+|---|---|---|
+| 1 | `@zkpay108` | Kabhi placement nahi. Views 4720, ZKpay USDT sell |
+| 2 | `@trustpaynow` | Wave2 me dab gaya. UPI orders, views 2900 |
+| 3 | `@mobiuspe0` | VIP orders, view ratio high |
+| 4 | `@MeteorpayEliteChannel00011` | Aaj Paytm/order, 2690 |
+| 5 | `@ezpay_rogen` | Order desk 3240 |
+| 6 | `@hoyopay` | Token sell, views 2300 (Sep 23) |
+| 7 | `@atgofficiale` | USDT deposit bonus |
+| 8 | `@tf_exchange` | Aaj USDT→INR rate |
+
+**Is 8 me mat:** `mmoney` loot, `ultrapay` 2 subs, `upay`/`showpayindia` dead, `wiseway` agent-geo, `wallet_999pay`/`umoney` bade-shant (budget khayenge), `linkpay888jack`, agent mule, testing loot.
+
+CPM **4.50**. Text winner jaisa, dest exclude mat. Pehle chhota budget (10–15), 2–3 din join/click dekho. 29% CTR + join ~0 aaye to rok. China pay drip uske saath, usse bada nahi.
 

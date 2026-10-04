@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03",
+  "updated_at": "2026-10-04",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -789,12 +789,12 @@
     "mmpay_mm_pay": {
       "status": "DROP",
       "lane": "inflated",
-      "note": "9.7k / ~67 views"
+      "note": "Bhaartpay placement leak 2026-10-04: earn thin, med ~47. 9.7k / ~67 views. Not seller desk."
     },
     "sdigitalmoney": {
       "status": "DROP",
-      "lane": "weak",
-      "note": "~165 views"
+      "lane": "education",
+      "note": "Bhaartpay placement leak 2026-10-04: how-to/edu, ~165 views. Not seller desk."
     },
     "crypto_usdt_buyer": {
       "status": "DROP",
@@ -3466,5 +3466,23 @@
     "tgstat_mcp": "needs paid token; India catalog education-heavy; cloud 403",
     "telegram_ads_mcp": "manages our ads, not discovery",
     "telega_in": "native post buy — skip"
+  },
+  "reverse_ads_2026_10_04": {
+    "buy_map_api": "403 Enterprise",
+    "refreshed": "2026-10-04 ANON telemetr.com advertisers+ads for all 29+leftover+showx/lg",
+    "who_advertise_today": ["bhaartpay", "quickpayoffical1", "CryptoMarketHubb", "showxpay", "lgpay_official"],
+    "who_advertise_stale": ["diwapay", "atgpay_iop", "mobiuspe0", "mobiuspayofficial1", "Ez_india", "hoyopay_offical"],
+    "placement_only": [
+      "linkpay8", "linkxwalletnow", "alexpay_channel", "upaywalle_mahagames",
+      "wiseway_payment", "showpayindia", "MeteorpayEliteChannel00011", "ddpay9999",
+      "ultrapay_official", "jaypay_8", "t_zkpay_999pay", "wallet_999pay",
+      "mmoney_official2", "trustpaynow", "atgofficiale", "hoyopay",
+      "umoney_wallet_official", "ezpay_rogen", "ezpay_rotio", "honepay118",
+      "tf_exchange", "zkpay108", "tamilp2pusdt", "cryptoto_inr"
+    ],
+    "cta_always_self": true,
+    "quality_placements_already_ours": ["diwapay", "linkpay8", "linkxwalletnow", "wallet_999pay", "atgpay_iop", "jaypay_8"],
+    "do_not_copy": ["showx flash/P2P", "lgpay flash/HYIP", "ez_india matka creatives"],
+    "no_new_unused_seller_8": true
   }
 }

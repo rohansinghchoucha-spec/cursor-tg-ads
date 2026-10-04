@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-03 — §58 web research. Naya MCP magic nahi. `telemetr.com` = Spy sister (ANON bina key). Skill: `.cursor/skills/channel-hunt/`. Leftover TEST same.  
+**Last updated:** 2026-10-04 — §59 reverse-ads: hamare target channels khud kahan ads chalate hain. Buy-map list Enterprise. CTA = apna dest. Quality buyers = wahi china-pay shelf.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2317,4 +2317,70 @@ Keyword `pay/wallet/usdt` = Trust Wallet / Paytm-hijack / Iran-Iraq / flash USDT
 4. Random GitHub scraper / naya MCP install **mat**.
 
 Leftover TEST unchanged: `@zkpay108` + `@tamilp2pusdt`.
+
+---
+
+## 59) 2026-10-04 — hamare target channel-walon ne ads kahan lagaye
+
+User: jo channels pe hum lagate hain, unke owners ne bhi ads lagaye honge — kahan target kiya?
+
+**Do cheezein alag hain**
+
+1. **Unka CTA / dest** = logon ko *unke* channel pe le jaana (Showx → `@showxpay`). Hum un dest pe target **nahi** karte (competitor ghar).
+2. **Unka buy / placement** = *kis channel pe* unhone Telegram Ads kharida. Yahi copy-worthy hai — lekin poori list API pe **`/advertisers/{slug}/channels` = 403 Enterprise $499**. ANON sirf **count** deta hai (`channelsPromotedIn`). `placementCount` creatives pe **0**.
+
+Aaj ANON `telemetr.com` + Sep 3 Chrome TOP lists (memory/spy_reports). CF HTML ab 403. Poora 29-pack + leftover + Showx/LG **dobara** advertisers lookup — koi extra buyer nahi mila.
+
+### Hamare 29 + leftover — kaun khud advertise karta hai (2026-10-04)
+
+| Hamara target | Khud ads? | CTA dest | channelsPromotedIn | Last seen |
+|---|---|---|---|---|
+| `@diwapay` | 2 creatives, **stale Apr** | `@diwapay` | 0 | 2026-04-29 |
+| `@atgpay_iop` | 15 | `@atgpay_iop` (TrustPay/ATG sell copy) | **23** | 2026-09-27 |
+| `@mobiuspe0` | 4 | `@mobiuspe0` 4% / USDT 108 | **21** | 2026-09-23 |
+| `@mobiuspayofficial1` | 1 | `@mobiuspayofficial1` 4% | 0 | 2026-07-06 stale |
+| `@Ez_india` | 9 | `@ez_india` — ab **matka/betting** niche + purana USDT | **22** | 2026-09-23 |
+| `@bhaartpay` | 11 | `@bhaartpay` USDT↔eRupee 110 | **10** | **2026-10-04 live** |
+| `@hoyopay` via `@hoyopay_offical` | 5 | `@hoyopay_offical` (&lt;1k, skip) | 28 | 2026-07-25 |
+| `@quickpayoffical1` | 5 | `@quickpayoffical1` USDT 118.2 | **16** | **2026-10-04 live** |
+| `@CryptoMarketHubb` | 6 | `@CryptoMarketHubb` 4% / 109.5 | **23** | **2026-10-04 live** |
+| `@lgpay_official` (unused) | **30** | `@lgpay_official` 115rs | **63** | **2026-10-04 live** |
+| `@showxpay` (DROP dest) | 9 | `@showxpay` 112rs / 7% | **27** | **2026-10-04 live** |
+
+### Placement-only — Spy me advertiser **nahi** (yeh channel hain, buyer nahi)
+
+`8 new china pay:` `@linkpay8` `@linkxwalletnow` `@alexpay_channel` `@upaywalle_mahagames` `@wiseway_payment` `@showpayindia`  
+`china apps:` `@MeteorpayEliteChannel00011` `@ddpay9999` `@ultrapay_official` `@jaypay_8` `@t_zkpay_999pay`  
+`wave2:` `@wallet_999pay` `@mmoney_official2` `@trustpaynow` `@atgofficiale` `@hoyopay` (sister `@hoyopay_offical` buyer hai)  
+`wave3:` `@umoney_wallet_official` `@ezpay_rogen` `@ezpay_rotio` `@honepay118` `@tf_exchange`  
+`leftover TEST:` `@zkpay108` `@tamilp2pusdt` `@cryptoto_inr`
+
+Matlab: **29 me se ~20 official apps ads nahi chalate** — unpe doosre desks kharidte hain. Jo chalate hain, CTA hamesha **apna ghar**.
+
+### Jahan unhone kharida (TOP, Sep 3 Chrome — list API band)
+
+**Quality buyers (copy shelf, loot mat):**
+
+| Buyer | TOP placements |
+|---|---|
+| Mobius `@mobiuspe0` (21) | **`diwapay` `linkxwalletnow` `wallet_999pay` `linkpay8` `atgpay_iop`** + loot (`kunal_loots` `skypay_payment_backup_01`) |
+| ATG `@atgpay_iop` (23) | **`jaypay_8` `diwapay` `linkpay8`** + WazirX/CoinDCX edu (**DROP**) |
+| Bhaartpay (10) | `linkxwalletnow` + `sdigitalmoney` (edu how-to) `mmpay_mm_pay` (earn, med 47) `ttwalletchannel` (2024 dead) `ndpay888` restricted |
+
+**Cheap spray (unhe copy mat):**
+
+| Buyer | TOP placements |
+|---|---|
+| Showx (27) | inflated P2P `buyer_usdt_seller_crypto_binance`, flash, `cryptoheadlines365` |
+| LG Pay (63) | `wallet_999pay` `atgpay_iop` **+** `flash_usdtkk` `nft_radar05` `come_channel_0` `vipyirui` |
+
+**Count-only, TOP list nahi (Enterprise / CF):** QuickPay 16, CryptoMarketHub 23, Hoyo 28, Ez_india 22. Unka dest = khud; placement handles public API pe nahi.
+
+**Live 4 Oct ab bhi kharid rahe:** Bhaartpay, QuickPay, CryptoMarketHub, Showx, LG. Unka dest = khud. Hum un dest pe nahi; unke **sahi placements** pehle se hamare packs me hain.
+
+### Naya unused seller channel is reverse se nahi mila
+
+Bhaartpay ke extra names live-audit: `sdigitalmoney` education, `mmpay_mm_pay` earn thin, `ttwalletchannel` dead, `ndpay888` restricted.
+
+**Lock:** wahi china-pay shelf. Showx/LG ki flash-P2P list mat. Ez_india ke betting creatives mat. Buy-map poori list = $499, pehle month skip. Leftover TEST same: `@zkpay108` + `@tamilp2pusdt`.
 

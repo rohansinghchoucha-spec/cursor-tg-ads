@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04",
+  "updated_at": "2026-10-04",
   "purpose": "Reusable TGAdsSpy reports. Pro API lock lifted 2026-09-04. Channel GET OK. Do NOT burst channel-ad-load (that caused 24h quarantine).",
   "website_login": {
     "display": "J Jawan",
@@ -39,7 +39,7 @@
     "showxpay": {
       "slug": "tg-showxpay",
       "creatives": 9,
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-04",
       "cta_dest": "showxpay",
       "verdict": "DROP dest — stale official, sprays loot/P2P inflated",
       "copy": "buy/sell USDT 112rs",
@@ -55,7 +55,7 @@
     "mobiuspe0": {
       "slug": "tg-mobiuspe0",
       "creatives": 4,
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-23",
       "cta_dest": "mobiuspe0",
       "verdict": "RUNNING — do not retarget dest. Placements = our china-pay shelf (confirms lane).",
       "top_placements": [
@@ -73,7 +73,7 @@
     "lgpay_official": {
       "slug": "tg-lgpay-official",
       "creatives": 23,
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-10-04",
       "cta_dest": "lgpay_official",
       "verdict": "READY_PACK wave2. Still advertising USDT sell IN.",
       "top_placements": [
@@ -89,7 +89,7 @@
     "bhaartpay": {
       "slug": "tg-bhaartpay",
       "creatives": 11,
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-10-04",
       "cta_dest": "bhaartpay",
       "verdict": "READY_PACK wave2",
       "placement_handles_seen": [

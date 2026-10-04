@@ -874,12 +874,12 @@
     "CryptoIndiaUnited": {
       "status": "DROP",
       "lane": "stale_inflated",
-      "note": "9.8k / one post 464d stale"
+      "note": "2026-10-04 still a group-style welcome, 10.4k, last post 2025-05-13. OTC sellers sit in the group. Ads cannot target it."
     },
     "IndiaCrypto_Market": {
       "status": "WATCH",
       "lane": "bulk_otc_desk",
-      "note": "IndiaOTC rates; <1k subs + 338d stale — not primary yet"
+      "note": "2026-10-04 still 584 subs, last 2025-09-16, rate posts auto-delete. Bulk OTC desk but not an Ads channel worth budget."
     },
     "keralausdt": {
       "status": "WATCH",
@@ -3579,5 +3579,12 @@
     "wave2_waste": "2622 clicks, 3 joins, 29.5% CTR — loot clicks, not zero delivery",
     "clean8_before_ton": ["zkpay108", "trustpaynow", "mobiuspe0", "MeteorpayEliteChannel00011", "ezpay_rogen", "hoyopay", "atgofficiale", "tf_exchange"],
     "exclude_from_clean8": ["mmoney_official2", "ultrapay_official", "upaywalle_mahagames", "showpayindia", "wiseway_payment", "wallet_999pay", "umoney_wallet_official"]
+  },
+  "holder_categories_2026_10_04": {
+    "ads_target_shelf": "china-pay and CDM rate channels",
+    "not_ads": ["exchange apps Binance/CoinDCX/CoinSwitch news", "OTC groups CryptoIndiaUnited IndCrypto", "escrow bots"],
+    "empty_in_india_ads": ["freelancer USDT", "NRI USDT", "F2F USDT", "gaming USDT keyword"],
+    "thin_same_lane": "coinswitchpayofficial 1.35k RTGS orders, UPI hold Sep 25",
+    "clean8_unchanged": true
   }
 }

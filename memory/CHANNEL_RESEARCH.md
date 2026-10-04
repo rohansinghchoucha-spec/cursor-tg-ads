@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-04 — §62 waste ka reason: placement hua, per-channel split nahi. Bade galat channel ne 8-set kha liya. TON se pehle clean 8.  
+**Last updated:** 2026-10-04 — §63 India USDT seller 5 categories. Ads-target sirf china-pay/CDM channel. OTC group aur exchange app Ads pe nahi.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2569,4 +2569,28 @@ Alag naya ad. Purane ad 23 (wave2) aur apps refill mat. China pay drip alag, chh
 **Is 8 me mat:** `mmoney` loot, `ultrapay` 2 subs, `upay`/`showpayindia` dead, `wiseway` agent-geo, `wallet_999pay`/`umoney` bade-shant (budget khayenge), `linkpay888jack`, agent mule, testing loot.
 
 CPM **4.50**. Text winner jaisa, dest exclude mat. Pehle chhota budget (10–15), 2–3 din join/click dekho. 29% CTR + join ~0 aaye to rok. China pay drip uske saath, usse bada nahi.
+
+---
+
+## 63) 2026-10-04 — India seller/holder duniya me kahan baithe hain
+
+User: sirf India USDT seller ya holder. Duniya dekh ke batao hum sahi dhoondh rahe hain ya doosri category miss hai.
+
+### 5 ghar (2026 cash-out map + aaj ka Ads/catalog/live)
+
+| Category | Holder/seller yahan hai | Telegram Ads pe target? | Humne kya dekha |
+|---|---|---|---|
+| **1. Exchange app** | Binance/Bybit P2P, CoinDCX, Mudrex, CoinSwitch — sell order **app ke andar** | Unka Telegram = news/futures. `@coinswitch_updates` 29k, aaj futures listing + YouTube. Seller nahi | Pehle education/exchange fail yahi wajah. Dobara mat |
+| **2. OTC group + escrow bot** | `@CryptoIndiaUnited` 10.4k, last post **May 2025**, text khud kehta hai group. IndCrypto = `@indcryptoescrowbot` + group, preview band. `@IndiaCrypto_Market` 584, last **Sep 2025**, rates auto-delete | **Group/bot Ads pe nahi chalta** | Asli retail P2P yahin baithta hai, lekin hamari gun unpe fire nahi karti |
+| **3. China-pay / gaming app channel** | Diwa, Link, Meteor, Zk, Trust, EZ, Hoyo — USDT app me daal ke INR order | **Haan. Yahi public channel + yahi pe 334 joins** | Sahi shelf. Clean 8 isi me se hai |
+| **4. CDM / cash rate board** | Jo bank freeze se bachta hai, CDM/cash pe bechta hai | Ads archive `CDM` geo IN = sirf `@lgpay_official` + `@bhaartpay`. `@tf_exchange` aaj live rate board | TF clean 8 me. LG views 117, Bhaart thin. Naya CDM channel catalog me **0** |
+| **5. Freelancer / NRI / gift-card** | Upwork/wallet/app | Ads `freelancer USDT` `NRI USDT` `F2F` `gaming USDT` geo IN = **0**. Catalog bhi khali | Public IN channel is category me nahi |
+
+`@coinswitchpayofficial` alag chhota order-desk hai (1.35k, Sep 25, RTGS orders, UPI hold) — exchange news nahi, **usi category 3** ka patla cousin. Clean 8 me nahi. `@GBUHUBOfficial` 24 log, partnership pitch. `@indcryptoarena` 2017 se ek post, airdrop disclaimer.
+
+### Seedha
+
+Hum **galat category** nahi dhoondh rahe. India ka USDT seller teen jagah hai: exchange app, OTC group, aur cashout-app channel. Pehli do Ads inventory nahi. Teesri pe hum already convert kar chuke. Freelancer/NRI/F2F ka alag Telegram shelf India me public hai hi nahi.
+
+Clean 8 same. Nayi category se 8 mat banao.
 

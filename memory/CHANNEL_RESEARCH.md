@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-04 — §60 Nepal/Bhutan + India regional: Ads-target USDT holder channel nahi mila. Groups Ads pe nahi chalte. Leftover TEST same.  
+**Last updated:** 2026-10-04 — §61 deep recheck of every “naa” ad. China pay still #1. Wave2 *ad* failed; kuch channels ab bhi sahi audience. WiseWay slot ab Pakistan agents.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2430,4 +2430,83 @@ Bangladesh me USDT ads zyada hain (`@dollarbuysellbd5` 1.6k, BDT 125–129, chho
 ### Lock
 
 Nepal/Bhutan pe naya ad **mat** banao. Wahan holder group me hain, public Ads channel nahi. India dense shelf wahi china-pay hai. TON ke baad: china-pay drip, phir `@zkpay108` + `@tamilp2pusdt`. Flash / kanda / AW8 / WiseWay agent-bot — nahi.
+
+---
+
+## 61) 2026-10-04 — har “naa” ad ka deep audience recheck
+
+User: jitne ads lage unme best wapas kaun; jinpe naa bola unko deeply check — audience sahi ho sakti hai, channel kam hain.
+
+Live `t.me/s` aaj. Numbers Ads = §55 (Oct 2), uske baad spend 0.
+
+### Ad-level — wapas kaun (yeh numbers, guess nahi)
+
+| Ad | Spent | Joins | CPA | Deep read aaj |
+|---|---|---|---|---|
+| `8 new china pay` | 93 | **334** | **0.28** | **Wapas #1 drip.** Andar 3 slot kharab (neeche) |
+| `china apps 10` | 75 | 143 | 0.52 | Ad **mat refill** — `@ultrapay_official` ab **2 subs** “BOTS BY CHETAN”. Baaki 4 channel ab bhi order-desk |
+| `china wave3` | 20 | 21 | 0.95 | Audience galat nahi. Mehanga hai, isliye #2. `@ezpay_rotio` preview **band** |
+| `agent settlement` | 26 | 35 | 0.75 | **Ad mat.** Account-supply / mule. Ek overlap garam |
+| `china wave2` | 40 | **3** | **13.33** | **Yahi ad mat dohrao.** Channel-class poori galat nahi — loot slot ne pack kha liya |
+| testing / `7` | — | 131 / 7 | — | **Ad mat.** Hijack + dead. Ek WingsApp slot alag |
+
+### China pay — kaun ab bhi holder/seller
+
+| Handle | Aaj | Audience |
+|---|---|---|
+| `@diwapay` | 73.5k / 9800 / aaj | Orders. **Best** |
+| `@linkpay8` | 29k / 20600 / Sep 26 | Official update. **Best** |
+| `@linkxwalletnow` | 34.8k / 2330 / aaj | USDT member / UPI hold. Sahi |
+| `@wiseway_payment` | 4.4k / 5610 / Oct 2 | **Palat gaya.** Last posts Pakistan EasyPaisa + Tunisia agents, India seller rate nahi. Purane ad me slot atka hai |
+| `@alexpay_channel` | 2.7k / 4550 / **Aug 8** | Purana fund-PIN. 57d silent |
+| `@atgpay_iop` | 2.2k / 3210 / Sep 1 | TrustPay deposit how-to. 33d |
+| `@upaywalle_mahagames` | 18.4k / 3010 / **May 11** | 146d dead |
+| `@showpayindia` | preview band | Ads-useless |
+
+### Apps — “mat” ad pe tha, audience pe nahi
+
+Live order desks: `@MeteorpayEliteChannel00011` 8.6k/2690 aaj · `@ddpay9999` 17.5k/1030 aaj · `@jaypay_8` 7.0k/1390 aaj · `@mobiuspe0` 2.0k/1310 Oct 3 VIP orders.  
+Patla: `@Ez_india` Sep 21 · `@t_zkpay_999pay` med 691 · `@mobiuspayofficial1` med 278.  
+**Mara:** `@ultrapay_official` = 2 subs. Isliye purana apps ad refill mat. Naya cut sirf un 4 live pe, china-pay drip ke baad.
+
+### Wave2 — ad fail, 4 channel ab bhi sahi
+
+`@mmoney_official2` **hijack**: title Elite Earners, Diwa rummy + Raxi loot. Yahi 14.7k/1920 views kha raha hai.  
+`@quickpayoffical1` buy-quota commission. `@bhaartpay` med 371 generic.  
+
+Ab bhi USDT desk: `@trustpaynow` 4.1k/2900 UPI orders · `@atgofficiale` 3.7k/1070 USDT deposit bonus · `@hoyopay` 1.9k/2300 token sell (Sep 23) · `@wallet_999pay` 26k/580 aaj UPI-online, bada-shant.  
+**Same 8 ad kabhi nahi. In 4 ko alag chhota test ho sakta hai, pehle nahi.**
+
+### Wave3 — naa over-correction tha
+
+`@ezpay_rogen` 16.5k/3240 order desk · `@umoney_wallet_official` 26k/859 aaj INR flash orders · `@tf_exchange` 5.1k/904 **aaj seedha USDT→INR CDM/UPI rate**.  
+`@honepay118` 838 gaming-funds, &lt;1k. `@ezpay_rotio` preview band.  
+CPA 0.95 = china pay se 3x. Audience class sahi. Priority #2, “kabhi nahi” nahi. Rotio slot toot chuka.
+
+### Agent + testing — naa pakka
+
+Agent: `@xpay0088` company-account stock list · `@pay0000012` IOB corporate · `@world_bank_payment_company` Jul 27 cardholder · `@wb_pay` ab West Bengal DA news (hijack) · `@mvpay9526` Aug 23 · `@sharkpaypayment` preview band.  
+`@linkpay888jack` 2.4k/4030 Sep 22 garam, lekin `@linkpay8` ka bhai + casino register link.  
+Testing: `@loots_pay` med 2 hijack · `@uupay_captain` Jan 2026 · `@base_pay` 1 sub · `@kunal_loots` ComePay referral · P2P/SkyPay preview band.  
+`@quickcashwins` WingsApp **USDT sell ₹108** Sep 26 — akela lane sahi, pack ke saath mat.
+
+### Jo ad me nahi, aaj garam
+
+| Handle | Aaj | |
+|---|---|---|
+| `@zkpay108` | 4.9k / **4720** / Oct 3 | **#1 unused.** ZKpay INR USDT sell |
+| `@tamilp2pusdt` | 3.0k / 215 / aaj | $500 + $1500 community sale + altcoin mix. Patla, asli sale posts hain |
+| `@cryptoto_inr` | 3.6k / 277 | “Buying usdt” — **wo kharidte hain**, hamare seller nahi |
+| `@rswalletearnings` | 1.3k / med 157, last views **11** | Naya RSWallet UPI-order desk, aaj live, views gir rahe. Test size nahi |
+| `@lgpay_official` | 7.2k / 117 | part-time, views dead |
+| `@skypay_umoney` | May 2025 | stale |
+
+Naye catalog names (`ddpayw`, `zkpay_umoney`, `flamepay_ipay`, `umoney_india_online_job`) preview band ya group.
+
+### TON ke baad order (correct)
+
+1. China pay **drip** 10–15 @ 5.00, text mat. WiseWay/Upay/Showpay slot andar weak — ad todo mat.
+2. Phir **naya** chhota: `@zkpay108` + live apps cut (`Meteor` `ddpay9999` `jaypay_8` `mobiuspe0`) **ya** wave3 ke teen (`ezpay_rogen` `umoney` `tf_exchange`). Dono ek saath 40 TON mat.
+3. Wave2 ka **purana ad 23 mat**. Trust/ATG-official/Hoyo/999 sirf alag test, mmoney ke bina.
+4. Agent, testing, flash, Nepal groups — nahi.
 

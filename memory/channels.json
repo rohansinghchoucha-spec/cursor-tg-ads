@@ -559,7 +559,7 @@
     "wiseway_payment": {
       "status": "PROVEN",
       "lane": "china_pay",
-      "note": "RUNNING china pay 8. 2026-09-03 live: now BD/agent partner recruit — do not add to new packs. Don't pause running."
+      "note": "In china pay ad 20. 2026-10-04 posts are Pakistan EasyPaisa + Tunisia agent recruit, not India USDT seller rates. Do not edit that ad to pull the slot."
     },
     "xpay0088": {
       "status": "RUNNING_TEST",
@@ -935,6 +935,16 @@
       "status": "DROP",
       "lane": "bangladesh_out_of_offer",
       "note": "2026-10-04 BD desk 1.6k, BDT rates, small tickets, last Aug. Not INR Nepal/Bhutan."
+    },
+    "rswalletearnings": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-10-04 new RSWallet UPI-order desk 1.3k. Live today but latest views fell to 11. Too thin for a pack. CMH already points at rswallet."
+    },
+    "skypay_umoney": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "2026-10-04 SkyPay x UMoney invite-earn, last post 2026-05-17."
     },
     "tamilusdtcryptochat": {
       "status": "DROP",
@@ -3553,5 +3563,12 @@
     "bhutan_public_channel": "none usable",
     "new_ads_pack": false,
     "still_test": ["zkpay108", "tamilp2pusdt"]
+  },
+  "deep_recheck_2026_10_04": {
+    "rerun_ad": "8 new china pay drip",
+    "do_not_refill_same_ad": ["china apps 10 ultrapay dead", "china wave2 8 mmoney hijack", "agent settlement", "8 channel testing"],
+    "audience_still_good_separate_test": ["trustpaynow", "atgofficiale", "hoyopay", "wallet_999pay", "ezpay_rogen", "umoney_wallet_official", "tf_exchange", "MeteorpayEliteChannel00011", "ddpay9999", "jaypay_8", "mobiuspe0", "zkpay108"],
+    "wiseway_shift": "Pakistan/Tunisia agents as of 2026-10-02",
+    "new_thin": "rswalletearnings views collapsing"
   }
 }

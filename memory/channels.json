@@ -874,12 +874,32 @@
     "CryptoIndiaUnited": {
       "status": "DROP",
       "lane": "stale_inflated",
-      "note": "2026-10-04 still a group-style welcome, 10.4k, last post 2025-05-13. OTC sellers sit in the group. Ads cannot target it."
+      "note": "2026-10-04 Reddit + cryptoindiaunited.com still point sellers at the OTC group (site rate 100.25). Public channel is a May 2025 welcome plus private invite. Ads cannot target the group."
     },
     "IndiaCrypto_Market": {
       "status": "WATCH",
       "lane": "bulk_otc_desk",
       "note": "2026-10-04 still 584 subs, last 2025-09-16, rate posts auto-delete. Bulk OTC desk but not an Ads channel worth budget."
+    },
+    "coinswitchpayofficial": {
+      "status": "WATCH",
+      "lane": "china_pay",
+      "note": "2026-10-04 1.35k / med 552 / Sep 25. RTGS order desk, UPI on hold. Same lane as china-pay, too thin for clean 8. Not CoinSwitch news."
+    },
+    "coinswitch_updates": {
+      "status": "DROP",
+      "lane": "education",
+      "note": "2026-10-04 29.2k futures listings and YouTube. App users, not INR cashout sellers."
+    },
+    "GBUHUBOfficial": {
+      "status": "DROP",
+      "lane": "operator",
+      "note": "2026-10-04 24 subs, partnership pitch for gateway/OTC. Not retail holders."
+    },
+    "indcryptoarena": {
+      "status": "DROP",
+      "lane": "education",
+      "note": "2026-10-04 airdrop disclaimer, one post from 2017."
     },
     "keralausdt": {
       "status": "WATCH",

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-04 — §63 India USDT seller 5 categories. Ads-target sirf china-pay/CDM channel. OTC group aur exchange app Ads pe nahi.  
+**Last updated:** 2026-10-04 — §64 bahar ki duniya: Reddit + TGStat + cryptoindiaunited.com. Seller private group me. Public India crypto top = signals/YouTube.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2593,4 +2593,19 @@ User: sirf India USDT seller ya holder. Duniya dekh ke batao hum sahi dhoondh ra
 Hum **galat category** nahi dhoondh rahe. India ka USDT seller teen jagah hai: exchange app, OTC group, aur cashout-app channel. Pehli do Ads inventory nahi. Teesri pe hum already convert kar chuke. Freelancer/NRI/F2F ka alag Telegram shelf India me public hai hi nahi.
 
 Clean 8 same. Nayi category se 8 mat banao.
+
+---
+
+## 64) 2026-10-04 — bahar ki duniya (Reddit, website, TGStat). Repo search nahi.
+
+| Source | Kya bola |
+|---|---|
+| r/CryptoIndia threads (escrow, selling guide, bank-freeze) | Asli seller `@CryptoIndiaUnited` ke **OTC group** me baithte hain. Payment CDM / cardless cash. UPI/IMPS pe freeze. Instagram “115 USDT” ads = scam |
+| cryptoindiaunited.com (aaj fetch) | Live board **1 USDT = 100.25 INR**. OTC + escrow bot. Public page group ka hai |
+| TGStat `in.tgstat.com` channel page | Public `@CryptoIndiaUnited` sirf welcome post (13 May 2025) + **private group invite**. Group Ads-target nahi |
+| TGStat India / Cryptocurrencies top | Airdrop, Quotex, forex signals, Pushkar Raj Thakur, Crypto Aman, Crypto India Haveli. **Seller desk is list me nahi** |
+| Mudrex / CoinDCX / TradeBrains 2026 | “Safe” cashout = exchange app → bank. Telegram/WhatsApp deal = warning |
+| r/cryptoindiap2p (Mar 2026) | Naya escrow bot, sellers group me `/sell` karte hain. Channel target nahi |
+
+**Matlab:** social pe India ka USDT seller **private group + exchange app** me hai. Jo public channel bada hai woh education/signals hai — wahi lane pehle fail hua. China-pay public channels social top-100 me nahi aate, lekin wahi Ads pe convert hue. Clean 8 change nahi.
 

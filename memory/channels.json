@@ -886,6 +886,66 @@
       "lane": "remit_restricted",
       "note": "Kerala cash dealers — restricted"
     },
+    "dollarbuyandsellnepal": {
+      "status": "DROP",
+      "lane": "nepal_not_ads",
+      "note": "2026-10-04 Spy 3311/avg264 but isSponsoredEligible false; t.me Contact, no preview. Cannot target."
+    },
+    "binancenepali": {
+      "status": "DROP",
+      "lane": "nepal_group",
+      "note": "2026-10-04 group 2301 Binance P2P links. Ads cannot target groups."
+    },
+    "binancenepalp2p": {
+      "status": "DROP",
+      "lane": "nepal_group",
+      "note": "2026-10-04 group 333 USDT buy/sell. Too small + group."
+    },
+    "usdtbuyandsellnepal": {
+      "status": "DROP",
+      "lane": "nepal_group",
+      "note": "2026-10-04 group 9 members."
+    },
+    "bhutancryptop2p": {
+      "status": "DEAD",
+      "lane": "bhutan_group",
+      "note": "2026-10-04 group 44, last post 2025-02, real USDT-BTN rules. Dead + not a channel."
+    },
+    "bhutancryptoo": {
+      "status": "DROP",
+      "lane": "bhutan_airdrop",
+      "note": "2026-10-04 73 subs, airdrop guides, last 2025-07, not Ads-eligible."
+    },
+    "aw8nepal": {
+      "status": "DROP",
+      "lane": "gambling",
+      "note": "2026-10-04 channel 530/views 8, live casino cashback. Not USDT sellers."
+    },
+    "flashusdtcryptoflash": {
+      "status": "DROP",
+      "lane": "flash",
+      "note": "2026-10-04 eligible but flash demo $20=$50. Last Aug 2026."
+    },
+    "crypto_exchange_usdt_to_inr": {
+      "status": "DROP",
+      "lane": "no_preview",
+      "note": "2026-10-04 Spy eligible flag, t.me preview closed. Not usable."
+    },
+    "dollarbuysellbd5": {
+      "status": "DROP",
+      "lane": "bangladesh_out_of_offer",
+      "note": "2026-10-04 BD desk 1.6k, BDT rates, small tickets, last Aug. Not INR Nepal/Bhutan."
+    },
+    "tamilusdtcryptochat": {
+      "status": "DROP",
+      "lane": "india_group",
+      "note": "2026-10-04 group 2311. Not an Ads channel. Use tamilp2pusdt."
+    },
+    "keralausdttraders": {
+      "status": "DROP",
+      "lane": "india_group",
+      "note": "2026-10-04 group 157 Malayalam USDT sell. Not Ads inventory."
+    },
     "malayalamcrypto": {
       "status": "WATCH",
       "lane": "remittance_proxy",
@@ -3484,5 +3544,14 @@
     "quality_placements_already_ours": ["diwapay", "linkpay8", "linkxwalletnow", "wallet_999pay", "atgpay_iop", "jaypay_8"],
     "do_not_copy": ["showx flash/P2P", "lgpay flash/HYIP", "ez_india matka creatives"],
     "no_new_unused_seller_8": true
+  },
+  "nepal_bhutan_2026_10_04": {
+    "ads_usdt_geo_np": 0,
+    "ads_usdt_geo_bt": 0,
+    "only_nepal_ad": "WiseWayPartnersBot eSewa/Fonepay agent recruit — not a seller channel",
+    "nepal_keyword_wall": "kanda/adult/cricket — do not target",
+    "bhutan_public_channel": "none usable",
+    "new_ads_pack": false,
+    "still_test": ["zkpay108", "tamilp2pusdt"]
   }
 }

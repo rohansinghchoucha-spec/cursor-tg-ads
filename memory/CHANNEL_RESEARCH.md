@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-04 — §59 reverse-ads: hamare target channels khud kahan ads chalate hain. Buy-map list Enterprise. CTA = apna dest. Quality buyers = wahi china-pay shelf.  
+**Last updated:** 2026-10-04 — §60 Nepal/Bhutan + India regional: Ads-target USDT holder channel nahi mila. Groups Ads pe nahi chalte. Leftover TEST same.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2383,4 +2383,51 @@ Matlab: **29 me se ~20 official apps ads nahi chalate** — unpe doosre desks kh
 Bhaartpay ke extra names live-audit: `sdigitalmoney` education, `mmpay_mm_pay` earn thin, `ttwalletchannel` dead, `ndpay888` restricted.
 
 **Lock:** wahi china-pay shelf. Showx/LG ki flash-P2P list mat. Ez_india ke betting creatives mat. Buy-map poori list = $499, pehle month skip. Leftover TEST same: `@zkpay108` + `@tamilp2pusdt`.
+
+---
+
+## 60) 2026-10-04 — Nepal + Bhutan + India regional holder hunt
+
+User: India USDT holder/seller channels, aur Nepal/Bhutan bhi jahan zyada USDT wale hon.
+
+### Ads archive (ANON telemetr.com)
+
+| Query | Result |
+|---|---|
+| `USDT` geo **NP** | **0** creatives |
+| `USDT` / `sell USDT` geo **BT** | **0** |
+| `Nepal` / `eSewa` / `Fonepay` | sirf **WiseWay** bot `@WiseWayPartnersBot` — “payment agents in Nepal, eSewa/Fonepay/CellPay”. Operator recruit, seller channel nahi. Dest bot = Ads target nahi. Hamara `@wiseway_payment` pehle se china-pay pack me hai |
+| `usdt sell` catalog | flash / inflated naam. Eligible `@flashusdtcryptoflash` live = **$20=$50 demo flash** (Aug 2026). `@crypto_exchange_usdt_to_inr` eligible flag hai, preview **band** |
+
+Nepal keyword catalog (1311) = kanda / adult / cricket tips. **Kisi ko mat target.**
+
+### Nepal — log hain, Ads channel nahi
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@dollarbuyandsellnepal` | Spy 3.3k / avg 264, **isSponsoredEligible false**. t.me = Contact, preview nahi | **NOT ADS** |
+| `@binancenepali` | **group** 2.3k, Binance P2P links | group — target nahi |
+| `@binancenepalp2p` | group 333, “USDT BTC buy sell, P2P 0 risk” | chhota group |
+| `@nepal_usdt_exchange` `@nepal_usdt_shop` `@nepal_exchange_usdt` | groups ~220–260 | chhote groups |
+| `@usdtbuyandsellnepal` | group **9** members | dead tiny |
+| `@nepali_earning_group` | group 3.4k esewa earning | **DROP** earn |
+| `@aw8nepal` | channel 530 / **views 8**, aaj live | **DROP** casino (Fernando Torres / chicken road) |
+
+### Bhutan — inventory almost khali
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@bhutancryptop2p` | group **44**, last post **2025-02**. Copy asli hai (USDT→BTN, pehle payment) | dead + group + &lt;1k |
+| `@bhutancryptoo` | 73, airdrop guides, last **2025-07**, eligible false | **DROP** |
+| Binance Pay × DK Bank QR (Aug 2026, 3700 merchants, BTN price / USDT settle) | merchant QR, Telegram channel nahi | Ads list nahi |
+
+### India regional (naya)
+
+`@tamilusdtcryptochat` group 2.3k, `@keralausdttraders` group 157, `@tamilnaduusdtbuyandsell` group 30. Groups. Asli channel leftover ab bhi `@tamilp2pusdt`.
+
+Bangladesh me USDT ads zyada hain (`@dollarbuysellbd5` 1.6k, BDT 125–129, chhote $17–100 tickets, last Aug 2026). Offer hamara **INR** hai — us desk ko NP/BT ke badle mat laga.
+
+### Lock
+
+Nepal/Bhutan pe naya ad **mat** banao. Wahan holder group me hain, public Ads channel nahi. India dense shelf wahi china-pay hai. TON ke baad: china-pay drip, phir `@zkpay108` + `@tamilp2pusdt`. Flash / kanda / AW8 / WiseWay agent-bot — nahi.
 

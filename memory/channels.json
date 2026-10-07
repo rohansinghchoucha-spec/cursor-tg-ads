@@ -1234,7 +1234,7 @@
     "cryptopay06": {
       "status": "DROP",
       "lane": "inflated",
-      "note": "CryptoX Pay 2.9k/med54 inflated"
+      "note": "CryptoX Pay inflated. 2026-10-07 recheck 2410 subs, med views 27, last post today: deposit ladder 400–10,000 USDT. Ticket matches floor, reach dead. DROP stands."
     },
     "allpayapp_com": {
       "status": "DROP",
@@ -3685,5 +3685,14 @@
     "clone": "bhaaratpay01 points back at bhaartpay",
     "under_500_live": "ezpaygo",
     "fund_unchanged": true
+  },
+  "types_hunt_2026_10_07": {
+    "new_ads_channel": false,
+    "cryptopay06": "deposit ladder 400-10000 USDT, med views 27, DROP stands",
+    "groups_not_ads": ["usdtp2pindian", "usdtindianseller", "udtdbuyandsell", "exchange_binance_usdt", "otc_crypto_escrow", "luice12", "realusdtindubai"],
+    "escrow_ads_geo_in": 0,
+    "escrow_public_wrong": ["protect", "owlescrow", "pw_escrow"],
+    "under_floor": ["darktitan103 min 100 USDT", "atlasp2pprocessing 135 subs operators"],
+    "most_sellers_on_ads": "the 30 TON eight"
   }
 }

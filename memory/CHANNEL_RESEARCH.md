@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §68 winner-method sister hunt. Naya Ads-eligible 500+ channel nahi. WingsApp 197 subs. 30 TON plan same.  
+**Last updated:** 2026-10-07 — §69 escrow / P2P / similar types. Naya Ads channel nahi. Seller groups Ads pe nahi. 30 TON same.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2698,4 +2698,20 @@ Mentions sirf support nikle: `@xwalletofficial` ab bhi preview khali, `@Official
 | India CTA jo naya dikha | shortpay restricted, showx/wypay/spro pehle se DROP, atlas/indiap2p operators | Revive mat |
 
 **Suggestion:** 30 TON ke 8 change mat karo. Agli baar sirf woh public channel lo jisme post **500 / 1000 / 5000 USDT** ya **₹50k–₹1L** likhe aur members **1000+** hon. Clone, CS, aur 200-log wala official is list me nahi aata. WingsApp ka admin ek native post bech sakta hai; Telegram Ads uspe nahi chalegi.
+
+---
+
+## 69) 2026-10-07 — similar + escrow + har type. Jyada seller kahan.
+
+Telemetr catalog `escrow` `OTC` `CDM` `P2P` `usdt seller` `usdt to inr`, aur India ads unhi words pe. Live `t.me/s`.
+
+| Type | Jo mila | Ads? |
+|---|---|---|
+| Selected jaisa app | `@cryptopay06` aaj **400 / 800 / 1,500 / 5,000 / 10,000 USDT** bonus. 2.4k members, **med views 27** | Pehle se DROP inflated. Ticket sahi, padhne wala nahi. Fund me nahi |
+| Shark / Atlas “P2P” | `@darktitan103` Shark min **100 USDT** + loot title. `@atlasp2pprocessing` 135 subs, company-account traders | Floor ke neeche / operator. Nahi |
+| India “USDT seller” names | `@usdtp2pindian` 13k, `@usdtindianseller` 11k, `@udtdbuyandsell` 10k, `@exchange_binance_usdt` 152k, `@luice12` `@realusdtindubai` | **Group.** Preview khali. Ads target nahi |
+| Escrow | India ads `escrow` = **0**. `@protect` `@owlescrow` `@pw_escrow` = foreign middleman / private group redirect. `@otc_crypto_escrow` 22k **group** | Galat audience ya Ads-unusable |
+| CDM ads | Sirf `@bhaartpay` (plan me) aur `@lgpay_official` (views ~117, pehle se chhoda) | Naya CDM channel nahi |
+
+**Jyada se jyada seller** public Ads pe wahi 8 hain. Groups me headcount bada hai, hamari gun wahan fire nahi karti. Escrow wala India seller private group me baithta hai.
 

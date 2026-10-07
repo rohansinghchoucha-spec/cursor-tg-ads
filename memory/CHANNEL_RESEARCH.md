@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-04 — §64 bahar ki duniya: Reddit + TGStat + cryptoindiaunited.com. Seller private group me. Public India crypto top = signals/YouTube.  
+**Last updated:** 2026-10-07 — §65 final spend: 40 TON, do alag ads. Purana blended 8 mat bharo. Proven 3 + naye 8.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2608,4 +2608,21 @@ Clean 8 same. Nayi category se 8 mat banao.
 | r/cryptoindiap2p (Mar 2026) | Naya escrow bot, sellers group me `/sell` karte hain. Channel target nahi |
 
 **Matlab:** social pe India ka USDT seller **private group + exchange app** me hai. Jo public channel bada hai woh education/signals hai — wahi lane pehle fail hua. China-pay public channels social top-100 me nahi aate, lekin wahi Ads pe convert hue. Clean 8 change nahi.
+
+---
+
+## 65) 2026-10-07 — final fund. Do alag ads. Purana blended 8 mat bharo.
+
+Live `t.me/s` aaj. Converting seller pehle **china pay set** se aaya (Bihar). Set ke andar sirf 3 ab bhi order-desk hain. Baaki slot budget khate hain. Naye log = jo is winning ad me kabhi nahi gaye, ya wave2/apps me dab gaye.
+
+**Add 40 TON.** Account pe 0.63 hai. Purani ads (wave2, apps, agent, testing, ad 7, poora china-pay 8) **On mat karo.**
+
+| Ad | TON | CPM | Channels |
+|---|---|---|---|
+| Proven 3 (naya ad) | **15** | 5.00 | `diwapay` `linkpay8` `linkxwalletnow` |
+| Naye log 8 (naya ad) | **25** | 4.50 | `zkpay108` `trustpaynow` `mobiuspe0` `MeteorpayEliteChannel00011` `ezpay_rogen` `atgofficiale` `tf_exchange` `ddpay9999` |
+
+Aaj live: Diwa 75k/11900, Link 30k/21800, xWallet 35k/2250, zkpay108 4.9k/4650, Meteor aaj USDT-profit, DD aaj USDT deposit, TF aaj CDM/UPI rate. Hoyo last post 23 Sep — is 25 me nahi. Jaypay aaj invite-bonus — nahi.
+
+3 din baad: naye 8 pe click 15%+ aur join ~0 ho to rok. Proven 3 pe seller DM aaye to usi pe agla 15. 40 se upar mat jab tak ek naya converting seller na dikhe. Dest pe aaj ka rate pehle post karo, ad text wahi. Dest exclude mat. Pin: amount + network, chhote trial kam.
 

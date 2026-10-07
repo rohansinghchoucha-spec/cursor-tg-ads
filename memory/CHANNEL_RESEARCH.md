@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §71 har purani ad ke channel ka live audit. Naya ad `china pay best 8` In Review, 40 TON, CPM 5.00.  
+**Last updated:** 2026-10-07 — §72 `china pay best 8` delete. Do naye ads In Review, 20+20 TON. 500 floor hata.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2767,4 +2767,21 @@ Account login. Balance pehle **40.63**. Har ad ka target UI se nikala (20, 22, 2
 | `@bhaartpay` | “₹50,000–₹1,00,000” bech rahe. Views ~391, delivery patli |
 | `@ATGpay_iop` | Converting set me tha, aaj sirf support redirect |
 | `@DDpay9999` | 17.7k / med 1670, aaj USDT deposit. 500 likha nahi |
+
+---
+
+## 72) 2026-10-07 — 500 filter hata. Do set. Purani 40 TON ad delete.
+
+User: acche channel 500 ke naam pe mat chodo. Delete karke do set. Roz khulne wale USDT seller.
+
+`china pay best 8` delete. 40.00 wapas. Balance pehle 40.63.
+
+| Ad | TON | CPM | Channels | Status |
+|---|---|---|---|---|
+| `daily big desks` | **20** | 5.00 | `diwapay` `linkpay8` `linkxwalletnow` `DDpay9999` `UMoney_Wallet_Official` | In Review |
+| `daily seller desks` | **20** | 5.00 | `mobiuspe0` `MeteorpayEliteChannel00011` `atgofficiale` `TF_Exchange` `quickpayoffical1` `ATGpay_iop` `bhaartpay` `quickcashwins` | In Review |
+
+Text dono: `We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate`. Bacha **0.63**. Purani Stopped ads On nahi. Dest exclude Telegram ne khud lagaya.
+
+Bahar, jaan ke: `wallet_999pay` (26k, views ~1000, pehle budget khaya), mmoney bonus, Jay invite, agent bank-list / wb news, dead Alex/UPay/ShowPay/TrustPay/rotio, loots hijack, base 1 sub, Honeypay &lt;1k, Hub agents, WiseWay doosre desh, GNSPAY team salary. `mobiuspayofficial1` aur `linkpay888jack` duplicate, kam views.
 

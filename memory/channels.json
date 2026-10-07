@@ -3719,7 +3719,26 @@
     "audited_out": ["alexpay_channel", "upaywalle_mahagames", "showpayindia", "wiseway_payment", "BuddyOfficial01", "ezpay_rotio", "loots_pay", "base_pay", "wb_pay", "XPAY0088", "trustpaynow", "honepay118", "Ultra_pay0_Family"],
     "old_ads_left_stopped": true,
     "held_for_second_ad": ["MeteorpayEliteChannel00011", "quickcashwins", "bhaartpay"],
-    "held_why": "Useful but not in the 40 TON eight. Balance left 0.63, cannot open a second ad.",
+    "held_why": "Superseded the same night. Those three are inside daily seller desks.",
     "seen_not_second_ad": ["ATGpay_iop support-only today", "DDpay9999 no 500 amount"]
+  },
+  "two_sets_2026_10_07": {
+    "deleted": "china pay best 8, 40 TON returned",
+    "reason": "500 floor was dropping live seller desks",
+    "daily_big_desks": {
+      "ton": 20,
+      "cpm": 5.0,
+      "status": "In Review",
+      "channels": ["diwapay", "linkpay8", "linkxwalletnow", "DDpay9999", "UMoney_Wallet_Official"]
+    },
+    "daily_seller_desks": {
+      "ton": 20,
+      "cpm": 5.0,
+      "status": "In Review",
+      "channels": ["mobiuspe0", "MeteorpayEliteChannel00011", "atgofficiale", "TF_Exchange", "quickpayoffical1", "ATGpay_iop", "bhaartpay", "quickcashwins"]
+    },
+    "text": "We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate",
+    "balance_left_ton": 0.63,
+    "left_out_on_purpose": ["wallet_999pay quiet giant", "mmoney bonus", "jaypay invite", "mule and news", "dead previews", "duplicates mobiuspayofficial1 linkpay888jack"]
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §66 har channel ka audience. 500 USDT floor. Diwa/Link ₹100–₹30k workers. Fund 30 TON sirf 1000U+ aur seedha sellers pe.  
+**Last updated:** 2026-10-07 — §67 private channel pe Telegram Ads nahi chalti. Admin-post / public mirror hi rasta. 30 TON plan same.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2662,4 +2662,20 @@ User: chhote aur bade dono, lekin **500 USDT se kam wala client nahi**. Har chan
 | Seedha 500+ bechne wale | **12** | 4.50 | `tf_exchange` `bhaartpay` `quickcashwins` `tamilp2pusdt` |
 
 Text: **Min 500 USDT. 5000+ welcome.** Dest pe wahi rate. Purana 40 TON wala proven-3 plan is floor ke against hai — woh ₹100 league hai.
+
+---
+
+## 67) 2026-10-07 — private channel pe ad kaise. Official + duniya ka rasta.
+
+Source: [ads.telegram.org/getting-started](https://ads.telegram.org/getting-started) (aaj fetch). Gram cabinet guide (Sep 2026): channel / bot / search keyword. Telega catalog private channel ko alag type maanta hai.
+
+**Hamare account (Gram / TON) private channel ya group ke andar sponsored message nahi chala sakta.** Ad sirf **public** one-to-many channel me dikhti hai, **1000+** subscribers, target `t.me/username`. Private `t.me/+…` aur group ka koi username field nahi hai. CryptoIndiaUnited OTC group, IndCrypto, city F2F, Dubai cash groups isi liye inventory nahi.
+
+Duniya me jo chalता hai, teen alag cheez hain:
+
+1. **Admin ko seedha pay karke post.** Telega jaise exchange pe “Private Channel” card hota hai. Owner 24h me accept kare, khud post daale, link verification bheje. Ye Telegram Ads slot nahi — ek normal sponsored post hai. Bina owner ke private ke andar ad nahi lagti.
+2. **Public mirror.** Owner ek public channel khole (1000+), private group band rahe. Phir wahi `t.me/username` hamare Ads me jaata hai.
+3. **Unka jo public bhai-channel hai** (rate board), wahi target. Private group ke log aksar wahi padhte hain. Yahi china-pay shelf hai.
+
+Search-keyword ad Gram pe possible hai, lekin woh private channel ke **andar** nahi, search me dikhti hai. Is 30 TON me mat milao. EUR “topic / country” cabinet bhi ad public channel me hi dikhata hai, private ke andar nahi, aur hamara cabinet Gram hai.
 

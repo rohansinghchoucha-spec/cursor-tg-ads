@@ -3620,5 +3620,17 @@
     "direct_seller": ["tf_exchange", "bhaartpay", "quickcashwins", "tamilp2pusdt"],
     "under_500_do_not_fund": ["diwapay", "linkpay8", "zkpay108", "trustpaynow", "MeteorpayEliteChannel00011", "ddpay9999", "ezpay_rogen", "jaypay_8", "wallet_999pay"],
     "text": "Min 500 USDT. 5000+ welcome."
+  },
+  "private_channel_ads_2026_10_07": {
+    "official": "ads.telegram.org places sponsored messages only in public channels with 1000+ subscribers, target t.me/username",
+    "our_cabinet": "Gram/TON — channel, bot, or search keyword. No placement inside t.me/+ or groups",
+    "already_walled": ["CryptoIndiaUnited OTC group", "IndCrypto escrow", "city F2F groups", "Dubai cash groups"],
+    "ways_that_work": [
+      "pay the admin for one native post (Telega-style private channel order; owner must accept)",
+      "owner opens a public 1000+ mirror, then that username goes into Telegram Ads",
+      "target their existing public sister channel"
+    ],
+    "does_not_place_inside_private": ["Gram search keyword", "EUR topic/country user targeting"],
+    "fund_unchanged": "30 TON plan in final_fund_2026_10_07"
   }
 }

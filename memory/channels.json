@@ -3706,5 +3706,17 @@
     "left_out_dead": ["alexpay_channel", "upaywalle_mahagames", "showpayindia", "wiseway_payment"],
     "do_not_restart": ["china apps 10", "agent settlement 10", "8 channel testing", "7", "china wave2"],
     "dest_exclude": false
+  },
+  "launched_2026_10_07": {
+    "ad": "china pay best 8",
+    "ad_id": 25,
+    "status": "In Review",
+    "cpm": 5.0,
+    "budget_ton": 40,
+    "balance_left_ton": 0.63,
+    "text": "We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate",
+    "channels": ["diwapay", "linkpay8", "linkxwalletnow", "mobiuspe0", "atgofficiale", "UMoney_Wallet_Official", "TF_Exchange", "quickpayoffical1"],
+    "audited_out": ["alexpay_channel", "upaywalle_mahagames", "showpayindia", "wiseway_payment", "BuddyOfficial01", "ezpay_rotio", "loots_pay", "base_pay", "wb_pay", "XPAY0088", "trustpaynow", "honepay118", "Ultra_pay0_Family"],
+    "old_ads_left_stopped": true
   }
 }

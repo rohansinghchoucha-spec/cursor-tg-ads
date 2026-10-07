@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §70 relaunch winner only. Rate from dest post 22 Sep: UPI 118 / Bank 115. Ad is not submitted: this machine has no ads login.  
+**Last updated:** 2026-10-07 — §71 har purani ad ke channel ka live audit. Naya ad `china pay best 8` In Review, 40 TON, CPM 5.00.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2739,4 +2739,22 @@ Bahar: `alexpay_channel` last 8 Aug, `upaywalle_mahagames` last 11 May auto-dele
 **Private bots:** Inside / Telega tab kaam karte hain jab **owner** bot jode aur post bechne ko haan bole. Random private group me bot se ad nahi ghusti. India `escrow` ads = 0.
 
 **Submit:** is machine pe ads.telegram.org login nahi hai (`local/chrome-tg-debug` yahan nahi). Ad draft ready hai, account pe gayi nahi. CPM 5.00. Budget = jo ab load hua, isi ek ad pe. Purani Stopped ads On mat karo.
+
+---
+
+## 71) 2026-10-07 — saari purani ads ke channel live. Phir best 8 lagaya.
+
+Account login. Balance pehle **40.63**. Har ad ka target UI se nikala (20, 22, 21, 19, 13, 23, 24), phir `t.me/s` audit.
+
+| Ad | Joins | Audit baad |
+|---|---|---|
+| 20 `8 new china pay` | **334** | Zinda: diwa, link, xwallet, atg iop. Bahar: alex 8 Aug, upay 11 May, showpay preview band, wiseway ab Pakistan/BD/Nepal/Morocco |
+| 22 `china apps 10` | 143 | Mobius, Meteor (ab post me **500 aur 1000** bhi), DD. BuddyOfficial01 = emoji, views 102. Jay invite. EZ deleted pin |
+| 23 `china wave2 8` | **3** | QuickPay aaj **500 se 5000**. ATG official 1k–20k. TF CDM $4000 tak. Baaki mmoney bonus, hub agents, hoyo 23 Sep, trustpay posts gayab |
+| 21 agent | 35 | XPAY = company bank list. wb_pay Bengal news. Baaki Aug se thande |
+| 19 testing | 131 | loots SOL hijack, base 1 sub, P2P/Sky private, kunal loot, uupay Jan |
+| 13 `7` | 7 | UltraPay ₹100 orders |
+| 24 wave3 | 21 | Umoney ladder ₹10k se **2,800U**. TF. EZ rogen 29 Sep. honeypay 843 subs. rotio preview band |
+
+**Naya ad submit.** `china pay best 8`. In Review. CPM **5.00**. Budget **40**. Bacha **0.63**. Text `We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate` (dest last post 22 Sep). Channels: `diwapay` `linkpay8` `linkxwalletnow` `mobiuspe0` `atgofficiale` `UMoney_Wallet_Official` `TF_Exchange` `quickpayoffical1`. Purani ads Stopped. Dest exclude Telegram ne khud lagaya, target me nahi. List pe “-1 channel” detail page pe 8 hi show hote hain.
 

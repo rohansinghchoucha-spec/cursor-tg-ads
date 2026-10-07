@@ -2758,3 +2758,13 @@ Account login. Balance pehle **40.63**. Har ad ka target UI se nikala (20, 22, 2
 
 **Naya ad submit.** `china pay best 8`. In Review. CPM **5.00**. Budget **40**. Bacha **0.63**. Text `We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate` (dest last post 22 Sep). Channels: `diwapay` `linkpay8` `linkxwalletnow` `mobiuspe0` `atgofficiale` `UMoney_Wallet_Official` `TF_Exchange` `quickpayoffical1`. Purani ads Stopped. Dest exclude Telegram ne khud lagaya, target me nahi. List pe “-1 channel” detail page pe 8 hi show hote hain.
 
+**Is 8 ke bahar, phir bhi kaam ke (doosri ad nahi bani, balance 0.63):**
+
+| Handle | Kyun rakha nahi |
+|---|---|
+| `@MeteorpayEliteChannel00011` | Aaj live, 8.9k / med 2290. Post me **500 aur 1000** hai, saath me 100–400 bhi |
+| `@quickcashwins` | WingsAPP, med ~5470, last 26 Sep. Bonus **500 / 1000 / 5000** |
+| `@bhaartpay` | “₹50,000–₹1,00,000” bech rahe. Views ~391, delivery patli |
+| `@ATGpay_iop` | Converting set me tha, aaj sirf support redirect |
+| `@DDpay9999` | 17.7k / med 1670, aaj USDT deposit. 500 likha nahi |
+

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §65 final spend: 40 TON, do alag ads. Purana blended 8 mat bharo. Proven 3 + naye 8.  
+**Last updated:** 2026-10-07 — §66 har channel ka audience. 500 USDT floor. Diwa/Link ₹100–₹30k workers. Fund 30 TON sirf 1000U+ aur seedha sellers pe.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2625,4 +2625,41 @@ Live `t.me/s` aaj. Converting seller pehle **china pay set** se aaya (Bihar). Se
 Aaj live: Diwa 75k/11900, Link 30k/21800, xWallet 35k/2250, zkpay108 4.9k/4650, Meteor aaj USDT-profit, DD aaj USDT deposit, TF aaj CDM/UPI rate. Hoyo last post 23 Sep — is 25 me nahi. Jaypay aaj invite-bonus — nahi.
 
 3 din baad: naye 8 pe click 15%+ aur join ~0 ho to rok. Proven 3 pe seller DM aaye to usi pe agla 15. 40 se upar mat jab tak ek naya converting seller na dikhe. Dest pe aaj ka rate pehle post karo, ad text wahi. Dest exclude mat. Pin: amount + network, chhote trial kam.
+
+---
+
+## 66) 2026-10-07 — har channel kaun hai, USDT kitna. Floor = 500 USDT.
+
+User: chhote aur bade dono, lekin **500 USDT se kam wala client nahi**. Har channel ka post padho, select karo.
+
+| Handle | Kaun hai | USDT unke paas? | 500+? |
+|---|---|---|---|
+| `@diwapay` | UPI **purchase-order worker**. League ₹100–₹5,000 / ₹5k–₹10k / ₹10k–₹30k | Kaam ke liye thoda | **Nahi.** ₹30k ≈ 300 USDT. Pehle Bihar seller yahin se aaya, crowd ab chhota hai |
+| `@linkpay8` | “Buy tokens, sales fast” app user | Order/token | Amount post me 500 nahi |
+| `@linkxwalletnow` | USDT recharge + 7-din volume badge **10k–30k / 30k–60k / 60k+ USDT** | **Haan, bada** | **Haan** |
+| `@zkpay108` | UPI match, withdrawal, team commission. “Work” | Kaam | 500 likha nahi. Garam views, chhote worker |
+| `@trustpaynow` | INR order kharidne ke liye UPI + **har 100 USDT** recharge | Chunk 100 | Floor ke neeche |
+| `@mobiuspe0` | “**1000 USDT+** deposit = extra 1%”. Daily volume 50k/100k/150k | **Haan** | **Haan** |
+| `@MeteorpayEliteChannel00011` | Promo **100 / 200 / 300 USDT** profit | Chhota deposit | **Nahi** |
+| `@ezpay_rogen` | Order pending / Freecharge help | Worker | 500 nahi |
+| `@atgofficiale` | Deposit bonus **1,000 → 20,000 USDT**. Token 50,000+ / 100,000+ | **Haan, bada** | **Haan** |
+| `@tf_exchange` | Seedha rate board. CDM $205+, UPI $50+, upar **$1000–$4000** | Bechne wala | **Dono.** Pin “Min 500” se $50 kat jaaye |
+| `@ddpay9999` | Order kam hai, USDT deposit pe 8% | Deposit | 500 likha nahi |
+| `@umoney_wallet_official` | Ladder ≥93U se **≥467 / ≥560 / ≥841 USDT** aur upar. INR flash ₹5k se | Dono | **500 cross karta hai**, chhote bhi hain |
+| `@wallet_999pay` | UPI online, purchase order, 4% | Chhota order | Nahi |
+| `@bhaartpay` | “Users selling **₹50,000–₹1,00,000**” + rate ₹109 | **Haan** | **Haan.** Views patle (~370) |
+| `@quickcashwins` | Buy **500 / 1000 / 1500 / 3000 / 5000 USDT** bonus. Last 26 Sep | **Haan, 500–5000** | **Haan** |
+| `@tamilp2pusdt` | Aaj **$500, $850, $1000, $1500** sale posts | Seedha seller | **Haan.** Views ~215, patla |
+| `@jaypay_8` | Invite ₹30–₹100 | Referral | Nahi |
+| `@hoyopay` | Token sell speed. Last 23 Sep | Unknown size | Floor prove nahi |
+| `@CryptoMarketHubb` | Team-leader agent, ₹10 lakh weekly volume | Agent | Retail 500 seller nahi |
+
+### Is brief ka fund — 30 TON. Diwa/Link/Meteor/Zk isme nahi.
+
+| Ad | TON | CPM | Kyun |
+|---|---|---|---|
+| 1000+ deposit | **18** | 5.00 | `linkxwalletnow` `mobiuspe0` `atgofficiale` `umoney_wallet_official` |
+| Seedha 500+ bechne wale | **12** | 4.50 | `tf_exchange` `bhaartpay` `quickcashwins` `tamilp2pusdt` |
+
+Text: **Min 500 USDT. 5000+ welcome.** Dest pe wahi rate. Purana 40 TON wala proven-3 plan is floor ke against hai — woh ₹100 league hai.
 

@@ -3608,14 +3608,17 @@
     "clean8_unchanged": true
   },
   "final_fund_2026_10_07": {
-    "add_ton": 40,
+    "add_ton": 30,
+    "floor_usdt": 500,
+    "replaced_40_plan": "Diwa/Link leagues are ₹100–₹30k, under 500 USDT",
     "do_not_restart": ["china pay full 8", "china apps 10", "china wave2 8", "agent settlement 10", "8 channel testing", "7"],
-    "proven_3_ton": 15,
-    "proven_3_cpm": 5.0,
-    "proven_3": ["diwapay", "linkpay8", "linkxwalletnow"],
-    "new_8_ton": 25,
-    "new_8_cpm": 4.5,
-    "new_8": ["zkpay108", "trustpaynow", "mobiuspe0", "MeteorpayEliteChannel00011", "ezpay_rogen", "atgofficiale", "tf_exchange", "ddpay9999"],
-    "held_out": ["hoyopay last post 2026-09-23", "jaypay_8 invite bonus", "mmoney_official2", "ultrapay_official", "wiseway_payment", "upaywalle_mahagames", "showpayindia", "wallet_999pay", "umoney_wallet_official"]
+    "big_deposit_ton": 18,
+    "big_deposit_cpm": 5.0,
+    "big_deposit": ["linkxwalletnow", "mobiuspe0", "atgofficiale", "umoney_wallet_official"],
+    "direct_seller_ton": 12,
+    "direct_seller_cpm": 4.5,
+    "direct_seller": ["tf_exchange", "bhaartpay", "quickcashwins", "tamilp2pusdt"],
+    "under_500_do_not_fund": ["diwapay", "linkpay8", "zkpay108", "trustpaynow", "MeteorpayEliteChannel00011", "ddpay9999", "ezpay_rogen", "jaypay_8", "wallet_999pay"],
+    "text": "Min 500 USDT. 5000+ welcome."
   }
 }

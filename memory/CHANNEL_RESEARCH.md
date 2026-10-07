@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §69 escrow / P2P / similar types. Naya Ads channel nahi. Seller groups Ads pe nahi. 30 TON same.  
+**Last updated:** 2026-10-07 — §70 relaunch winner only. Rate from dest post 22 Sep: UPI 118 / Bank 115. Ad is not submitted: this machine has no ads login.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2714,4 +2714,29 @@ Telemetr catalog `escrow` `OTC` `CDM` `P2P` `usdt seller` `usdt to inr`, aur Ind
 | CDM ads | Sirf `@bhaartpay` (plan me) aur `@lgpay_official` (views ~117, pehle se chhoda) | Naya CDM channel nahi |
 
 **Jyada se jyada seller** public Ads pe wahi 8 hain. Groups me headcount bada hai, hamari gun wahan fire nahi karti. Escrow wala India seller private group me baithta hai.
+
+---
+
+## 70) 2026-10-07 — fund load. Same winner campaign. Rate = channel ka last post. Submit nahi hua.
+
+User: purani campaign hi, rate latest post se. Private channel ke bots bhi dekho.
+
+**Rate** `t.me/safepathdeals` last post **2026-09-22** (uske baad koi post nahi): UPI **118**, Bank **115**, F2F 117, CDM 116. Ad text purane pattern pe, sirf ye number: `We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate`. Dest `t.me/safepathdeals`. Dest exclude mat.
+
+**Kaun dubara:** sirf **8 new china pay**. Sep 2 backup: 12,334 views / 1,025 clicks / **205 joins**, CPM 5.00. Baad me yahi set ~334 joins / CPA ~0.28, 1 Bihar client. Agent, testing, ad 7, wave2 mat bharo.
+
+Live aaj, us 8 me se jo Ads me jayenge:
+
+| Handle | Last | |
+|---|---|---|
+| `diwapay` | aaj | 75.1k / med 12100 |
+| `linkpay8` | 5 Oct | 29.7k / med 21800 |
+| `linkxwalletnow` | aaj | 35.1k / med 2250 |
+| `atgpay_iop` | aaj | 2.2k / med 2390 |
+
+Bahar: `alexpay_channel` last 8 Aug, `upaywalle_mahagames` last 11 May auto-delete, `showpayindia` preview band, `wiseway_payment` ab Pakistan/Bangladesh/Nepal/Morocco partner hire.
+
+**Private bots:** Inside / Telega tab kaam karte hain jab **owner** bot jode aur post bechne ko haan bole. Random private group me bot se ad nahi ghusti. India `escrow` ads = 0.
+
+**Submit:** is machine pe ads.telegram.org login nahi hai (`local/chrome-tg-debug` yahan nahi). Ad draft ready hai, account pe gayi nahi. CPM 5.00. Budget = jo ab load hua, isi ek ad pe. Purani Stopped ads On mat karo.
 

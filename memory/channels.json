@@ -3694,5 +3694,17 @@
     "escrow_public_wrong": ["protect", "owlescrow", "pw_escrow"],
     "under_floor": ["darktitan103 min 100 USDT", "atlasp2pprocessing 135 subs operators"],
     "most_sellers_on_ads": "the 30 TON eight"
+  },
+  "relaunch_2026_10_07": {
+    "submitted": false,
+    "why": "ads.telegram.org session is not on this machine",
+    "campaign": "8 new china pay",
+    "cpm": 5.0,
+    "text": "We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate",
+    "rate_source": "t.me/safepathdeals post 2026-09-22, no newer post",
+    "channels": ["diwapay", "linkpay8", "linkxwalletnow", "atgpay_iop"],
+    "left_out_dead": ["alexpay_channel", "upaywalle_mahagames", "showpayindia", "wiseway_payment"],
+    "do_not_restart": ["china apps 10", "agent settlement 10", "8 channel testing", "7", "china wave2"],
+    "dest_exclude": false
   }
 }

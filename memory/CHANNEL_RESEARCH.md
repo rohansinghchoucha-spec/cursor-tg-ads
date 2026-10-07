@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §67 private channel pe Telegram Ads nahi chalti. Admin-post / public mirror hi rasta. 30 TON plan same.  
+**Last updated:** 2026-10-07 — §68 winner-method sister hunt. Naya Ads-eligible 500+ channel nahi. WingsApp 197 subs. 30 TON plan same.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2678,4 +2678,24 @@ Duniya me jo chalता hai, teen alag cheez hain:
 3. **Unka jo public bhai-channel hai** (rate board), wahi target. Private group ke log aksar wahi padhte hain. Yahi china-pay shelf hai.
 
 Search-keyword ad Gram pe possible hai, lekin woh private channel ke **andar** nahi, search me dikhti hai. Is 30 TON me mat milao. EUR “topic / country” cabinet bhi ad public channel me hi dikhata hai, private ke andar nahi, aur hamara cabinet Gram hai.
+
+---
+
+## 68) 2026-10-07 — acche 8 ke tareeke se dobara dhoonda. Naya Ads channel nahi.
+
+Tareeka wahi: unke posts ke @mentions, Telemetr brand-catalog (xwallet, bhaarat, wings, mobius, umoney, atg, letpay, meteor, ezpay), aur India ads CTA (`USDT` `CDM` `UPI` `deposit` `Mobius` `ATG`).
+
+Mentions sirf support nikle: `@xwalletofficial` ab bhi preview khali, `@Officialbhaaratpay` / `@bhaaratpay` log hain channel nahi, Umoney/Wings CS bots, `@Exchange_TF`, `@vignesh677`.
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `@wingsappxtradexsellxearn` | 197 subs, med ~294, last **5 Sep**. Post: buy **500 / 1,000 / 5,000 USDT** bonus, rate 108 | Ticket sahi. **Ads nahi** — 1000 se kam. Admin-post only. 30 TON me mat daalo |
+| `@bhaaratpay01` | 7 subs, views 1. Same “₹50,000–₹1,00,000” copy, link wapas `@bhaartpay` | Clone. Asli `@bhaartpay` hi |
+| `@ezpaygo` | 1.98k / med 325 / **aaj**. UPI order se ₹5k–₹10k, commission 3.3%, rate 108 | 500 likha nahi. Floor ke neeche, fund me nahi |
+| `@channelxwallet` | 494, last **6 Jul**. Nayi SIM + Aadhaar job | Stale + galat lane |
+| `@xwalletforxcoin` | 890, last **Aug 2025**. ₹10,000 capital example | Stale, chhota |
+| `@ez2payofficel` `@atgpay_official` `@atgpay_go` `@ezpay_official2026` | dead ya &lt;200, team-leader | Ads nahi |
+| India CTA jo naya dikha | shortpay restricted, showx/wypay/spro pehle se DROP, atlas/indiap2p operators | Revive mat |
+
+**Suggestion:** 30 TON ke 8 change mat karo. Agli baar sirf woh public channel lo jisme post **500 / 1000 / 5000 USDT** ya **₹50k–₹1L** likhe aur members **1000+** hon. Clone, CS, aur 200-log wala official is list me nahi aata. WingsApp ka admin ek native post bech sakta hai; Telegram Ads uspe nahi chalegi.
 

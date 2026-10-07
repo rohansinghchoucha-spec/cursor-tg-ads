@@ -1931,6 +1931,51 @@
       "lane": "dest_clickbait",
       "note": "2026-10-03 1.1k/23 Show Pay 125rs dest, dead views."
     },
+    "wingsappxtradexsellxearn": {
+      "status": "WATCH",
+      "lane": "under_1000",
+      "note": "2026-10-07 WingsAPP official from quickcashwins lane. 197 subs, med~294, last 2026-09-05. Posts buy 500/1000/5000 USDT. Ticket matches floor. Ads needs 1000+. Admin post only, not the 30 TON set."
+    },
+    "bhaaratpay01": {
+      "status": "DROP",
+      "lane": "clone",
+      "note": "2026-10-07 7 subs, views 1. Copies bhaartpay ₹50k–₹1L post and links back to t.me/bhaartpay."
+    },
+    "ezpaygo": {
+      "status": "WATCH",
+      "lane": "under_500",
+      "note": "2026-10-07 1980/med325 live today. UPI order workers, 3.3% commission, rate 108, ₹5k–₹10k earn pitch. No 500 USDT floor. Do not fund."
+    },
+    "channelxwallet": {
+      "status": "DROP",
+      "lane": "stale_mule",
+      "note": "2026-10-07 494 subs, last 2026-07-06. New SIM + Aadhaar job, not a 500 seller desk."
+    },
+    "xwalletforxcoin": {
+      "status": "DROP",
+      "lane": "stale",
+      "note": "2026-10-07 890 subs, last 2025-08-20. ₹10,000 capital examples. Different xCoin product."
+    },
+    "ez2payofficel": {
+      "status": "DROP",
+      "lane": "dead",
+      "note": "2026-10-07 1330 subs, last 2025-08-28, posts auto-delete."
+    },
+    "atgpay_official": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-10-07 83 subs, last 2026-05-21, team deposit rewards."
+    },
+    "atgpay_go": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-10-07 97 subs, last 2026-07-22, team-leader incentive."
+    },
+    "ezpay_official2026": {
+      "status": "DROP",
+      "lane": "nano",
+      "note": "2026-10-07 173 subs, last 2026-09-30. Spro/UTrader mix, not an Ads target."
+    },
     "channelzippay": {
       "status": "DROP",
       "lane": "mule_recruit",
@@ -3632,5 +3677,13 @@
     ],
     "does_not_place_inside_private": ["Gram search keyword", "EUR topic/country user targeting"],
     "fund_unchanged": "30 TON plan in final_fund_2026_10_07"
+  },
+  "sister_hunt_2026_10_07": {
+    "method": "mentions of the 8 plus Telemetr brand catalog plus India ad CTAs",
+    "new_ads_channel": false,
+    "near_miss": "wingsappxtradexsellxearn 197 subs, 500/1000/5000 USDT posts, Ads-ineligible",
+    "clone": "bhaaratpay01 points back at bhaartpay",
+    "under_500_live": "ezpaygo",
+    "fund_unchanged": true
   }
 }

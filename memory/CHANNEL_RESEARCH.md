@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §72 `china pay best 8` delete. Do naye ads In Review, 20+20 TON. 500 floor hata.  
+**Last updated:** 2026-10-07 — §73 quality only. Mixed 20+20 delete. `quality holders` 22 TON + `quality sellers` 18 TON. In Review.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2784,4 +2784,35 @@ User: acche channel 500 ke naam pe mat chodo. Delete karke do set. Roz khulne wa
 Text dono: `We Buy USDT · UPI ₹118 · Bank ₹115 · Join for live rate`. Bacha **0.63**. Purani Stopped ads On nahi. Dest exclude Telegram ne khud lagaya.
 
 Bahar, jaan ke: `wallet_999pay` (26k, views ~1000, pehle budget khaya), mmoney bonus, Jay invite, agent bank-list / wb news, dead Alex/UPay/ShowPay/TrustPay/rotio, loots hijack, base 1 sub, Honeypay &lt;1k, Hub agents, WiseWay doosre desh, GNSPAY team salary. `mobiuspayofficial1` aur `linkpay888jack` duplicate, kam views.
+
+---
+
+## 73) 2026-10-07 — quality only. Faltu hata diya.
+
+User: research karke faltu hatao, sirf quality. Dono mixed ads delete. 40.00 wapas.
+
+Aaj ke posts:
+
+| Handle | Latest post | Quality? |
+|---|---|---|
+| `diwapay` | League ₹100–₹30,000 | Nahi. Chhota order |
+| `linkpay8` | Buy tokens, sales fast. Amount nahi | Nahi |
+| `DDpay9999` | Purchase order, wallet list. Amount nahi | Nahi |
+| `UMoney_Wallet_Official` | Recharge **93 USDT** se shuru | Nahi. Bada rung hai, crowd neeche se aata hai |
+| `MeteorpayEliteChannel00011` | Profit **100** se, 500/1000 bhi | Nahi. Headline chhota |
+| `ATGpay_iop` | Sirf support redirect | Nahi |
+| `mobiuspe0` | Ab “orders fast” + team salary. 1000+ line **17 Sep** | Nahi, abhi |
+| `quickcashwins` | 26 Sep, app LetPay pe shift | Nahi. Channel khud chhod raha hai |
+| `linkxwalletnow` | 7-day volume **10k–60k+ USDT** | **Haan** |
+| `atgofficiale` | Deposit **1,000–20,000 USDT** | **Haan** |
+| `TF_Exchange` | Aaj rate, upar **$1,000–$4,000** | **Haan.** $50 slab bhi hai, ad me Min 500 |
+| `bhaartpay` | Aaj **₹50,000–₹1,00,000** sale | **Haan.** Views ~391 |
+| `quickpayoffical1` | Aaj single deposit **1,000–2,500 USDT**. Saath me quota-earn post | **Haan**, thoda mix |
+
+| Ad | TON | CPM | Channels | Status |
+|---|---|---|---|---|
+| `quality holders` | **22** | 5.00 | `linkxwalletnow` `atgofficiale` | In Review |
+| `quality sellers` | **18** | 5.00 | `TF_Exchange` `bhaartpay` `quickpayoffical1` | In Review |
+
+Text: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Bacha **0.63**. Purani Stopped On nahi.
 

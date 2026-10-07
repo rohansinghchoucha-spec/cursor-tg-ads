@@ -2811,8 +2811,10 @@ Aaj ke posts:
 
 | Ad | TON | CPM | Channels | Status |
 |---|---|---|---|---|
-| `quality holders` | **22** | 5.00 | `linkxwalletnow` `atgofficiale` | In Review |
-| `quality sellers` | **18** | 5.00 | `TF_Exchange` `bhaartpay` `quickpayoffical1` | In Review |
+| `quality holders` | **22** | 5.00 | `linkxwalletnow` `atgofficiale` | **Active** 22:05 ke baad review pass. 0 views |
+| `quality sellers` | **18** | 5.00 | `TF_Exchange` `bhaartpay` `quickpayoffical1` | **Active** 22:05 ke baad review pass. 0 views |
+
+Final: inhe delete mat karo. Dobara banane se review reset hota hai. Purani Stopped ads On nahi.
 
 Text: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Bacha **0.63**. Purani Stopped On nahi.
 

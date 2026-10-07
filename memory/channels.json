@@ -3745,8 +3745,9 @@
     "deleted": ["daily big desks", "daily seller desks"],
     "reason": "Posts showed small-order workers, support redirects, or an app telling users to leave",
     "removed": ["diwapay", "linkpay8", "DDpay9999", "UMoney_Wallet_Official", "MeteorpayEliteChannel00011", "ATGpay_iop", "mobiuspe0", "quickcashwins"],
-    "quality_holders": {"ton": 22, "cpm": 5.0, "status": "In Review", "channels": ["linkxwalletnow", "atgofficiale"]},
-    "quality_sellers": {"ton": 18, "cpm": 5.0, "status": "In Review", "channels": ["TF_Exchange", "bhaartpay", "quickpayoffical1"]},
+    "quality_holders": {"ton": 22, "cpm": 5.0, "status": "Active", "channels": ["linkxwalletnow", "atgofficiale"]},
+    "quality_sellers": {"ton": 18, "cpm": 5.0, "status": "Active", "channels": ["TF_Exchange", "bhaartpay", "quickpayoffical1"]},
+    "final_note": "Left running after review passed. Do not delete and recreate. Old ads stay Stopped.",
     "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
     "balance_left_ton": 0.63
   }

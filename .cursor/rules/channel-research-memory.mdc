@@ -1,0 +1,19 @@
+---
+description: Always load Telegram channel research memory before any ads targeting advice
+alwaysApply: true
+---
+
+# Channel research memory (mandatory)
+
+Har chat session me, Telegram Ads / channel targeting se pehle ye padho:
+
+- `memory/CHANNEL_RESEARCH.md`
+- `memory/channels.json`
+- `AGENTS.md`
+
+Ye files long-term memory hain (recommend→drop history, current 8-set, next expansion, DROP lists).
+
+Rules:
+- `DROP` / `DEAD` / `BLOCK` channels ko bina fresh live audit ke wapas mat recommend karo.
+- Nayi research ya campaign result aaye to memory files same turn me update + commit karo.
+- Audience = Indian USDT sellers; famous crypto education lane already fail — mat dohrao.

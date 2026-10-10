@@ -3748,6 +3748,17 @@
     "quality_holders": {"ton": 22, "cpm": 5.0, "status": "Active", "channels": ["linkxwalletnow", "atgofficiale"]},
     "quality_sellers": {"ton": 18, "cpm": 5.0, "status": "Active", "channels": ["TF_Exchange", "bhaartpay", "quickpayoffical1"]},
     "final_note": "Left running after review passed. Do not delete and recreate. Old ads stay Stopped.",
+    "dm_followup_2026_10_10": {
+      "account": "@BussinessMen0",
+      "only": "private chats",
+      "skip": ["bots", "channels", "groups", "telegram service", "chats whose last message is today IST"],
+      "skipped_today": ["Only_me", "A.j", "Kkm"],
+      "queue": 174,
+      "order": "oldest first, 2026-07-26 to 2026-10-09",
+      "pace_sec": "45-70",
+      "stop_on": "flood or too many requests",
+      "texts_rotate": true
+    }
     "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
     "balance_left_ton": 0.63
   }

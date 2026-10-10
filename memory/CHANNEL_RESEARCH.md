@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-07 — §73 quality only. Mixed 20+20 delete. `quality holders` 22 TON + `quality sellers` 18 TON. In Review.  
+**Last updated:** 2026-10-10 — §74 private follow-up chal raha hai. Ads §73 Active.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2817,4 +2817,21 @@ Aaj ke posts:
 Final: inhe delete mat karo. Dobara banane se review reset hota hai. Purani Stopped ads On nahi.
 
 Text: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Bacha **0.63**. Purani Stopped On nahi.
+
+---
+
+## 74) 2026-10-10 — private follow-up, aaj ki chats chhod ke
+
+Telegram Web login: Rohan Singh `@BussinessMen0`. Sirf **private chat**. Channel, group, bot, Telegram service, deleted account — nahi.
+
+| | Count |
+|---|---|
+| Dialogs | 197 |
+| Bots | 7 skip |
+| Channels | 7 skip |
+| Groups | 1 skip |
+| Aaj IST skip | 3 — `Only_me` `A.j` `Kkm` |
+| Bhejne hain, purani se nayi | **174** (26 Jul → 9 Oct) |
+
+Line badalti hai (`Sir, do you want to sell USDT?` aur amount wale variants). Gap 45–70 sec. Flood / too many pe rukna, dobara blast nahi. Aaj wali 3 ko mat chhedna.
 

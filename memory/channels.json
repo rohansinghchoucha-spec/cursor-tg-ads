@@ -3757,7 +3757,9 @@
       "order": "oldest first, 2026-07-26 to 2026-10-09",
       "pace_sec": "45-70",
       "stop_on": "flood or too many requests",
-      "texts_rotate": true
+      "texts_rotate": true,
+      "completed_utc": "2026-10-10",
+      "result": "174/174 private chats messaged; today 3 skipped"
     },
     "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
     "balance_left_ton": 0.63

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-10 — §74 private follow-up chal raha hai. Ads §73 Active.  
+**Last updated:** 2026-10-13 — §75 Rohan ne quality-ad ke 5 channels join kar liye. Ads §73 Active.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2834,4 +2834,22 @@ Telegram Web login: Rohan Singh `@BussinessMen0`. Sirf **private chat**. Channel
 | Bhejne hain, purani se nayi | **174** (26 Jul → 9 Oct) |
 
 Line badalti hai (`Sir, do you want to sell USDT?` aur amount wale variants). Gap 42–68 sec. **Runner:** `tools/tg_dm_followup_loop.sh` + `tools/tg_dm_followup_runner.py` in tmux `tg-followup` — loop until `DONE`, flood = 30 min pause then continue, network errors retry. Timer watch every 15 min. Flood / too many pe rukna, dobara blast nahi. Aaj wali 3 ko mat chhedna.
+
+---
+
+## 75) 2026-10-13 — Rohan account ne ad channels join kiye
+
+User: abhi wale ads se acche clients aa rahe. Dekhna hai kaunse channel se.
+
+Telegram Web login `@BussinessMen0`. Quality ads ke 5 public channels join ho gaye (`left` pehle true, ab false):
+
+| Handle | Title |
+|---|---|
+| `linkxwalletnow` | xWallet Official Channel \| USDT-INR Payment |
+| `atgofficiale` | ATG Exchange official |
+| `TF_Exchange` | TF Exchange |
+| `bhaartpay` | Bhaaratpay |
+| `quickpayoffical1` | Quick pay offical |
+
+Ads UI per-channel joins nahi deta. Source pata karne ka seedha rasta: DM me poochho ad kis channel pe dikha. Channel join se feed aur vibe dikhega, exact attribution nahi.
 

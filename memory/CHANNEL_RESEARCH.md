@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-13 — §75 Rohan ne quality-ad ke 5 channels join kar liye. Ads §73 Active.  
+**Last updated:** 2026-10-13 — §76 next-level hunt. Quality 5 (§73) same. Naya add sirf `zkpay108`, alag chhoti ad, top-up ke baad.  
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2852,4 +2852,84 @@ Telegram Web login `@BussinessMen0`. Quality ads ke 5 public channels join ho ga
 | `quickpayoffical1` | Quick pay offical |
 
 Ads UI per-channel joins nahi deta. Source pata karne ka seedha rasta: DM me poochho ad kis channel pe dikha. Channel join se feed aur vibe dikhega, exact attribution nahi.
+
+---
+
+## 76) 2026-10-13 — tareeka poora, phir naya hunt. Quality 5 mat hatao.
+
+User: jo tareeke memory me lock hain, paid aur free, kuch miss mat karo. Abhi wale 5 sahi hain. Unke jaisa aur chahiye — India me jo USDT bech rahe hain, China apps, Telegram apps, gaming cash-out. Nayi ad submit nahi hui. Ads 28 aur 29 ko chheda nahi.
+
+### Tareeka, best se weak (yahi lock hai)
+
+Purana §19 placement-mining ko #1 manta tha. Baad ki campaigns ne woh ulta kar diya: “ad kahan dikhi” wali list loot, matka, wallpaper, education hoti hai. Budget wahan gaya, seller nahi. Ab pehle **unke ad ka CTA** dekho, phir live post.
+
+| Rank | Tareeka | Free / paid | Kya milta hai | Kya nahi milta |
+|---|---|---|---|---|
+| 1 | Competitor creative → CTA destination | **Free:** `https://telemetr.com/api/v1/ads?q=&geo=IN` plan ANON, maxOffset 100, key nahi. CLI `tools/spy_pro.py` tabhi jab `TGADSSPY_API_KEY` ho | Jo desk abhi India me “USDT rate / CDM / UPI” ka ad chala raha hai, uska **destination** `@handle` | Jis channel par woh ad **dikhai** gayi. Woh placement list mat churao |
+| 2 | Official app catalog | **Free:** `python3 tools/telemetr_search.py <brand>` — `telemetr.com/api/v1/channels`, ANON, 20×offset 100 | Diwa / Link / ZK / Meteor / ATG / xWallet / GNS / Shark / Hoyo ke public handles, `isSponsoredEligible`, members, avg views | Private group, bot, 1000 se kam |
+| 3 | Mention snowball | **Free:** `python3 tools/discover_mentions.py <seed>` — `t.me/s` ke `@` aur `t.me/` | Sister official channel jo keyword search me nahi aata | Zyadatar CS / user / bot. Unhe Ads me mat daalo |
+| 4 | Live judge | **Free:** `python3 tools/tg_audit.py <handle>` — `t.me/s` | Subs, median views, last post, copy | Groups aur restricted preview khali aate hain. Woh Ads inventory nahi |
+| 5 | Web / Reddit / TGStat | Free page, **TGStat paid token** | Strategy: seller exchange app aur private OTC group me baithta hai | India TGStat top = education / signals. Seller desk us list me nahi |
+
+**Paid jo is VM pe nahi hai, aur kharidne se naya whale class nahi khulta:**
+
+- TGAdsSpy PRO / Telemetr Advanced — deep page + Ads Index. Expire ~2026-10-02. ANON se yahi archive milta hai, sirf paging chhoti hai.
+- Telemetr **buy-map Enterprise $499** — “yeh ad kin channels par chali”. Wahi placement shelf jo pehle waste hua. Mat kharido jab tak CTA-dest hunt khatam na ho.
+- TGStat Search API (RUB) — India catalog education-heavy. Cloud IP aksar 403.
+- Telega.in / Tagio — admin ko pay karke **normal post**. Telegram Ads target nahi. Private `t.me/+` isi tarah becha jata hai, hamare Gram cabinet se nahi.
+- `telegram_ads_mcp` — ads.telegram.org chalata hai. Channel dhundhta nahi.
+- Telemetr.me MCP — alag product, buy-map nahi.
+- Lyzem / `tools/tg_discover.py` — weak, galat geo.
+
+**Ads rule (official):** target sirf public channel, 1000+ subscribers, `t.me/username`. Group, bot, private invite, search-keyword is 5 ke saath mat milao. Random scraper mat lagao.
+
+**Judge, har handle pe:** last post ~7 din, median views members ke against zinda, copy = USDT sell / UPI rate / app deposit. Invite-bonus, PhonePe-unblock, bank-account / MQR recruit, tip / matka / lottery, forex calls, flash USDT = bahar. DROP / DEAD / BLOCK bina is live audit ke wapas nahi.
+
+### Aaj kya chala
+
+1. India ads ANON: `USDT` (140), `sell USDT`, `CDM`, `INR`, phir `gaming` `fund` `UPI` `deposit` `rate` `paisa` `gns` `shark`. “we buy” / “china” / brand-name ads = 0.
+2. Catalog 36 brands, 427 unique handles. Eligible + 800+ members nikal ke live audit.
+3. Snowball: quality 5 + `diwapay` + `zkpay108` + Meteor / Gold / Hoyo / GNS / QDD. Naye official channel ke bajaye CS aur user nikle (`zkpay168` `zkpay002` `zkpay1` preview khali).
+4. `t.me/s` ~40 handles.
+
+Gaming archive ka asli chehra: Kalyan / satta / TigerExch ID / matka / rummy / loot. Log wahan **bet lagate** hain. Jo USDT nikal ke bechta hai, woh in tip channels me nahi — woh China-pay / gaming-fund **app channel** me baithta hai (xWallet, ATG, ZK, Meteor, Diwa, Link). OTP-work aur “Indian bank account chahiye” wale groups Ads-eligible hi nahi (`isSponsoredEligible` false).
+
+### Quality 5 — rehne do
+
+`linkxwalletnow` `atgofficiale` `TF_Exchange` `bhaartpay` `quickpayoffical1`. Inhe is hunt me replace nahi kiya. Ads 28 / 29 Active. Text, budget, dest mat chhedo.
+
+### Agla add (naya ad, top-up ke baad). In 5 me mat ghusao
+
+| Order | Handle | Live 2026-10-13 | Kyun |
+|---|---|---|---|
+| 1 | `zkpay108` | 4.95k, median views **4740**, last **7 Oct**. Title “ZKpay INR USDT SELL”. Desc: green **gaming fund** exchange, INR ya USDT. Posts: UPI match, bada deposit, Paytm upgrade, withdrawal speed | Isi shelf ka sabse garam **unused** public channel. Readers hain. Ticket post me 10k–60k USDT likha nahi — app worker / depositor hai, xWallet jaisa whale prove nahi. Isliye quality ad me mat milao. Alag chhoti test, CPM 5, jab TON aaye |
+| 2 | `tamilp2pusdt` | 2.96k, median **234**, last **aaj**. Posts: **$500 / $850 / $1000 / $1500** community sale, DM `@VIGNESH677` | Seedha seller, China-app nahi. Views patle, delivery kam hogi. Alag patli test, quality ad me nahi |
+
+`cryptoto_inr` ab third nahi. Aaj “Buying usdt **100$**” rate 102, advance-payment warning, latest views **54**. Buyer desk, chhota ticket, padhne wala gir raha hai.
+
+### Dekha, rakha nahi
+
+| Handle | Live | Kyun bahar |
+|---|---|---|
+| `MeteorpayEliteChannel00011` | 9.44k / med 1050 / **aaj** | USDT ladder 100–1000 (₹5 vs Binance) **aur** aaj “assistant ₹150, no investment”. Mix earn. Quality ke barabar nahi |
+| `bedane_official` | 1.73k / med 1640 / 28 Sep | OTC app, “USDT balance rakho, UPI receive”. Last post **USDT deduct** dispute. Risk wahi |
+| `hoyopay` | 1.94k / med 2450 / **23 Sep** | Views garam, post 20 din purana. “Deposit karo, token becho”. Amount 500 nahi |
+| `honepay118` | live **850** / med 1780 / 7 Oct | Chinese gateway, merchant / card-dealer hire. Retail seller nahi. 1000 se kam, Ads reject |
+| `pay0000012` | 1.44k / med 1300 / 11 Oct | ALLpay: Indian **bank account** + USDT reseller B2B. Mule-lean. Refill mat |
+| `gns_upi` | 2.25k / med 184 / 5 Oct | MQR account mangta hai + 4% side hustle. Views mare |
+| `goldpay666888` | 4.19k / med 708 / **12 Mar** | Ab bhi bank+MQR recruit. Stale DROP same |
+| `goldpay88866699` | preview nahi | Ads target nahi |
+| `tatapay_acc` | 2.45k / med 949 / 26 Sep | SharkPay “payin/payout accounts chahiye”. Mule |
+| `rswalletearnings` | 1.26k / med 131 / aaj | Rate 108.5, order-bonus. Latest view 38 |
+| `cryptopay06` | 2.46k / med **61** / aaj | 10,000 USDT bonus copy, padhne wala nahi. DROP same |
+| `teampaisabase` | 1k / med **5** | Order-task. Mara hua |
+| `qddpay_1` | 1.01k / med 730 / 5 Oct | WeChat China channels. India USDT seller nahi |
+| `safepay_gf` | 1.18k / med 3000 / 27 Sep | Bangladesh Nagad/bKash gateway |
+| `indiap2pprocessing` | 903 | Operator education, bank-freeze. 1000 se kam |
+| `Lets_pay` | 478 | Kyiv / Barcelona cash. India nahi |
+| `glpay21` `vvipezpayofficialchannel` `channelxwallet` | 53 / 284 / 490 | 1000 se kam. xWallet clone last July + Aadhaar job |
+| `uniquechinesemarket` `paisabase_official` `flamepay_ipay` `officialbhaaratpay` `exchange_tf` `crypto_sell_usdt` `zkpay168` `zkpay002` `zkpay1` `atgpay0` `zkpay_umoney` `toppay_official` | preview khali | Group / user / restricted. Ads nahi |
+| India `gaming` `fund` `paisa` creatives | Kalyan, satta, Tiger book, Nifty calls, Flipkart loot | Tip aur education. Pehle wali fail lane |
+
+**Seedha:** India ka USDT seller ab bhi teen ghar me hai — exchange app (Ads pe news), private OTC group (gun nahi chalti), aur China-pay / gaming-app channel (yahi convert hua). Naya public whale is hunt me nahi mila. Agli TON `zkpay108` pe alag test. Quality 5 chalti rahe. Stopped ads On mat karo. Balance ~0.63, bina top-up nayi ad nahi chalegi.
 

@@ -142,9 +142,9 @@
       "note": "They SELL USDT at 99-100 to buyers; 78d stale — not our sellers"
     },
     "hoyopay": {
-      "status": "IN_REVIEW",
+      "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-09-04 ad 23 china wave2 8 In Review."
+      "note": "2026-10-13 live 1.94k/med 2450 but last post 23 Sep. Token-sell, no 500 amount. Stale. Do not refill."
     },
     "hoyopay_offical": {
       "status": "WATCH",
@@ -689,12 +689,12 @@
     "goldpay666888": {
       "status": "DROP",
       "lane": "gaming_fund_stale",
-      "note": "161d stale — skip until revived"
+      "note": "2026-10-13 still last post 12 Mar, bank+MQR recruit. DROP stands."
     },
     "MeteorpayEliteChannel00011": {
-      "status": "RUNNING_TEST",
+      "status": "WATCH",
       "lane": "china_pay_agent",
-      "note": "2026-08-21 Ad B china apps 10 — In Review"
+      "note": "2026-10-13 live 9.44k/med 1050/today. USDT ladder 100-1000 plus assistant hiring at 150 INR. Mixed. Not a quality add."
     },
     "rhinopaymentchannel666666": {
       "status": "DROP",
@@ -809,7 +809,7 @@
     "bedane_official": {
       "status": "WATCH",
       "lane": "otc_dukhdha",
-      "note": "2026-10-03 1.7k/1600/5d live OTC but USDT-deduct dispute. Risky WATCH, not next TEST."
+      "note": "2026-10-13 live 1.73k/med 1640/last 28 Sep. Still the USDT-deduct dispute. Not next."
     },
     "mobiuspe0": {
       "status": "RUNNING_TEST",
@@ -834,7 +834,7 @@
     "cryptoto_inr": {
       "status": "WATCH",
       "lane": "p2p_board",
-      "note": "2026-10-03 3.6k/282/1d buyer-board urgent need. Thin optional 3rd after zkpay108+tamilp2pusdt."
+      "note": "2026-10-13 live 3.16k/med 602 but latest views 54. Posts are Buying 100 USDT at 102. Not the third test."
     },
     "network_public": {
       "status": "WATCH",
@@ -1049,7 +1049,7 @@
     "pay0000012": {
       "status": "RUNNING_TEST",
       "lane": "allpay_agent_mqr",
-      "note": "HOLD agent-10. 2026-09-03 JK Bank deposit recruit. Do not refill."
+      "note": "2026-10-13 live 1.44k/med 1300/11 Oct. Still Indian bank-account recruit plus USDT reseller B2B. Do not refill."
     },
     "DracoDeall": {
       "status": "WATCH",
@@ -1112,9 +1112,9 @@
       "note": "209d stale med~147"
     },
     "honepay118": {
-      "status": "IN_REVIEW",
+      "status": "DROP",
       "lane": "gaming_fund",
-      "note": "2026-09-04 ad 24 china wave3 desks In Review. Not in running 16 / wave2."
+      "note": "2026-10-13 live 850 subs, med 1780, last 7 Oct. Chinese gateway hiring merchants. Under 1k and not retail sellers. Do not target."
     },
     "win777vip9": {
       "status": "DROP",
@@ -1219,7 +1219,7 @@
     "tatapay_acc": {
       "status": "DROP",
       "lane": "mule_recruit",
-      "note": "2026-10-03 SharkPay 2.5k/941/7d — gateway needs Indian accounts. Mule-lean."
+      "note": "2026-10-13 live 2.45k/med 949/last 26 Sep. Still payin/payout account recruit. Mule. DROP stands."
     },
     "rspay6": {
       "status": "WATCH",
@@ -1344,7 +1344,7 @@
     "gns_upi": {
       "status": "WATCH",
       "lane": "weak",
-      "note": "2.4k/143 weak"
+      "note": "2026-10-13 live 2.25k/med 184/5 Oct. MQR account recruit plus 4% side hustle. Do not target."
     },
     "best_deals888": {
       "status": "DROP",
@@ -1554,7 +1554,7 @@
     "zkpay108": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-10-03 HOTTEST unused 4.9k/4690/0d USDT sell. Sister of running t_zkpay_999pay. Next TEST #1 after china-pay drip."
+      "note": "2026-10-13 live 4.95k/med 4740/last 7 Oct. ZKpay INR USDT SELL, green gaming-fund. Next add as its own small ad after top-up. Do not edit quality ads 28/29. Ticket not proven 10k-60k."
     },
     "showpayfamily": {
       "status": "WATCH",
@@ -1764,7 +1764,7 @@
     "tamilp2pusdt": {
       "status": "WATCH",
       "lane": "otc_p2p",
-      "note": "2026-10-03 still live 3.0k/222/0d USDT SELL ALERT holders. Next TEST #2 different lane (not china-app)."
+      "note": "2026-10-13 live 2.96k/med 234/today. Real $500-1500 sale posts. Thin second test, separate from quality 5 and from zkpay108."
     },
     "rogen_0": {
       "status": "DROP",
@@ -3764,5 +3764,17 @@
     "joined_as_rohan_2026_10_13": ["linkxwalletnow", "atgofficiale", "TF_Exchange", "bhaartpay", "quickpayoffical1"],
     "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
     "balance_left_ton": 0.63
+  },
+  "hunt_2026_10_13": {
+    "quality_5_unchanged": ["linkxwalletnow", "atgofficiale", "TF_Exchange", "bhaartpay", "quickpayoffical1"],
+    "ads_not_edited": [28, 29],
+    "methods": ["telemetr ANON ads geo IN", "telemetr channel catalog", "mention snowball", "t.me/s audit"],
+    "paid_not_on_vm": ["TGAdsSpy PRO", "Telemetr Advanced", "buy-map Enterprise 499", "TGStat token"],
+    "next_add_own_ad": ["zkpay108"],
+    "thin_second_test": ["tamilp2pusdt"],
+    "not_third": "cryptoto_inr",
+    "seen_not_added": ["MeteorpayEliteChannel00011", "bedane_official", "hoyopay", "honepay118", "pay0000012", "gns_upi", "goldpay666888", "tatapay_acc", "rswalletearnings", "cryptopay06", "teampaisabase", "qddpay_1", "safepay_gf"],
+    "gaming_tip_channels": "DROP. Cash-out sits in the app channels, not matka or Tiger book IDs.",
+    "new_whale": false
   }
 }

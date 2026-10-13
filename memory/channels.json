@@ -2040,6 +2040,46 @@
       "status": "DROP",
       "lane": "inflated_earn",
       "note": "2026-10-03 Incoin Pay 123k/69k Paytm 3% withdraw bonus — mega earn, not sellers."
+    },
+    "india_1trade": {
+      "status": "DROP",
+      "lane": "payment_agent",
+      "note": "2026-10-13 fresh live audit: 3.24k/med 5210/last 6 Oct. Payment-agent onboarding plus Bangladesh bKash/Nagad teams; no 500+ USDT seller ticket."
+    },
+    "mangopay17": {
+      "status": "DROP",
+      "lane": "stale_rs_wallet",
+      "note": "2026-10-13 fresh live audit: 1.07k/med 1310 but last post 2 Apr. Old RS Wallet 103 INR/USDT copy; fails 7-day freshness."
+    },
+    "qeelinpay0": {
+      "status": "DROP",
+      "lane": "earn_task",
+      "note": "2026-10-13 fresh live audit: 1.94k/med 478/last 24 Sep. MahaLabhPay registration reward, order commission and Level-2 salary; no USDT seller intent."
+    },
+    "baihupayment8": {
+      "status": "DROP",
+      "lane": "mule_recruit",
+      "note": "2026-10-13 fresh live audit: live preview has only 6 members, last 23 Aug, bank/MQR recruit."
+    },
+    "soulpay111": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-10-13 catalog looked like India game fund, but t.me/s is private/no preview. Not Ads inventory."
+    },
+    "kubarcommunity": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-10-13 web found old USDT-sell creative, but t.me/s is private/no preview. Not Ads inventory."
+    },
+    "fastusdtclaimpayment": {
+      "status": "DROP",
+      "lane": "stale_claim_bot",
+      "note": "2026-10-13 fresh live audit: 15.2k/med 18.9k but last post Sep 2022; claim-bot payment proofs, not India sellers."
+    },
+    "TIRANGAVIP2779157": {
+      "status": "DROP",
+      "lane": "gaming_promo",
+      "note": "2026-10-13 fresh live audit: 1.71k/med 327 but last Aug; gaming spin/deposit bonus, not USDT cash-out sellers."
     }
   },
   "competitors_to_spy": [
@@ -3776,5 +3816,25 @@
     "seen_not_added": ["MeteorpayEliteChannel00011", "bedane_official", "hoyopay", "honepay118", "pay0000012", "gns_upi", "goldpay666888", "tatapay_acc", "rswalletearnings", "cryptopay06", "teampaisabase", "qddpay_1", "safepay_gf"],
     "gaming_tip_channels": "DROP. Cash-out sits in the app channels, not matka or Tiger book IDs.",
     "new_whale": false
+  },
+  "prompt_deep_run_2026_10_13": {
+    "result": "no new Ads channel",
+    "ads_not_edited": [28, 29],
+    "coverage": {
+      "ads_archive": "25 India queries, offsets 0-100",
+      "catalog": "27 generic phrases, 450 unique handles",
+      "web": "three exact site:t.me/s searches",
+      "live_audit": true
+    },
+    "closest_misses": {
+      "india_1trade": "Public, 3.24k/med 5210/6 Oct, but payment-agent onboarding; no USDT seller ticket.",
+      "mangopay17": "Public, 1.07k/med 1310, but last 2 Apr.",
+      "qeelinpay0": "Public, 1.94k/med 478/24 Sep, but task/reward lane and no seller intent."
+    },
+    "decision_unchanged": {
+      "quality_5": ["linkxwalletnow", "atgofficiale", "TF_Exchange", "bhaartpay", "quickpayoffical1"],
+      "next_test": "zkpay108",
+      "thin_second": "tamilp2pusdt"
+    }
   }
 }

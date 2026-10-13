@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-13 — §76 next-level hunt. Quality 5 (§73) same. Naya add sirf `zkpay108`, alag chhoti ad, top-up ke baad.  
+**Last updated:** 2026-10-13 — §77 fresh prompt run: no new Ads channel. Quality 5 (§73) same; next `zkpay108`.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2932,4 +2932,31 @@ Gaming archive ka asli chehra: Kalyan / satta / TigerExch ID / matka / rummy / l
 | India `gaming` `fund` `paisa` creatives | Kalyan, satta, Tiger book, Nifty calls, Flipkart loot | Tip aur education. Pehle wali fail lane |
 
 **Seedha:** India ka USDT seller ab bhi teen ghar me hai — exchange app (Ads pe news), private OTC group (gun nahi chalti), aur China-pay / gaming-app channel (yahi convert hua). Naya public whale is hunt me nahi mila. Agli TON `zkpay108` pe alag test. Quality 5 chalti rahe. Stopped ads On mat karo. Balance ~0.63, bina top-up nayi ad nahi chalegi.
+
+---
+
+## 77) 2026-10-13 — prompt ka fresh deep run. Unused offsets + generic catalog + web.
+
+User ne §76 wala prompt as task diya. Ads 28/29 ko nahi chheda. Quality 5 aur queued `zkpay108` / `tamilp2pusdt` ko new find nahi gina.
+
+### Coverage
+
+- Telemetr India ads archive ke offsets 0–100: `USDT`, `INR`, `UPI`, `deposit`, `gaming`, `fund`, `rate`, `payment`, `wallet`, `exchange`, `seller`, `cashout`, `withdraw`, `P2P`, `OTC`, `TRC20`, `Bank`, `500 USDT`, `1000 USDT`, `sell crypto`, `sell token`, `USDT India`, `USDT sell`, `USDT rate`.
+- Generic channel catalog: 27 phrases, **450 unique handles**. Memory me absent, 800+ members = 92; Ads-eligible seller-like survivors live-audited.
+- Web exact phrases: `site:t.me/s "1000 USDT" "INR"`, `"5000 USDT" "UPI"`, `"USDT SELL" "gaming fund" India`.
+- Web ne purane Diwa/Meteor/Loots/ATG, WazirX aur queued Tamil hi nikale. `@atg_india` search snippet purana tha; live handle ab 2-member Russian arbitrage hijack hai. DROP stands.
+
+### Result: no new Ads channel
+
+Koi absent handle chaaron gate pass nahi karta: public channel, 1000+, last ≤7d, live post me 500+ USDT seller/deposit intent.
+
+| Closest fresh miss | Live audit | Failed rule |
+|---|---|---|
+| `@india_1trade` | 3.24k, median views **5210**, last **6 Oct** | Public aur zinda, lekin P2P **payment-agent onboarding**. Post: “interested in working with us… onboarding instructions”; Bangladesh bKash/Nagad teams. USDT seller/deposit ticket nahi |
+| `@mangopay17` | 1.07k, median **1310**, last **2 Apr** | Purane RS Wallet post me `1 USDT = 103 INR`, lekin 6+ mahine stale. Fail ≤7d |
+| `@qeelinpay0` | 1.94k, median **478**, last **24 Sep** | Stale; latest MahaLabhPay ₹300 registration, order commissions, Level-2 salary. USDT seller intent nahi |
+
+Baaki fresh names aur bhi clear fail: `@soulpay111` / `@kubarcommunity` / seller-name handles preview restricted; `@baihupayment8` live sirf **6 members** + bank/MQR recruit; `@fastusdtclaimpayment` last 2022; `@TIRANGAVIP2779157` gaming deposit, last Aug; `@Parkson_Official_Channel` / `@Parkson_Trx` preview empty.
+
+**Decision unchanged:** quality 5 chalne do. Agla independent test `zkpay108`, uske baad thin `tamilp2pusdt`. Naya channel banane ke liye list pad mat karo.
 

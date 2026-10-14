@@ -4090,5 +4090,22 @@
     ],
     "not_ready": ["smartwallet_sw1", "profitvaultindia", "waho_official_channal_1", "prediction gaming channels"],
     "ads_not_created_here": "ads.telegram.org login is not on this machine"
+  },
+  "bulk_delivery_decision_2026_10_14": {
+    "problem": "Live ads Active but joins not coming. Low CPM loses the auction. Single thin channels cannot spend.",
+    "activation_chat": "bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d",
+    "do_not_repeat": ["CPM 0.30", "education channels CryptoPointHi PushpendraSinghOfficial cryptoamanclub", "one ad per thin channel"],
+    "leave_running": ["quality holders", "quality sellers"],
+    "raise_their_cpm_to": 7,
+    "new_ad": {
+      "name": "bulk delivery 5",
+      "cpm": 7,
+      "budget_ton": 30,
+      "channels": ["zkpay108", "acpayschannel", "MeteorpayEliteChannel00011", "smartwallet_sw1", "aagame"]
+    },
+    "checked_out": {
+      "profitvaultindia": "MQR and Paytm/GPay business account operators. Not a USDT seller channel.",
+      "tamilp2pusdt": "Real 500-1500 sales, median views 225, will not deliver inside a bulk ad."
+    }
   }
 }

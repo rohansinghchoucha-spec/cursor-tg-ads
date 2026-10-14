@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §82 new ads by category. Delete nothing. Five new ads to create after top-up.
+**Last updated:** 2026-10-14 — §83 delivery fix. One bulk ad at CPM 7. Do not repeat the activation-chat education plan.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3149,4 +3149,30 @@ Top-up ke baad **paanch naye ads**, har ek alag, CPM 5, wahi text, dest `t.me/sa
 | Direct P2P | `tamilp2pusdt` | 2.96k / med 225 / aaj | `$500`, `$1000`, `$1500` sale |
 
 Is round me bahar: `smartwallet_sw1` (USDT line nahi), `profitvaultindia` (MQR/account), `waho_official_channal_1` (WhatsApp invite rewards), color-prediction channels. Cabinet is machine pe nahi khula, isliye ads yahan se create nahi hue.
+
+---
+
+## 83) 2026-10-14 — joins nahi aa rahe. Ek bulk ad, CPM 7.
+
+User: kai din se ads chal rahe hain, response nahi. Jo bola tha woh laga chuka hai. CPM ki wajah se delivery nahi hui. Single channel ka fayda nahi. Bulk chahiye. CPM badha sakte hain. Activation-issue chat padho. `smartwallet_sw1` aur `profitvaultindia` final list me check karo.
+
+Activation chat (`bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d`) ka purana plan mat dohrao. Usme CPM 0.30 par Active ad ke **0 actions** the, jabki competitor CPM 8 par views aur joins le gaya. Us chat ne education channels (`CryptoPointHi`, `PushpendraSinghOfficial`, `cryptoamanclub`) lock kiye. Baad me woh lane DROP hui: views aate hain, USDT seller nahi. “1 ad = 1 channel” bhi usi pehle phase ka tha. Patle channel par akela ad auction jeet bhi le to roz kuch sau views se zyada nahi khata.
+
+### Solution
+
+Do quality ads delete mat karo. Unka CPM 5 se **7** karo, sirf tab jab edit se ad delete na ho. Naya paisa ek hi ad me.
+
+**Naya ad: `bulk delivery 5`.** CPM **7**. Budget **30 TON**. Text wahi: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Dest `t.me/safepathdeals`.
+
+| Handle | Views median | Is bulk me kyun |
+|---|---|---|
+| `zkpay108` | 4620 | Gaming-fund, aaj active, readers almost har post dekhte hain |
+| `acpayschannel` | 5250 | China-pay, USDT recharge page par hai |
+| `MeteorpayEliteChannel00011` | 1490 | Aaj 500 aur 1000 USDT profit post |
+| `smartwallet_sw1` | 11800 | Volume. 79k channel, log padh rahe hain. INR-order app, USDT amount is hafte likha nahi. Min 500 text filter karega |
+| `aagame` | 3940 | Gaming slot. Agent USDT withdrawal purane post me. Aaj gift code zyada hai, isliye bulk ka last channel |
+
+**Bahar:** `profitvaultindia` (1.2k / med 420). Post Paytm Business, GPay Business aur MQR mangta hai, working capital $500. Yeh USDT seller nahi, account operator hai. Agent ad pehle isi lane par mehnga aur galat nikla. `tamilp2pusdt` sale asli hai, median views 225. Bulk me yeh deliver nahi karega. `bhaartpay` pehle se quality ad me hai.
+
+Purani Stopped ads On nahi. Education channels wapas nahi. Cabinet yahan login nahi, ad create nahi hui.
 

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §87 cabinet live. Do Active ads. Free 0.63 TON. Naye do ads top-up ke baad.
+**Last updated:** 2026-10-14 — §88 ads create. Ad 30 clients In Review. Ad 31 try In Review. Free 0.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3333,4 +3333,21 @@ Top-up ke baad do naye ads. Inme se koi channel upar wali Active ads mein nahi h
 **Ad `bulk try 4`.** CPM 7. 20 TON. `smartwallet_sw1`, `aagame`, `swiftpay_official`, `ge8_payments_official`.
 
 Active ads ka CPM is login mein 5 se 7 nahi badla. Delete nahi hua.
+
+---
+
+## 88) 2026-10-14 — fund 32.63. Do naye ads lag gaye.
+
+User: fund add ho gaya. Repeat mat karo. Best lagao, try bhi.
+
+Free balance 32.63 thi. Purana plan 30+20 us balance se nahi banta. Best ko zyada diya: **22 TON**. Try ko **10 TON**. 0.63 account mein chhoda.
+
+Purani Active ads 28 aur 29 delete nahi, edit nahi, unke 5 channels naye ads mein nahi.
+
+| Ad | Status | CPM | Budget | Channels |
+|---|---|---|---|---|
+| 30 `bulk clients 3` | **In Review** | 7.00 | 22.00 | `zkpay108`, `acpayschannel`, `MeteorpayEliteChannel00011` |
+| 31 `bulk try 4` | **In Review** | 7.00 | 10.00 | `smartwallet_sw1`, `aagame`, `swiftpay_official`, `ge8_payments_official` |
+
+Text: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Dest `t.me/safepathdeals`. Dono se `safepathdeals` exclude hai. Active chuna tha. Telegram ne naye ads In Review kar diye. Approve ke baad spend hoga. Stopped ads On nahi ki. Free balance wapas **0.63**.
 

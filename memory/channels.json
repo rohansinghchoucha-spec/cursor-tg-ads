@@ -4272,5 +4272,17 @@
     ],
     "cpm_not_changed": true,
     "ads_not_created": "free balance 0.63 TON"
+  },
+  "ads_created_2026_10_14": {
+    "free_before": 32.63,
+    "free_after": 0.63,
+    "split_reason": "Added fund was 32 TON, not 50. Best got 22. Try got 10.",
+    "left_untouched": [28, 29],
+    "created": [
+      {"id": 30, "name": "bulk clients 3", "status": "In Review", "cpm": 7, "budget_ton": 22, "channels": ["zkpay108", "acpayschannel", "MeteorpayEliteChannel00011"]},
+      {"id": 31, "name": "bulk try 4", "status": "In Review", "cpm": 7, "budget_ton": 10, "channels": ["smartwallet_sw1", "aagame", "swiftpay_official", "ge8_payments_official"]}
+    ],
+    "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
+    "destination": "t.me/safepathdeals"
   }
 }

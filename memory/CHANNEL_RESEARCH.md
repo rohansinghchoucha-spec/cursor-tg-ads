@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §86. Client ad 3. Alag try ad 4. Elephant Ads-ineligible.
+**Last updated:** 2026-10-14 — §87 cabinet live. Do Active ads. Free 0.63 TON. Naye do ads top-up ke baad.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3308,4 +3308,29 @@ Wahi text, dest `t.me/safepathdeals`.
 | `INR_Exchange_USDT` | USDT sell line hai. Last post 5 Oct. Catalog ne is handle ko eligible list mein nahi diya |
 
 Cabinet yahan login nahi. Dono ads yahan se create nahi hui.
+
+---
+
+## 87) 2026-10-14 — cabinet khula. Lage hue yeh hain.
+
+Account Rohan Singh. Free balance **0.63 TON**. Naya 30 TON ad is balance se nahi banega. Purani Stopped ads On nahi ki.
+
+| Ad | Status | CPM | Bacha budget | Views | Clicks | Joins | Channels |
+|---|---|---|---|---|---|---|---|
+| 28 `quality holders` | **Active** | 5.00 | 4.04 | 3,593 | 297 | **62** | `linkxwalletnow`, `atgofficiale` |
+| 29 `quality sellers` | **Active** | 5.00 | 11.44 | 1,313 | 36 | **5** | `TF_Exchange`, `bhaartpay`, `quickpayoffical1` |
+
+Text dono par: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Dest `t.me/safepathdeals`.
+
+Stopped, budget 0, On mat karo: `china wave3 desks`, `china wave2 8`, `china apps 10`, `agent settlement 10`, `8 new china pay`, `8 channel testing`, `7`.
+
+### In 5 ke alava final naye
+
+Top-up ke baad do naye ads. Inme se koi channel upar wali Active ads mein nahi hai.
+
+**Ad `bulk clients 3`.** CPM 7. 30 TON. `zkpay108`, `acpayschannel`, `MeteorpayEliteChannel00011`.
+
+**Ad `bulk try 4`.** CPM 7. 20 TON. `smartwallet_sw1`, `aagame`, `swiftpay_official`, `ge8_payments_official`.
+
+Active ads ka CPM is login mein 5 se 7 nahi badla. Delete nahi hua.
 

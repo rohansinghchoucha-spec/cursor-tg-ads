@@ -4255,5 +4255,22 @@
       "INR_Exchange_USDT": "USDT sell line, last 5 Oct. Catalog did not return this handle as sponsored-eligible."
     },
     "ads_not_created_here": "ads.telegram.org is not logged in on this machine"
+  },
+  "live_cabinet_2026_10_14": {
+    "account": "Rohan Singh",
+    "free_ton": 0.63,
+    "active": [
+      {"id": 28, "name": "quality holders", "cpm": 5, "budget_left": 4.04, "views": 3593, "clicks": 297, "joins": 62, "channels": ["linkxwalletnow", "atgofficiale"]},
+      {"id": 29, "name": "quality sellers", "cpm": 5, "budget_left": 11.44, "views": 1313, "clicks": 36, "joins": 5, "channels": ["TF_Exchange", "bhaartpay", "quickpayoffical1"]}
+    ],
+    "stopped_budget_zero": ["china wave3 desks", "china wave2 8", "china apps 10", "agent settlement 10", "8 new china pay", "8 channel testing", "7"],
+    "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
+    "destination": "t.me/safepathdeals",
+    "new_after_topup": [
+      {"name": "bulk clients 3", "cpm": 7, "budget_ton": 30, "channels": ["zkpay108", "acpayschannel", "MeteorpayEliteChannel00011"]},
+      {"name": "bulk try 4", "cpm": 7, "budget_ton": 20, "channels": ["smartwallet_sw1", "aagame", "swiftpay_official", "ge8_payments_official"]}
+    ],
+    "cpm_not_changed": true,
+    "ads_not_created": "free balance 0.63 TON"
   }
 }

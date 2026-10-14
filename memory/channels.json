@@ -4230,5 +4230,30 @@
       "swiftpay_official": "9.32k/today. USDT rate promo, newest views 101 and 441."
     },
     "ads_not_created_here": "ads.telegram.org is not logged in on this machine"
+  },
+  "try_ad_2026_10_14": {
+    "why": "User asked to try the channels left out of the 3-channel client ad.",
+    "client_ad_unchanged": {
+      "name": "bulk clients 3",
+      "cpm": 7,
+      "budget_ton": 30,
+      "channels": ["zkpay108", "acpayschannel", "MeteorpayEliteChannel00011"]
+    },
+    "try_ad": {
+      "name": "bulk try 4",
+      "cpm": 7,
+      "budget_ton": 20,
+      "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
+      "destination": "t.me/safepathdeals",
+      "channels": ["smartwallet_sw1", "aagame", "swiftpay_official", "ge8_payments_official"]
+    },
+    "still_out": {
+      "tamilp2pusdt": "Real 1000 and 1500 sale. Median 219, latest view 16. The auction will not show the ad.",
+      "savingslandch": "13.4k/median 2230/today. Last 18 posts have no USDT. Readers add bank cards.",
+      "profitvaultindia": "Paytm, GPay, MQR, $500 capital. This agent lane already ran. Median 425.",
+      "ElephantPayOfficial": "USDT rate 111.18, last 5 Oct. Catalog isSponsoredEligible=false. Ads cannot target it.",
+      "INR_Exchange_USDT": "USDT sell line, last 5 Oct. Catalog did not return this handle as sponsored-eligible."
+    },
+    "ads_not_created_here": "ads.telegram.org is not logged in on this machine"
   }
 }

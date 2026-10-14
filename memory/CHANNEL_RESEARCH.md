@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §85 final client list. Naya ad sirf 3 channels. Quality ads delete mat karo.
+**Last updated:** 2026-10-14 — §86. Client ad 3. Alag try ad 4. Elephant Ads-ineligible.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3273,4 +3273,39 @@ CPM **7**. Budget **30 TON**. Text: `We Buy USDT · Min 500 USDT · UPI ₹118 �
 | Elephant Pay, `INR_Exchange_USDT` | last 5 Oct | Rate 111.18. 9 din purane |
 
 Cabinet is machine pe login nahi. Ad yahan se create nahi hui. Purani Stopped ads On nahi. Education channels wapas nahi.
+
+---
+
+## 86) 2026-10-14 — rejected list mein se try. Do ads.
+
+User: sirf 3 kyun. Aaj itne mile. In rejected par try karo: `smartwallet_sw1`, `aagame`, `tamilp2pusdt`, `ge8_payments_official`, `savingslandch`, `profitvaultindia`, `swiftpay_official`, Elephant Pay, `INR_Exchange_USDT`.
+
+Teen wala ad client ke liye hai. Try alag ad hai, taaki account/player joins client wale budget ko na kha jayein. Quality ads delete nahi. CPM 7.
+
+### Ad 1 — `bulk clients 3` — 30 TON
+
+`zkpay108`, `acpayschannel`, `MeteorpayEliteChannel00011`.
+
+### Ad 2 — `bulk try 4` — 20 TON
+
+Wahi text, dest `t.me/safepathdeals`.
+
+| Handle | Try kyun |
+|---|---|
+| `smartwallet_sw1` | 79.1k / med 11,900 / aaj. Ad dikhegi. Reader app agent hai. USDT amount is hafte nahi |
+| `aagame` | 240k / med 3,890 / aaj. Ad dikhegi. Aaj gift code hai. Purana agent USDT line alag post mein tha |
+| `swiftpay_official` | 9.32k / aaj. Page par USDT $110–$111 buy-sell hai. Naye posts 101 aur 441 views, isliye spend kam ho sakta hai |
+| `ge8_payments_official` | 1.91k / med 659 / 9 Oct. Settlement INR ya USDT, 700–1400 USDT. Post bank account bhi mangta hai. Join account-operator ho sakta hai |
+
+### Is try mein bhi nahi
+
+| Handle | Seedha wajah |
+|---|---|
+| `tamilp2pusdt` | Sale asli hai, $1,000 aur $1,500. Median 219, latest view 16. Auction is channel par ad dikhati hi nahi |
+| `savingslandch` | 13.4k / med 2,230 / aaj, ad dikhegi. Last 18 posts mein USDT nahi. Reader card de raha hai |
+| `profitvaultindia` | Paytm Business, GPay, MQR, $500. Yahi agent lane pehle chal chuki hai. Median 425 |
+| `ElephantPayOfficial` | USDT rate 111.18 page par hai. Catalog `isSponsoredEligible=false`. Ads is channel ko target karti hi nahi. Last post 5 Oct |
+| `INR_Exchange_USDT` | USDT sell line hai. Last post 5 Oct. Catalog ne is handle ko eligible list mein nahi diya |
+
+Cabinet yahan login nahi. Dono ads yahan se create nahi hui.
 

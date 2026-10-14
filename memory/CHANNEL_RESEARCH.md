@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §84 account buyer / gaming-payment hunt. Bulk delivery 5 same. `ge8_payments_official` saved, bulk me nahi.
+**Last updated:** 2026-10-14 — §85 final client list. Naya ad sirf 3 channels. Quality ads delete mat karo.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3228,4 +3228,49 @@ Groups, Ads gun nahi chalti: `dollar_exchanges` (Ishan Pay, USDT buyer + bank, 7
 Game-ID sellers (`bgmi_id_buy_sell_team` aur Free Fire/PUBG/Twitter account shops) is lane ke nahi. Wahan USDT payout ka post nahi dekha.
 
 **Seedha:** Account buyer/seller ka asli Telegram groups hai. Public channel jo aaj zinda hai (`savingslandch`) cards mangta hai, USDT nahi likhta. Jahan USDT likha hai (`ge8_payments_official`, Elephant/INR Exchange, Sunpay, DomiPay), wahan ya to account supply ka bonus hai, ya post 7 din se purana hai, ya channel 1k se chhota hai. Bulk delivery 5 mat badlo. `ge8_payments_official` ko alag tab sochna jab bulk ke bade channels spend kar chuke hon — akela ad is median par nahi chalega. Ads 28/29 nahi chhede. Cabinet yahan se nahi khula.
+
+---
+
+## 85) 2026-10-14 — final. Jitne best hain, utne. Clients wahi se aayenge.
+
+User: upar wali saari list dekho. Jo kaam ka sahi ho woh batao. Ads lagane hain. Final mein sirf woh channels jahan se clients aayen.
+
+Same-day live recheck, 14 Oct shaam. Do quality ads delete nahi. Unka CPM 5 se 7 karo, jab edit se ad delete na ho.
+
+### Pehle se chal rahe — yahi clients ka base
+
+| Ad | Handle | Abhi | Client kyun |
+|---|---|---|---|
+| quality holders | `linkxwalletnow` | 35.5k / med 1840 | USDT recharge, har 100 USDT par extra |
+| quality holders | `atgofficiale` | 4.18k / med 1670 | 1,000 se 20,000 USDT deposit bonus |
+| quality sellers | `TF_Exchange` | 5.06k / med 833 | CDM $1,600–$4,000 aur usse upar |
+| quality sellers | `quickpayoffical1` | 2.21k / med 844 | Deposit 500–5,000 USDT |
+| quality sellers | `bhaartpay` | 2.81k / med 377 | Rate ₹109 ab bhi page par. Extra budget is channel ke liye alag mat do |
+
+### Naya ad: `bulk clients 3`
+
+CPM **7**. Budget **30 TON**. Text: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Dest `t.me/safepathdeals`.
+
+§83 ka `bulk delivery 5` hata ke yeh lagao. `smartwallet_sw1` aur `aagame` is ad se bahar.
+
+| Handle | Live recheck | Client kyun |
+|---|---|---|
+| `zkpay108` | 4.95k / med **4630** / aaj 04:21 UTC. Title ZKpay INR USDT SELL | Readers UPI se orders aur badi deposit chala rahe hain. View ratio 0.93 |
+| `acpayschannel` | 14.5k / med **5250** / 13 Oct | Page par sell flow hai: wallet authorization, INR order, UPI. Log USDT bech kar INR nikaal rahe hain |
+| `MeteorpayEliteChannel00011` | 9.53k / med **1500** / aaj 07:56 UTC | Aaj ka post: 100 se **1000 USDT** at ₹109, Binance ₹104. 500 USDT = ₹3000 profit |
+
+### Dekha, ad mein nahi
+
+| Handle | Live recheck | Kyun client nahi |
+|---|---|---|
+| `smartwallet_sw1` | 79.1k / med 11900 / aaj | “Become an Agent.” USDT amount nahi. Join app-worker hoga |
+| `aagame` | 240k / med 3890 / aaj 10:29 UTC | Gift code aur ₹200–₹50,000 top-up reward. USDT line current posts mein nahi |
+| `tamilp2pusdt` | 2.96k / med **219** / aaj 10:46 UTC | $1000 aur $1500 sale asli hai. Latest views 16. Ad spend nahi karega |
+| `ge8_payments_official` | 1.91k / med 659 / 9 Oct | USDT settlement hai, post bank account mangta hai |
+| `savingslandch` | 13.4k / med 2230 / aaj | Cards aur deposit. USDT nahi |
+| `profitvaultindia` | 1.2k / med 425 / aaj | Paytm Business, GPay Business, MQR, $500 capital |
+| `swiftpay_official` | 9.32k / aaj | USDT $110–$111 promo. Newest views 101 aur 441 |
+| Elephant Pay, `INR_Exchange_USDT` | last 5 Oct | Rate 111.18. 9 din purane |
+
+Cabinet is machine pe login nahi. Ad yahan se create nahi hui. Purani Stopped ads On nahi. Education channels wapas nahi.
 

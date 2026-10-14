@@ -726,7 +726,7 @@
     "cowpayqrcodescanningchannel": {
       "status": "DROP",
       "lane": "weak",
-      "note": "CowCoin USDT-INR; views ~99 weak"
+      "note": "2026-10-14 recheck: 2.09k/median 219/last 30 Sep. USDT rate 108.7 is the 8 Sep post. DROP weak stands."
     },
     "mmoney_official2": {
       "status": "IN_REVIEW",
@@ -1575,9 +1575,10 @@
       "note": "2026-09-03 1.9k/1020 — posts PakkaGo/Dhan/MM-Pay ads, not a seller community."
     },
     "swiftpay_official": {
-      "status": "DROP",
-      "lane": "restricted",
-      "note": "2026-09-03 preview-restricted. Distinct from stale swiftpayofficialchannel. Ads cannot target."
+      "status": "WATCH",
+      "lane": "paid_promo_buy_sell",
+      "found_via": "2026-10-14 Telemetr brand query swiftpay. Old DROP was preview-restricted on 2026-09-03; that block is gone.",
+      "note": "2026-10-14 live: 9.32k/median 5970/last 14 Oct. Catalog isSponsoredEligible=true. Today posts list ShaktiPay, DiwaPay, UonoPay, QQPay, ViviPay at USDT $110-$111 and say BUY-SELL. Paid-promo board. Newest post views 427 and 101, so the 5970 median is older posts. Not in bulk delivery 5."
     },
     "atgpaygo": {
       "status": "DROP",
@@ -2002,7 +2003,7 @@
     "world_bank_payment_company": {
       "status": "DROP",
       "lane": "mule_recruit",
-      "note": "2026-10-03 WBPay 1.4k/591 agents+cardholders, 68d."
+      "note": "2026-10-14 recheck: 1.37k/median 601/last 27 Jul. Still INR/USDT commission plus MQR recruit. DROP stands."
     },
     "saqitbdytr": {
       "status": "DROP",
@@ -2170,6 +2171,84 @@
       "lane": "account_operator",
       "found_via": "Telemetr India ads CTA destinations for commission, MQR, payout, settlement and agent. Placement list ignored.",
       "note": "2026-10-14 live: 1.19k/median 411/last 14 Oct. Post asks for Paytm Business, GPay Business and MQR, with $500 working capital and 4% pay-in commission. Public and active, but no USDT sell quote."
+    },
+    "ge8_payments_official": {
+      "status": "WATCH",
+      "lane": "gaming_payment_usdt_settlement",
+      "found_via": "2026-10-14 Telemetr catalog query inr exchange. isSponsoredEligible=true.",
+      "note": "2026-10-14 live: 1.91k/median 658/last 9 Oct. Posts: USDT to INR exchange, settlement in INR or USDT, 700-1400 USDT reward per account supplied, gaming payout 1.3 Cr at 3% commission. Only new public account/payment channel with a current USDT payout line and non-dead views. Kept out of bulk delivery 5 because median 658 will not spend next to 4k-view channels and the post still recruits bank accounts."
+    },
+    "savingslandch": {
+      "status": "WATCH",
+      "lane": "account_panel",
+      "found_via": "2026-10-14 Telemetr catalog bank account, then brand savingsland. Sister group savingslandacc is not a channel.",
+      "note": "2026-10-14 live: 13.4k/median 2230/last 14 Oct. Catalog eligible. Last 18 posts say add cards, auto buy, auto sell, deposit more. USDT word count zero. Do not target until a USDT amount is on the page."
+    },
+    "ElephantPayOfficial": {
+      "status": "WATCH",
+      "lane": "gaming_fund_rebrand",
+      "found_via": "Sister listed in the INR_Exchange_USDT channel description. SwiftPay rebrand.",
+      "note": "2026-10-14 live: 1.35k/median 2150/last 5 Oct. Post: USDT rate 111.18, 4% commission, cleanest funds. Nine days old, outside the 7-day bar. Sponsored eligibility was not on the catalog page pulled."
+    },
+    "INR_Exchange_USDT": {
+      "status": "WATCH",
+      "lane": "gaming_fund_promo",
+      "found_via": "2026-10-14 India ads CTA destination for query bank account. Placements ignored.",
+      "note": "2026-10-14 live: 4.62k/median 9360/last 5 Oct, newest view 449. Quote: receive funds then sell USDT on Binance; depositing USDT; rate 106 then Elephant Pay 111.18. Forward-inflated and 9 days old. Not a bulk channel."
+    },
+    "saving_current_bankaccount_panel": {
+      "status": "DROP",
+      "lane": "stale_account_recruit",
+      "found_via": "2026-10-14 Telemetr catalog query bank account.",
+      "note": "2026-10-14 live: 7.33k, last 2 Apr. Only saving-account recruitment at 5% commission. No USDT. Views are forwards."
+    },
+    "trustedaccountbuyer": {
+      "status": "DROP",
+      "lane": "telegram_account_shop",
+      "found_via": "2026-10-14 Telemetr catalog query account buy. Eligible, 9.4k.",
+      "note": "2026-10-14 live: 9.43k, one Bangla post selling Telegram accounts for 200 taka, last 6 May. Not bank accounts and not USDT."
+    },
+    "Earningsupport2": {
+      "status": "DROP",
+      "lane": "loot",
+      "found_via": "2026-10-14 India ads CTA destination for query bank account.",
+      "note": "2026-10-14 live: 24.8k/median 1560/last 14 Oct. Tata calling tasks and Amazon gift cards. No USDT."
+    },
+    "Mangopay17": {
+      "status": "DROP",
+      "lane": "stale_rate_board",
+      "found_via": "2026-10-14 India ads CTA destination for query panel work.",
+      "note": "2026-10-14 live: 1.08k/last 2 Apr. Old RS Wallet line 1 USDT = 103 INR. Stale."
+    },
+    "domipayment": {
+      "status": "DROP",
+      "lane": "stale_account_recruit",
+      "found_via": "2026-10-14 DomiPay link channel domiofflinks. pay_payments_upi is the same page.",
+      "note": "2026-10-14 live: 1.81k/median 2670/last 21 Sep. Description asks for bank-account agents and USDT suppliers. Current posts only recruit BOI and IDBI accounts. 23 days stale."
+    },
+    "sunpay_finance": {
+      "status": "DROP",
+      "lane": "under_1k_account_bonus",
+      "found_via": "2026-10-14 Telemetr brand sunpay, then sister of sunpay8886.",
+      "note": "2026-10-14 live: 552 subs/last 30 Sep. Bonus 2000 USDT is bait for corporate OTP accounts. Under 1k."
+    },
+    "sunpay8886": {
+      "status": "DROP",
+      "lane": "under_1k_stale",
+      "found_via": "2026-10-14 Telemetr brand sunpay.",
+      "note": "2026-10-14 live: 528 subs/last 12 Jul. Description wants USDT suppliers. Post sells rupees at Game 106. Under 1k and stale."
+    },
+    "paynowglobalofficial": {
+      "status": "DROP",
+      "lane": "under_1k_b2b",
+      "found_via": "2026-10-14 KirinPayment mentions. Kirin India merged into PayNow.",
+      "note": "2026-10-14 live: 414 subs/last 10 Oct. USDT appears only as a settlement-rail status. Under 1k."
+    },
+    "baihupayment8": {
+      "status": "DROP",
+      "lane": "catalog_lie",
+      "found_via": "2026-10-14 Telemetr brand baihu. Title claimed India game fund and USDT.",
+      "note": "2026-10-14 live: 6 subscribers. Catalog had listed 4.6k. Dead."
     },
     "KTTPAY_Official_Channel": {
       "status": "DROP",
@@ -4107,5 +4186,24 @@
       "profitvaultindia": "MQR and Paytm/GPay business account operators. Not a USDT seller channel.",
       "tamilp2pusdt": "Real 500-1500 sales, median views 225, will not deliver inside a bulk ad."
     }
+  },
+  "account_payment_hunt_2026_10_14": {
+    "bulk_delivery_5_unchanged": ["zkpay108", "acpayschannel", "MeteorpayEliteChannel00011", "smartwallet_sw1", "aagame"],
+    "ads_not_edited": [28, 29],
+    "methods": [
+      {"name": "catalog account and payment phrases", "queries": ["account sell", "account buy", "bank account", "current account", "corporate account", "payment gateway", "inr exchange", "swiftpay", "sunpay", "game fund"]},
+      {"name": "India ads CTA destination", "queries": ["current account", "bank account", "panel work"], "found": ["profitvaultindia", "INR_Exchange_USDT", "Earningsupport2", "Mangopay17"]},
+      {"name": "mention and link snowball", "seeds": ["savingslandch", "sunpay8886", "kirinpayment", "domiofflinks"], "found": ["domipayment", "paynowglobalofficial"]}
+    ],
+    "usdt_on_page_but_not_bulk": {
+      "ge8_payments_official": "1.91k/median 658/9 Oct. Settlement INR or USDT. 700-1400 USDT per account. Views too thin for the bulk, and the post still recruits accounts.",
+      "swiftpay_official": "Restriction overturned. 9.32k/today, USDT $110-$111 buy-sell board. Newest views 101 and 427. Paid promo.",
+      "ElephantPayOfficial": "1.35k/median 2150/5 Oct. USDT rate 111.18. Nine days old.",
+      "INR_Exchange_USDT": "4.62k/5 Oct. Sell received funds as USDT. Newest view 449. Nine days old."
+    },
+    "fresh_public_no_usdt": {
+      "savingslandch": "13.4k/median 2230/today. Card and deposit panel. No USDT in the last 18 posts."
+    },
+    "still_groups": ["dollar_exchanges", "gxpayco", "soulpaychian1003", "tgapay1006", "tgapay1017", "savingslandacc", "indianacclimited", "sunpaygroup"]
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §83 delivery fix. One bulk ad at CPM 7. Do not repeat the activation-chat education plan.
+**Last updated:** 2026-10-14 — §84 account buyer / gaming-payment hunt. Bulk delivery 5 same. `ge8_payments_official` saved, bulk me nahi.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3175,4 +3175,57 @@ Do quality ads delete mat karo. Unka CPM 5 se **7** karo, sirf tab jab edit se a
 **Bahar:** `profitvaultindia` (1.2k / med 420). Post Paytm Business, GPay Business aur MQR mangta hai, working capital $500. Yeh USDT seller nahi, account operator hai. Agent ad pehle isi lane par mehnga aur galat nikla. `tamilp2pusdt` sale asli hai, median views 225. Bulk me yeh deliver nahi karega. `bhaartpay` pehle se quality ad me hai.
 
 Purani Stopped ads On nahi. Education channels wapas nahi. Cabinet yahan login nahi, ad create nahi hui.
+
+---
+
+## 84) 2026-10-14 — account buyer/seller aur gaming-payment, USDT kahan milta hai
+
+User: §83 save rehne do. Account wale, aur jo gaming me payment dalwate hain, unke paas bhi USDT aata hai. Account buyer/seller ke co-channels gehre se dhundho.
+
+Bulk delivery 5 **same** hai: `zkpay108`, `acpayschannel`, `MeteorpayEliteChannel00011`, `smartwallet_sw1`, `aagame`. CPM 7, 30 TON. Is round ka koi channel us bulk me nahi gaya.
+
+### Raasta
+
+1. Telemetr catalog: `account sell`, `account buy`, `account dealer`, `usdt salary`, `payin payout`, `gaming account`, phir `bank account`, `current account`, `corporate account`, `paytm account`, `payment gateway`, `account supplier`, phir brand `royaltypay`, `cloudpayment`, `ishan pay`, `sunpay`, `tgapay`, `savingsland`, `accland`, `game fund`, `paynow`, `baihu`, `soulpay`, `domipay`, `swiftpay`, `inr exchange`.
+2. India ads CTA, placement nahi: `current account`, `saving account`, `game fund`, `bank account`, `panel work`, `USDT supplier`.
+3. Mention snowball: `savingslandch`, `sunpay_finance`, `sunpay8886`, `kirinpayment`. DomiPay ka link-channel `domiofflinks` ne official sisters diye.
+4. Live `t.me/s` judge.
+
+`usdt salary`, `USDT supplier`, `game fund` aur `saving account` ads queries khali rahi. `current account` aur `panel work` sirf `profitvaultindia` pe wapas aaye.
+
+### Jo USDT line ke saath public nikla
+
+| Handle | Kaise mila | Live 14 Oct | Quote | Verdict |
+|---|---|---|---|---|
+| `ge8_payments_official` | Catalog `inr exchange`. Ads-eligible | **1.91k**, median **658**, last **9 Oct** (5 din) | “USDT → INR Exchange.” “INR or USDT — choose the settlement.” Account supply par **700–1400 USDT**. Gaming payout 1.3 Cr, commission 3% | **WATCH. Bulk me nahi.** Sirf yahi naya public channel hai jahan current post reader ko USDT me settlement bolta hai, aur views mare nahi. Post phir bhi bank account mangta hai. Median 658, `zkpay108` / `acpayschannel` ke 4k–5k ke saath bulk me spend nahi karega |
+| `swiftpay_official` | Brand catalog. Purana DROP sirf isliye tha ke 3 Sep preview band thi | **9.32k**, median **5970**, last **aaj**. Catalog eligible | Aaj: ShaktiPay / DiwaPay / UonoPay / QQPay / ViviPay, “USDT RATE $110–$111”, “BUY-SELL KRO” | **Restriction hat gayi, phir bhi bulk me nahi.** Paid-promo board hai. Last posts ke views **427** aur **101** pe gir gaye. Purana 7k median purani posts ka hai |
+| `ElephantPayOfficial` | `INR_Exchange_USDT` ke desc me sister | **1.35k**, median **2150**, last **5 Oct** | “USDT rate: 111.18.” SwiftPay ne naam ElephantPay kar liya | **WATCH, 9 din.** 7-din bar ke bahar. Catalog ne is page par eligible nahi dikhaya |
+| `INR_Exchange_USDT` | Ads CTA `bank account` | **4.62k**, median **9360**, last **5 Oct**. Latest view **449** | “Receive funds, then sell them for USDT on Binance.” “Depositing USDT.” Rate 106, phir Elephant 111.18 | **WATCH, 9 din.** Views forward se phule hain. Naya post invite commission hai |
+
+### Account / gaming-payment jo Ads target nahi, ya USDT line nahi
+
+| Handle | Kaise mila | Live | Kyun bahar |
+|---|---|---|---|
+| `savingslandch` | Catalog `bank account` → brand `savingsland` | **13.4k / med 2230 / aaj**. Eligible | “Add more cards. AUTO BUY / AUTO SELL. Do more deposit.” Last 18 posts me **USDT word zero**. Sabse zinda account-panel channel, lekin seller post nahi |
+| `saving_current_bankaccount_panel` | Catalog `bank account` | 7.33k, last **2 Apr**. Views 36k–81k forward | Sirf saving-account recruit, 5% commission. Stale |
+| `sunpay8886` | Catalog `sunpay` | 528 / last **12 Jul** | Desc “USDT Suppliers” likhta hai. Post “Selling rupees, Game 106”. Under 1k, stale |
+| `sunpay_finance` | `sunpay8886` sister | 552 / last **30 Sep** | “BONUS 2000 USDT” corporate OTP work ke liye. Account bait. Under 1k |
+| `domipayment` (`pay_payments_upi` same page) | `domiofflinks` | 1.81k / med 2670 / last **21 Sep** | Desc “bank account agents, USDT Suppliers”. Current posts sirf BOI/IDBI accounts. 23 din |
+| `paynowglobalofficial` | Kirin merge sister | 414 / last 10 Oct | “USDT: Normal” ek B2B status line hai. Under 1k |
+| `baihupayment8` | Catalog title me USDT/game fund | Live **6 subs** | Catalog 4.6k jhootha |
+| `trustedaccountbuyer` | Catalog `account buy`, eligible, 9.4k | Last **6 May**, ek post | Telegram account bechna, Bangla. Bank/USDT nahi |
+| `Earningsupport2` | Ads CTA `bank account` | 24.8k / aaj | Tata calling loot aur gift card. USDT nahi |
+| `Mangopay17` | Ads CTA `panel work` | 1.08k / last **2 Apr** | Purana “1 USDT = 103” RS Wallet. Stale |
+| `cowpayqrcodescanningchannel` | Catalog `inr exchange` | 2.09k / med **219** / last **30 Sep** | Rate 108.7 **8 Sep** ka post. DROP weak same |
+| `world_bank_payment_company` | Catalog | 1.37k / med 601 / last **27 Jul** | “INR/USDT commission” + MQR recruit. DROP same |
+| `ygpay147`, `dwpay8888`, `usdt_swiftpay_hub` | Catalog | Apr / Jan / Mar | Purane USDT-INR desks. DROP same |
+| `p2pprocess` | Catalog gateway | **245** subs, last 15 Sep | Processing news. Catalog 1.8k purana |
+| `kirinpayment` | Catalog gateway | 1.27k / last **19 Oct 2025** | India business PayNow me merge. Stale |
+| `bankpay_p2ppay` | Catalog gateway | **239** subs | Multi-country gateway promo |
+
+Groups, Ads gun nahi chalti: `dollar_exchanges` (Ishan Pay, USDT buyer + bank, 734), `gxpayco` (buy/sell USDT + rent accounts, 1.1k), `soulpaychian1003` (6.6k), `tgapay1006` / `tgapay1017`, `indiabankaccs`, `alipayindianbank`, `gamingpay04`, `indianacclimited`, `sunpaygroup`. Unke mentions staff aur wahi groups the, naya official channel nahi. `bankaccountb` 14k subscribers par private preview. `royaltypay_official` ka web page tha, live preview khali.
+
+Game-ID sellers (`bgmi_id_buy_sell_team` aur Free Fire/PUBG/Twitter account shops) is lane ke nahi. Wahan USDT payout ka post nahi dekha.
+
+**Seedha:** Account buyer/seller ka asli Telegram groups hai. Public channel jo aaj zinda hai (`savingslandch`) cards mangta hai, USDT nahi likhta. Jahan USDT likha hai (`ge8_payments_official`, Elephant/INR Exchange, Sunpay, DomiPay), wahan ya to account supply ka bonus hai, ya post 7 din se purana hai, ya channel 1k se chhota hai. Bulk delivery 5 mat badlo. `ge8_payments_official` ko alag tab sochna jab bulk ke bade channels spend kar chuke hon — akela ad is median par nahi chalega. Ads 28/29 nahi chhede. Cabinet yahan se nahi khula.
 

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-13 — §77 fresh prompt run: no new Ads channel. Quality 5 (§73) same; next `zkpay108`.
+**Last updated:** 2026-10-14 — §78 gaming/China/account-lane hunt. New TEST `acpayschannel`; `aagame` micro-test only.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -2959,4 +2959,52 @@ Koi absent handle chaaron gate pass nahi karta: public channel, 1000+, last ≤7
 Baaki fresh names aur bhi clear fail: `@soulpay111` / `@kubarcommunity` / seller-name handles preview restricted; `@baihupayment8` live sirf **6 members** + bank/MQR recruit; `@fastusdtclaimpayment` last 2022; `@TIRANGAVIP2779157` gaming deposit, last Aug; `@Parkson_Official_Channel` / `@Parkson_Trx` preview empty.
 
 **Decision unchanged:** quality 5 chalne do. Agla independent test `zkpay108`, uske baad thin `tamilp2pusdt`. Naya channel banane ke liye list pad mat karo.
+
+---
+
+## 78) 2026-10-14 — gaming USDT withdrawal + China apps + account-channel snowball
+
+User: gaming wale jo USDT dete hain, China apps aur “account wale” channels se aur dhoondo.
+
+**Safety/quality split:** bank-account rent, MQR, OTP, SIM/Aadhaar channels ko seller audience nahi maana. Wahan money-mule/freeze risk hai aur pehle agent campaign weak tha. Unke public posts/mentions se legitimate app sisters snowball kiye, lekin account-rent handle recommend nahi.
+
+### New usable
+
+| Rank | Handle | Live | Proof | Verdict |
+|---|---|---|---|---|
+| **1** | `@acpayschannel` | **14.5k**, median views **5210**, last **13 Oct**; Telemetr `isSponsoredEligible=true` | Recent channel post: “Many members are now using USDT for transactions… Every USDT order is processed instantly… Recharge USDT on ACPay”; `Buy or Sell Tokens`; sell wallets MobiKwik/Navi/PhonePe/Paytm Business. Same app URL `pay.acwallet.in` | **TEST — best new China-pay add.** Public, active, real readers, not an account-rent channel. Ticket size 500+ USDT post me prove nahi, so quality-5 ad me mat milao; independent test |
+| **2** | `@aagame` | **240k**, median views **3870**, last **13 Oct** | Official India game channel. Agent post: “Agent commissions support USDT withdrawals”; referral/deposit agents can claim commission next day. Current top-up ladder ₹200–₹50,000 and agent rewards | **WATCH / micro-test only.** Gaming users nahi, specifically agents USDT nikalte hain. Huge channel but view ratio only ~1.6%; broad gambler crowd. China-quality ke barabar nahi |
+
+`@AAGAMEindia` is same-post duplicate/old official (138k, median 2250); description points to new `@aagame`. Dono ko ek saath kabhi target mat karo.
+
+### Strong-looking but Ads/use fail
+
+| Handle | Why not |
+|---|---|
+| `@acpayofficial` | Content excellent (108 INR/USDT, USDT deposit, buy/sell tutorial) but live preview private/restricted and Telemetr `isSponsoredEligible=false`. Use public sister `@acpayschannel` |
+| `@uonohub` | 76.3k / median 15k / last 12 Oct; old copy has USDT 108 and withdrawal wallets. But catalog says `isSponsoredEligible=false`; recent posts only Paytm/MobiKwik updates. Cannot be primary Ads target |
+| `@bcgamewinbig` | 15.3k / median 6410 / last 13 Oct; wager 5000 USD audience, but BC.GAME family already audited and post itself says “Don't trust any ads on Telegram.” Broad casino, no fresh sell-USDT line |
+| `@bcgame_india` | Existing optional history only; 7.39k / median 474. Same broad casino family, not new |
+| `@officialchannel_66lottery` | 79.6k / median 4170 / today; latest = lottery sessions/deposit/login. Old third-party post claims up to 50k USDT withdrawal, but official current channel does not prove seller intent. Mega-lottery DROP rule stands |
+| `@akshie0000` | Daman agent channel says USDT withdrawal 96 INR, but 1.94k members / median **21**. Dead audience |
+| `@xgamesplatinumchannel` | USDT withdrawal via TRC20/Arbitrum, but 467 members and last May |
+| `@XGamesOfficialEN` | 1.53k / median 111 / last June; signals and deposit-return promises |
+| `@bdgvvipprediction` | 11.7k / median **1**; pure prediction |
+| `@club_55_officiall` | USDT withdrawal instruction exists, but last post Apr 2024 |
+| `@primevault2026` | 745 members, last Jan; USDT investment plan, not India gaming sellers |
+| `@tailPaySys` / `@betixpay` | Under 1k and B2B gateway/system operators |
+
+### Account channels
+
+`@acpaya9`, `@baihupayment8`, GoldPay, SharkPay, ALLPay, GNS, SuperPay account lanes recruit Indian bank/MQR/bulk accounts. These people may be paid in USDT, but targeting them brings account-rent operators, cyber-freeze risk and wrong lead quality. **Do not run Nexa seller ads there.** `@acpayschannel` is the clean app-user sister found from this lane.
+
+### Test order (no ad launched)
+
+1. Current quality 5 stay untouched.
+2. `zkpay108` remains the hottest gaming-fund test.
+3. **New:** `acpayschannel` as a separate China-app test.
+4. `tamilp2pusdt` thin direct-seller test.
+5. `aagame` only as a tiny isolated experiment; judge seller DMs, not joins/clicks.
+
+Ads 28/29, text, destination and budget were not changed.
 

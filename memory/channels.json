@@ -2080,6 +2080,81 @@
       "status": "DROP",
       "lane": "gaming_promo",
       "note": "2026-10-13 fresh live audit: 1.71k/med 327 but last Aug; gaming spin/deposit bonus, not USDT cash-out sellers."
+    },
+    "acpayschannel": {
+      "status": "TEST",
+      "lane": "china_pay",
+      "note": "2026-10-14 fresh live audit: 14.5k/median 5210/last 13 Oct; Telemetr sponsored-eligible. Recent posts say members use USDT, every USDT order is instant, recharge USDT, and Buy or Sell Tokens. Best new clean app-user sister; ticket size 500+ USDT not proven, so test separately."
+    },
+    "aagame": {
+      "status": "WATCH",
+      "lane": "gaming_usdt_agents",
+      "note": "2026-10-14 fresh live audit: 240k/median 3870/last 13 Oct. Official India game channel says agent commissions support USDT withdrawals; top-up ladder reaches INR 50,000. Broad gaming and only ~1.6% view ratio, so tiny isolated micro-test only."
+    },
+    "AAGAMEindia": {
+      "status": "DROP",
+      "lane": "duplicate_gaming",
+      "note": "2026-10-14 fresh live audit: 138k/median 2250; same posts and description redirects to @aagame. Never target both; use newer official only if micro-testing."
+    },
+    "acpayofficial": {
+      "status": "DROP",
+      "lane": "restricted",
+      "note": "2026-10-14: strong 108 INR/USDT, deposit and buy/sell tutorial content, but t.me/s preview is restricted and Telemetr isSponsoredEligible=false. Use public sister @acpayschannel."
+    },
+    "uonohub": {
+      "status": "DROP",
+      "lane": "ads_ineligible",
+      "note": "2026-10-14 live 76.3k/median 15k/last 12 Oct; old USDT 108 and withdrawal-wallet copy, but recent content is Paytm/MobiKwik and Telemetr isSponsoredEligible=false."
+    },
+    "bcgamewinbig": {
+      "status": "DROP",
+      "lane": "broad_casino",
+      "note": "2026-10-14 live 15.3k/median 6410/last 13 Oct. 5000 USD wagering audience, but broad BC.GAME casino, no current USDT-seller line, and channel warns not to trust Telegram ads."
+    },
+    "officialchannel_66lottery": {
+      "status": "DROP",
+      "lane": "mega_lottery",
+      "note": "2026-10-14 live 79.6k/median 4170/current. Latest posts are lottery sessions, deposits and logins; an old third-party 50k USDT withdrawal claim does not prove current seller intent."
+    },
+    "akshie0000": {
+      "status": "DROP",
+      "lane": "dead_gaming_usdt",
+      "note": "2026-10-14 live 1.94k/median 21. Daman agent copy gives USDT recharge 95 and withdrawal 96 INR, minimum $10, but audience is dead."
+    },
+    "xgamesplatinumchannel": {
+      "status": "DROP",
+      "lane": "under_1k_stale",
+      "note": "2026-10-14: USDT withdrawal via TRC20/Arbitrum, but only 467 members and last post May."
+    },
+    "XGamesOfficialEN": {
+      "status": "DROP",
+      "lane": "stale_gaming_signals",
+      "note": "2026-10-14 live 1.53k/median 111/last June; predictions and deposit-return promotions, not active India sellers."
+    },
+    "bdgvvipprediction": {
+      "status": "DROP",
+      "lane": "dead_prediction",
+      "note": "2026-10-14 live 11.7k/median 1; pure prediction channel with no usable audience."
+    },
+    "club_55_officiall": {
+      "status": "DROP",
+      "lane": "stale_gaming_usdt",
+      "note": "2026-10-14: 14.3k and old USDT withdrawal instructions, but last post Apr 2024."
+    },
+    "primevault2026": {
+      "status": "DROP",
+      "lane": "under_1k_investment",
+      "note": "2026-10-14: 745 members, last Jan; USDT investment plans, not India gaming cash-out sellers."
+    },
+    "tailPaySys": {
+      "status": "DROP",
+      "lane": "under_1k_b2b_gateway",
+      "note": "2026-10-14: 462 members; B2B UPI/payment-system operators, not Ads inventory."
+    },
+    "betixpay": {
+      "status": "DROP",
+      "lane": "under_1k_b2b_gateway",
+      "note": "2026-10-14: 212 members; B2B gateway, not Ads inventory."
     }
   },
   "competitors_to_spy": [
@@ -3836,5 +3911,15 @@
       "next_test": "zkpay108",
       "thin_second": "tamilp2pusdt"
     }
+  },
+  "gaming_china_account_hunt_2026_10_14": {
+    "quality_5_unchanged": ["linkxwalletnow", "atgofficiale", "TF_Exchange", "bhaartpay", "quickpayoffical1"],
+    "ads_not_edited": [28, 29],
+    "new_separate_test": "acpayschannel",
+    "gaming_micro_test_only": "aagame",
+    "test_order": ["zkpay108", "acpayschannel", "tamilp2pusdt", "aagame"],
+    "account_rent_policy": "Exclude bank-account, MQR, OTP, SIM and Aadhaar recruitment: money-mule/freeze risk and wrong seller audience. Use only to snowball clean app-user sister channels.",
+    "strong_but_ads_ineligible": ["acpayofficial", "uonohub"],
+    "result": "One strong new public China-pay app channel plus one broad gaming-agent micro-test; no account-rent channel recommended."
   }
 }

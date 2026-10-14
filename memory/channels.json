@@ -2205,6 +2205,72 @@
       "lane": "group_not_ads",
       "found_via": "Telemetr catalog query gaming fund; title said INR to USDT dealing.",
       "note": "2026-10-14: group view with members online, no channel preview, sponsored-ineligible."
+    },
+    "arbpaychannel": {
+      "status": "DROP",
+      "lane": "gaming_wallet_dead_views",
+      "found_via": "Web search for AR Wallet, the recharge rail named by Tiranga and BDG pages.",
+      "note": "2026-10-14 live: 12.6k/median 115/last 14 Oct. Posts teach Buy and Sell ARB coin through UPI. No USDT ticket. Views are dead against members."
+    },
+    "arwalletofficial": {
+      "status": "DROP",
+      "lane": "duplicate_gaming_wallet",
+      "found_via": "Sister of arbpaychannel found by AR Wallet brand audit.",
+      "note": "2026-10-14 live: 7.49k/median 170/last 14 Oct. Same ARB buy/sell posts as arbpaychannel. Do not target both."
+    },
+    "Official_91_Club_Game": {
+      "status": "DROP",
+      "lane": "stale_gaming_prediction",
+      "found_via": "Web search for 91 Club official Telegram.",
+      "note": "2026-10-14 live: 33.7k/median 14300 but last post 16 Jun. Prediction and Rs 100 recharge, no USDT line."
+    },
+    "sikkimofficial": {
+      "status": "DROP",
+      "lane": "dead_prediction",
+      "found_via": "Official-handle guess after Sikkim brand catalog.",
+      "note": "2026-10-14 live: 8.79k/median 9/last 14 Oct. Win Go number tips."
+    },
+    "okwinofficial": {
+      "status": "DROP",
+      "lane": "gaming_loss_recovery",
+      "found_via": "OK Win brand catalog and handle guess.",
+      "note": "2026-10-14 live: 3.18k/median 203/last 6 Oct. Says OK Win is not paying withdrawals and pushes loss-recovery DMs."
+    },
+    "bitcointrader_yaarwin": {
+      "status": "DROP",
+      "lane": "dead_prediction",
+      "found_via": "Telemetr brand query bigmumbai; title said BigMumbai CRYPTO.",
+      "note": "2026-10-14 live: 59.1k/median 3/last 14 Oct. Win Go tips. Crypto is only in the title."
+    },
+    "crypto_dgclub": {
+      "status": "DROP",
+      "lane": "dead_prediction",
+      "found_via": "Telemetr brand query 6club; title said 6 club official.",
+      "note": "2026-10-14 live: 39.7k/median 1/last 14 Oct. Same Win Go tip copy."
+    },
+    "crypto_91club_66lottery": {
+      "status": "DROP",
+      "lane": "stale_gaming_promo",
+      "found_via": "Telemetr brand query 91club; title said 91 Club Official Crypto.",
+      "note": "2026-10-14 live: 174k/median 914/last 29 Aug. Stale promo, minimum withdrawal Rs 110."
+    },
+    "bdgwin_daddy_wingo_51": {
+      "status": "DROP",
+      "lane": "stale_prediction",
+      "found_via": "Telemetr brand query bdg; title said BIGDADDY CRYPTO.",
+      "note": "2026-10-14 live: 81.2k/median 24500 but last post 29 Sep 2025. Old prediction channel."
+    },
+    "sirwinofficial": {
+      "status": "DROP",
+      "lane": "global_casino",
+      "found_via": "Telemetr catalog query crypto casino.",
+      "note": "2026-10-14 live: 35k/median 368/last 14 Oct. Global sports and casino promo. Latest views 22 and 5. No India USDT sell line."
+    },
+    "melbet_megapari_1win": {
+      "status": "DROP",
+      "lane": "stale_cricket_tips",
+      "found_via": "Telemetr brand query megapari.",
+      "note": "2026-10-14 live: 37k/median 1320 but last post Nov 2024. Cricket tips."
     }
   },
   "competitors_to_spy": [
@@ -3987,5 +4053,17 @@
     },
     "groups_not_ads": ["dragonspays", "gaming5789", "indianacclimited", "sunpaygroup"],
     "test_order_unchanged": ["zkpay108", "acpayschannel", "tamilp2pusdt", "aagame"]
+  },
+  "gaming_separate_hunt_2026_10_14": {
+    "kept_separate_from": ["linkxwalletnow", "atgofficiale", "TF_Exchange", "bhaartpay", "quickpayoffical1", "zkpay108", "acpayschannel", "tamilp2pusdt"],
+    "gaming_micro_test_only": "aagame",
+    "new_gaming_channel": false,
+    "ads_not_edited": [28, 29],
+    "methods": ["web t.me/s USDT withdrawal and AR Wallet", "Telemetr 19 gaming brand catalogs", "Telemetr arwallet and crypto casino", "live t.me/s audit"],
+    "closest_misses": {
+      "arbpaychannel": "12.6k/median 115/today, ARB buy-sell rail, dead views",
+      "aagame": "already the only gaming micro-test; agent USDT withdrawal"
+    },
+    "prediction_rule": "Color-game channels with crypto in the title were prediction or private. Do not spend there."
   }
 }

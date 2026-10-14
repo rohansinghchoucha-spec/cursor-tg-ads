@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §79 account-lane reopened with discovery paths. No new seller channel passed. Closest public misses: `smartwallet_sw1`, `profitvaultindia`.
+**Last updated:** 2026-10-14 — §80 gaming lane kept separate. No new gaming USDT channel. Only existing micro-test is `aagame`.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3053,4 +3053,46 @@ Test order same:
 5. `aagame` sirf micro-test
 
 `smartwallet_sw1` tab alag test ho jab uske post me USDT amount wapas aaye. Ads 28/29 nahi chhede.
+
+---
+
+## 80) 2026-10-14 — gaming alag lane
+
+User: aur dhundho, gaming ko alag rakho.
+
+Gaming ko China-pay test order me nahi milaya. Quality 5, `zkpay108`, `acpayschannel`, `tamilp2pusdt` wahi hain.
+
+### Coverage
+
+| Approach | Kya chala | Result |
+|---|---|---|
+| Web `t.me/s` | “USDT withdrawal”, “agent commission USDT”, “recharge using USDT”, AR Wallet | Color-game pages aur AR Wallet |
+| Telemetr brand catalog | 19 game brands, full ANON pages: BDG, 91 Club, Tiranga, Daman, Jalwa, Sikkim, OK Win, 55 Club, Big Mumbai, Wingo, AR Pay, 1win, Mostbet, Fairplay, 10cric, RajaBaji, 6 Club, color prediction, Daman Game | 388 naye Ads-eligible names. “Crypto/official” titles prediction ya private nikle |
+| Telemetr rails | `arwallet`, `ar pay`, `usdt game`, `crypto casino`, 4rabet, Rajbet, Megapari, Parimatch | AR Wallet do public clones; baaki casino promo / cricket tips |
+| Live `t.me/s` | 91 Club, Sikkim, OK Win, Jalwa/Jai Club, Daman, Big Mumbai crypto, 6 Club, Big Daddy, SirWin, Melbet, AR Wallet | Neeche |
+
+### Alag gaming decision
+
+Naya gaming channel pass nahi hua. Is lane ka sirf pehle wala micro-test rehta hai: `@aagame`. Post: “Agent commissions support USDT withdrawals.” 240k / median 3,870 / 13 Oct. Broad players ke saath mat milao. Isko China-pay ads me mat daalo.
+
+### Dekha, gaming test me nahi
+
+| Handle | Kaise mila | Live | Kyun bahar |
+|---|---|---|---|
+| `arbpaychannel` | Web: AR Wallet, jo Tiranga/BDG recharge me USDT/ARB bolte hain | 12.6k / median **115** / aaj | Buy/Sell **ARB** coin, UPI se. USDT amount nahi. 12k channel par 115 views = inflated |
+| `arwalletofficial` | Same AR posts, brand sister | 7.49k / median **170** / aaj | Duplicate of `arbpaychannel`. Dono ko kabhi ek saath mat lo |
+| `Official_91_Club_Game` | Web “91 CLUB OFFICIAL” | 33.7k / median 14,300 / **16 Jun** | Prediction + ₹100 recharge. Stale. USDT line nahi |
+| `sikkimofficial` | Guessed official handle, then catalog | 8.79k / median **9** / aaj | Win Go number tips. Padhne wala nahi |
+| `okwinofficial` | Catalog/handle guess | 3.18k / median 203 / 6 Oct | “OK Win withdrawal nahi de raha” + loss-recovery DM |
+| `bitcointrader_yaarwin` | Catalog title “BigMumbai CRYPTO” | 59.1k / median **3** / aaj | Win Go tips. Crypto sirf naam me |
+| `crypto_dgclub` | Catalog “6 club official” | 39.7k / median **1** / aaj | Wahi tip copy |
+| `crypto_91club_66lottery` | Catalog “91 Club Official Crypto” | 174k / median **914** / **29 Aug** | Stale promo, minimum withdrawal ₹110 |
+| `bdgwin_daddy_wingo_51` | Catalog “BIGDADDY CRYPTO” | 81.2k / median 24,500 / **29 Sep 2025** | Purana prediction. Fresh nahi |
+| `yaarwin_daman_jalwagame` | Catalog “Yaar Win crypto” | 94.2k / median **17** | Sirf “hi” |
+| `sirwinofficial` | Catalog `crypto casino` | 35k / median **368** / aaj | Global casino/sports promo. Latest views 22 aur 5. India USDT sell nahi |
+| `melbet_megapari_1win` | Catalog Megapari | 37k / median 1320 / **Nov 2024** | Cricket tips, stale |
+| `damanclubwebsite` `jalwaofficial` `tirangaofficial` `damanofficial` | Web/handle guess | 55 / 2.16k / 30 / 54 | Under 1k ya Apr 2026 se purane gift-code/prediction pages |
+| `ok_win_tiranga_daman` `tirangagames_official` `official_damanchannel` `bdgwinms` `fairplayvofficial` `BCGAME_affiliate` | Catalog “official” titles | Preview private | Ads target nahi |
+
+**Seedha:** India gaming ka public Telegram prediction hai. Jahan USDT/ARB cash-out likha hai, ya to `@aagame` jaisa agent subset hai, ya AR Wallet jaisa mara hua channel. Color-game tip channels par budget mat lagao. Gaming test alag rahe, aur abhi usme sirf `aagame` micro hai. Ads 28/29 nahi chhede.
 

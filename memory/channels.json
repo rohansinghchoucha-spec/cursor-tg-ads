@@ -4065,5 +4065,16 @@
       "aagame": "already the only gaming micro-test; agent USDT withdrawal"
     },
     "prediction_rule": "Color-game channels with crypto in the title were prediction or private. Do not spend there."
+  },
+  "budget_recheck_2026_10_14": {
+    "ads_cabinet_visible": false,
+    "do_not_recreate": ["quality holders", "quality sellers"],
+    "refill_first": ["linkxwalletnow", "atgofficiale", "TF_Exchange", "quickpayoffical1"],
+    "keep_but_no_extra": ["bhaartpay"],
+    "new_ads_in_order": ["zkpay108", "acpayschannel", "tamilp2pusdt"],
+    "hold": ["aagame", "smartwallet_sw1"],
+    "dest_rate_2026_10_13": {"upi": 118, "bank": 114, "f2f": 117, "cdm": 114},
+    "live_ad_text_bank": 115,
+    "note": "Do not delete the live ads to change Bank 115 to 114."
   }
 }

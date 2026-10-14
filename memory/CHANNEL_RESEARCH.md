@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §80 gaming lane kept separate. No new gaming USDT channel. Only existing micro-test is `aagame`.
+**Last updated:** 2026-10-14 — §81 fresh recheck before budget. Refill the two live quality ads. Next new ads: `zkpay108`, then `acpayschannel`.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3095,4 +3095,38 @@ Naya gaming channel pass nahi hua. Is lane ka sirf pehle wala micro-test rehta h
 | `ok_win_tiranga_daman` `tirangagames_official` `official_damanchannel` `bdgwinms` `fairplayvofficial` `BCGAME_affiliate` | Catalog “official” titles | Preview private | Ads target nahi |
 
 **Seedha:** India gaming ka public Telegram prediction hai. Jahan USDT/ARB cash-out likha hai, ya to `@aagame` jaisa agent subset hai, ya AR Wallet jaisa mara hua channel. Color-game tip channels par budget mat lagao. Gaming test alag rahe, aur abhi usme sirf `aagame` micro hai. Ads 28/29 nahi chhede.
+
+---
+
+## 81) 2026-10-14 — budget se pehle fresh recheck
+
+User: jo kaam ke mile, unhe dubara check karo. Aur ads lagane hain. Jo do quality ads Active hain, unme budget badhana hai ya nahi. Paisa user khud add karega. Is machine pe ads.telegram.org login nahi, isliye ad ke bache hue TON yahan nahi dikhe. Channel posts live dekhe.
+
+Dest `@safepathdeals` last rate 13 Oct: **UPI 118 / Bank 114 / F2F 117 / CDM 114**. Live ad text Bank ₹115 bolta hai. Ad delete karke 1 rupaye ke liye mat banao. Review reset hota hai.
+
+### Active 5 — rehne do, budget inhi do ads par
+
+| Ad | Handle | Live 14 Oct | Abhi ka proof | Budget |
+|---|---|---|---|---|
+| quality holders | `linkxwalletnow` | 35.5k / med **1840** / aaj | “Recharge your USDT today.” Har 100 USDT par extra xCoins. Latest view abhi 1–2 ghante purani hai | **Refill.** Ad delete mat karo |
+| quality holders | `atgofficiale` | 4.18k / med **1670** / 13 Oct | “1,000 USDT → +₹1,000” se **20,000 USDT → +₹22,000** bonus ab bhi page par | **Refill. Is ad ka strongest channel** |
+| quality sellers | `TF_Exchange` | 5.06k / med **833** / aaj | CDM **$1,600–$4,000 = ₹98.5**, above $4,000 = ₹99. UPI above $2,500 = ₹97 | **Refill** |
+| quality sellers | `quickpayoffical1` | 2.21k / med **844** / 13 Oct | “Starting from **500 USDT**. Up to **5000 USDT**.” Single deposit 1,000–2,500 USDT | **Refill** |
+| quality sellers | `bhaartpay` | 2.81k / med **377** / aaj | Rate ₹109 ab bhi hai, lekin latest posts “become an agent”. ₹50k–₹1L sale line current page ke top par nahi | Ad me rehne do. **Isi channel ke liye alag extra budget mat do** |
+
+Purani Stopped ads On mat karo.
+
+### Naya paisa, alag ads. In 5 me mat milao
+
+| Order | Handle | Live | Kitna | Kyun |
+|---|---|---|---|---|
+| 1 | `zkpay108` | 4.95k / med **4620** / aaj. View ratio **0.93** | Pehli nayi ad, CPM 5 | Sabse garam unused. Title ZKpay INR USDT SELL. Page: ek din me recharge 50,000 / 100,000 bonus. 500 USDT slab likha nahi, isliye quality ad me nahi |
+| 2 | `acpayschannel` | 14.5k / med **5250** / 13 Oct | Doosri nayi ad, CPM 5 | “Recharge USDT on ACPay. Every USDT order is processed instantly.” Amount 500/1000 prove nahi |
+| 3 | `tamilp2pusdt` | 2.96k / med **225** / aaj | Sirf chhota bacha hua TON | Aaj `$500`, `$1000`, `$1500` community sale. Delivery patli hogi |
+
+### Is top-up me mat daalo
+
+`aagame` aaj SEO hire aur gift code. USDT line sirf purane agent post me. `smartwallet_sw1` aaj “Become an Agent”, USDT nahi. Account/MQR channels aur prediction gaming is list me nahi.
+
+**Paisa ka order:** pehle dono Active quality ads refill. Phir `zkpay108`. Phir `acpayschannel`. `tamilp2pusdt` last. Naya ad tabhi banao jab account me top-up dikhe. Abhi cabinet yahan se nahi khula.
 

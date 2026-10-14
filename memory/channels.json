@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04",
+  "updated_at": "2026-10-14",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -287,9 +287,10 @@
       "note": "Early earn worker drop; see diwapay re-qualified"
     },
     "payxwork01": {
-      "status": "WATCH",
-      "lane": "agent_restricted",
-      "note": "OLOPay/PayX — restricted; ED-adjacent Payx name — skip Ads"
+      "status": "DROP",
+      "lane": "hijacked",
+      "found_via": "Telemetr India ads CTA query supplier. Older note had it as restricted PayX.",
+      "note": "2026-10-14 fresh live audit overturns the old restricted watch: 32 subscribers, current posts are unrelated adult bots."
     },
     "cowpay": {
       "status": "DEAD",
@@ -778,8 +779,9 @@
     },
     "winmoneygrey": {
       "status": "DROP",
-      "lane": "weak",
-      "note": "SuperpayZ mid/weak"
+      "lane": "stale_agent_signup",
+      "found_via": "Existing memory plus web cache of old SuperpayZ USDT deposit ladder.",
+      "note": "2026-10-14 fresh audit: 1.89k/median 252/last 12 Jul. Current posts only recruit wallet agents. Old USDT ladder is no longer on the page."
     },
     "toppay_officialchannel": {
       "status": "DROP",
@@ -2155,6 +2157,54 @@
       "status": "DROP",
       "lane": "under_1k_b2b_gateway",
       "note": "2026-10-14: 212 members; B2B gateway, not Ads inventory."
+    },
+    "smartwallet_sw1": {
+      "status": "WATCH",
+      "lane": "china_pay_inr_orders",
+      "found_via": "Web cache of exchange_pay12 showed Smart Wallet USDT rates; that handle had reset. Telemetr brand query smartwallet then returned this official channel.",
+      "note": "2026-10-14 live: 79.1k/median 11800/last 14 Oct; catalog sponsored-eligible. Last 20 posts are INR-order payment guides for Mobikwik, PhonePe, Paytm Business and Freecharge. USDT is absent, so watch until a USDT amount returns."
+    },
+    "profitvaultindia": {
+      "status": "WATCH",
+      "lane": "account_operator",
+      "found_via": "Telemetr India ads CTA destinations for commission, MQR, payout, settlement and agent. Placement list ignored.",
+      "note": "2026-10-14 live: 1.19k/median 411/last 14 Oct. Post asks for Paytm Business, GPay Business and MQR, with $500 working capital and 4% pay-in commission. Public and active, but no USDT sell quote."
+    },
+    "KTTPAY_Official_Channel": {
+      "status": "DROP",
+      "lane": "stale_account_bonus",
+      "found_via": "Web exact search for corporate-account USDT bonus.",
+      "note": "2026-10-14 live: 2.58k/median 873/last 9 Jun. Old posts offered 100-1100 USDT for supplying bank accounts. Current post only seeks a USDT-INR broker."
+    },
+    "GasPe_IN": {
+      "status": "DROP",
+      "lane": "education",
+      "found_via": "Web exact search for public USDT sell-rate pages.",
+      "note": "2026-10-14 live: 1.17k/median 888/last 11 Oct. Current posts are Tamil crypto education and P2P freeze guidance. Older indexed $10-$100 sell lines are not on the current page."
+    },
+    "exchange_pay12": {
+      "status": "DROP",
+      "lane": "reset_channel",
+      "found_via": "Web cache showed 1 USDT = 104-106 and 50k/100k balances.",
+      "note": "2026-10-14 live: 39 subscribers and only a Channel created post. Cached USDT copy is gone."
+    },
+    "earningmaster1": {
+      "status": "DROP",
+      "lane": "not_a_channel",
+      "found_via": "Web result for 500 USDT at Rs 113.",
+      "note": "2026-10-14: t.me/s resolves to Contact @earningmaster1, a user. Telemetr still shows a stale 2.8k channel row."
+    },
+    "dragonspays": {
+      "status": "DROP",
+      "lane": "group_not_ads",
+      "found_via": "Telemetr catalog query gaming fund.",
+      "note": "2026-10-14: about 48k members but t.me/s is a group view and isSponsoredEligible=false. Ads cannot target it."
+    },
+    "gaming5789": {
+      "status": "DROP",
+      "lane": "group_not_ads",
+      "found_via": "Telemetr catalog query gaming fund; title said INR to USDT dealing.",
+      "note": "2026-10-14: group view with members online, no channel preview, sponsored-ineligible."
     }
   },
   "competitors_to_spy": [
@@ -3918,8 +3968,24 @@
     "new_separate_test": "acpayschannel",
     "gaming_micro_test_only": "aagame",
     "test_order": ["zkpay108", "acpayschannel", "tamilp2pusdt", "aagame"],
-    "account_rent_policy": "Exclude bank-account, MQR, OTP, SIM and Aadhaar recruitment: money-mule/freeze risk and wrong seller audience. Use only to snowball clean app-user sister channels.",
+    "account_rent_policy": "Re-opened 2026-10-14. Groups in this lane are real but Ads-ineligible. A public channel joins a separate test only when its current post shows the reader holds or receives USDT. Account/MQR recruitment alone stays off the seller list.",
     "strong_but_ads_ineligible": ["acpayofficial", "uonohub"],
     "result": "One strong new public China-pay app channel plus one broad gaming-agent micro-test; no account-rent channel recommended."
+  },
+  "account_lane_reopen_2026_10_14": {
+    "new_seller_channel": false,
+    "ads_not_edited": [28, 29],
+    "methods": [
+      {"name": "catalog phrase then brand sister", "queries": ["corporate account", "gaming fund", "smartwallet"], "found": "smartwallet_sw1"},
+      {"name": "India ads CTA destination", "queries": ["commission", "MQR", "payout", "settlement", "agent", "supplier"], "found": "profitvaultindia"},
+      {"name": "web exact t.me/s", "queries": ["USDT commission", "corporate account USDT bonus", "sell USDT"], "found": ["KTTPAY_Official_Channel", "GasPe_IN", "exchange_pay12", "earningmaster1"]},
+      {"name": "mention snowball", "seeds": ["KTTPAY_Official_Channel", "okpayofficial_en", "acpayschannel", "aagame", "winmoneygrey", "zkpay108", "TF_Exchange", "bhaartpay"], "found": "no new official channel"}
+    ],
+    "closest_public": {
+      "smartwallet_sw1": "79.1k/median 11800/today, INR-order workers, no USDT in last 20 posts",
+      "profitvaultindia": "1.19k/median 411/today, Paytm-GPay-MQR operators, $500 capital, no USDT sell line"
+    },
+    "groups_not_ads": ["dragonspays", "gaming5789", "indianacclimited", "sunpaygroup"],
+    "test_order_unchanged": ["zkpay108", "acpayschannel", "tamilp2pusdt", "aagame"]
   }
 }

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §78 gaming/China/account-lane hunt. New TEST `acpayschannel`; `aagame` micro-test only.
+**Last updated:** 2026-10-14 — §79 account-lane reopened with discovery paths. No new seller channel passed. Closest public misses: `smartwallet_sw1`, `profitvaultindia`.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3007,4 +3007,50 @@ User: gaming wale jo USDT dete hain, China apps aur “account wale” channels 
 5. `aagame` only as a tiny isolated experiment; judge seller DMs, not joins/clicks.
 
 Ads 28/29, text, destination and budget were not changed.
+
+---
+
+## 79) 2026-10-14 — account lane dubara, har find ka raasta save
+
+User: sister channel par rukna mat. Account wale channels me bhi genuine USDT sellers aate hain, unhe bhi dekho. Kaunsa channel kis approach se mila, woh save karo. Naye tareeke se aur gehra jao.
+
+### Naya tareeka jo is baar kaam aaya
+
+Purane `USDT` keywords groups ko chhod dete hain. Is baar do extra kadam lock hue:
+
+1. Telemetr catalog me `corporate account` aur `gaming fund` chalao. Wahan badi lists groups hain (`isSponsoredEligible=false`, `t.me/s` pe “members online”). Unke title se brand nikalo, phir brand dubara catalog me search karo. Isi se `smartwallet_sw1` mila.
+2. India ads archive me CTA destination rakho, placement nahi. Unused queries: `commission`, `MQR`, `payout`, `settlement`, `agent`, `supplier`. Isi se `profitvaultindia` baar-baar nikla. `USDT` query ne yeh destination pehle nahi diya.
+
+### Jo pass nahi hua, lekin ignore nahi kiya
+
+| Handle | Kaise mila | Live 2026-10-14 | Quote | Verdict |
+|---|---|---|---|---|
+| `smartwallet_sw1` | Web cache `@exchange_pay12` ne Smart Wallet USDT rate dikhaya. Live woh handle 39 subs pe reset tha. Brand search `smartwallet` ne official channel diya | **79.1k**, median **11,800**, last **aaj**. Catalog `isSponsoredEligible=true` | Last 20 posts me **USDT word zero**. Copy: INR order, Mobikwik / PhonePe / Paytm Business / Freecharge se payment, “Lock Order” | **WATCH.** Sabse bada naya public app-worker channel. Readers order pay kar rahe hain. USDT sell/deposit line is hafte nahi, isliye `zkpay108` / `acpayschannel` se upar nahi |
+| `profitvaultindia` | Ads CTA `commission` + `MQR` + `payout` + `settlement` | **1.19k**, median **411**, last **aaj** | “accounts, Paytm Business / GPay Business, MQR… Starting working capital $500… pay-in commission 4%” | **WATCH, seller test nahi.** Public aur zinda hai, lekin reader se account/MQR infrastructure manga ja raha hai. USDT bechne wali line nahi. Purana agent-lane yahi galat lead la chuka |
+| `KTTPAY_Official_Channel` | Web: “corporate account… bonus of 1100USDT” | 2.58k / med 873 / last **9 Jun** | Abhi ka post: channel khud “USDT to Indian Rupee exchange broker” dhoondh raha hai | **DROP stale.** Purane posts account dene par 100–1100 USDT bonus the. 4 mahine se seller board nahi |
+| `GasPe_IN` | Web: “sell USDT instantly”, $10–$100 | 1.17k / med 888 / last **11 Oct** | Current posts Tamil crypto YouTube aur P2P bank-freeze tips | **DROP education.** Purani chhoti sell-rate line current page par nahi |
+| `winmoneygrey` | Purana SuperpayZ memory + web USDT ladder | 1.89k / med 252 / last **12 Jul** | Current page sirf “wallet agent” signup | **DROP same.** USDT ladder ab current posts me nahi |
+| `okpayofficial_en` | Web/TGStat OKPAY | 1.2k / med 1490 / last **20 Jun** | Merchant gateway aur gambling-site list | **DROP stale B2B** |
+| `exchange_pay12` | Web snippet: “1 USDT = 104–106”, 50k/100k balance | Live **39 subs**, sirf “Channel created” | Cache purana hai | **DROP reset** |
+| `earningmaster1` | Web: “min 500$ USDT… ₹113” | `t.me/s` = **Contact @earningmaster1**. Channel nahi, user | — | **DROP not a channel.** Telemetr ka purana 2.8k row ab jhootha hai |
+| `payxwork01` | Ads CTA `supplier` | 32 subs, last posts adult bots | Hijack | **DROP** |
+| `dragonspays`, `gaming5789`, `indianacclimited`, `sunpaygroup` | Catalog `gaming fund` / `corporate account` | Group page: members + online. Preview khali. `isSponsoredEligible=false` | Account/OTP/gaming-fund groups | **Ads target nahi.** Yahan genuine log ho sakte hain, lekin Gram in groups ke andar ad nahi chala sakta |
+
+`Superpay33`, `smartwallet_sw`, `profit_vault`: catalog me the, live preview private. Ads inventory nahi.
+
+Mention snowball `KTTPAY_Official_Channel`, `okpayofficial_en`, `acpayschannel`, `aagame`, `winmoneygrey`, `zkpay108`, `TF_Exchange`, `bhaartpay`: naya official channel nahi. Staff, bots, aur pehle se khali sisters (`zkpay168`, `zkpay002`, `exchange_tf`).
+
+### Account lane ka seedha faisla
+
+Jo “account wale” public groups hain, unme Ads ki gun nahi chalti. Jo public channel us lane se nikla, uska current post account/MQR mangta hai ya purana ho chuka hai. Wahan “We Buy USDT” tab lagana hai jab post me reader ke paas USDT payout/deposit likha ho. Aaj woh line `profitvaultindia` aur `KTTPAY` par nahi hai.
+
+Test order same:
+
+1. Quality 5 untouched.
+2. `zkpay108`
+3. `acpayschannel`
+4. `tamilp2pusdt`
+5. `aagame` sirf micro-test
+
+`smartwallet_sw1` tab alag test ho jab uske post me USDT amount wapas aaye. Ads 28/29 nahi chhede.
 

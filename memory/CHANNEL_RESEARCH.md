@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §81 fresh recheck before budget. Refill the two live quality ads. Next new ads: `zkpay108`, then `acpayschannel`.
+**Last updated:** 2026-10-14 — §82 new ads by category. Delete nothing. Five new ads to create after top-up.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3129,4 +3129,24 @@ Purani Stopped ads On mat karo.
 `aagame` aaj SEO hire aur gift code. USDT line sirf purane agent post me. `smartwallet_sw1` aaj “Become an Agent”, USDT nahi. Account/MQR channels aur prediction gaming is list me nahi.
 
 **Paisa ka order:** pehle dono Active quality ads refill. Phir `zkpay108`. Phir `acpayschannel`. `tamilp2pusdt` last. Naya ad tabhi banao jab account me top-up dikhe. Abhi cabinet yahan se nahi khula.
+
+---
+
+## 82) 2026-10-14 — delete mat karo. Category-wise naye ads.
+
+User: delete kuch nahi. Jo naye mile, aur gaming samet alag categories, un par ads lagane hain.
+
+Chalte hue do ads ko haath mat lagana: `quality holders` aur `quality sellers`. Purani Stopped ads On nahi.
+
+Top-up ke baad **paanch naye ads**, har ek alag, CPM 5, wahi text, dest `t.me/safepathdeals`. Ek channel ek ad, taaki tez channel doosre ka budget na kha jaye.
+
+| Category | Handle | Live 14 Oct | Proof |
+|---|---|---|---|
+| Gaming-fund | `zkpay108` | 4.95k / med 4620 / aaj | ZKpay INR USDT SELL. Views channel ke barabar |
+| Gaming-fund | `MeteorpayEliteChannel00011` | 9.53k / med 1490 / aaj | “500 USDT → ₹3000 profit” aur “1000 USDT → ₹6000 profit”. Rate ₹109. 100 USDT slab bhi usi post me hai |
+| China-pay | `acpayschannel` | 14.5k / med 5250 / 13 Oct | “Recharge USDT on ACPay” |
+| Gaming | `aagame` | 240k / med 3940 / aaj | Agent commission USDT withdrawal. Aaj ke top posts gift code hain, isliye chhota ad |
+| Direct P2P | `tamilp2pusdt` | 2.96k / med 225 / aaj | `$500`, `$1000`, `$1500` sale |
+
+Is round me bahar: `smartwallet_sw1` (USDT line nahi), `profitvaultindia` (MQR/account), `waho_official_channal_1` (WhatsApp invite rewards), color-prediction channels. Cabinet is machine pe nahi khula, isliye ads yahan se create nahi hue.
 

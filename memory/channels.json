@@ -693,9 +693,10 @@
       "note": "2026-10-13 still last post 12 Mar, bank+MQR recruit. DROP stands."
     },
     "MeteorpayEliteChannel00011": {
-      "status": "WATCH",
-      "lane": "china_pay_agent",
-      "note": "2026-10-13 live 9.44k/med 1050/today. USDT ladder 100-1000 plus assistant hiring at 150 INR. Mixed. Not a quality add."
+      "status": "TEST",
+      "lane": "gaming_fund",
+      "found_via": "2026-10-14 fresh t.me/s recheck of the known Meteor channel. Web still indexes the same USDT ladder.",
+      "note": "2026-10-14 live: 9.53k/median 1490/last 14 Oct. Current post: 100, 200, 300, 400, 500 and 1000 USDT at Rs 109 versus Binance 104. Own new ad. Do not mix into the live quality ads. The 100 USDT slab is still on the same post."
     },
     "rhinopaymentchannel666666": {
       "status": "DROP",
@@ -4076,5 +4077,18 @@
     "dest_rate_2026_10_13": {"upi": 118, "bank": 114, "f2f": 117, "cdm": 114},
     "live_ad_text_bank": 115,
     "note": "Do not delete the live ads to change Bank 115 to 114."
+  },
+  "new_ads_by_category_2026_10_14": {
+    "delete_nothing": true,
+    "leave_running": ["quality holders", "quality sellers"],
+    "create_separate": [
+      {"category": "gaming_fund", "handle": "zkpay108", "why": "4.95k/median 4620/today"},
+      {"category": "gaming_fund", "handle": "MeteorpayEliteChannel00011", "why": "9.53k/median 1490/today, 500 and 1000 USDT on the post"},
+      {"category": "china_pay", "handle": "acpayschannel", "why": "14.5k/median 5250, recharge USDT"},
+      {"category": "gaming", "handle": "aagame", "why": "agent commissions support USDT withdrawals"},
+      {"category": "direct_p2p", "handle": "tamilp2pusdt", "why": "today 500, 1000 and 1500 USDT sale posts"}
+    ],
+    "not_ready": ["smartwallet_sw1", "profitvaultindia", "waho_official_channal_1", "prediction gaming channels"],
+    "ads_not_created_here": "ads.telegram.org login is not on this machine"
   }
 }

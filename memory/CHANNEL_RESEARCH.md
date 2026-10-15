@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-14 — §88 ads create. Ad 30 clients In Review. Ad 31 try In Review. Free 0.63.
+**Last updated:** 2026-10-15 — §89 live results. Clients best open ad. Try finished. Sellers weak.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3350,4 +3350,28 @@ Purani Active ads 28 aur 29 delete nahi, edit nahi, unke 5 channels naye ads mei
 | 31 `bulk try 4` | **In Review** | 7.00 | 10.00 | `smartwallet_sw1`, `aagame`, `swiftpay_official`, `ge8_payments_official` |
 
 Text: `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Dest `t.me/safepathdeals`. Dono se `safepathdeals` exclude hai. Active chuna tha. Telegram ne naye ads In Review kar diye. Approve ke baad spend hoga. Stopped ads On nahi ki. Free balance wapas **0.63**.
+
+---
+
+## 89) 2026-10-15 — subah ka cabinet. Kaun accha, kaun bekar.
+
+Free balance ab bhi **0.63**. Purani Stopped ads On nahi.
+
+| Ad | Status | CPM | Kharch | Bacha | Views | Clicks | Joins | Ek join |
+|---|---|---|---|---|---|---|---|---|
+| 28 `quality holders` | Active | 5 | 19.37 | 2.64 | 3,873 | 319 | **63** | **0.31 TON** |
+| 30 `bulk clients 3` | Active | 7 | 6.71 | 15.29 | 958 | 74 | **18** | **0.37 TON** |
+| 31 `bulk try 4` | Stopped | 7 | 10.00 | 0 | 1,429 | 78 | **17** | **0.59 TON** |
+| 29 `quality sellers` | Active | 5 | 7.26 | 10.74 | 1,452 | 39 | **5** | **1.45 TON** |
+
+Try ad ka pura 10 TON 14 Oct ko hi khatam. 15 Oct ko uska spend 0. Clients 3 aaj tez hai: 15 Oct ko 608 views / 4.26 TON, kal 350 / 2.45.
+
+Kal dopahar ke baad holders par **1** naya join. Sellers par **0** naya join, phir bhi 0.70 TON kharch.
+
+### Kya karna hai
+
+1. `bulk clients 3` chalne do. Abhi jo ad paisa kha ke join de rahi hai, yeh hai.
+2. `bulk try 4` mat bharo. 17 join aaye, bekar nahi, lekin clients se mehnga aur ek din mein khatam.
+3. `quality holders` ka 2.64 khatam hone do. Lifetime sabse sasta (63 join). Naya fund aaye to pehle yahan thoda, kyunki aakhri raat sirf 1 join tha.
+4. `quality sellers` On Hold karo, phir 10 TON nikal ke `bulk clients 3` mein daalo. Site Active ad se paise nahi nikalne deti. Yeh shift abhi nahi ki, ad Active hai. 10.74 usi mein pada hai aur join nahi aa rahe.
 

@@ -4284,5 +4284,16 @@
     ],
     "text": "We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115",
     "destination": "t.me/safepathdeals"
+  },
+  "ads_results_2026_10_15": {
+    "free_ton": 0.63,
+    "ranking": ["quality holders", "bulk clients 3", "bulk try 4", "quality sellers"],
+    "ads": [
+      {"id": 28, "name": "quality holders", "status": "Active", "cpm": 5, "spent": 19.37, "left": 2.64, "views": 3873, "clicks": 319, "joins": 63, "ton_per_join": 0.31},
+      {"id": 30, "name": "bulk clients 3", "status": "Active", "cpm": 7, "spent": 6.71, "left": 15.29, "views": 958, "clicks": 74, "joins": 18, "ton_per_join": 0.37},
+      {"id": 31, "name": "bulk try 4", "status": "Stopped", "cpm": 7, "spent": 10, "left": 0, "views": 1429, "clicks": 78, "joins": 17, "ton_per_join": 0.59},
+      {"id": 29, "name": "quality sellers", "status": "Active", "cpm": 5, "spent": 7.26, "left": 10.74, "views": 1452, "clicks": 39, "joins": 5, "ton_per_join": 1.45}
+    ],
+    "do": "Leave clients 3 running. Do not refill try 4. Let holders finish 2.64. Put sellers On Hold and move 10 TON into clients 3. That move was not done; the cabinet refuses a withdraw while the ad is Active."
   }
 }

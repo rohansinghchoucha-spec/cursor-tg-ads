@@ -3582,3 +3582,33 @@ Telegram Web login: OTP chala, 2FA password reject hua (2 try ke baad roka). Inv
 `safepathdeals` audience exclude nahi hota: "Target channel must have 1000+ subscribers".
 
 Note: resumed 28 aur 30 ne ~1.5 ghante mein 0 naye views (raat). Kal subah check.
+
+## 97) 2026-10-25 — Pakistan USDT market research + holding-size segments
+
+**Pakistan holders (web research, estimates):** ~26-27M crypto wallets; USDT is the main dollar hedge. On Binance P2P, USDT sells at a 2-3.7% premium (~Rs284 vs ~Rs277 official). Regulation: PVARA / Virtual Assets Act 2026. P2P is still grey, and banks freeze accounts on P2P inflows. Trust Wallet downloads: India ~8.5M vs Pakistan ~3.5M (2023).
+
+**Who holds / sells (PK):** freelancers (Upwork/Fiverr payouts over Binance Pay/Payoneer→USDT), overseas-remittance families (Gulf/UK), dollar-hedgers (hold, rarely sell), P2P merchants (sell daily), OTC / hawala-style desks (bulk), gaming / betting payment-gateway settlers (okpay, catpay: EasyPaisa/JazzCash rails).
+
+**Live audit of PK channels found via Telemetr (2026-10-25):**
+| handle | subs | median views | verdict |
+|---|---|---|---|
+| inr188 (okpay) | 344 | 1730 (forward-inflated) | DROP: <1000 subs, not Ads-eligible; posts "buy/rent Pakistani collection accounts" = mule-account red flag |
+| pkr9999 (okpay) | 88 | 2140 (inflated) | DROP: same network, not eligible |
+| pakistan_payment_gateway (catpay) | 1.3K | 31 | DROP: dead views, Chinese B2B |
+| usdtpakistanearnings, pakistan88888, tgapay1014, usdtpaki, binancepakistan | — | 0 | DEAD / no preview |
+| pakistanpaymentgate | private | — | BLOCK |
+| pakistancrypto | 3 | 51 | DEAD (2022) |
+
+**Main blocker:** the desk pays INR (UPI/Bank). PK sellers want PKR (EasyPaisa/JazzCash/bank). India↔Pakistan payments are blocked, so a PK campaign only makes sense if the desk gets a PKR payout partner. Until then: **no PK spend.**
+
+**Snapchat:** PK and IN are both targetable, but crypto = "complex financial product" → needs prior Snap approval + licence/authorization proof. The audience skews young retail (small holders). Verdict: HOLD until there is a licence document; not a bulk-seller channel anyway.
+
+**Telegram Ads for PK (if a PKR rail ever exists):** Users-type ad, country=Pakistan, language EN/UR, channel audiences = PK P2P/freelancer channels with real views (none found yet ≥1000 subs with real views). Search keywords: "usdt pkr", "sell usdt pakistan", "easypaisa usdt", "jazzcash usdt".
+
+**Holding-size segments (both markets, estimates):**
+| tier | USDT | INR approx | who | where reachable | priority |
+|---|---|---|---|---|---|
+| Small | 100–1,000 | ₹12k–1.2L | students, small freelancers, airdrop/task earners, gaming-app winners | Users ads, Snapchat (if approved), Search | low (below 500 min often) |
+| Mid | 1k–10k | ₹1.2L–12L | full-time freelancers, remittance families, active P2P sellers, China-pay app depositors | Channels ads on China-pay/wallet channels, Search "sell usdt" | **core** |
+| Bulk | 10k–1L | ₹12L–1.2Cr | P2P merchants, small OTC, gaming-fund settlers, xWallet bulk sellers | China-pay/xWallet channels, Users ads on rate channels, referrals | **highest value** |
+| Whale | 1L+ | ₹1.2Cr+ | OTC desks, payment-gateway operators, exporters/importers | not via ads; direct BD / referral only; high fraud/mule risk | KYC-heavy, manual |

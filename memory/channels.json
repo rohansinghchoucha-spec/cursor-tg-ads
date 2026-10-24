@@ -4771,5 +4771,29 @@
         "Search apps"
       ]
     }
+  },
+  "pakistan_research_2026_10_25": {
+    "date": "2026-10-25",
+    "topic": "Pakistan USDT market + holding-size segments",
+    "pk_channels_audited": {
+      "inr188": "DROP <1000 subs, okpay, buys/rents PK collection accounts (mule red flag)",
+      "pkr9999": "DROP 88 subs okpay",
+      "pakistan_payment_gateway": "DROP 1.3K subs 31 views catpay",
+      "usdtpakistanearnings": "DEAD",
+      "pakistan88888": "DEAD",
+      "tgapay1014": "DEAD",
+      "usdtpaki": "DEAD",
+      "binancepakistan": "DEAD",
+      "pakistanpaymentgate": "BLOCK private",
+      "pakistancrypto": "DEAD 2022"
+    },
+    "blocker": "Desk pays INR only; PK sellers need PKR; India-Pakistan payments blocked -> no PK spend until PKR payout partner",
+    "snapchat": "HOLD: PK+IN targetable but crypto needs Snap approval + licence proof; young small-holder audience",
+    "segments": {
+      "small_100_1k": "students/small freelancers/gaming winners - low",
+      "mid_1k_10k": "freelancers, remittance, P2P sellers, China-pay depositors - core",
+      "bulk_10k_100k": "P2P merchants, small OTC, gaming settlers, xWallet bulk - highest value",
+      "whale_100k_plus": "OTC desks/gateway operators - direct BD only, high mule risk"
+    }
   }
 }

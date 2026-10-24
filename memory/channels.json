@@ -4574,5 +4574,51 @@
       }
     ],
     "created_at_utc": "2026-10-24 21:46"
+  },
+  "all_methods_2026_10_25": {
+    "telegram_ads_unused_types": {
+      "search": {
+        "accepted_queries": [
+          "usdt sell",
+          "sell usdt",
+          "usdt inr",
+          "usdt to inr",
+          "usdt rate",
+          "usdt buyer",
+          "p2p usdt",
+          "crypto to inr",
+          "usdt exchange",
+          "binance p2p"
+        ],
+        "max_queries": 10,
+        "no_geo": true,
+        "market_ton_per_subscriber": 0.126
+      },
+      "users": {
+        "country_india": true,
+        "audience_channels_ok": [
+          "acpayschannel",
+          "linkxwalletnow"
+        ],
+        "groups_rejected": [
+          "dollar_exchanges",
+          "gxpayco"
+        ]
+      },
+      "bots": "not tested"
+    },
+    "groups": "Telegram Ads never in groups. Only admin paid pin or telega.io chats.",
+    "networks": {
+      "AdsGram": "official reseller, CPM>=1.5 USDT",
+      "Adexium": "India geo, $100 deposit",
+      "TADS": "$50",
+      "Adsun": "India"
+    },
+    "ad_admin_markets": [
+      "crypto_ads_chat",
+      "tgresou.com/marketplace"
+    ],
+    "do_not": "userbot spam, mass DM, group auto-post",
+    "risk": "Reddit flags China-app / gaming-fund high-rate lane as money-mule and bank-freeze risk"
   }
 }

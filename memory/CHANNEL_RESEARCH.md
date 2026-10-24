@@ -3473,3 +3473,40 @@ Free 40.63 tha. Ab **0.63**.
 | 31 `bulk try 4` | Band hi | Stopped | 7 | 0 | — |
 
 Naye ad ka text: `Wahan ₹109 · Hum ₹118 UPI · Min 500 USDT`. Dest `t.me/safepathdeals`, wahi exclude. Picture on. Daily views 1. Cabinet time 24 Oct 21:46 UTC = 25 Oct 03:16 IST. Approve ke baad spend hoga.
+
+---
+
+## 94) 2026-10-25 — har jagah ke tareeke. Groups, bots, search, panels.
+
+User: duniya bhar mein dhundho. Groups mein bhi kisi panel ya bot se ad lag sakta hai kya.
+
+### Telegram Ads cabinet ke andar (abhi tak use nahi kiya)
+
+Cabinet mein 4 target type: Channels (jo abhi chal raha hai), **Users**, **Search**, **Bots**. Live check:
+
+| Type | Kya karta hai | Hamare liye |
+|---|---|---|
+| **Search** | Koi Telegram search mein exact keyword likhe to sabse upar hamara channel dikhe. 10 keyword, 4–32 akshar. Text nahi, sirf channel ka naam. Country filter nahi | Cabinet ne yeh accept kiye: `usdt sell`, `sell usdt`, `usdt inr`, `usdt to inr`, `usdt rate`, `usdt buyer`, `p2p usdt`, `crypto to inr`, `usdt exchange`, `binance p2p`. Abhi `usdt inr` par "USDT P2P Bot", `usdt sell` par "Sell USDT Bot" dikhte hain, matlab bechne wale yahi search karte hain. Adsly (19 Oct 2026, TON accounts): search se subscriber **0.126 TON**, channel placement se 0.41. Volume kam |
+| **Users** | Country **India** + "Target channel audiences" = un logon ko ad jo hamare winning channels ke member hain, woh jahan bhi padhein | `acpayschannel`, `linkxwalletnow` accept. Groups ko mana: "Only public channels allowed" (`dollar_exchanges`, `gxpayco`). Adsly median audience CPM ~1 TON |
+| **Bots** | Kisi bot ke chat mein banner | USDT bots dhundhne baaki |
+
+**Groups mein Telegram Ads kabhi nahi chalti.** Users-audience bhi sirf public channel le sakta hai.
+
+### Bahar ke raaste
+
+| Raasta | Kaise | Note |
+|---|---|---|
+| Group admin se paid pin | Admin ko DM, 24h pin. Ya telega.io (groups mein 24h pin, TON/USDT payment) | Hamare known groups: `dollar_exchanges`, `gxpayco`, `gamingpay04`, 98Pay tier groups. Pehle chhota, escrow ke saath |
+| Ad-admin market groups | `@crypto_ads_chat` (2.9k, RU, 3% guarantor), TGSelect marketplace (CN "币圈交流群" pin $150/din) | India seller groups kam, vetting zaroori |
+| Mini-app / bot networks | AdsGram (official reseller, CPM ≥1.5 USDT, daily ≥10), Adexium (India geo, $100 deposit, bot msg CPM $1.5), TADS ($50), Adsun | Audience zyada airdrop / tap-game, seller kam. Last priority |
+| Reddit `r/USDTexchange` | Indian bulk buyer/seller post karte hain | Ads nahi, sirf research |
+
+**Nahi karna:** userbot / spam bot / mass DM / group auto-post (GitHub tools). Telegram account aur `safepathdeals` ban ho jata hai.
+
+**Risk note:** Reddit par is lane (China app, gaming fund, market se upar ₹105–118 rate) ko money-mule / bank freeze risk bola jata hai. User ko bata diya.
+
+### Test plan
+
+1. Search ad: dest `safepathdeals`, 10 keyword upar wale, CPM ~3, budget 5–10 TON.
+2. Users ad: India + audiences `acpayschannel`, `linkxwalletnow`, `MeteorpayEliteChannel00011`, `atgofficiale`, `pay98pay`, `atgpay_iop`. CPM 2–3, budget 10 TON.
+3. Ek group admin se 24h pin, chhota amount.

@@ -3512,3 +3512,53 @@ Cabinet mein 4 target type: Channels (jo abhi chal raha hai), **Users**, **Searc
 3. Ek group admin se 24h pin, chhota amount.
 
 **Cabinet "Add similar channels" (getSimilarChannels) test, 25 Oct:** `acpayschannel`, `linkxwalletnow`, `MeteorpayEliteChannel00011`, `pay98pay`, `atgpay_iop`, `zkpay108` par 0 result. Sirf `atgofficiale` ne 11 diye, sab color-prediction / betting / loot (`SuperWin_prediction`, `fastwin_app`, `Official_DamanBet`, `Ezzy_Looters` 10.6k earn-loot, `coinMatrixofficialC` 0 views). **Koi kaam ka nahi.** Yeh button seller discovery ke liye bekar.
+
+---
+
+## 95) 2026-10-25 — naye apps (Reddit / web) + Search aur Users ads ki pro research
+
+### Naye apps (web + Reddit + Telemetr), live audit
+
+| Handle | Live | Verdict |
+|---|---|---|
+| `cowpayannouncement` | 29.5k / med 1,630 / last **3 Jul** | DROP, band |
+| `cowpayindia` | 1.02k / med 1,270 / 16 Oct | WATCH. Pakistan account provider, "pure gaming funds" recruit |
+| `cowpayqrcodescanningchannel` | 2.08k / med 268 / 30 Sep. Rate 108.7 | Weak |
+| `passpaywallets` (OnePay) | 4.93k / 7 Sep app offline, Mobikwik OTP maangta hai | DROP, fraud |
+| `tivrapay_gbpay` | 966 / med 97. 1 USDT ₹108.5 recharge | DROP, chhota |
+| `monipay_official` | 50 subs | DROP |
+| `cocopayplus`, `USDT_MARKET_TRUSTPAY`, `dailyusdtdeals` | Preview band | Ads eligibility pehle check |
+| fake PhonePe / `verify_docs_pass` | Fraud | BLOCK |
+
+Web par naye brand: MoniPay (₹110, monipay.in), OnePay (one-pay.online ₹105–106), TrustPay (TGAdsSpy: CocoPay, `dam1777777` group, `linkpay8` par ad chala). Koi naya strong public channel nahi. `pay98pay` hi best naya.
+
+### Search ads — data (Adsly, 11,596 search campaigns, 19 Oct 2026)
+
+- TON accounts: CPM median **1.0** (25% 0.2, 75% 6.9). CTR 2.9–6%. Subscriber **0.126 TON** (channels 0.41).
+- 10 keyword wale campaign ko 1 keyword wale se ~9x zyada views, sasta click. **Hamesha 10 bharo.**
+- Exact match. Ek word = volume, phrase = zyada CTR par ~10x mehnga.
+- Crypto keyword ads **28% decline** (102/363). Keyword channel se related ho.
+- Competitor brand keyword ki rule mein mana nahi; brand ka naam title mein mat daalo (4.4, 5.3).
+- Ad mein text nahi, sirf channel naam + photo. Channel title hi creative hai.
+- Volume chhota. Channel ads ke saath chalao, unki jagah nahi.
+
+Cabinet ne accept kiye (sample result): `usdt sell`, `sell usdt`, `usdt inr`, `usdt to inr`, `usdt rate`, `usdt buyer`, `usdt seller`, `usdt upi`, `usdt sell rate`, `p2p usdt`, `crypto to inr`, aur app naam `98pay`, `zkpay`, `acpay`, `linkpay`, `meteorpay`, `xwallet`, `atgpay`, `trustpay`, `hoyopay`, `diwapay`. App naam search karne wale = us app ke user.
+
+### Users (audience) ads — data
+
+- Adsly TON India: CPM **0.42**, CTR **1.77%**, click 0.024 TON. Hum channel ads par CPM 5–7 de rahe (niche competition).
+- Target channel audiences = un channels ke subscriber ko ad doosre channels mein bhi. Country + audience saath chalta hai. Chhoti audience ko topic/device se mat sikodo (ppc.world), warna delivery ruk jaati hai.
+- Placement: Message in Channel / Banner in Video / Banner in Bot.
+
+### Bots ads
+
+Rule: target bot ke **1000+ daily users**. App bots fail: `ACPayBot`, `diwapay_bot`, `HoYoPay1_bot`, `TrustPayuBot`, `atgpay_mch_bot`, `gaspebot`. Pass: `aagameofficial_bot`, `wallet`, `CryptoBot` (global, country filter nahi). Bot ad abhi skip. Users ad mein "Banner in Bot" + India alag test ho sakta hai.
+
+### Pro plan (fund aane par)
+
+1. **Search A (intent)** 5 TON CPM 1.5: `usdt sell`, `sell usdt`, `usdt inr`, `usdt to inr`, `usdt rate`, `usdt buyer`, `usdt seller`, `usdt upi`, `usdt sell rate`, `crypto to inr`.
+2. **Search B (app users)** 5 TON CPM 1.5: `98pay`, `zkpay`, `acpay`, `linkpay`, `meteorpay`, `xwallet`, `atgpay`, `trustpay`, `hoyopay`, `diwapay`.
+3. **Users** 10 TON CPM 1.5: India + audiences `acpayschannel`, `linkxwalletnow`, `MeteorpayEliteChannel00011`, `atgofficiale`, `pay98pay`, `atgpay_iop`, `zkpay108`. Exclude audience `safepathdeals`. Message in Channel. Topic/device nahi.
+4. Pehle `safepathdeals` ka title: `Sell USDT ₹118 UPI | Nexa Desk`.
+5. Har channel/users ad ka alag invite link, taaki DM wale seller ka source pata chale. Search ad invite link nahi le sakta.
+6. Kill rule: 3 TON kharch par 3 se kam join = band. Join < 0.35 TON = budget double. Asli score = 500+ USDT wale DM, join nahi.

@@ -4620,5 +4620,84 @@
     ],
     "do_not": "userbot spam, mass DM, group auto-post",
     "risk": "Reddit flags China-app / gaming-fund high-rate lane as money-mule and bank-freeze risk"
+  },
+  "search_users_research_2026_10_25": {
+    "new_apps": {
+      "DROP": [
+        "cowpayannouncement",
+        "passpaywallets",
+        "tivrapay_gbpay",
+        "monipay_official",
+        "monipay"
+      ],
+      "WATCH": {
+        "cowpayindia": "1.02k/1270 gaming-fund account recruit",
+        "cowpayqrcodescanningchannel": "2.08k/268 rate 108.7"
+      },
+      "CHECK": [
+        "cocopayplus",
+        "USDT_MARKET_TRUSTPAY",
+        "dailyusdtdeals"
+      ],
+      "BLOCK": [
+        "fake_phonepe channels",
+        "verify_docs_pass"
+      ]
+    },
+    "search_keywords_intent": [
+      "usdt sell",
+      "sell usdt",
+      "usdt inr",
+      "usdt to inr",
+      "usdt rate",
+      "usdt buyer",
+      "usdt seller",
+      "usdt upi",
+      "usdt sell rate",
+      "crypto to inr"
+    ],
+    "search_keywords_apps": [
+      "98pay",
+      "zkpay",
+      "acpay",
+      "linkpay",
+      "meteorpay",
+      "xwallet",
+      "atgpay",
+      "trustpay",
+      "hoyopay",
+      "diwapay"
+    ],
+    "users_audiences": [
+      "acpayschannel",
+      "linkxwalletnow",
+      "MeteorpayEliteChannel00011",
+      "atgofficiale",
+      "pay98pay",
+      "atgpay_iop",
+      "zkpay108"
+    ],
+    "bots": {
+      "rejected_under_1000_daily": [
+        "ACPayBot",
+        "diwapay_bot",
+        "HoYoPay1_bot",
+        "TrustPayuBot",
+        "atgpay_mch_bot",
+        "gaspebot"
+      ],
+      "eligible": [
+        "aagameofficial_bot",
+        "wallet",
+        "CryptoBot"
+      ]
+    },
+    "benchmarks": {
+      "search_ton_cpm_median": 1.0,
+      "search_ton_per_sub": 0.126,
+      "india_ton_cpm": 0.42,
+      "india_ton_ctr": 0.0177,
+      "crypto_search_decline_rate": 0.28
+    }
   }
 }

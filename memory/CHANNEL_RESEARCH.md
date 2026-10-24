@@ -3419,3 +3419,20 @@ User: China apps / wallet apps se hi bulk seller aaye the. Unke aur apps aur unk
 ### Agla step
 
 Cabinet login ho to: `bulk clients 3` ka status dekho. Fund ho to `pay98pay` ko `bulk clients 3` jaisi bulk ad mein CPM 7 par daalo. Text mein rate compare: `98Pay 109 · Hum ₹118 UPI`.
+
+---
+
+## 91) 2026-10-25 — cabinet login (+44 confirm). Final numbers.
+
+Free balance **0.63 TON**. Sirf `quality sellers` Active, 2.34 TON bacha.
+
+| Ad | Status | Budget | Views | Clicks | Joins | Ek join |
+|---|---|---|---|---|---|---|
+| 28 `quality holders` | Stopped, khatam | ~22 | 4,402 | 352 | **76** | **0.29 TON** |
+| 30 `bulk clients 3` | Stopped, khatam | 22 | 3,145 | 236 | **50** | **0.44 TON** |
+| 31 `bulk try 4` | Stopped, khatam | 10 | 1,429 | 78 | **17** | 0.59 TON |
+| 29 `quality sellers` | **Active** | 2.34 bacha | 3,132 | 85 | **14** | 1.12 TON |
+
+15 Oct ke baad: holders +13, clients 3 +32, sellers +9. Lifetime sabse zyada joins purani `8 new china pay` (334) aur `china apps 10` (143).
+
+Agla fund: holders ke channels (`linkxwalletnow`, `atgofficiale`) + clients 3 ke channels + naya `pay98pay`. Sellers ko refill mat karo.

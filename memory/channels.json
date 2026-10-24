@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-25",
   "brand": "Nexa Desk Pay",
   "destination": "t.me/safepathdeals",
   "support": [
@@ -4417,5 +4417,66 @@
       "correctwallet"
     ],
     "note": "Most board brands have no public channel >=1k with real views; their sellers sit in private groups or support handles."
+  },
+  "ads_results_2026_10_25": {
+    "free_ton": 0.63,
+    "ads": [
+      {
+        "id": 31,
+        "name": "bulk try 4",
+        "status": "Stopped",
+        "cpm": 7,
+        "budget_total": 10,
+        "left": 0,
+        "views": 1429,
+        "clicks": 78,
+        "joins": 17,
+        "ton_per_join": 0.59
+      },
+      {
+        "id": 30,
+        "name": "bulk clients 3",
+        "status": "Stopped",
+        "cpm": 7,
+        "budget_total": 22,
+        "left": 0,
+        "views": 3145,
+        "clicks": 236,
+        "joins": 50,
+        "ton_per_join": 0.44
+      },
+      {
+        "id": 29,
+        "name": "quality sellers",
+        "status": "Active",
+        "cpm": 5,
+        "left": 2.34,
+        "views": 3132,
+        "clicks": 85,
+        "joins": 14,
+        "ton_per_join": 1.12
+      },
+      {
+        "id": 28,
+        "name": "quality holders",
+        "status": "Stopped",
+        "cpm": 5,
+        "left": 0,
+        "views": 4402,
+        "clicks": 352,
+        "joins": 76,
+        "ton_per_join": 0.29
+      }
+    ],
+    "history_joins": {
+      "8 new china pay": 334,
+      "china apps 10": 143,
+      "8 channel testing": 131,
+      "agent settlement 10": 35,
+      "china wave3 desks": 21,
+      "china wave2 8": 3,
+      "7": 7
+    },
+    "note": "Login via +44 confirm on 2026-10-25. Only quality sellers still running, 2.34 TON left."
   }
 }

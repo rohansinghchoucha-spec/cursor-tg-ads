@@ -3436,3 +3436,24 @@ Free balance **0.63 TON**. Sirf `quality sellers` Active, 2.34 TON bacha.
 15 Oct ke baad: holders +13, clients 3 +32, sellers +9. Lifetime sabse zyada joins purani `8 new china pay` (334) aur `china apps 10` (143).
 
 Agla fund: holders ke channels (`linkxwalletnow`, `atgofficiale`) + clients 3 ke channels + naya `pay98pay`. Sellers ko refill mat karo.
+
+---
+
+## 92) 2026-10-25 — refill se pehle live check. Final ad plan.
+
+| Handle | Live aaj | Verdict |
+|---|---|---|
+| `acpayschannel` | 15.5k / med 4,870 / 24 Oct. USDT sell | **KEEP**, sabse strong |
+| `linkxwalletnow` | 36k / med 1,810 / 24 Oct. USDT | **KEEP** (holders ad) |
+| `MeteorpayEliteChannel00011` | 10.1k / med 1,530 / 24 Oct. USDT deposit | **KEEP** |
+| `atgofficiale` | 4.71k / med 1,020 / 24 Oct. Last posts 555→139 gir rahe | **KEEP**, nazar rakho |
+| `atgpay_iop` | 2.27k / med 3,010 / 20 Oct. Post: USDT SELL ₹108.1, min deposit 10 USDT | **ADD**. Hamara 118 isse upar. `8 new china pay` mein proven |
+| `pay98pay` | 8.23k / med 2,020 / 21 Oct. Rate 109, last 5 posts 415–1,060 | **TEST** |
+| `zkpay108` | 4.99k / 14 Oct ke baad post nahi | **PAUSE**. Naya post aaye tab wapas |
+| `linkpay8` | 31.3k / med 11.3k / aaj. Token buy, INR worker | Quality mein nahi. LinkPay login-junk history |
+| `diwapay` | 80.6k / med 7.3k. Sirf ₹ posts | Quality mein nahi |
+| `smartwallet_sw1` | 70.3k / med 4.7k. USDT word nahi | Nahi |
+| `swiftpay_official` | 9.4k, last posts 167–657 | Nahi |
+| `mobiuspe0` 1.8k/169 · `mobiuspayofficial1` 1.5k/66 · `t_zkpay_999pay` 7k/153 · `jaypay_8` 6.9k/484 · `ultrapay_official` 3 subs · `showpayindia` preview nahi | Dead / weak | **DROP** |
+
+**Plan (40 TON):** holders `linkxwalletnow` + `atgofficiale` 15 TON CPM 5 · clients `acpayschannel` + `MeteorpayEliteChannel00011` + `atgpay_iop` 15 TON CPM 7 · `pay98pay` test 10 TON CPM 7, text `98Pay 109 · Hum ₹118 UPI`.

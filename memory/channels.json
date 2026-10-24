@@ -4478,5 +4478,41 @@
       "7": 7
     },
     "note": "Login via +44 confirm on 2026-10-25. Only quality sellers still running, 2.34 TON left."
+  },
+  "refill_check_2026_10_25": {
+    "keep": [
+      "acpayschannel",
+      "linkxwalletnow",
+      "MeteorpayEliteChannel00011",
+      "atgofficiale"
+    ],
+    "add": {
+      "atgpay_iop": "2.27k / med 3010 / 20 Oct. USDT SELL 108.1, min deposit 10 USDT"
+    },
+    "test": {
+      "pay98pay": "8.23k / med 2020 / 21 Oct"
+    },
+    "pause": {
+      "zkpay108": "no post since 14 Oct"
+    },
+    "not_quality": {
+      "linkpay8": "31.3k/11.3k token-buy INR worker, login junk",
+      "diwapay": "80.6k/7.3k only INR",
+      "smartwallet_sw1": "no USDT",
+      "swiftpay_official": "recent views 167-657"
+    },
+    "drop": [
+      "mobiuspe0",
+      "mobiuspayofficial1",
+      "t_zkpay_999pay",
+      "jaypay_8",
+      "ultrapay_official",
+      "showpayindia"
+    ],
+    "plan_ton": {
+      "holders": 15,
+      "clients_acpay_meteor_atgpay": 15,
+      "pay98pay_test": 10
+    }
   }
 }

@@ -3375,3 +3375,47 @@ Kal dopahar ke baad holders par **1** naya join. Sellers par **0** naya join, ph
 3. `quality holders` ka 2.64 khatam hone do. Lifetime sabse sasta (63 join). Naya fund aaye to pehle yahan thoda, kyunki aakhri raat sirf 1 join tha.
 4. `quality sellers` On Hold karo, phir 10 TON nikal ke `bulk clients 3` mein daalo. Site Active ad se paise nahi nikalne deti. Yeh shift abhi nahi ki, ad Active hai. 10.74 usi mein pada hai aur join nahi aa rahe.
 
+
+---
+
+## 90) 2026-10-24 — apps ke channel hunt. Last ads kahan the.
+
+User: China apps / wallet apps se hi bulk seller aaye the. Unke aur apps aur unke TG channel dhundho. Last ads kahan lage the, woh bhi dekho.
+
+**Cabinet:** is baar nahi khula. Naya VM, Telegram Ads cookie nahi, login ke liye user ke phone par confirm chahiye. Last placement §87–89 se.
+
+| Ad | Channels | 15 Oct result |
+|---|---|---|
+| 28 `quality holders` | `linkxwalletnow`, `atgofficiale` | 63 join, 0.31 TON/join, sabse sasta |
+| 30 `bulk clients 3` | `zkpay108`, `acpayschannel`, `MeteorpayEliteChannel00011` | 18 join, 0.37 TON/join, 15.29 TON bacha tha |
+| 31 `bulk try 4` | `smartwallet_sw1`, `aagame`, `swiftpay_official`, `ge8_payments_official` | 17 join, 0.59 TON/join, 10 TON ek din mein khatam |
+| 29 `quality sellers` | `TF_Exchange`, `bhaartpay`, `quickpayoffical1` | 5 join, 1.45 TON/join, bekar |
+
+**Naya tareeka:** `tools/board_mine.py`. Promo boards aur jeetne wale app channels ki history padhta hai. Har post se `*pay / *wallet / *pe` brand, handle, aur registration domain ginta hai. Phir brand ko Telemetr mein search, phir `t.me/s` audit.
+
+22 channel mine kiye. ~46 app brand mile (RSWallet, GasPe, BhaaratPay, ZooPay, ShoppingPay, SpringPay, NeoPay, UdayPay, SetuPay, AidPay, KTKPay, 98Pay, IndusPay...). Inme zyada tar ka public channel 1k se kam ya dead views. Unke seller private group ya support handle par hain.
+
+### Naya TEST
+
+| Handle | Live | Kyun |
+|---|---|---|
+| `pay98pay` | 8.21k / med 2,009 / 21 Oct | USDT deposit app. Post: Binance 95, 98Pay rate 109, 10 USDT se deposit. Hamara 118 isse upar. Catalog eligible |
+
+98Pay ke amount-wise group bhi hain (`pay98_500_1000`, `pay98_1001_5000`, `pay98_5001_10000`, `pay98_10001_20000`). Yeh group hain, Ads target nahi kar sakti.
+
+### WATCH (USDT line nahi ya views pe bharosa nahi)
+
+| Handle | Live | Wajah |
+|---|---|---|
+| `zayropays` | 6.95k / med 1,690 / 21 Oct | Buy-sell app, deposit ₹100 se, INR. USDT amount nahi |
+| `indwallet` | 16.6k / med 1,700 / 24 Oct | Rp points order-taker, UPI/Mobikwik. USDT nahi. Catalog mein nahi |
+| `jdpay668` | 5.77k / med 1,290 / 24 Oct | INR order app. USDT nahi. Catalog mein nahi |
+| `aceov_channel1` | 5.13k / med 26.7k spiky / 6 Oct | USDT VIP investment. Holder hain par ponzi, views forward wale |
+
+### DROP
+
+`shoppingpay2` (UPI earning, USDT nahi) · `rtxusdtpay` 10.2k/134 · `lunopayoff009` 10.3k/117 · `afcquofficial` 22.1k/169 · `rswalletearnings` 1.25k/71 · `ktkpay1` 2.62k/111 · `officalipay` 1.82k/344 INR token · `dtpaysuraj` Mar 2025 · `usdtautopays` Feb · `gopay_official_channel` Jun · 1k se kam: `hoyopay_official_channel`, `sharewalletin`, `nivo_pay`, `setupay`, `gopay_888`, `raipay11`, `gmoneyindia`, `inr188`, `shoppingpay_official`, `aidpayapp`, `induspay`.
+
+### Agla step
+
+Cabinet login ho to: `bulk clients 3` ka status dekho. Fund ho to `pay98pay` ko `bulk clients 3` jaisi bulk ad mein CPM 7 par daalo. Text mein rate compare: `98Pay 109 · Hum ₹118 UPI`.

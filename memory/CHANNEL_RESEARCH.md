@@ -3510,3 +3510,5 @@ Cabinet mein 4 target type: Channels (jo abhi chal raha hai), **Users**, **Searc
 1. Search ad: dest `safepathdeals`, 10 keyword upar wale, CPM ~3, budget 5–10 TON.
 2. Users ad: India + audiences `acpayschannel`, `linkxwalletnow`, `MeteorpayEliteChannel00011`, `atgofficiale`, `pay98pay`, `atgpay_iop`. CPM 2–3, budget 10 TON.
 3. Ek group admin se 24h pin, chhota amount.
+
+**Cabinet "Add similar channels" (getSimilarChannels) test, 25 Oct:** `acpayschannel`, `linkxwalletnow`, `MeteorpayEliteChannel00011`, `pay98pay`, `atgpay_iop`, `zkpay108` par 0 result. Sirf `atgofficiale` ne 11 diye, sab color-prediction / betting / loot (`SuperWin_prediction`, `fastwin_app`, `Official_DamanBet`, `Ezzy_Looters` 10.6k earn-loot, `coinMatrixofficialC` 0 views). **Koi kaam ka nahi.** Yeh button seller discovery ke liye bekar.

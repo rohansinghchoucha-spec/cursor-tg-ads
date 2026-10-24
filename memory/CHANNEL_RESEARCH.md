@@ -3457,3 +3457,19 @@ Agla fund: holders ke channels (`linkxwalletnow`, `atgofficiale`) + clients 3 ke
 | `mobiuspe0` 1.8k/169 · `mobiuspayofficial1` 1.5k/66 · `t_zkpay_999pay` 7k/153 · `jaypay_8` 6.9k/484 · `ultrapay_official` 3 subs · `showpayindia` preview nahi | Dead / weak | **DROP** |
 
 **Plan (40 TON):** holders `linkxwalletnow` + `atgofficiale` 15 TON CPM 5 · clients `acpayschannel` + `MeteorpayEliteChannel00011` + `atgpay_iop` 15 TON CPM 7 · `pay98pay` test 10 TON CPM 7, text `98Pay 109 · Hum ₹118 UPI`.
+
+---
+
+## 93) 2026-10-25 — 40 TON live. 2 purane resume, 1 naya.
+
+Free 40.63 tha. Ab **0.63**.
+
+| Ad | Kaam | Status | CPM | Budget | Channels |
+|---|---|---|---|---|---|
+| 28 `quality holders` | Resume | **Active** | 5 | 15 | `linkxwalletnow`, `atgofficiale` |
+| 30 `bulk clients 3` | Resume | **Active** | 7 | 15 | `zkpay108`, `acpayschannel`, `MeteorpayEliteChannel00011` |
+| 32 `rate beat test` | Naya | **In Review** | 7 | 10 | `pay98pay`, `atgpay_iop` |
+| 29 `quality sellers` | Nahi chheda | Active | 5 | 2.33 bacha | `TF_Exchange`, `bhaartpay`, `quickpayoffical1` |
+| 31 `bulk try 4` | Band hi | Stopped | 7 | 0 | — |
+
+Naye ad ka text: `Wahan ₹109 · Hum ₹118 UPI · Min 500 USDT`. Dest `t.me/safepathdeals`, wahi exclude. Picture on. Daily views 1. Cabinet time 24 Oct 21:46 UTC = 25 Oct 03:16 IST. Approve ke baad spend hoga.

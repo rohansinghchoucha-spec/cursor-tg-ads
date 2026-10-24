@@ -4514,5 +4514,65 @@
       "clients_acpay_meteor_atgpay": 15,
       "pay98pay_test": 10
     }
+  },
+  "ads_launched_2026_10_25": {
+    "free_before": 40.63,
+    "free_after": 0.63,
+    "resumed": [
+      {
+        "id": 28,
+        "name": "quality holders",
+        "cpm": 5,
+        "budget_ton": 15,
+        "status": "Active",
+        "channels": [
+          "linkxwalletnow",
+          "atgofficiale"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "bulk clients 3",
+        "cpm": 7,
+        "budget_ton": 15,
+        "status": "Active",
+        "channels": [
+          "zkpay108",
+          "acpayschannel",
+          "MeteorpayEliteChannel00011"
+        ]
+      }
+    ],
+    "created": [
+      {
+        "id": 32,
+        "name": "rate beat test",
+        "status": "In Review",
+        "cpm": 7,
+        "budget_ton": 10,
+        "channels": [
+          "pay98pay",
+          "atgpay_iop"
+        ],
+        "text": "Wahan ₹109 · Hum ₹118 UPI · Min 500 USDT",
+        "exclude": "safepathdeals",
+        "picture": true,
+        "views_per_user": 1
+      }
+    ],
+    "untouched": [
+      {
+        "id": 29,
+        "name": "quality sellers",
+        "status": "Active",
+        "left": 2.33
+      },
+      {
+        "id": 31,
+        "name": "bulk try 4",
+        "status": "Stopped"
+      }
+    ],
+    "created_at_utc": "2026-10-24 21:46"
   }
 }

@@ -3562,3 +3562,23 @@ Rule: target bot ke **1000+ daily users**. App bots fail: `ACPayBot`, `diwapay_b
 4. Pehle `safepathdeals` ka title: `Sell USDT ₹118 UPI | Nexa Desk`.
 5. Har channel/users ad ka alag invite link, taaki DM wale seller ka source pata chale. Search ad invite link nahi le sakta.
 6. Kill rule: 3 TON kharch par 3 se kam join = band. Join < 0.35 TON = budget double. Asli score = 500+ USDT wale DM, join nahi.
+
+---
+
+## 96) 2026-10-25 — Users + 2 Search ads live. Tracking setup.
+
+User ne 20 TON daala. Sirf 12 lagaya, **8.63 bacha** (user: pura mat kharch karo). Channel ka naam **mat badlo** (user ka order).
+
+Telegram Web login: OTP chala, 2FA password reject hua (2 try ke baad roka). Invite links user ne khud banaye.
+
+| Ad | Type | Status | CPM | Budget | Link | Target |
+|---|---|---|---|---|---|---|
+| `users india apps` | Users | In Review | 1.5 | 6 | invite `Users` (`t.me/+hSkyTs1kg_8wMTNk`) | India + audience `linkxwalletnow`, `acpayschannel`, `MeteorpayEliteChannel00011`, `atgofficiale`, `pay98pay`, `atgpay_iop`, `zkpay108`. Message in Channel, picture on, 1 view/din. Text `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115` |
+| `search sell` | Search | **Active** | 1.5 | 3 | `t.me/safepathdeals` | `usdt sell`, `sell usdt`, `usdt inr`, `usdt to inr`, `usdt rate`, `usdt buyer`, `usdt seller`, `usdt upi`, `usdt sell rate`, `crypto to inr` |
+| `search apps` | Search | In Review | 1.5 | 3 | `t.me/safepathdeals` | `xwallet`, `x wallet`, `linkxwallet`, `98pay`, `zkpay`, `acpay`, `linkpay`, `meteorpay`, `atgpay`, `diwapay` |
+
+**Tracking:** Search ads invite link nahi lete ("Invite link is not supported"). Users / Channels ads lete hain. Invite links `Search sell` (`t.me/+1fYdbcTwkHY2MTk0`) aur `Search apps` (`t.me/+CPSO4XpebRg0MDc0`) abhi khali; agle channel ads mein use karo. Client source: channel → Invite links → us link par joined list. Plain link se join = search ya purane ads 28/29/30/32.
+
+`safepathdeals` audience exclude nahi hota: "Target channel must have 1000+ subscribers".
+
+Note: resumed 28 aur 30 ne ~1.5 ghante mein 0 naye views (raat). Kal subah check.

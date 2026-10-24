@@ -4699,5 +4699,77 @@
       "india_ton_ctr": 0.0177,
       "crypto_search_decline_rate": 0.28
     }
+  },
+  "users_search_launch_2026_10_25": {
+    "free_after": 8.63,
+    "do_not_rename_channel": true,
+    "ads": [
+      {
+        "name": "users india apps",
+        "type": "users",
+        "status": "In Review",
+        "cpm": 1.5,
+        "budget": 6,
+        "link": "invite Users",
+        "country": "India",
+        "audiences": [
+          "linkxwalletnow",
+          "acpayschannel",
+          "MeteorpayEliteChannel00011",
+          "atgofficiale",
+          "pay98pay",
+          "atgpay_iop",
+          "zkpay108"
+        ]
+      },
+      {
+        "name": "search sell",
+        "type": "search",
+        "status": "Active",
+        "cpm": 1.5,
+        "budget": 3,
+        "link": "t.me/safepathdeals",
+        "queries": [
+          "usdt sell",
+          "sell usdt",
+          "usdt inr",
+          "usdt to inr",
+          "usdt rate",
+          "usdt buyer",
+          "usdt seller",
+          "usdt upi",
+          "usdt sell rate",
+          "crypto to inr"
+        ]
+      },
+      {
+        "name": "search apps",
+        "type": "search",
+        "status": "In Review",
+        "cpm": 1.5,
+        "budget": 3,
+        "link": "t.me/safepathdeals",
+        "queries": [
+          "xwallet",
+          "x wallet",
+          "linkxwallet",
+          "98pay",
+          "zkpay",
+          "acpay",
+          "linkpay",
+          "meteorpay",
+          "atgpay",
+          "diwapay"
+        ]
+      }
+    ],
+    "tracking": {
+      "search_invite_links": "not supported",
+      "users_invite_links": "supported",
+      "unused_links": [
+        "Search sell",
+        "Search apps"
+      ]
+    }
   }
 }

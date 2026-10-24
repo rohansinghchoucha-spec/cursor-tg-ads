@@ -3612,3 +3612,12 @@ Note: resumed 28 aur 30 ne ~1.5 ghante mein 0 naye views (raat). Kal subah check
 | Mid | 1k–10k | ₹1.2L–12L | full-time freelancers, remittance families, active P2P sellers, China-pay app depositors | Channels ads on China-pay/wallet channels, Search "sell usdt" | **core** |
 | Bulk | 10k–1L | ₹12L–1.2Cr | P2P merchants, small OTC, gaming-fund settlers, xWallet bulk sellers | China-pay/xWallet channels, Users ads on rate channels, referrals | **highest value** |
 | Whale | 1L+ | ₹1.2Cr+ | OTC desks, payment-gateway operators, exporters/importers | not via ads; direct BD / referral only; high fraud/mule risk | KYC-heavy, manual |
+
+## 98) 2026-10-25 — In-review ads rate fix (latest rate rule)
+
+Latest rate post: `safepathdeals` 2026-10-24 16:58 IST → **UPI ₹119 · Bank ₹117 · F2F ₹118 · CDM ₹116** (`nexadeskrates` last post 9 Oct, older).
+The in-review ads had the old ₹118 / ₹115 → fixed:
+- ad 32 `rate beat test`: "Wahan ₹109 · Hum ₹119 UPI · Min 500 USDT"
+- ad 33 `users india apps`: "We Buy USDT · Min 500 USDT · UPI ₹119 · Bank ₹117"
+- Search ads 34/35 have no text (keywords only), so no fix needed. Active ads 28/29/30 left as is (editing would send them back to review).
+Rule added to AGENTS.md: check the latest rate post before every new ad.

@@ -4795,5 +4795,20 @@
       "bulk_10k_100k": "P2P merchants, small OTC, gaming settlers, xWallet bulk - highest value",
       "whale_100k_plus": "OTC desks/gateway operators - direct BD only, high mule risk"
     }
+  },
+  "rate_fix_2026_10_25": {
+    "date": "2026-10-25",
+    "latest_rate": {
+      "source": "safepathdeals 2026-10-24T11:28Z",
+      "upi": 119,
+      "bank": 117,
+      "f2f": 118,
+      "cdm": 116
+    },
+    "fixed_ads": {
+      "32": "Wahan ₹109 · Hum ₹119 UPI · Min 500 USDT",
+      "33": "We Buy USDT · Min 500 USDT · UPI ₹119 · Bank ₹117"
+    },
+    "rule": "New/edited ads must use newest TODAY LATEST RATE from safepathdeals/nexadeskrates; do not edit active ads just for rate"
   }
 }

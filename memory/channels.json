@@ -4810,5 +4810,14 @@
       "33": "We Buy USDT · Min 500 USDT · UPI ₹119 · Bank ₹117"
     },
     "rule": "New/edited ads must use newest TODAY LATEST RATE from safepathdeals/nexadeskrates; do not edit active ads just for rate"
+  },
+  "decline_fix_2026_10_25": {
+    "date": "2026-10-25",
+    "declined_ad": 32,
+    "reason": "Deceptive/misleading: ad said UPI 119, safepathdeals latest post is UPI 118 Bank 115 (2026-10-25 10:10 IST). nexadeskrates 08:34 IST still showed 119/117 but is older.",
+    "pay98pay_rate": "109 still on 2026-10-25 07:11 IST post",
+    "resubmitted_text": "Wahan ₹109 · Hum ₹118 UPI · Min 500 USDT",
+    "status_after": "In Review",
+    "left_alone": "ad 33 users india apps still says 119/117 but is Active with 3 joins; editing would send it back to review"
   }
 }

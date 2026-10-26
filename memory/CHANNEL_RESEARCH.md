@@ -3630,3 +3630,19 @@ Ad text tha `Hum ₹119 UPI`. Destination `safepathdeals` ki aaj ki post (2026-1
 **Competitor check:** `pay98pay` aaj 07:11 IST ki post ab bhi **98Pay Rate 109** dikhati hai. "Wahan ₹109" sahi hai.
 
 **Fix:** text `Wahan ₹109 · Hum ₹118 UPI · Min 500 USDT`. Status ab **In Review**. Active ads (28/29/30/33/34/35) nahi chhede — edit unhe review mein bhej deta. Ad 33 `users india apps` abhi Active hai aur text ₹119/₹117 hai (channel se 1₹ alag); 15 clicks / 3 joins aa chuke hain, isliye chhoda.
+
+## 100) 2026-10-26 14:52 IST — ad performance
+
+Account balance (unallocated): 8.63 TON. Snapshot vs 25 Oct ~11:00 IST.
+
+| ad | status | views | clicks | joins | CTR | CPA | spent | left | since yesterday |
+|---|---|---|---|---|---|---|---|---|---|
+| quality holders (28) | Active | 5,050 | 393 | 87 | 7.78% | 0.29 | 25.24 | 11.76 | +11 joins (from 04:37 IST snapshot) |
+| users india apps (33) | Active | 3,739 | 133 | 21 | 3.56% | 0.27 | 5.61 | **0.39** | +18 joins. Budget aaj khatam |
+| bulk clients 3 (30) | Active | 4,433 | 329 | 71 | 7.42% | 0.44 | 31.02 | 5.98 | +16 joins |
+| rate beat test (32) | Active | 108 | 8 | 2 | 7.41% | 0.38 | 0.76 | 9.24 | approve hua, 2 joins |
+| search apps (35) | Active | 642 | 8 | 1 | 1.25% | 0.96 | 0.96 | 2.04 | +1 join |
+| search sell (34) | Active | 98 | 5 | 0 | 5.1% | – | 0.15 | 2.85 | 0 joins |
+| quality sellers (29) | Active | 3,505 | 96 | 16 | 2.74% | 1.10 | 17.53 | **0.48** | +1 join on ~1.46 TON. Sabse mehnga |
+
+26 Oct (2:52 PM IST tak, din adhoora): holders 330 views/1.65, users 1,099/1.65, bulk 294/2.06, sellers 139/0.70, rate beat 28/0.20, search apps 167/0.25, search sell 19/0.03.

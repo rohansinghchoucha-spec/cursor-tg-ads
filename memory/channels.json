@@ -4819,5 +4819,63 @@
     "resubmitted_text": "Wahan ₹109 · Hum ₹118 UPI · Min 500 USDT",
     "status_after": "In Review",
     "left_alone": "ad 33 users india apps still says 119/117 but is Active with 3 joins; editing would send it back to review"
+  },
+  "perf_2026_10_26": {
+    "at": "2026-10-26 14:52 IST",
+    "balance_ton": 8.63,
+    "active": {
+      "28_quality_holders": {
+        "views": 5050,
+        "clicks": 393,
+        "joins": 87,
+        "cpa": 0.29,
+        "left": 11.76
+      },
+      "33_users": {
+        "views": 3739,
+        "clicks": 133,
+        "joins": 21,
+        "cpa": 0.27,
+        "left": 0.39,
+        "note": "budget dies today"
+      },
+      "30_bulk_clients_3": {
+        "views": 4433,
+        "clicks": 329,
+        "joins": 71,
+        "cpa": 0.44,
+        "left": 5.98
+      },
+      "32_rate_beat": {
+        "views": 108,
+        "clicks": 8,
+        "joins": 2,
+        "cpa": 0.38,
+        "left": 9.24,
+        "note": "approved after 118 resubmit"
+      },
+      "35_search_apps": {
+        "views": 642,
+        "clicks": 8,
+        "joins": 1,
+        "cpa": 0.96,
+        "left": 2.04
+      },
+      "34_search_sell": {
+        "views": 98,
+        "clicks": 5,
+        "joins": 0,
+        "spent": 0.15,
+        "left": 2.85
+      },
+      "29_quality_sellers": {
+        "views": 3505,
+        "clicks": 96,
+        "joins": 16,
+        "cpa": 1.1,
+        "left": 0.48,
+        "note": "most expensive, +1 join since yesterday"
+      }
+    }
   }
 }

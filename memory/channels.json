@@ -5028,5 +5028,52 @@
       "rate beat test"
     ],
     "note": "No new channel ad. Users and bulk clients are at budget 0. Not refilled in this test because ticket is mixed. Bots and airdrop still no-spend."
+  },
+  "ad36_review_2026_10_27_1924": {
+    "date": "2026-10-27 19:24 IST",
+    "ad_id": 36,
+    "title": "search bulk inr",
+    "status": "In Review",
+    "views": 0,
+    "clicks": 0,
+    "joins": 0,
+    "spent": 0,
+    "budget_left": 3,
+    "unallocated": 5.63,
+    "where_searchers_are": {
+      "sell usdt upi": [
+        "Sell USDT India",
+        "Coin pay"
+      ],
+      "usdt imps": [
+        "IMPS UPI INR - USDT",
+        "Tamilnadu Usdt CDM/imps"
+      ],
+      "usdt cdm": [
+        "Tamilnadu Usdt CDM/imps",
+        "USDT SELLER/CDM/CASH"
+      ],
+      "usdt to upi": [
+        "USDT to Rupee UPI/IMPS/RTGS/NEFT",
+        "USDT TO INR EXCHANGE"
+      ],
+      "sell usdt india": [
+        "Indian binance P2P bot",
+        "MARKET USDT INR P2P INDIA bot"
+      ],
+      "usdt buyer india": [
+        "Indian binance P2P bot",
+        "USDT SELLER BUYER INDIA BINANCE group"
+      ],
+      "bulk usdt": [
+        "Tamil usdt buy sell group",
+        "USDT Bulk channel"
+      ],
+      "usdt for inr": [
+        "SALE USDT FOR INR group",
+        "USDT Exchange India - Cash"
+      ]
+    },
+    "note": "No joins yet. Quality unproven until review clears and DMs show amount."
   }
 }

@@ -3752,3 +3752,11 @@ Index pe freelancer, exporter, jeweller, Surat, NRI, Gulf, hawala, "5000 usdt" �
 - IndiaOTC / TF_Exchange: size hai, rate ~₹88–98 bank/CDM, UPI nahi. Hamare offer ke against.
 
 **Search waste jo chhoda:** `sell 5000 usdt` / `sell 10000 usdt` = Bangladesh/Iran. `usdt neft` = Russian city names, bank NEFT nahi. `usdt trc20` = flash bots. `trust wallet usdt` = airdrop/loan. `usdt freelancer` = AI bot. `withdraw usdt` = airdrop.
+
+## 105) 2026-10-27 19:24 IST — ad 36 abhi review mein. Koi join nahi.
+
+Cabinet live: ad **36** `search bulk inr` status **In Review**. Views 0, clicks 0, joins 0, spent 0, budget 3 TON pada hai. Unallocated 5.63. Aaj koi doosra naya ad nahi bana.
+
+Search sample (yeh woh jagah hai jahan yeh words pehle se search hote hain): `sell usdt upi` → Sell USDT India, Coin pay. `usdt imps` / `usdt cdm` → Tamilnadu CDM/IMPS, USDT SELLER CDM CASH. `usdt to upi` → USDT to Rupee UPI/IMPS/RTGS. `sell usdt india` / `usdt buyer india` / `p2p usdt inr` → Indian Binance P2P bots aur USDT SELLER BUYER INDIA BINANCE group. `usdt for inr` → SALE USDT FOR INR, USDT Exchange India Cash. `bulk usdt` → Tamil buy/sell group, USDT Bulk channel. `usdt upi rate` → UPI/IMPS high-rate channel.
+
+Purane active ads 18:48 se 19:24 IST: holders views 5960→5962, joins 96. Rate beat 195/2. Search sell 191/2. Search apps 1191/1. Aaj is window mein naya join nahi.

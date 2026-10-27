@@ -4923,5 +4923,30 @@
       "evelpay_otp_work_f2f"
     ],
     "next_clients": "refill users ad; add search keywords glpay paisabase wynnpay cocopay rswallet; do not refill quality sellers"
+  },
+  "holder_lanes_2026_10_27": {
+    "date": "2026-10-27",
+    "lane": "airdrop and exchange holders",
+    "airdrop_skip": {
+      "airdropdetective": "1.12M med 66k, ~$5 prizes",
+      "LegitAirdrops010": "50k live, points not USDT stack",
+      "AirdropKartOfficial": "445k stale Jul, 4 USDT",
+      "usdtairdrophub": "bait 1M USDT",
+      "usdt_airdrop69": "med 54 tap bot",
+      "bnbusdtairdroprewardpayment": "stale Apr"
+    },
+    "groups_not_ads": {
+      "kucoin_exchange_india": "58k",
+      "BinanceIndian": "30k",
+      "Bybit_India_community": "25k",
+      "P2Pdotme": "USDC QR"
+    },
+    "channels_skip": {
+      "KucoinNewsIndia": "dead Oct 2025 med 257",
+      "Bybit_India_Ann": "med 55",
+      "wazirx": "97k price news, not OTC",
+      "binance_announcements": "global 3.2M"
+    },
+    "conclusion": "Airdrop ticket is $4-20. Sellable USDT still sits in the China-pay channels already in ads."
   }
 }

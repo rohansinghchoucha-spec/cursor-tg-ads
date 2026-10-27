@@ -3669,3 +3669,31 @@ Sources: Telemetr channel index, public India USDT ad archive (offsets 0–80), 
 **Is hunt ke DROP:** `earning_master3` (UPI task), `earnwithflexx` 115 + `payrapayy` 357 (WynnPay signup bonus), `showpayupdates` (agent recruit, med 223), `cryptopay06` (aaj post, med 20, purana DROP stands), `bharatp2pofficial` (1,660 / med 294 / last 22 Sep), `usdt_buy_seller_95` (med 14), `xwallet_cheque` (2025 TON cheque), `olapay_vip` (loan spam, med 74), `LaxmiFundsCommunity` (fake price, med 1), `shoppingpay_official` (392 / med 28). OTP / gaming-fund panels (`gaming_fund_otp_work_account`, `otp_work_upi_work`, `evelpay_otp_work_f2f`) mule recruit — mat chhuo. `TivraPay` 90k ab bhi agent + scam alert, DROP stands. `passpaywallets` pehle se DROP.
 
 **Clients kahan se aayenge:** naya channel nahi. Users ad (0.27 TON/join) refill + search keywords `glpay`, `paisabase`, `wynnpay`, `cocopay`, `rswallet`. `quality sellers` refill nahi.
+
+## 102) 2026-10-27 — airdrop aur holder pockets. Alag lane.
+
+User: airdrop ya jahan logon ke paas USDT ho, alag cheezein.
+
+**Airdrop (live):** prize $4–20, hamara min 500 USDT nahi bharta. Ad mat chalao.
+
+| handle | live | kyun nahi |
+|---|---|---|
+| `airdropdetective` | 1.12M / med 66k / 25 Oct | Global. Reward ~$5 per winner |
+| `LegitAirdrops010` | 49.9k / med 16.3k / aaj | Points / task, USDT stack nahi |
+| `AirdropKartOfficial` | 445k / med 16k / last 31 Jul | 4 USDT winners, 3 mahine se post nahi |
+| `usdtairdrophub` | 15.7k / med 20k / 26 Oct | "1,000,000 USDT if you subscribe" bait |
+| `usdt_airdrop69` | 9.1k / med 54 / aaj | Bengali tap-coin bot |
+| `bnbusdtairdroprewardpayment` | 5.6k / med 347 / last Apr | 20 USDT payout screenshots, stale |
+
+**Exchange holders (USDT unke paas hota hai, Ads nahi lag sakti):** sab groups hain, preview band.
+
+| handle | size | note |
+|---|---|---|
+| `kucoin_exchange_india` | 57.7k, 511 online | News channel `KucoinNewsIndia` 4.3k / med 257 / last 31 Oct 2025. Dead |
+| `BinanceIndian` | 30.0k, 681 online | Official India group |
+| `Bybit_India_community` | 25.0k, 79 online | Ann channel `Bybit_India_Ann` 4.3k / med **55**. TradFi prediction, seller nahi |
+| `P2Pdotme` | index ~10.5k | USDC se QR pay. Group |
+
+`wazirx` 97.1k / med 3,790 / aaj price update. Famous exchange-news lane, OTC seller nahi. `binance_announcements` 3.27M global. Dono skip.
+
+**Jo USDT actually bechne layak rakhte hain aur public channel pe hain:** wahi China-pay / wallet apps jo ads mein already hain (`linkxwalletnow`, `acpayschannel`, `pay98pay`, `Meteorpay`). Airdrop aur exchange-news se 500 USDT seller nahi aata.

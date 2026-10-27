@@ -5075,5 +5075,70 @@
       ]
     },
     "note": "No joins yet. Quality unproven until review clears and DMs show amount."
+  },
+  "keyword_wallet_payout_2026_10_27": {
+    "date": "2026-10-27 19:40 IST",
+    "method": "web phrases + cabinet searchTargetQuery samples",
+    "ad_placed": false,
+    "wallet_names_skip": [
+      "trust wallet",
+      "trustwallet",
+      "safepal",
+      "tokenpocket",
+      "tronlink",
+      "metamask",
+      "binance wallet",
+      "okx wallet",
+      "bitget wallet",
+      "exodus wallet",
+      "atomic wallet",
+      "imtoken"
+    ],
+    "payout_deposit_skip": [
+      "usdt payout",
+      "usdt cashout",
+      "deposit usdt",
+      "usdt withdraw",
+      "withdraw inr",
+      "usdt cash deposit",
+      "usdt ccw",
+      "usdt deposit india",
+      "inr payout",
+      "payout account",
+      "collection account",
+      "phonepe usdt",
+      "gpay usdt"
+    ],
+    "note_ccw": "Reddit CCW means cardless cash. Telegram query ccw usdt is CCWIN casino. Use cardless usdt.",
+    "next_10_not_live": [
+      "usdt escrow india",
+      "crypto escrow",
+      "p2p escrow",
+      "escrow inr",
+      "cardless usdt",
+      "cardless cash",
+      "paytm usdt",
+      "bank withdrawal usdt",
+      "usdt settlement",
+      "usdt gaming"
+    ],
+    "why_not_live": "Ad 36 still in review with 0 joins. Do not open a second search until that test shows joins."
+  },
+  "search_volume_2026_10_27": {
+    "date": "2026-10-27 19:45 IST",
+    "cabinet_returns": [
+      "query.id",
+      "query.title",
+      "query.sample_results",
+      "error"
+    ],
+    "no_volume_field": true,
+    "tgstat_words_reach": "post mentions, not searches, paid",
+    "measured_views": {
+      "search_sell_34": "191 views, 2 joins, 0.29 TON since 25 Oct 04:00 IST. About 70 views/day for 10 words together",
+      "search_apps_35": "1191 views, 1 join, 1.79 TON. About 450 views/day. App-name searches, weak sellers",
+      "search_bulk_36": "In Review, 0 views"
+    },
+    "how_to_split": "One keyword per ad is the only per-word count. Do not open those until ad 36 leaves review."
   }
 }

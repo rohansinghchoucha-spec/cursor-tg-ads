@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 19:24 IST — §105 ad 36 still In Review, 0 joins.
+**Last updated:** 2026-10-27 19:45 IST — §107 Telegram search volume. Cabinet does not return a count.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3760,3 +3760,76 @@ Cabinet live: ad **36** `search bulk inr` status **In Review**. Views 0, clicks 
 Search sample (yeh woh jagah hai jahan yeh words pehle se search hote hain): `sell usdt upi` → Sell USDT India, Coin pay. `usdt imps` / `usdt cdm` → Tamilnadu CDM/IMPS, USDT SELLER CDM CASH. `usdt to upi` → USDT to Rupee UPI/IMPS/RTGS. `sell usdt india` / `usdt buyer india` / `p2p usdt inr` → Indian Binance P2P bots aur USDT SELLER BUYER INDIA BINANCE group. `usdt for inr` → SALE USDT FOR INR, USDT Exchange India Cash. `bulk usdt` → Tamil buy/sell group, USDT Bulk channel. `usdt upi rate` → UPI/IMPS high-rate channel.
 
 Purane active ads 18:48 se 19:24 IST: holders views 5960→5962, joins 96. Rate beat 195/2. Search sell 191/2. Search apps 1191/1. Aaj is window mein naya join nahi.
+
+## 106) 2026-10-27 19:40 IST — payout, withdrawal, deposit, wallet names. Web + cabinet.
+
+User: in words ke alava escrow, account, gaming, poora India, phir payout / withdrawal / deposit / Trust Wallet jaise seedha wallet naam. Web + `searchTargetQuery` sample. Naya ad nahi lagaya. Ad 36 abhi review mein, 0 join.
+
+**Wallet naam mat lo.** Jo log "trust wallet" likhte hain woh seller nahi, support/scam bot dhundhte hain.
+
+| word | cabinet sample | faisla |
+|---|---|---|
+| `trust wallet` `trustwallet` | Trust Wallet Support bots, English group | SKIP |
+| `trust wallet usdt` (pehle) | airdrop + loan bot | SKIP |
+| `trust wallet inr` | khali | SKIP |
+| `trust wallet sell` | ek sell bot | SKIP |
+| `safepal` `safe pal` | support bot, $200 giveaway, Palestine | SKIP |
+| `tokenpocket` `tronlink` `imtoken` | Chinese wallet customer-care | SKIP |
+| `metamask` `binance wallet` `okx wallet` `bitget wallet` `exodus wallet` | support / product bots | SKIP |
+| `atomic wallet` | news + seed-phrase recovery | SKIP |
+
+**Payout / deposit / withdrawal seedha word bhi waste.**
+
+| word | sample | faisla |
+|---|---|---|
+| `usdt payout` `payout usdt` | Russian team payout | SKIP |
+| `usdt cashout` | targeting allowed nahi | SKIP |
+| `deposit usdt` | Russian bonus, cricket | SKIP |
+| `usdt withdraw` `withdraw usdt` | earnings bot + airdrop | SKIP |
+| `withdraw inr` | Singhapay / INRPRO withdraw-check bots. Stuck user, seller nahi | SKIP |
+| `usdt cash deposit` `cash deposit usdt` | Iran, Belarus bank accounts | SKIP |
+| `usdt ccw` `ccw usdt` | CCWIN Chinese casino. Reddit wala "CCW = cardless" yahan nahi hai | SKIP |
+| `usdt deposit india` | Stake casino deposit bonus | SKIP |
+| `inr payout` `payout inr` | Chinese 印度代付 bots | SKIP. Mule ke paas |
+| `payout account` `collection account` | aged accounts, earning | SKIP |
+| `usdt phonepe` `phonepe usdt` | Crickex deposit | SKIP. Betting buy-side |
+| `gpay usdt` | Russian Apple Pay | SKIP |
+| `poker usdt` | Chinese poker | SKIP |
+| `miller pay` | Chinese bot | SKIP |
+
+**Jo words India ke bechne wale pe lagte hain (abhi kisi ad mein nahi):**
+
+| word | sample | kyun |
+|---|---|---|
+| `usdt escrow india` | Crypto P2P Escrow USDT Offers (India), ESCROW DEAL FOR INDIAN USDT P2P | Reddit pe log yahi bolte hain: official escrow se CDM |
+| `crypto escrow` | Crypto India Escrow Bot | India |
+| `p2p escrow` | P2P India Escrow Bot | India |
+| `escrow inr` | Shield INR Escrow Bot | INR deal |
+| `cardless usdt` `usdt cardless` | USDT BUY SELL CARDLESS, Usdtbuyercdmp2p | Poora India cash/CDM. "ccw" mat likhna |
+| `cardless cash` | P2P INDIA, face to face, Binance OTC, cash deposit, cardless | Shehar lock nahi, cash lane |
+| `paytm usdt` | Buy USDT Paytm / Sell USDT Paytm | North/west UPI app. Buy+sell mix |
+| `bank withdrawal usdt` | Bank deposit buy USDT / Bank withdrawal sell USDT | Sell side = hamara client |
+| `usdt settlement` | Usdt To Inr Daily Order Settlement | China-pay order. Size mid |
+| `usdt gaming` | All Funds USDT To INR | Gaming fund ko INR. `gaming fund` panel alag hai, woh USDT kharidte hain |
+
+`usdt f2f` pe Dubai group pehle aata hai, Hyderabad doosra. `hyderabad usdt` sirf ek shehar. `usdt to bank` pe WBPay India hai aur Philippines bhi. In teeno ko next 10 mein mat daalo.
+
+Search pe India country filter nahi hota. Shehar-shehar list (`delhi usdt`, `bihar usdt`) patli aur bahar ke log bhi khaati hai. Poore India ko payment words pakadte hain: Paytm, cardless, escrow, bank withdrawal, aur jo pehle se live hain UPI / IMPS / CDM.
+
+**Next 10, tabhi jab ad 36 review se nikal ke joins dikhaye.** Budget alag se 2–3 TON se zyada nahi: `usdt escrow india`, `crypto escrow`, `p2p escrow`, `escrow inr`, `cardless usdt`, `cardless cash`, `paytm usdt`, `bank withdrawal usdt`, `usdt settlement`, `usdt gaming`.
+
+## 107) 2026-10-27 19:45 IST — Telegram search count dikhta hai ya nahi.
+
+`searchTargetQuery` ka poora jawab: `query.id`, `query.title`, `query.sample_results`, ya `error`. Volume / reach / daily searches ka field nahi. `promote.js` bhi sirf yahi teen cheezein padhta hai. Ad page pe bhi per-keyword views nahi. TGStat `/words/reach` post mentions hai, search count nahi, aur paid.
+
+Jo number asal mein milta hai, woh ad ke views hain — jitni baar hamara result dikha:
+
+| ad | words | views | joins | spent | matlab |
+|---|---|---|---|---|---|
+| search sell (34) | 10 broad sell words, 25 Oct 4:00 IST se | 191 | 2 | 0.29 | ~70 views/day, 10 words milakar. Log sahi, volume chhota |
+| search apps (35) | 10 app names | 1,191 | 1 | 1.79 | ~450 views/day. Zyada search, galat log (app dhundhte hain) |
+| search bulk inr (36) | 10 cashout phrases | 0 | 0 | 0 | In Review, abhi volume nahi |
+
+"Query is not available" = Telegram ka floor. Usse neeche word becha hi nahi jaata (`usdt cashout`).
+
+Ek word ka alag number tab aayega jab us word ka alag ad ho. Abhi 10 words ek ad mein hain, isliye kaunsa word kitna chala, pata nahi. Alag ads tab, jab 36 review se nikle. Ab 10 naye ads kholna budget baant dega.

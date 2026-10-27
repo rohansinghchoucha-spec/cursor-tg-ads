@@ -5178,5 +5178,23 @@
       "bulk try 4",
       "search apps"
     ]
+  },
+  "xwallet_vs_rivals_2026_10_27": {
+    "date": "2026-10-27 20:50 IST",
+    "xwallet_channel": "linkxwalletnow",
+    "active_in": [
+      "28 quality holders (with atgofficiale)",
+      "33 users india apps audience"
+    ],
+    "search_apps_xwallet_keyword": "Russian XWallet wallet, not the India USDT channel. Do not refill ad 35",
+    "quality_holders": "Active 6122 views, 100 joins, CPA 0.30, 6.40 TON left",
+    "live": {
+      "linkxwalletnow": "36200 / med 1780 / 27 Oct",
+      "linkpay8": "31500 / med 9490 / 27 Oct. Not in a current ad",
+      "diwapay": "81100 / med 8590 / 27 Oct. Not in a current ad. support_crypto remains loot",
+      "acpayschannel": "15800 / med 5320. In users ad",
+      "glpay21": "944 subs, cannot target yet"
+    },
+    "action": "Leave quality holders on. Do not rebuild an xWallet-only ad."
   }
 }

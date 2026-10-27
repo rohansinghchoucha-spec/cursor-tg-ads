@@ -4948,5 +4948,24 @@
       "binance_announcements": "global 3.2M"
     },
     "conclusion": "Airdrop ticket is $4-20. Sellable USDT still sits in the China-pay channels already in ads."
+  },
+  "usdt_holder_bots_2026_10_27": {
+    "date": "2026-10-27",
+    "bots_pass_1000_dau": [
+      "send",
+      "walt",
+      "tonkeeper",
+      "xrocket"
+    ],
+    "note": "Bot ads have no India filter. INR offer would pay for the whole world.",
+    "channels": {
+      "CryptoBotEN": "1.37M med 24.3k 26 Oct. USDT sits in @send. Catalog not sponsored-eligible. Try as Users audience only.",
+      "tonkeeper_news": "4.4M med 66.4k today. eligible true. Users ad India + this audience is the holder test.",
+      "xrocketnews": "221k med 6.2k, not eligible",
+      "zebpayofficial": "10.4k med 503, not eligible"
+    },
+    "scam_skip": [
+      "coindcx_coin_dcx_unives"
+    ]
   }
 }

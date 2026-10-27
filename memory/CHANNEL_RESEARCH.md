@@ -3697,3 +3697,17 @@ User: airdrop ya jahan logon ke paas USDT ho, alag cheezein.
 `wazirx` 97.1k / med 3,790 / aaj price update. Famous exchange-news lane, OTC seller nahi. `binance_announcements` 3.27M global. Dono skip.
 
 **Jo USDT actually bechne layak rakhte hain aur public channel pe hain:** wahi China-pay / wallet apps jo ads mein already hain (`linkxwalletnow`, `acpayschannel`, `pay98pay`, `Meteorpay`). Airdrop aur exchange-news se 500 USDT seller nahi aata.
+
+## 103) 2026-10-27 — USDT holder bots aur channels (airdrop ke alava)
+
+Cabinet `searchBot` (1000+ daily users pass): `@send` (Crypto Bot), `@walt` (ex Wallet), `@tonkeeper`, `@xrocket`. India filter bot ads pe nahi hota.
+
+| jagah | live | Ads |
+|---|---|---|
+| `@CryptoBotEN` | 1.37M / med 24.3k / 26 Oct. Post: deposit AML. Log yahi bot mein USDT rakhte hain | Catalog `isSponsoredEligible=false`. Channel ad reject ho sakta hai. Users-audience try karna |
+| `@cryptobotru` | 2.2M / med 101k | Russian news. India ke liye nahi |
+| `@tonkeeper_news` (Keeper) | 4.4M / med 66.4k / aaj 14:35 IST. Catalog **eligible** | **Best channel test:** Users ad, country India, audience yeh channel. Channel ke andar ad = poori duniya, mat karo |
+| `@xrocket` bot | pass | Bot ad, no geo. News `@xrocketnews` 221k / med 6.2k / 23 Oct, catalog eligible nahi |
+| `@zebpayofficial` | 10.4k / med 503 / aaj | Indian exchange, eligible nahi, views patle |
+
+CoinDCX search results SCAM clones (`COIN DCX OFFICIAL [SCAM]`). Mat chhuo.

@@ -5140,5 +5140,43 @@
       "search_bulk_36": "In Review, 0 views"
     },
     "how_to_split": "One keyword per ad is the only per-word count. Do not open those until ad 36 leaves review."
+  },
+  "ads_activate_2026_10_27": {
+    "date": "2026-10-27 20:15 IST",
+    "new_ad": {
+      "id": 37,
+      "title": "search escrow cash",
+      "status": "Active",
+      "budget": 3,
+      "cpm": 1.5,
+      "keywords": [
+        "usdt escrow india",
+        "crypto escrow",
+        "p2p escrow",
+        "escrow inr",
+        "cardless usdt",
+        "cardless cash",
+        "paytm usdt",
+        "bank withdrawal usdt",
+        "usdt settlement",
+        "usdt gaming"
+      ]
+    },
+    "ad_36": "search bulk inr now Active, budget 3, views 0",
+    "users_33": "Active, +2 TON, text left at 119/117 so it did not re-enter review",
+    "unallocated_ton": 0.63,
+    "add_fund_ton": 20,
+    "after_topup": {
+      "bulk_clients_3": 8,
+      "users_india_apps_more": 6,
+      "spare": 6
+    },
+    "do_not_refill": [
+      "quality sellers",
+      "china wave2",
+      "china wave3",
+      "bulk try 4",
+      "search apps"
+    ]
   }
 }

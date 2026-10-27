@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 19:45 IST — §107 Telegram search volume. Cabinet does not return a count.
+**Last updated:** 2026-10-27 20:15 IST — §108 search escrow cash live. Users refilled 2 TON. Add 20 TON for bulk.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3833,3 +3833,17 @@ Jo number asal mein milta hai, woh ad ke views hain — jitni baar hamara result
 "Query is not available" = Telegram ka floor. Usse neeche word becha hi nahi jaata (`usdt cashout`).
 
 Ek word ka alag number tab aayega jab us word ka alag ad ho. Abhi 10 words ek ad mein hain, isliye kaunsa word kitna chala, pata nahi. Alag ads tab, jab 36 review se nikle. Ab 10 naye ads kholna budget baant dega.
+
+## 108) 2026-10-27 20:15 IST — naye words ka ad + users on. Fund 20 TON.
+
+Rate check: `safepathdeals` newest post still 26 Oct 12:00 IST, UPI ₹118 / Bank ₹115. Search ad has no text.
+
+**Ad 37 `search escrow cash` created and Active.** 3 TON, CPM 1.50, `t.me/safepathdeals`. Keywords: `usdt escrow india`, `crypto escrow`, `p2p escrow`, `escrow inr`, `cardless usdt`, `cardless cash`, `paytm usdt`, `bank withdrawal usdt`, `usdt settlement`, `usdt gaming`. Views 0 at creation.
+
+**Ad 36 `search bulk inr` ab Active** (review nikal gaya), 3 TON pada hai, views abhi 0.
+
+**Ad 33 `users india apps` Active again.** +2 TON from the free balance (budget ~2.00, spent 6.00 lifetime, CPA 0.26). Text edit nahi kiya, isliye review pe nahi gaya. Text abhi bhi UPI ₹119 / Bank ₹117 hai.
+
+Khula balance ~**0.63 TON**. Bulk clients 3 abhi bhi Stopped, budget 0.
+
+**Fund add: 20 TON.** Usme se 8 TON `bulk clients 3` (88 joins, CPA 0.42), 6 TON aur `users india apps` pe, 6 TON spare. Mat daalna: `quality sellers` (CPA 1.13), `china wave2` (CPA 13), `china wave3`, `bulk try 4`, `search apps` (CPA 1.83, already on, 1.17 left). Holders aur rate beat pehle se Active hain.

@@ -4877,5 +4877,51 @@
         "note": "most expensive, +1 join since yesterday"
       }
     }
+  },
+  "hunt_10min_2026_10_27": {
+    "date": "2026-10-27",
+    "window_ist": "17:46-17:56",
+    "result": "no new Ads-eligible quality channel",
+    "watch": {
+      "glpay21": "939 subs med~2110 27 Oct. USDT 109.5 deposit. Ads needs 1000+",
+      "dealzzonen": "766 med~830 27 Oct. Paisabase ₹108.5",
+      "COME_Channel_0": "925 med 126. Trust Pay ₹111, thin views",
+      "cocopayplus": "preview still closed",
+      "usdt_market_trustpay": "preview still closed",
+      "tamilp2pusdt": "2950 med 231 today, thin, already WATCH"
+    },
+    "bots": {
+      "fail_1000_dau": [
+        "rswallet1_bot",
+        "atgnetwork_bot",
+        "plb887_bot",
+        "BharatP2PUSDT_bot"
+      ],
+      "pass_but_wrong_audience": [
+        "send",
+        "walt",
+        "fragment",
+        "AAGAMEofficial_bot"
+      ]
+    },
+    "group_not_ads": "CryptoIndiaUnited ~10.6k OTC, their escrow ~₹102, they avoid UPI. 98Pay tier groups and pay999_officialgroup have no preview",
+    "drop": [
+      "earning_master3",
+      "earnwithflexx",
+      "payrapayy",
+      "showpayupdates",
+      "bharatp2pofficial",
+      "usdt_buy_seller_95",
+      "xwallet_cheque",
+      "olapay_vip",
+      "LaxmiFundsCommunity",
+      "shoppingpay_official"
+    ],
+    "mule_do_not_touch": [
+      "gaming_fund_otp_work_account",
+      "otp_work_upi_work",
+      "evelpay_otp_work_f2f"
+    ],
+    "next_clients": "refill users ad; add search keywords glpay paisabase wynnpay cocopay rswallet; do not refill quality sellers"
   }
 }

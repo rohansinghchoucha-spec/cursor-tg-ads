@@ -3646,3 +3646,26 @@ Account balance (unallocated): 8.63 TON. Snapshot vs 25 Oct ~11:00 IST.
 | quality sellers (29) | Active | 3,505 | 96 | 16 | 2.74% | 1.10 | 17.53 | **0.48** | +1 join on ~1.46 TON. Sabse mehnga |
 
 26 Oct (2:52 PM IST tak, din adhoora): holders 330 views/1.65, users 1,099/1.65, bulk 294/2.06, sellers 139/0.70, rate beat 28/0.20, search apps 167/0.25, search sell 19/0.03.
+
+## 101) 2026-10-27 17:46–17:56 IST — 10 min world hunt. Naya Ads channel nahi.
+
+Sources: Telemetr channel index, public India USDT ad archive (offsets 0–80), mention snowball from pay98/acpay/atg/meteor/linkx/glpay/tivra/showpay, live `t.me/s` audit, cabinet `searchBot`, Reddit r/CryptoIndia.
+
+**Ads pe daalne layak naya channel nahi.** Jo app abhi USDT deposit karwa rahe hain, unke public channels 1,000 se chhote hain:
+
+| handle | live | verdict |
+|---|---|---|
+| `glpay21` | 939 / med ~2,110 / 27 Oct 09:46 IST. Post: USDT rate 109.5, deposit now, glpay.net | **WATCH.** Asli depositors. Ads 1,000 se neeche mana karti hai. Cross karte hi alag test |
+| `dealzzonen` | 766 / med ~830 / 27 Oct 12:55 IST. Paisabase, 1 USDT = ₹108.5, 100/400/1000 USDT reward | **WATCH.** Chhota, Ads nahi |
+| `COME_Channel_0` | 925 / med 126 / 24 Oct. Trust Pay ₹111 per USDT, safe funds, CDM | **WATCH.** Rate sahi, views patle, 1,000 se kam |
+| `cocopayplus` | catalog eligible ~4.2k, preview ab bhi band | WATCH rehne do |
+| `usdt_market_trustpay` | preview band | WATCH rehne do |
+| `tamilp2pusdt` | 2,950 / med 231 / aaj. "1500$ community sale" | pehle se WATCH. Patla, main spend nahi |
+
+**Bots (cabinet searchBot):** `rswallet1_bot`, `atgnetwork_bot`, `plb887_bot`, `BharatP2PUSDT_bot` = "1000+ daily users" nahi. Pass: `@send` (Crypto Bot), `@walt`, `@fragment`, `@AAGAMEofficial_bot`. Ye global wallet / gaming hain, India USDT seller nahi. Bot ad mat chalao.
+
+**Groups (Ads kabhi nahi):** `@CryptoIndiaUnited` ~10.6k, r/CryptoIndia ka OTC. Unki site par escrow rate ~₹102. Wo log UPI se bach ke CDM karte hain. Hamara ₹118 UPI unke liye wahi premium hai jisse wo darte hain. Preview pe sell posts nahi. Pin sirf admin se, channel ad nahi. 98Pay amount groups aur `pay999_officialgroup` ka preview band.
+
+**Is hunt ke DROP:** `earning_master3` (UPI task), `earnwithflexx` 115 + `payrapayy` 357 (WynnPay signup bonus), `showpayupdates` (agent recruit, med 223), `cryptopay06` (aaj post, med 20, purana DROP stands), `bharatp2pofficial` (1,660 / med 294 / last 22 Sep), `usdt_buy_seller_95` (med 14), `xwallet_cheque` (2025 TON cheque), `olapay_vip` (loan spam, med 74), `LaxmiFundsCommunity` (fake price, med 1), `shoppingpay_official` (392 / med 28). OTP / gaming-fund panels (`gaming_fund_otp_work_account`, `otp_work_upi_work`, `evelpay_otp_work_f2f`) mule recruit — mat chhuo. `TivraPay` 90k ab bhi agent + scam alert, DROP stands. `passpaywallets` pehle se DROP.
+
+**Clients kahan se aayenge:** naya channel nahi. Users ad (0.27 TON/join) refill + search keywords `glpay`, `paisabase`, `wynnpay`, `cocopay`, `rswallet`. `quality sellers` refill nahi.

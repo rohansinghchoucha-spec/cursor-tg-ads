@@ -3922,7 +3922,7 @@ Budget page live: **💎0.6298**. Aaj ke cuts sirf −2 users (14:42 UTC), −3 
 | spare | | | | **4** | | buffer |
 | **total** | | | | **40** | | |
 
-Pehle se load, 40 se ek TON nahi: rate beat **8.54** (~0.45/din, ~18 din), search sell **2.69** (~0.10/din, ~25 din), search bulk **3** (0 views), search escrow **3** (0 views). Search apps **1.12** bacha, CPA ~1.68, mat daalna.
+Pehle se load, 40 se ek TON nahi: rate beat **8.54** (~0.45/din, ~18 din), search sell **2.69** (~0.10/din, ~25 din), search bulk **3** (0 views), search escrow **3** (0 views). Search apps **1.12** bacha, 1 join / 1.88 spent, mat daalna.
 
 Bulk hi ek jagah patla hai (CPM 7). Usse 15+ dena holders ya naya ad kaat dega. Pehle +8, joins dekho, spare se +4.
 

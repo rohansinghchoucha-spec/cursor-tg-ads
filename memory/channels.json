@@ -5219,5 +5219,25 @@
       "search apps"
     ],
     "rate": "UPI 118 Bank 115 from 26 Oct 12:00 IST"
+  },
+  "do_not_restart_ad20_2026_10_27": {
+    "date": "2026-10-27 21:30 IST",
+    "ad_20": "8 new china pay. 334 joins, CPA 0.28, spent 93. Contains diwapay+linkpay8 PLUS xWallet, ATG PAY, and dead Upay/Showpay/Wiseway/Alex. Do not restart.",
+    "also_leave_stopped": [
+      "19 loot",
+      "21 account lane",
+      "22 no link/diwa",
+      "23 CPA 13",
+      "24 CPA 0.95",
+      "29 quality sellers",
+      "31 bulk try 4"
+    ],
+    "when_40_lands_running": {
+      "already_active": 7,
+      "reactivate": [
+        "30 bulk clients 3"
+      ],
+      "new_ad": "one ad, linkpay8 + diwapay only, CPM 5, 10 TON"
+    }
   }
 }

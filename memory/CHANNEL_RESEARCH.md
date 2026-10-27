@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 21:00 IST — §110 40 TON not credited yet. Plan: keep live ads, refill users+bulk, new LinkPay and Diwa at CPM 5.
+**Last updated:** 2026-10-27 21:30 IST — §111 do not restart ad 20. LinkPay+Diwa only, as one new ad.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3896,3 +3896,13 @@ CPM: search **1.50** theek hai (sell join 0.15, users 0.26). Channel **5** quali
 | spare | | 6 |
 
 Mat daalna: quality sellers, china wave2, wave3, bulk try 4, search apps (1.14 bacha, Russian xwallet). Search sell, search bulk, search escrow, rate beat pehle se funded, unme se 40 nahi katna. Text naye ads ka: UPI ₹118 / Bank ₹115 (26 Oct 12:00 IST, aaj naya rate post nahi).
+
+## 111) 2026-10-27 21:30 IST — LinkPay/Diwa purane ad mein the. Ad 20 mat on karo.
+
+Ad **20** `8 new china pay` Stopped. 19,334 views / **334 joins** / 93 TON / CPA **0.28**. Channels: `diwapay`, `linkpay8`, `linkxwalletnow`, Alexpay, `atgpay_iop`, Upay, Wiseway, Showpay.
+
+On karna galat. xWallet aur ATG PAY pehle se active ads mein hain. Upay May se band, Showpay views ~51, Wiseway Pakistan side, Alex Aug se thanda. Paise un 4 pe bhi batenge.
+
+Ad 22 (`china apps 10`, 143 joins, CPA 0.52) mein Link/Diwa hain hi nahi. Ad 19 loot channels. Ad 21 accounts + doosra Linkpay token channel. Ad 23 CPA 13. Ad 24 CPA 0.95. Ad 31 ge8/swift. Inme se koi on nahi.
+
+**40 aane par chalenge 9 ads.** Purane active 7 (holders, users, rate beat, search sell, search bulk, search escrow, search apps). Purana jo on hoga: sirf bulk clients 3. Naya: **ek** ad, sirf `linkpay8` + `diwapay`, CPM 5, 10 TON. Ad 20 dubara nahi.

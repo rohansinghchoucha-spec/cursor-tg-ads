@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 21:32 IST — §112 40 TON covers the good load. Holders +8, not +4. Account still 0.63.
+**Last updated:** 2026-10-28 00:10 IST — §113 CPM mat girao. Final channels live. Users ke paas 0.40 bacha.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3927,3 +3927,36 @@ Pehle se load, 40 se ek TON nahi: rate beat **8.54** (~0.45/din, ~18 din), searc
 Bulk hi ek jagah patla hai (CPM 7). Usse 15+ dena holders ya naya ad kaat dega. Pehle +8, joins dekho, spare se +4.
 
 Mat daalna: 13, 19, 20, 21, 22, 23, 24, 29, 31, search apps. CPM/text edit nahi.
+
+## 113) 2026-10-28 00:10 IST — CPM kisi ka mat girao. Final channels live check.
+
+Cabinet 00:10 IST: users left **0.40** (pehle 1.30), holders **5.96**, rate beat **8.47**, search sell **2.69**, search bulk **3**, search escrow **3**, search apps **1.02**. Bulk 30 Stopped, left 0. CPM same: search/users **1.50**, holders **5**, rate beat aur bulk **7**.
+
+CPM kam karna = edit = ad Review pe jaata hai aur delivery rukti hai. Sasta CPM pehle fail: 0.30 pe 0 joins, rival 8 pe views le gaya (§83). Jo bid ab auction jeet rahi hai use mat girao.
+
+| ad | CPM | faisla |
+|---|---|---|
+| 33 users | 1.50 | rehne do. CPA ~0.26, funded din pe 2–4 TON khata hai, bid clear hai |
+| 34 search sell | 1.50 | rehne do. CPA ~0.15 |
+| 36 search bulk, 37 search escrow | 1.50 | rehne do. Abhi 0 views, sasta karke test kharab mat karo |
+| 28 holders | 5 | rehne do. Aaj bhi ~4 TON kha raha hai, 101 joins, CPA ~0.30 |
+| 30 bulk | 7 | rehne do. 5 pe delivery nahi mili thi, 7 pe 88 joins / CPA 0.42. Edit = Review |
+| 32 rate beat | 7 | rehne do, aur 40 se paisa mat do. Roz ~0.45, 8.47 pada hai |
+| naya linkpay8+diwapay | **5** | 7 nahi. Holders ne 5 pe prove kiya. 5 se neeche nahi |
+| 35 search apps | 1.50 | refill nahi. 1 join / ~1.9 TON |
+
+Live `t.me/s` 28 Oct 00:10 IST:
+
+| handle | subs | median | last | ad | verdict |
+|---|---|---|---|---|---|
+| linkxwalletnow | 36.3k | 1850 | 27 Oct 19:58 IST | holders + users | LIVE. USDT buy/sell, UPI |
+| atgofficiale | 4.75k | 820 | 27 Oct 19:33 IST | holders + users | LIVE. INR orders, USDT rate 109. Asli ATG |
+| acpayschannel | 15.8k | 5350 | 27 Oct 13:32 IST | bulk + users | LIVE. Sell / INR order |
+| MeteorpayEliteChannel00011 | 10.2k | 2100 | 27 Oct 23:02 IST | bulk + users | LIVE |
+| linkpay8 | 31.5k | 9630 | 27 Oct 13:20 IST | naya | LIVE. Orders fast, UPI on. Sabse garam |
+| diwapay | 81.2k | 8820 | 27 Oct 23:27 IST | naya | LIVE. Official, loot sibling nahi |
+| pay98pay | 8.32k | 2160 | 25 Oct 07:11 IST | rate beat + users | theek, 3 din. Rate 109, chhote deposit |
+| atgpay_iop | 2.28k | 3040 | 20 Oct 17:45 IST | rate beat + users | THANDA. Posts ab Trust Pay ₹108.1, ATG nahi. Rate beat mein hai, 40 se paisa nahi. Asli ATG `atgofficiale` holders mein hai |
+| zkpay108 | 5.01k | 4920 | 14 Oct 09:51 IST | bulk + users | THANDA, 14 din. Bulk on karo bina edit. Spend acpay + meteor pe jayega |
+
+40 ka split wahi: users +10, holders +8, bulk +8, naya 10, spare 4. Users pehle bharo, 0.40 pe rukne wala hai.

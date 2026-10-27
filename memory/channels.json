@@ -5306,5 +5306,87 @@
         "spent_27": 2.21
       }
     }
+  },
+  "cpm_hold_channels_2026_10_28":   {
+    "date": "2026-10-28 00:10 IST",
+    "verdict": "Do not lower any CPM. Edit sends the ad back to review. Cheap 0.30 CPM already failed. Bids that are clearing stay.",
+    "cpm_stay": {
+      "33_users": 1.5,
+      "34_search_sell": 1.5,
+      "36_search_bulk": 1.5,
+      "37_search_escrow": 1.5,
+      "28_holders": 5,
+      "30_bulk": 7,
+      "32_rate_beat": 7,
+      "new_linkpay_diwa": 5
+    },
+    "do_not_refill": "35 search apps",
+    "cabinet_left": {
+      "33": 0.4025,
+      "28": 5.955,
+      "32": 8.467,
+      "34": 2.6865,
+      "36": 3,
+      "37": 3,
+      "35": 1.023,
+      "30": 0
+    },
+    "live": {
+      "linkxwalletnow": {
+        "subs": 36300,
+        "median": 1850,
+        "last": "2026-10-27T14:28:11Z",
+        "verdict": "LIVE"
+      },
+      "atgofficiale": {
+        "subs": 4750,
+        "median": 820,
+        "last": "2026-10-27T14:03:41Z",
+        "verdict": "LIVE real ATG"
+      },
+      "acpayschannel": {
+        "subs": 15800,
+        "median": 5350,
+        "last": "2026-10-27T08:02:49Z",
+        "verdict": "LIVE"
+      },
+      "MeteorpayEliteChannel00011": {
+        "subs": 10200,
+        "median": 2100,
+        "last": "2026-10-27T17:32:40Z",
+        "verdict": "LIVE"
+      },
+      "linkpay8": {
+        "subs": 31500,
+        "median": 9630,
+        "last": "2026-10-27T07:50:48Z",
+        "verdict": "LIVE hottest"
+      },
+      "diwapay": {
+        "subs": 81200,
+        "median": 8820,
+        "last": "2026-10-27T17:57:09Z",
+        "verdict": "LIVE official"
+      },
+      "pay98pay": {
+        "subs": 8320,
+        "median": 2160,
+        "last": "2026-10-25T01:41:42Z",
+        "verdict": "ok, rate 109, small deposits"
+      },
+      "atgpay_iop": {
+        "subs": 2280,
+        "median": 3040,
+        "last": "2026-10-20T12:15:46Z",
+        "verdict": "STALE Trust Pay posts, not ATG. No new money"
+      },
+      "zkpay108": {
+        "subs": 5010,
+        "median": 4920,
+        "last": "2026-10-14T04:21:05Z",
+        "verdict": "STALE 14 days. Bulk stays unedited; spend goes to acpay and meteor"
+      }
+    },
+    "fund_order": "users +10 first (0.40 left), holders +8, bulk +8 at CPM 7, new linkpay8+diwapay 10 at CPM 5, spare 4"
   }
 }

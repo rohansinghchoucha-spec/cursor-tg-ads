@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-15 — §89 live results. Clients best open ad. Try finished. Sellers weak.
+**Last updated:** 2026-10-27 — §104 high-ticket hunt. Search ad 36 in review (3 TON). No new channel spend.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3711,3 +3711,44 @@ Cabinet `searchBot` (1000+ daily users pass): `@send` (Crypto Bot), `@walt` (ex 
 | `@zebpayofficial` | 10.4k / med 503 / aaj | Indian exchange, eligible nahi, views patle |
 
 CoinDCX search results SCAM clones (`COIN DCX OFFICIAL [SCAM]`). Mat chhuo.
+
+## 104) 2026-10-27 18:35–18:55 IST — 1,000–10,000+ USDT. Bina waste.
+
+User: sirf woh log jinhen bechna hai, 1,000 se 10,000+ USDT, legal/non-legal, job/professional/trading. 20 min. Paise waste nahi.
+
+**Rate (naya ad se pehle):** `safepathdeals` newest TODAY LATEST RATE = 26 Oct 12:00 IST, UPI ₹118 / Bank ₹115. `nexadeskrates` 25 Oct 08:34 IST ab bhi ₹119/₹117, purana. 27 Oct ko naya rate post nahi. Search ad mein text nahi hota, destination pe rate sahi hai.
+
+**Cabinet jab hunt khatam hui (27 Oct ~18:48 IST):** unallocated 8.63 TON tha. `users india apps` Stopped (4,000 views / 23 joins / CPA 0.26 / budget 0). `bulk clients 3` Stopped (88 joins / CPA 0.42 / budget 0). `quality sellers` Stopped (CPA 1.13) — refill nahi. `search apps` Active CPA 1.79 — refill nahi. `search sell` Active 2 joins / CPA 0.14 / 2.71 bacha — chhod do. `quality holders` Active 96 joins / CPA 0.31 / 7.21 bacha. `rate beat test` Active 2 joins / CPA 0.68 / 8.64 bacha.
+
+**Ad laga diya, chhota:** ad **36** `search bulk inr`. 3 TON, CPM 1.50, dest `t.me/safepathdeals`, In Review, 27 Oct 18:48 IST. Unallocated ab **5.63 TON**. Keywords (exact, India cashout, purane search ads se overlap nahi): `sell usdt upi`, `usdt imps`, `usdt cdm`, `usdt to upi`, `sell usdt india`, `p2p usdt inr`, `usdt buyer india`, `usdt for inr`, `bulk usdt`, `usdt upi rate`. Kill: 3 TON spend aur &lt;3 joins = band.
+
+**Kyun yahi, channel nahi.** 1,000–5,000 USDT wale public posts mili, par Ads-worthy naya channel nahi:
+
+| handle | live 27 Oct | faisla |
+|---|---|---|
+| `quickpayoffical1` | 2,170 / med 933 / 22 Oct. Single deposit 1000–2500, bonus 500–5000 | Pehle se quality sellers mein. Unka khud ka ad rate **118.2** bolta hai. Hamara UPI 118 se edge nahi. Alag budget nahi |
+| `MeteorpayEliteChannel00011` | aaj live, 1,000 USDT slab + 100 USDT slab | bulk clients 3 mein tha, budget khatam. 100 wale bhi hain |
+| `official_show_pay` | 11.3k / med **51** / 21 Oct. Copy mein 1,000 / 3,000 / 5,000 deposit | **SKIP.** Copy sahi, koi padhta nahi |
+| `mobiuspe0` | 1,810 / med 135 / aaj. "deposit more than 1000" | **SKIP.** Views mari |
+| `hoyopay` | 1,970 / med 2,570 / 26 Oct. Rate ~108 | Views asli, ticket chhota-mid. Is test mein nahi |
+| `glpay21` | **940** / med 2,110 / aaj. Rate 109.5 | WATCH. 1,000 ke neeche |
+| `dealzzonen` | **765** / med 832 / aaj. Paisabase reward 1,000–6,000 USDT | WATCH. 1,000 ke neeche, slab sahi |
+| `diwapay_support_crypto` | aaj post, Mantri Mall loot | DROP stands |
+| `usdtsellersindia` | last 21 Apr, F2F ₹86, Bangalore | DROP stands |
+| `dubaiusdtexchange` `dubai_exchange_cryptocurrency` `freelancers_int` | preview band | Ads nahi |
+| `rswalletearnings` | 1.24k / med 86 | views mari |
+| `rhinopaymentchannel666666` | discontinued → Meteor | skip |
+
+Index pe freelancer, exporter, jeweller, Surat, NRI, Gulf, hawala, "5000 usdt" — koi Ads-eligible seller channel nahi.
+
+**Kaun rakhta hai 1,000–10,000+ aur bech sakta hai:**
+
+- China-pay depositor (Meteor, pay98, GL, Paisabase, Showpay, Mobius, Hoyo). Size yahi milti hai. Jo channel padha jaata hai woh pehle se ads mein hai ya 1,000 se chhota hai. Showpay/Mobius copy badi hai, views nahi.
+- Binance/KuCoin P2P merchant. Book pe 1k–50k float. Kisi public channel mein nahi baithe. Sirf search pe pakad aati hai.
+- Freelancer / foreign-client USDT (legal). Wallet mein hota hai, channel nahi. Clean OTC unhe ₹98 bank deta hai; ₹118 UPI tab kaam karega jab woh UPI pe nikalna chahein.
+- Importer USDT **kharidta** hai, bechta nahi. Mat target karo.
+- Trader / futures / WazirX-Binance news: USDT margin ya news. Bechne wala stack nahi.
+- Airdrop: $4–20. Bot ads (`@send`, `@tonkeeper`, `@xrocket`): India filter nahi, poori duniya = waste.
+- IndiaOTC / TF_Exchange: size hai, rate ~₹88–98 bank/CDM, UPI nahi. Hamare offer ke against.
+
+**Search waste jo chhoda:** `sell 5000 usdt` / `sell 10000 usdt` = Bangladesh/Iran. `usdt neft` = Russian city names, bank NEFT nahi. `usdt trc20` = flash bots. `trust wallet usdt` = airdrop/loan. `usdt freelancer` = AI bot. `withdraw usdt` = airdrop.

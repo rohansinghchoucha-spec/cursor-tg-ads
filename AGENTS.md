@@ -17,6 +17,7 @@ Treat these as long-term memory. Do **not** re-recommend channels marked `DROP` 
 - Goal: acquire **Indian USDT sellers** (people who already hold/sell/deposit USDT), not generic crypto news consumers
 - Budget style: small TON tests (often 20–30 TON), quality over cheap CPM
 - Primary offer pattern: We Buy USDT · UPI / Bank rate · join for live rate
+- **Rate rule (always):** before creating or editing any ad, read the newest "TODAY LATEST RATE" post on `t.me/s/safepathdeals` (and `t.me/s/nexadeskrates`; use whichever is newer by date) and put exactly that UPI / Bank rate in the ad text. Stale rates slow down review on new ads. Already-active ads don't need re-editing (editing sends them back to review).
 
 ## Research method (required)
 

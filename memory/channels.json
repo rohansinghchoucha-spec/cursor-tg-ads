@@ -144,7 +144,7 @@
     "hoyopay": {
       "status": "WATCH",
       "lane": "china_pay",
-      "note": "2026-10-13 live 1.94k/med 2450 but last post 23 Sep. Token-sell, no 500 amount. Stale. Do not refill."
+      "note": "2026-10-27 live 1.97k/med 2570, last 26 Oct. Rate ~108, views real. No 1000-USDT slab on the current page. Mid-ticket only. Not in the high-ticket test."
     },
     "hoyopay_offical": {
       "status": "WATCH",
@@ -4967,5 +4967,66 @@
     "scam_skip": [
       "coindcx_coin_dcx_unives"
     ]
+  },
+  "highticket_2026_10_27": {
+    "date": "2026-10-27",
+    "window_ist": "18:35-18:55",
+    "ad": {
+      "id": 36,
+      "title": "search bulk inr",
+      "status": "In Review",
+      "budget_ton": 3,
+      "cpm": 1.5,
+      "dest": "t.me/safepathdeals",
+      "keywords": [
+        "sell usdt upi",
+        "usdt imps",
+        "usdt cdm",
+        "usdt to upi",
+        "sell usdt india",
+        "p2p usdt inr",
+        "usdt buyer india",
+        "usdt for inr",
+        "bulk usdt",
+        "usdt upi rate"
+      ]
+    },
+    "unallocated_after_ton": 5.63,
+    "rate": "safepathdeals 26 Oct 12:00 IST UPI 118 Bank 115. No 27 Oct post.",
+    "skip_no_spend": {
+      "official_show_pay": "11.3k med 51. 1000/3000/5000 deposit copy, nobody reads",
+      "mobiuspe0": "1810 med 135. 1000 deposit copy, dead views",
+      "quickpayoffical1": "already in quality sellers. Their ad claims rate 118.2, no edge vs our 118",
+      "diwapay_support_crypto": "Mantri Mall loot, DROP stands",
+      "usdtsellersindia": "dead Apr, F2F 86, DROP stands"
+    },
+    "watch_under_1000": {
+      "glpay21": "940 med 2110 rate 109.5",
+      "dealzzonen": "765 med 832 Paisabase slabs 1000-6000 USDT"
+    },
+    "no_preview": [
+      "dubaiusdtexchange",
+      "dubai_exchange_cryptocurrency",
+      "freelancers_int"
+    ],
+    "keyword_waste": {
+      "sell 5000 usdt": "Bangladesh/Iran",
+      "sell 10000 usdt": "Bangladesh",
+      "usdt neft": "Russian city names, not bank NEFT",
+      "usdt trc20": "flash bots",
+      "trust wallet usdt": "airdrop/loan",
+      "usdt freelancer": "AI bot",
+      "withdraw usdt": "airdrop"
+    },
+    "do_not_refill": [
+      "quality sellers",
+      "search apps"
+    ],
+    "leave_running": [
+      "search sell CPA 0.14",
+      "quality holders",
+      "rate beat test"
+    ],
+    "note": "No new channel ad. Users and bulk clients are at budget 0. Not refilled in this test because ticket is mixed. Bots and airdrop still no-spend."
   }
 }

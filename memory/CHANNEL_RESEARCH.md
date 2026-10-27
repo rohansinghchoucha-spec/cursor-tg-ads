@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 21:30 IST — §111 do not restart ad 20. LinkPay+Diwa only, as one new ad.
+**Last updated:** 2026-10-27 21:32 IST — §112 40 TON covers the good load. Holders +8, not +4. Account still 0.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3906,3 +3906,24 @@ On karna galat. xWallet aur ATG PAY pehle se active ads mein hain. Upay May se b
 Ad 22 (`china apps 10`, 143 joins, CPA 0.52) mein Link/Diwa hain hi nahi. Ad 19 loot channels. Ad 21 accounts + doosra Linkpay token channel. Ad 23 CPA 13. Ad 24 CPA 0.95. Ad 31 ge8/swift. Inme se koi on nahi.
 
 **40 aane par chalenge 9 ads.** Purane active 7 (holders, users, rate beat, search sell, search bulk, search escrow, search apps). Purana jo on hoga: sirf bulk clients 3. Naya: **ek** ad, sirf `linkpay8` + `diwapay`, CPM 5, 10 TON. Ad 20 dubara nahi.
+
+## 112) 2026-10-27 21:32 IST — 40 kaafi hai. Active sahi ads + naya ad. Account abhi bhi 0.63.
+
+Budget page live: **💎0.6298**. Aaj ke cuts sirf −2 users (14:42 UTC), −3 escrow (14:41), −3 bulk-inr (13:18). Last credit +40 **24 Oct 21:31 UTC**. Naya 40 credit nahi, isliye incrAdBudget / naya ad nahi chalaya.
+
+§110 ka holders +4 kam padta. Holders aaj (27 Oct, din abhi UTC pe chalu) **786 views / 3.93 TON**, bacha **6.23**. Kal full day 3.24. +4 se yeh ~2 din mein phir khatam. Users 25 Oct **3.96**, 26 Oct **2.04**, aaj sirf 0.71 kyunki bacha **1.30** hai — yeh aaj raat rukta hai.
+
+| ad | status | bacha | roz (jab funded) | 40 se | baad | runway |
+|---|---|---|---|---|---|---|
+| 33 users india apps | Active | 1.30 | ~3 | **+10** | ~11.3 | ~4 din |
+| 28 quality holders | Active | 6.23 | ~3.5–4 | **+8** | ~14.2 | ~4 din |
+| 30 bulk clients 3 | Stopped, on | 0 | ~6 (CPM 7) | **+8** | 8 | ~1.5 din |
+| naya linkpay8 + diwapay | banana | — | unknown | **10** | 10 | pehla test |
+| spare | | | | **4** | | buffer |
+| **total** | | | | **40** | | |
+
+Pehle se load, 40 se ek TON nahi: rate beat **8.54** (~0.45/din, ~18 din), search sell **2.69** (~0.10/din, ~25 din), search bulk **3** (0 views), search escrow **3** (0 views). Search apps **1.12** bacha, CPA ~1.68, mat daalna.
+
+Bulk hi ek jagah patla hai (CPM 7). Usse 15+ dena holders ya naya ad kaat dega. Pehle +8, joins dekho, spare se +4.
+
+Mat daalna: 13, 19, 20, 21, 22, 23, 24, 29, 31, search apps. CPM/text edit nahi.

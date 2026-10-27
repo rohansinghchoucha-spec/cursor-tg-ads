@@ -5239,5 +5239,72 @@
       ],
       "new_ad": "one ad, linkpay8 + diwapay only, CPM 5, 10 TON"
     }
+  },
+  "fund40_fit_2026_10_27":   {
+    "date": "2026-10-27 21:32 IST",
+    "unallocated": 0.6298,
+    "new_40_credited": false,
+    "verdict": "40 covers every good active ad plus one new LinkPay+Diwa ad. Short only if waste ads are also filled.",
+    "supersedes_holders_topup": "section 110 holders +4 is too small. Holders spent 3.93 on 27 Oct with 6.23 left.",
+    "when_40_lands": {
+      "users_33": 10,
+      "holders_28": 8,
+      "bulk_30": 8,
+      "new_linkpay8_diwapay": 10,
+      "spare": 4
+    },
+    "already_loaded_do_not_add": {
+      "32_rate_beat": {
+        "left": 8.537,
+        "per_day": 0.45,
+        "days": 18
+      },
+      "34_search_sell": {
+        "left": 2.694,
+        "per_day": 0.1,
+        "days": 25
+      },
+      "36_search_bulk": {
+        "left": 3,
+        "views": 0
+      },
+      "37_search_escrow": {
+        "left": 3,
+        "views": 0
+      }
+    },
+    "do_not_fund": [
+      "35 search apps",
+      "29 quality sellers",
+      "31 bulk try 4",
+      "13",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "tight_spot": "bulk 30 burns ~6/day at CPM 7, so +8 is ~1.5 days. Do not give it 15+ or holders and the new ad get cut.",
+    "live": {
+      "33": {
+        "left": 1.298,
+        "spent_25": 3.96,
+        "spent_26": 2.04,
+        "spent_27": 0.71
+      },
+      "28": {
+        "left": 6.23,
+        "spent_26": 3.24,
+        "spent_27": 3.93,
+        "views_27": 786
+      },
+      "30": {
+        "left": 0,
+        "spent_25": 6.85,
+        "spent_26": 5.82,
+        "spent_27": 2.21
+      }
+    }
   }
 }

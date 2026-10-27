@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 20:15 IST — §108 search escrow cash live. Users refilled 2 TON. Add 20 TON for bulk.
+**Last updated:** 2026-10-27 20:50 IST — §109 xWallet is already inside active ads. LinkPay reads more. Search word xwallet is a Russian wallet.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3847,3 +3847,33 @@ Rate check: `safepathdeals` newest post still 26 Oct 12:00 IST, UPI ₹118 / Ban
 Khula balance ~**0.63 TON**. Bulk clients 3 abhi bhi Stopped, budget 0.
 
 **Fund add: 20 TON.** Usme se 8 TON `bulk clients 3` (88 joins, CPA 0.42), 6 TON aur `users india apps` pe, 6 TON spare. Mat daalna: `quality sellers` (CPA 1.13), `china wave2` (CPA 13), `china wave3`, `bulk try 4`, `search apps` (CPA 1.83, already on, 1.17 left). Holders aur rate beat pehle se Active hain.
+
+## 109) 2026-10-27 20:50 IST — xWallet kahan hai, competitors.
+
+Cabinet live. xWallet channel = `linkxwalletnow`.
+
+| Ad | xWallet? | Status | Numbers |
+|---|---|---|---|
+| 28 quality holders | Channel ke andar: xWallet + ATG Exchange | **Active** | 6,122 views / 100 joins / CPA 0.30 / 6.40 TON bacha |
+| 33 users india apps | India + audience mein xWallet (saath ACPay, Meteor, ATG, 98Pay, ATG PAY, ZKpay) | **Active** | 4,237 views / 24 joins / CPA 0.26 / 1.64 TON bacha |
+| 35 search apps | Keyword `xwallet` | Active | Sample = Russian `XWallet Кошелёк`, India wala channel nahi. 1 join, CPA 1.83. Refill nahi |
+| 30 bulk, 32 rate beat, 36, 37 | xWallet nahi | | |
+
+Live `t.me/s` 27 Oct ~20:00 IST: xWallet 36.2k / med 1,780 / aaj 19:58 IST. Posts: USDT recharge, INR orders, “the more USDT you do”. Site xwltapp.in: 34 states, USDT business = sasta kharid ke unko 3.8% upar becho. Isi liye real seller aate hain.
+
+Competitors, same day:
+
+| handle | subs / med views | ad mein? | faisla |
+|---|---|---|---|
+| `linkpay8` | 31.5k / **9,490** / aaj | Nahi. Purana stopped `8 new china pay` mein tha | Padha sabse zyada jaata hai. xWallet se alag test, replace nahi |
+| `diwapay` | 81.1k / 8,590 / aaj | Nahi. Official channel. Loot wala `diwapay_support_crypto` alag hai, mat chhuo | Views bade. Aaj ka post Mobikwik status |
+| `acpayschannel` | 15.8k / 5,320 / aaj | Users ad mein hai. Channel ad nahi | Theek |
+| `zkpay108` | 5.0k / 4,920 / last 14 Oct | Users + stopped bulk | Stale. Naye ad mein mat daalo |
+| `MeteorpayEliteChannel00011` | 10.2k / 2,080 / aaj | Users + stopped bulk | 1,000 USDT slab. Bulk on karna = yeh |
+| `pay98pay` | 8.3k / 2,150 / 25 Oct | rate beat + users. Active | Chal raha hai |
+| `atgofficiale` | 4.75k / 812 / aaj | quality holders, xWallet ke saath | Chhota, lekin usi ad mein hai |
+| `hoyopay` | 1.97k / 2,580 / 26 Oct | Nahi | Views asli, ticket chhota-mid |
+| `quickpayoffical1` | 2.17k / 933 / 22 Oct | Stopped quality sellers | Unka rate 118.2, edge nahi |
+| `glpay21` | 944 / 2,000 / aaj, rate 109.5 | Nahi. 1,000 se kam | WATCH |
+
+xWallet band mat karo. Woh ad pehle se Active hai. Search wala `xwallet` word India sellers nahi pakadta.

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-27 20:50 IST — §109 xWallet is already inside active ads. LinkPay reads more. Search word xwallet is a Russian wallet.
+**Last updated:** 2026-10-27 21:00 IST — §110 40 TON not credited yet. Plan: keep live ads, refill users+bulk, new LinkPay and Diwa at CPM 5.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3877,3 +3877,22 @@ Competitors, same day:
 | `glpay21` | 944 / 2,000 / aaj, rate 109.5 | Nahi. 1,000 se kam | WATCH |
 
 xWallet band mat karo. Woh ad pehle se Active hai. Search wala `xwallet` word India sellers nahi pakadta.
+
+## 110) 2026-10-27 21:00 IST — 40 TON plan. Paise abhi nahi aaye.
+
+Budget page: khula **0.63 TON**. Aaj ke moves sirf -3 escrow, -3 bulk-inr, -2 users. Last credit +40 TON **24 Oct**. Naya 40 abhi credit nahi. Isliye LinkPay/Diwa ad abhi nahi bana. CPM edit nahi kiya (edit = review).
+
+CPM: search **1.50** theek hai (sell join 0.15, users 0.26). Channel **5** quality holders pe 101 joins / 0.30. **7** sirf rate beat aur bulk pe hai. Naye channel ads **5** pe, 7 pe nahi.
+
+40 aate hi, faltu ko haath nahi:
+
+| ad | CPM | 40 mein se |
+|---|---|---|
+| users india apps (33) Active | 1.50 | +8 |
+| bulk clients 3 (30) Stopped, on karna | 7 (edit nahi) | +8 |
+| quality holders (28) Active, xWallet | 5 | +4 |
+| naya `linkpay8` | 5 | 8 |
+| naya `diwapay` official | 5 | 6 |
+| spare | | 6 |
+
+Mat daalna: quality sellers, china wave2, wave3, bulk try 4, search apps (1.14 bacha, Russian xwallet). Search sell, search bulk, search escrow, rate beat pehle se funded, unme se 40 nahi katna. Text naye ads ka: UPI ₹118 / Bank ₹115 (26 Oct 12:00 IST, aaj naya rate post nahi).

@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-28 00:10 IST — §113 CPM mat girao. Final channels live. Users ke paas 0.40 bacha.
+**Last updated:** 2026-10-28 11:06 IST — §114 40 loaded. Users +10, holders +8, bulk on +8, ad 38 LinkPay+Diwa In Review. Spare 4.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3960,3 +3960,21 @@ Live `t.me/s` 28 Oct 00:10 IST:
 | zkpay108 | 5.01k | 4920 | 14 Oct 09:51 IST | bulk + users | THANDA, 14 din. Bulk on karo bina edit. Spend acpay + meteor pe jayega |
 
 40 ka split wahi: users +10, holders +8, bulk +8, naya 10, spare 4. Users pehle bharo, 0.40 pe rukne wala hai.
+
+## 114) 2026-10-28 11:06 IST — 40 load ho gaya. Bulk on. Naya ad 38 In Review.
+
+Credit **+40** dikha 28 Oct 05:31 UTC (11:01 IST). Unallocated pehle 40.63. CPM/text kisi purane ad ka edit nahi.
+
+Rate, create se turant pehle: safepathdeals **28 Oct 10:02 IST** UPI **₹118** / Bank **₹115**. nexadeskrates 10:00 IST same 118/115. Naye ad ka text wahi.
+
+| ad | move | ab | status |
+|---|---|---|---|
+| 33 users india apps | +10 | left 9.99, joins 36, CPM 1.50 | Active |
+| 28 quality holders | +8 | left 13.13, joins 103, CPM 5 | Active |
+| 30 bulk clients 3 | +8, edit nahi | left 8, joins 88, CPM 7 | Active (Stopped se) |
+| 38 link diwa reach | naya, budget 10, CPM 5 | left 10, spent 0 | **In Review** |
+| spare | | **4.63** | unallocated |
+
+Ad 38 channels confirm: **🇮🇳 Linkpay Official Channel 🇮🇳** (`linkpay8`) aur **DIWAPAY** (`diwapay`). `linkpay888jack` nahi. Dest `t.me/safepathdeals`. Picture on. Text `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Active tab approve hoga. Edit mat karo.
+
+Haath nahi lagaya: rate beat (8.35), search sell, search bulk, search escrow, search apps, ads 13/19/20/21/22/23/24/29/31.

@@ -5453,5 +5453,10 @@
       "29",
       "31"
     ]
+  },
+  "cabinet_login_pending_2026_10_31":   {
+    "date": "2026-10-31 13:45 IST",
+    "status": "ads.telegram.org login wall after machine restart. Confirmation message sent inside Telegram. No 31 Oct spend, joins, or balance read.",
+    "do_not_use_as_current": "section 114 numbers from 2026-10-28 11:06 IST"
   }
 }

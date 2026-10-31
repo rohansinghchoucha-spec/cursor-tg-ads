@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-28 11:06 IST — §114 40 loaded. Users +10, holders +8, bulk on +8, ad 38 LinkPay+Diwa In Review. Spare 4.63.
+**Last updated:** 2026-10-31 13:45 IST — §115 cabinet session gone. No fresh spend numbers until Telegram confirm.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3978,3 +3978,7 @@ Rate, create se turant pehle: safepathdeals **28 Oct 10:02 IST** UPI **₹118** 
 Ad 38 channels confirm: **🇮🇳 Linkpay Official Channel 🇮🇳** (`linkpay8`) aur **DIWAPAY** (`diwapay`). `linkpay888jack` nahi. Dest `t.me/safepathdeals`. Picture on. Text `We Buy USDT · Min 500 USDT · UPI ₹118 · Bank ₹115`. Active tab approve hoga. Edit mat karo.
 
 Haath nahi lagaya: rate beat (8.35), search sell, search bulk, search escrow, search apps, ads 13/19/20/21/22/23/24/29/31.
+
+## 115) 2026-10-31 13:45 IST — performance check ruka. Login confirm pending.
+
+Machine restart ke baad ads Chrome profile nahi tha. `ads.telegram.org` login wall. Phone submit ho chuka hai, page bolta hai: confirmation message Telegram pe bhej diya, confirm access. Code/password step abhi nahi aaya. Isliye 31 Oct ka joins/spent/left nahi nikla. 28 Oct 11:06 IST wale numbers (§114) current mat maano. Confirm ke baad hi budget faisla.

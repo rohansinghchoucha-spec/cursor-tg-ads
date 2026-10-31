@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-31 13:45 IST — §115 cabinet session gone. No fresh spend numbers until Telegram confirm.
+**Last updated:** 2026-10-31 14:05 IST — §116 three-day result. Users best and empty. Spare 4.63. Diwa spent out.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -3982,3 +3982,23 @@ Haath nahi lagaya: rate beat (8.35), search sell, search bulk, search escrow, se
 ## 115) 2026-10-31 13:45 IST — performance check ruka. Login confirm pending.
 
 Machine restart ke baad ads Chrome profile nahi tha. `ads.telegram.org` login wall. Phone submit ho chuka hai, page bolta hai: confirmation message Telegram pe bhej diya, confirm access. Code/password step abhi nahi aaya. Isliye 31 Oct ka joins/spent/left nahi nikla. 28 Oct 11:06 IST wale numbers (§114) current mat maano. Confirm ke baad hi budget faisla.
+
+## 116) 2026-10-31 14:05 IST — login ke baad performance. Users jeeta, khali ho gaya.
+
+Unallocated **4.63**. Naya credit nahi. 28 Oct ke load ke baad ka delta:
+
+| ad | status | joins ab | is daur ka spend | is daur ke joins | is daur CPA | bacha |
+|---|---|---|---|---|---|---|
+| 33 users | Stopped 30 Oct | 79 | 10.00 | 43 | **0.23** | 0 |
+| 34 search sell | Active | 4 | 0.31 | 1 | 0.31 | 2.34 |
+| 38 link diwa | Stopped 29 Oct | 19 | 10.00 | 19 | **0.53** | 0 |
+| 28 holders | Active | 115 | 7.44 | 12 | 0.62 | **5.69** |
+| 30 bulk | Stopped 29 Oct | 101 | 8.00 | 13 | 0.62 | 0 |
+| 32 rate beat | Active | 6 | ~1.5 | 3 | ~0.50 | **6.86** |
+| 35 search apps | Stopped 29 Oct | 4 | poora 3 | 4 lifetime | 0.75 | 0 |
+| 36 search bulk | Active | 0 | 0.02 | 0 | — | 2.98 |
+| 37 search escrow | Active | 0 | 0.01 | 0 | — | 2.99 |
+
+Diwa ne 28 Oct ko hi 9.28 kha liya (1,855 views), 29 Oct ko 0.73 aur ruk gaya. Users 28 Oct 4.14, 29 Oct 4.37, 30 Oct 1.60 pe khatam. Holders aaj bhi chal raha hai (31 Oct 0.39, din adhoora), 5.69 pada hai.
+
+Faisla: naya paisa pehle **users**. Spare 4.63 sirf users ko, woh ~1 din ka hai. Asal top-up **20 TON**: users 12, link diwa 8. Holders, rate beat, search sell, search 36/37 ko abhi mat do. Bulk, search apps, 13/19/20/21/22/23/24/29/31 on mat karo. CPM edit nahi.

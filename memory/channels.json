@@ -5458,5 +5458,46 @@
     "date": "2026-10-31 13:45 IST",
     "status": "ads.telegram.org login wall after machine restart. Confirmation message sent inside Telegram. No 31 Oct spend, joins, or balance read.",
     "do_not_use_as_current": "section 114 numbers from 2026-10-28 11:06 IST"
+  },
+  "perf_2026_10_31":   {
+    "date": "2026-10-31 14:05 IST",
+    "unallocated": 4.63,
+    "since": "2026-10-28 11:06 IST load",
+    "best": "33 users. 43 joins on 10 TON, CPA 0.23. Stopped 30 Oct, left 0.",
+    "second": "38 link diwa. 19 joins on 10 TON, CPA 0.53. Spent 9.28 on 28 Oct, stopped 29 Oct.",
+    "holders_28": {
+      "status": "Active",
+      "left": 5.69,
+      "joins": 115,
+      "delta_joins": 12,
+      "delta_spent": 7.44,
+      "delta_cpa": 0.62
+    },
+    "bulk_30": {
+      "status": "Stopped",
+      "delta_joins": 13,
+      "delta_spent": 8,
+      "delta_cpa": 0.62
+    },
+    "leave_funded": {
+      "32_rate_beat": 6.86,
+      "34_search_sell": 2.34,
+      "36_search_bulk": 2.98,
+      "37_search_escrow": 2.99
+    },
+    "do_not_restart": [
+      "35 search apps",
+      "30 bulk ahead of users",
+      "20",
+      "19",
+      "21",
+      "22",
+      "23",
+      "24",
+      "29",
+      "31",
+      "13"
+    ],
+    "next_money": "Spare 4.63 only onto users. Real top-up 20 TON: users 12, link diwa 8. Do not edit CPM."
   }
 }

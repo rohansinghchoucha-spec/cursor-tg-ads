@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-03 10:05 IST — §117 restart the same three. One new channel: glpay21. Spare still 4.63.
+**Last updated:** 2026-11-03 10:10 IST — §118 final 25 is users 10, holders 8, diwa 7. glpay is not this round.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4026,3 +4026,18 @@ Live channels, 3 Nov 10:05 IST: `linkxwalletnow` 36.6k / med 1780 / aaj 8:00 AM.
 **Mat on:** bulk 30 (users sasta hai), rate beat (paisa pada hai, Nov mein join nahi), search apps, search 36/37, ads 13/19/20/21/22/23/24/29/31.
 
 25 TON aane par: users 12, holders 8, link diwa 8, glpay21 naya 5. CPM 5 naya ad pe. 4.63 se yeh set nahi chalta.
+
+## 118) 2026-11-03 10:10 IST — final 25. glpay is round mein nahi.
+
+User: acche clients jinke paas USDT ho. 25 hi. Zyada chahiye ho to abhi bolo. Cabinet abhi bhi **4.63**, 25 credit nahi hua. Load tabhi.
+
+glpay21 chhote order wale hain (3.2% + ₹6, rate 109.5, 1,260 log). USDT stack wala channel nahi. Is 25 mein se 5 usko nahi.
+
+| ad | 25 mein se | kyun |
+|---|---|---|
+| 28 holders, xWallet + ATG | **10** | Real seller yahin se aaye. 1.73 bacha, roz ~1.75. +10 ≈ 6 din |
+| 38 linkpay8 + diwapay | **8** | Seller apps. Pichhli baar 19 joins / 10 TON, ek din mein 9.28 |
+| 33 users, wahi app members | **7** | xWallet/ATG/ACPay/Meteor ke log, ek join 0.23. ~2 din |
+| glpay21, bulk, rate beat, search, ad 20 | **0** | |
+
+25 kaafi hai is round ke liye. Zyada abhi nahi. Diwa phir ek din mein khatam ho aur DM mein USDT wale hon, tab agla paisa sirf usi ad pe. CPM/text edit nahi.

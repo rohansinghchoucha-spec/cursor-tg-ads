@@ -5544,5 +5544,35 @@
       "atgpay_iop": "last 7 Oct",
       "dealzzonen": "746 subs, under 1000"
     }
+  },
+  "final25_usdt_clients_2026_11_03":   {
+    "date": "2026-11-03 10:10 IST",
+    "unallocated_before_credit": 4.63,
+    "amount": 25,
+    "more_now": false,
+    "why_not_glpay": "glpay21 posts 3.2%+6 per order and rate 109.5. Small order workers, not USDT stacks. Deferred.",
+    "when_25_lands": {
+      "28_holders": 10,
+      "38_link_diwa": 8,
+      "33_users": 7
+    },
+    "do_not_fund": [
+      "glpay21",
+      "30 bulk",
+      "32 rate beat",
+      "34",
+      "35",
+      "36",
+      "37",
+      "20",
+      "19",
+      "21",
+      "22",
+      "23",
+      "24",
+      "29",
+      "31"
+    ],
+    "no_cpm_or_text_edit": true
   }
 }

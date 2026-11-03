@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-10-31 14:05 IST — §116 three-day result. Users best and empty. Spare 4.63. Diwa spent out.
+**Last updated:** 2026-11-03 10:05 IST — §117 restart the same three. One new channel: glpay21. Spare still 4.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4002,3 +4002,27 @@ Unallocated **4.63**. Naya credit nahi. 28 Oct ke load ke baad ka delta:
 Diwa ne 28 Oct ko hi 9.28 kha liya (1,855 views), 29 Oct ko 0.73 aur ruk gaya. Users 28 Oct 4.14, 29 Oct 4.37, 30 Oct 1.60 pe khatam. Holders aaj bhi chal raha hai (31 Oct 0.39, din adhoora), 5.69 pada hai.
 
 Faisla: naya paisa pehle **users**. Spare 4.63 sirf users ko, woh ~1 din ka hai. Asal top-up **20 TON**: users 12, link diwa 8. Holders, rate beat, search sell, search 36/37 ko abhi mat do. Bulk, search apps, 13/19/20/21/22/23/24/29/31 on mat karo. CPM edit nahi.
+
+## 117) 2026-11-03 10:05 IST — wahi ads wapas. Naya sirf glpay21.
+
+Login confirm ke baad cabinet. Unallocated abhi bhi **4.63**. Naya credit nahi.
+
+| ad | status | joins | CPA lifetime | 31 Oct ke baad | bacha |
+|---|---|---|---|---|---|
+| 33 users | Stopped | 79 | 0.23 | Nov mein 0 | 0 |
+| 28 holders | Active | 126 | 0.34 | +11 joins / 3.96 TON = 0.36. Roz ~1.75 | **1.73** |
+| 38 link diwa | Stopped | 19 | 0.53 | Nov mein 0 | 0 |
+| 32 rate beat | Active | 6 | 0.63 | Nov spend 0.50, joins 0 | 6.23 |
+| 34 search sell | Active | 4 | 0.22 | Nov spend 0.16, joins 0 | 2.14 |
+| 30 bulk | Stopped | 101 | 0.45 | last slice 0.62 | 0 |
+| 36 / 37 search | Active | 0 | — | 20 aur 14 views | ~3 each |
+
+Live channels, 3 Nov 10:05 IST: `linkxwalletnow` 36.6k / med 1780 / aaj 8:00 AM. `atgofficiale` 4.91k / med 765 / kal 7:29 PM. `diwapay` 82.2k / med 8140 / aaj 10:00 AM. `linkpay8` 32.3k / med 11400 / 31 Oct 11:52 AM, orders wala post abhi bhi latest. `acpayschannel` aur Meteor kal shaam live. `zkpay108` 30 Oct 10:57 AM Paytm update. `pay98pay` 25 Oct se thanda. `atgpay_iop` 7 Oct se thanda.
+
+**Wapas on, naya ad mat banao:** users 33, holders 28 (1.73 pe aaj/kal rukega), link diwa 38. CPM edit nahi. Text edit nahi.
+
+**Ek naya channel:** `glpay21` ab 1,260 subs (pehle 1000 se neeche), med 1,460, last post 2 Nov 10:29 PM IST. 1 Nov ko USDT rate **109.5**. Hamara rate 2 Nov 8:40 AM IST: UPI **₹120** / Bank **₹118** (safepathdeals; nexadeskrates 28 Oct purana). Isko alag chhota ad, CPM 5, tab jab 25 TON aaye. Holders/diwa mein mat milao. `dealzzonen` 746, abhi bhi 1000 se kam.
+
+**Mat on:** bulk 30 (users sasta hai), rate beat (paisa pada hai, Nov mein join nahi), search apps, search 36/37, ads 13/19/20/21/22/23/24/29/31.
+
+25 TON aane par: users 12, holders 8, link diwa 8, glpay21 naya 5. CPM 5 naya ad pe. 4.63 se yeh set nahi chalta.

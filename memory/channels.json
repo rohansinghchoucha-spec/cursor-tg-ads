@@ -5499,5 +5499,50 @@
       "13"
     ],
     "next_money": "Spare 4.63 only onto users. Real top-up 20 TON: users 12, link diwa 8. Do not edit CPM."
+  },
+  "restart_plan_2026_11_03":   {
+    "date": "2026-11-03 10:05 IST",
+    "unallocated": 4.63,
+    "rate": "safepathdeals 2026-11-02T03:10:02Z UPI 120 Bank 118",
+    "reactivate_same_ads": {
+      "33_users": "Stopped, 79 joins, CPA 0.23, left 0. First money.",
+      "28_holders": "Active, 126 joins, CPA 0.34, left 1.73, burning ~1.75/day. Top up before it dies. Channels still posting.",
+      "38_link_diwa": "Stopped, 19 joins, CPA 0.53, left 0. Same ad, do not rebuild."
+    },
+    "one_new_channel": {
+      "handle": "glpay21",
+      "subs": 1260,
+      "median": 1460,
+      "last": "2026-11-02T16:59:08Z",
+      "rate_post": "1 Nov USDT 109.5",
+      "when": "Separate CPM 5 ad only after a 25 TON top-up. Do not mix into holders or diwa."
+    },
+    "when_25_lands": {
+      "users_33": 12,
+      "holders_28": 8,
+      "link_diwa_38": 8,
+      "new_glpay21": 5
+    },
+    "do_not_restart": [
+      "30 bulk",
+      "32 rate beat add",
+      "35 search apps",
+      "36",
+      "37",
+      "13",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "29",
+      "31"
+    ],
+    "stale_channels": {
+      "pay98pay": "last 25 Oct",
+      "atgpay_iop": "last 7 Oct",
+      "dealzzonen": "746 subs, under 1000"
+    }
   }
 }

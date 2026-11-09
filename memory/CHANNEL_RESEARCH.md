@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-03 13:17 IST — §119 25 loaded. Holders +10, diwa +8, users +7. All Active. Spare 4.63.
+**Last updated:** 2026-11-09 23:16 IST — §120 28 of 40 loaded. Users +12, holders/xWallet +8, diwa +8. Spare 16.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4053,3 +4053,18 @@ Credit se pehle **29.63** (4.63 + 25). incrAdBudget, CPM/text edit nahi:
 | 33 users india apps | 7 | 7.00 | Active |
 
 Spare **4.63**. glpay, bulk, rate beat, search, ad 20 ko nahi diya.
+
+## 120) 2026-11-09 23:16 IST — 40 aaya. 28 load. xWallet holders pe.
+
+Credit **+40** 9 Nov 17:41 UTC. Pehle 44.63. Saara nahi kharcha.
+
+Nov 3 load ka result: users +21 joins / 7 TON (**0.33**), holders +24 joins / ~9 TON (**~0.37**), diwa +10 joins / 8 TON (**0.80**). Search sell chhota lekin already funded. Rate beat CPA ~0.72, mat do. Bulk/search apps/ad 20 mat on.
+
+| ad | + | ab left | status | note |
+|---|---|---|---|---|
+| 33 users | 12 | 12 | Active | sabse sasta join |
+| 28 holders (xWallet + ATG) | 8 | 10.74 | Active | **xWallet yahi pe**. Winner channel ad |
+| 38 link diwa | 8 | 8 | Active | channels live |
+| spare | | **16.63** | | |
+
+xWallet users ad (33) audience mein bhi hai. Alag xWallet-only ad nahi. CPM/text edit nahi.

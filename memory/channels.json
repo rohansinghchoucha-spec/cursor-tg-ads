@@ -5591,5 +5591,32 @@
     },
     "all_active": true,
     "no_cpm_text_edit": true
+  },
+  "fund28_of40_2026_11_09":   {
+    "date": "2026-11-09 23:16 IST",
+    "credit": "+40 at 2026-11-09 17:41 UTC",
+    "before": 44.63,
+    "after": 16.63,
+    "used": 28,
+    "loaded": {
+      "33_users": 12,
+      "28_holders_xwallet_atg": 8,
+      "38_link_diwa": 8
+    },
+    "xwallet": "In ad 28 quality holders with atgofficiale. Also in users 33 audiences. Winner. Funded +8.",
+    "nov3_delta": {
+      "33": "21 joins / 7 TON = 0.33",
+      "28": "24 joins / ~9 TON = ~0.37",
+      "38": "10 joins / 8 TON = 0.80"
+    },
+    "not_funded": [
+      "32 rate beat",
+      "30 bulk",
+      "35 search apps",
+      "36",
+      "37",
+      "glpay21",
+      "20"
+    ]
   }
 }

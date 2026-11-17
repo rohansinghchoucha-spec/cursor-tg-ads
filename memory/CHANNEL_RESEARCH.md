@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-17 16:25 IST — §122 xWallet-heavy load. Holders +20, users +16, diwa +8. Spare 12.63.
+**Last updated:** 2026-11-17 16:35 IST — §123 resume winners + new china ddpay/jay. Not full ad 20/22.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4099,3 +4099,17 @@ Better models (Opus/GPT/Grok) is turn usage-cap. Hunt yahin live. Unallocated pe
 | 38 link diwa | 8 | 8 | Active |
 
 Agli baar chhota TEST: sirf `xwallet7` CPM 5 / 5 TON, agar DM quality holders jaisi lage. Rate aaj: UPI **120** / Bank **117** (safepathdeals 17 Nov 09:40 IST).
+
+## 123) 2026-11-17 16:35 IST — resume + ek naya china ad. Pack 20/22 mat on.
+
+Faisla: **pehle resume** (xWallet holders + users + link diwa). Poora ad **20** / **22** restart nahi — xWallet/Link/Diwa double spend + dead Alex/Upay/Showpay + Wiseway ab partner-recruit (PK/BD), atgpay_iop video-call spam.
+
+China lane jo abhi xWallet jaisi zinda: **`ddpay9999`** (21.1k / med 2300 / aaj, USDT deposit posts) + **`jaypay_8`** (6.84k / med 779 / 10 Nov, INR orders). Ad 22 mein the, current winners mein nahi.
+
+**Naya ad 39** `china ddpay jay`: CPM 5, budget **8**, text UPI ₹120 / Bank ₹117, dest `t.me/safepathdeals`, Active tab → **In Review**. Spare ab **~4.63**.
+
+| track | ads | status |
+|---|---|---|
+| Resume xWallet path | 28 +20, 33 +16, 38 +8 | Active |
+| New china clean | 39 ddpay+jaypay | In Review |
+| Old packs 19/20/21/22/23/24/29/30/31/35 | | Stopped, paisa nahi |

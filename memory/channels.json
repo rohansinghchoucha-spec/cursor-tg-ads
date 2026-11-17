@@ -5657,5 +5657,30 @@
     },
     "mode": "RESUME same ads, no new ad",
     "family": "No Ads-ready xWallet sister. xwallet7 WATCH only."
+  },
+  "china_ddpay_jay_new_2026_11_17":   {
+    "date": "2026-11-17 16:35 IST",
+    "decision": "RESUME winners + one NEW clean china ad. Do not restart full ad 20 or 22.",
+    "why_not_20": "Contains xWallet, linkpay8, diwapay already funded elsewhere plus dead Alex/Upay/Showpay and Wiseway partner-recruit.",
+    "why_not_22_full": "Mix of dead Mobius views and channels already in users. Extract only live leftovers.",
+    "new_ad": {
+      "id": 39,
+      "title": "china ddpay jay",
+      "channels": [
+        "ddpay9999",
+        "jaypay_8"
+      ],
+      "cpm": 5,
+      "budget": 8,
+      "rate": "UPI 120 Bank 117",
+      "status": "In Review",
+      "lane": "Same USDT-deposit / order-taker china-pay style as xWallet"
+    },
+    "spare_after": 4.63,
+    "already_resumed": {
+      "28": 20,
+      "33": 16,
+      "38": 8
+    }
   }
 }

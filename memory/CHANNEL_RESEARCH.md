@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-17 16:35 IST — §123 resume winners + new china ddpay/jay. Not full ad 20/22.
+**Last updated:** 2026-11-17 16:45 IST — §124 ad 39 deleted. Only ddpay9999 as ad 40 In Review.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4113,3 +4113,13 @@ China lane jo abhi xWallet jaisi zinda: **`ddpay9999`** (21.1k / med 2300 / aaj,
 | Resume xWallet path | 28 +20, 33 +16, 38 +8 | Active |
 | New china clean | 39 ddpay+jaypay | In Review |
 | Old packs 19/20/21/22/23/24/29/30/31/35 | | Stopped, paisa nahi |
+
+## 124) 2026-11-17 16:45 IST — JayPay hatao. Sirf DDpay.
+
+User: naye ad mein channels kam; sirf active kaam ke.
+
+Ad **39** mein pehle **2** channels the (faltu nahi, lekin JayPay kamzor):
+- `ddpay9999` — KEEP. 21.1k / med 2300 / aaj. USDT deposit posts. xWallet-style.
+- `jaypay_8` — HATA. 6.8k / med 779 / **7 din** thanda + agent recruit posts.
+
+Ad 39 delete (8 TON wapas). Naya **ad 40** `china ddpay only`: **1 channel** `ddpay9999` only, CPM 5, budget 8, UPI ₹120 / Bank ₹117 → **In Review**. Spare ~4.63.

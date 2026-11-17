@@ -5682,5 +5682,22 @@
       "33": 16,
       "38": 8
     }
+  },
+  "ddpay_only_ad40_2026_11_17":   {
+    "date": "2026-11-17 16:45 IST",
+    "ad39": "deleted — had ddpay9999 + jaypay_8; jaypay too cold/agent-recruit",
+    "ad40": {
+      "title": "china ddpay only",
+      "channels": [
+        "ddpay9999"
+      ],
+      "channel_count": 1,
+      "cpm": 5,
+      "budget": 8,
+      "status": "In Review",
+      "rate": "UPI 120 Bank 117"
+    },
+    "kept": "ddpay9999 — 21.1k med 2300 same-day USDT deposit lane",
+    "dropped": "jaypay_8 — 7d stale, agent partner posts, lower views"
   }
 }

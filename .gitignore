@@ -1,0 +1,8 @@
+.env
+.env.*
+*.pyc
+__pycache__/
+tools/__pycache__/
+.nexa_keys
+nexa_keys.env
+local/

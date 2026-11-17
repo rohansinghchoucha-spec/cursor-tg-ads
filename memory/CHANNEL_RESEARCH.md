@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-09 23:16 IST — §120 28 of 40 loaded. Users +12, holders/xWallet +8, diwa +8. Spare 16.63.
+**Last updated:** 2026-11-17 14:35 IST — §121 handoff pack. Full sanitized transcript + HANDOFF_OTHER_CURSOR.md in git.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4068,3 +4068,16 @@ Nov 3 load ka result: users +21 joins / 7 TON (**0.33**), holders +24 joins / ~9
 | spare | | **16.63** | | |
 
 xWallet users ad (33) audience mein bhi hai. Alag xWallet-only ad nahi. CPM/text edit nahi.
+
+## 121) 2026-11-17 14:35 IST — dusre Cursor ke liye git handoff + transcript
+
+User: dusra Cursor Pro, same phone logout/login; poora chat + data chahiye.
+
+**Git mein add:**
+- `memory/HANDOFF_OTHER_CURSOR.md` — brand, winners, DROP rules, pehli message
+- `memory/chat-transcripts/TELEGRAM_AD_PERFORMANCE_bc-29fb44ad.md` — is Cloud Agent ka full user/assistant transcript (sanitized)
+- `memory/chat-transcripts/README.md`
+
+**Git mein nahi:** 2FA password, cookies, API keys, Fragment seed. Woh `local/` (gitignored) + password manager. Phone confirm live Telegram pe.
+
+Cloud Agent URL account-scoped rehti hai. Alag personal Pro pe naya agent: pehle HANDOFF + CHANNEL_RESEARCH + transcript padhe.

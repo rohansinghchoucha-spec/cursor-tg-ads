@@ -5618,5 +5618,31 @@
       "glpay21",
       "20"
     ]
+  },
+  "handoff_other_cursor_2026_11_17":   {
+    "date": "2026-11-17 14:35 IST",
+    "purpose": "Move work to another Cursor Pro via git. Cloud chat stays on original account unless same Team.",
+    "files": [
+      "memory/HANDOFF_OTHER_CURSOR.md",
+      "memory/chat-transcripts/TELEGRAM_AD_PERFORMANCE_bc-29fb44ad.md",
+      "memory/CHANNEL_RESEARCH.md",
+      "memory/channels.json",
+      "AGENTS.md"
+    ],
+    "source_chat": "bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789",
+    "never_in_git": [
+      "2FA password",
+      "OTP",
+      "Ads/Web cookies",
+      "API keys",
+      "Fragment seed"
+    ],
+    "secrets_location": "gitignored local/ + password manager",
+    "winners_at_handoff": {
+      "28": "holders xWallet+ATG",
+      "33": "users",
+      "38": "linkpay8+diwapay",
+      "spare_ton": 16.63
+    }
   }
 }

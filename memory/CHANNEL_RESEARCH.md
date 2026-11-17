@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-17 14:35 IST — §121 handoff pack. Full sanitized transcript + HANDOFF_OTHER_CURSOR.md in git.
+**Last updated:** 2026-11-17 16:25 IST — §122 xWallet-heavy load. Holders +20, users +16, diwa +8. Spare 12.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4081,3 +4081,21 @@ User: dusra Cursor Pro, same phone logout/login; poora chat + data chahiye.
 **Git mein nahi:** 2FA password, cookies, API keys, Fragment seed. Woh `local/` (gitignored) + password manager. Phone confirm live Telegram pe.
 
 Cloud Agent URL account-scoped rehti hai. Alag personal Pro pe naya agent: pehle HANDOFF + CHANNEL_RESEARCH + transcript padhe.
+
+## 122) 2026-11-17 16:25 IST — xWallet family hunt + heavy reload
+
+Better models (Opus/GPT/Grok) is turn usage-cap. Hunt yahin live. Unallocated pehle **56.63** (+40 ke baad ~).
+
+**Nov 9 load ke baad:** users +43 joins / 12 TON ≈ **0.28** (best). Holders +13 joins / ~10.7 ≈ 0.83 is slice, lifetime CPA **0.39**, 163 joins. Diwa +14 / 8 ≈ **0.57**. Teenon left 0 / Stopped.
+
+**Family:** asli Ads-ready sister nahi. `xwallet7` (2.87k) same `umasterking.com` invite — affiliate; ek post 1pay ₹129.7. Abhi alag ad nahi. `xwalletcorporate` views 21 = SKIP. Cheque / under-1k / OKX-name noise = SKIP.
+
+**Load (44 of 56.63, spare 12.63), CPM/text edit nahi:**
+
+| ad | + | left | status |
+|---|---|---|---|
+| 28 holders xWallet+ATG | **20** | 20 | Active |
+| 33 users (xWallet audience) | **16** | 16 | Active |
+| 38 link diwa | 8 | 8 | Active |
+
+Agli baar chhota TEST: sirf `xwallet7` CPM 5 / 5 TON, agar DM quality holders jaisi lage. Rate aaj: UPI **120** / Bank **117** (safepathdeals 17 Nov 09:40 IST).

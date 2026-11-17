@@ -5644,5 +5644,18 @@
       "38": "linkpay8+diwapay",
       "spare_ton": 16.63
     }
+  },
+  "fund44_xwallet_heavy_2026_11_17":   {
+    "date": "2026-11-17 16:25 IST",
+    "before": 56.63,
+    "after": 12.63,
+    "used": 44,
+    "loaded": {
+      "28_holders_xwallet": 20,
+      "33_users": 16,
+      "38_link_diwa": 8
+    },
+    "mode": "RESUME same ads, no new ad",
+    "family": "No Ads-ready xWallet sister. xwallet7 WATCH only."
   }
 }

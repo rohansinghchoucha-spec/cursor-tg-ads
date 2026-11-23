@@ -5718,5 +5718,18 @@
       "28": "26 joins / 20 TON = 0.77",
       "38": "5 joins / 8 TON = 1.60"
     }
+  },
+  "china_ddpay_reload_2026_11_23":   {
+    "date": "2026-11-23 10:55 IST",
+    "reason": "user asked to also run last china ad",
+    "ad_40": {
+      "title": "china ddpay only",
+      "channel": "ddpay9999",
+      "amount": 4,
+      "status": "Active",
+      "left": 4
+    },
+    "before_spare": 4.63,
+    "after_spare": 0.63
   }
 }

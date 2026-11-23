@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-23 10:40 IST — §125 +60 loaded. Users +28, holders +24, diwa +8. DDpay skipped CPA 1.14.
+**Last updated:** 2026-11-23 10:55 IST — §126 china ddpay Ad 40 +4 Active. Spare 0.63.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4145,3 +4145,7 @@ Nov 17 load ke baad:
 | 40 ddpay | 0 | 0 | Stopped |
 
 Mat on: 20/22 packs, bulk 30, rate beat, search apps, 19/21/23/24/29/31.
+
+## 126) 2026-11-23 10:55 IST — China Ad 40 on. User ne bola last china miss.
+
+Pehle §125 mein DDpay CPA 1.14 pe skip. User: last china lagao. Spare se **Ad 40** `china ddpay only` (`ddpay9999` only) **+4** → Active, left 4. Spare **0.63**. Purana pack 20/22 abhi bhi off.

@@ -5699,5 +5699,24 @@
     },
     "kept": "ddpay9999 — 21.1k med 2300 same-day USDT deposit lane",
     "dropped": "jaypay_8 — 7d stale, agent partner posts, lower views"
+  },
+  "fund60_winners_2026_11_23":   {
+    "date": "2026-11-23 10:40 IST",
+    "credit": "+60 at 2026-11-23 04:55 UTC",
+    "before": 64.63,
+    "after": 4.63,
+    "loaded": {
+      "33_users": 28,
+      "28_holders_xwallet": 24,
+      "38_link_diwa": 8
+    },
+    "skipped": {
+      "40_ddpay": "CPA 1.14 on 7 joins / 8 TON"
+    },
+    "nov17_delta": {
+      "33": "64 joins / 16 TON = 0.25",
+      "28": "26 joins / 20 TON = 0.77",
+      "38": "5 joins / 8 TON = 1.60"
+    }
   }
 }

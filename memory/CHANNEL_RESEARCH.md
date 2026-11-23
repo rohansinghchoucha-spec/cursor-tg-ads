@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-17 16:45 IST — §124 ad 39 deleted. Only ddpay9999 as ad 40 In Review.
+**Last updated:** 2026-11-23 10:40 IST — §125 +60 loaded. Users +28, holders +24, diwa +8. DDpay skipped CPA 1.14.
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4123,3 +4123,25 @@ Ad **39** mein pehle **2** channels the (faltu nahi, lekin JayPay kamzor):
 - `jaypay_8` — HATA. 6.8k / med 779 / **7 din** thanda + agent recruit posts.
 
 Ad 39 delete (8 TON wapas). Naya **ad 40** `china ddpay only`: **1 channel** `ddpay9999` only, CPM 5, budget 8, UPI ₹120 / Bank ₹117 → **In Review**. Spare ~4.63.
+
+## 125) 2026-11-23 10:40 IST — +60 aaya. Winners resume. DDpay mat.
+
+Credit **+60** 23 Nov 04:55 UTC. Unallocated pehle 64.63.
+
+Nov 17 load ke baad:
+| ad | joins ab | is daur | CPA daur | left pehle |
+|---|---|---|---|---|
+| 33 users | 207 | +64 / 16 TON | **0.25** | 0 (Active empty) |
+| 28 holders | 189 | +26 / 20 TON | 0.77 | 0 Stopped |
+| 38 link diwa | 48 | +5 / 8 TON | 1.60 | 0 Stopped |
+| 40 ddpay | 7 | 7 / 8 TON | **1.14** | 0 — is round skip |
+
+**Load 60 (spare 4.63), CPM/text edit nahi:**
+| ad | + | left | status |
+|---|---|---|---|
+| 33 users | **28** | 28 | Active |
+| 28 holders xWallet | **24** | 24 | Active |
+| 38 link diwa | 8 | 8 | Active |
+| 40 ddpay | 0 | 0 | Stopped |
+
+Mat on: 20/22 packs, bulk 30, rate beat, search apps, 19/21/23/24/29/31.

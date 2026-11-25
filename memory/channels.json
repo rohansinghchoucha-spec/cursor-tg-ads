@@ -5731,5 +5731,24 @@
     },
     "before_spare": 4.63,
     "after_spare": 0.63
+  },
+  "full_git_handoff_2026_11_25":   {
+    "date": "2026-11-25 21:10 IST",
+    "purpose": "Cursor account/ID change portability",
+    "files": [
+      "memory/HANDOFF_OTHER_CURSOR.md",
+      "memory/RESTORE_ON_NEW_CURSOR.md",
+      "memory/OPS_SNAPSHOT.md",
+      "memory/SECRETS.TEMPLATE.env",
+      "memory/chat-transcripts/TELEGRAM_AD_PERFORMANCE_bc-29fb44ad.md"
+    ],
+    "secrets_policy": "values stay in gitignored local/ + password manager; template names only on git",
+    "ads_phone": "+447436763940",
+    "winners_snapshot": {
+      "33": "+28",
+      "28": "+24",
+      "38": "+8",
+      "40": "+4"
+    }
   }
 }

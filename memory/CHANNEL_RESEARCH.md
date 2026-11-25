@@ -1,6 +1,6 @@
 # Channel Research Memory (permanent)
 
-**Last updated:** 2026-11-23 10:55 IST — §126 china ddpay Ad 40 +4 Active. Spare 0.63.
+**Last updated:** 2026-11-25 21:10 IST — §127 full git handoff refresh (transcript + restore pack).
 **Owner chats:**
 - Current performance: `bc-29fb44ad-c9b1-4dec-9ea5-fb00c0b22789` (Telegram ad performance)
 - Recommend→drop history: `bc-9eb05ff1-69f0-4877-b7f2-0cf27bedb69d` (Telegram ads activation issue)
@@ -4149,3 +4149,16 @@ Mat on: 20/22 packs, bulk 30, rate beat, search apps, 19/21/23/24/29/31.
 ## 126) 2026-11-23 10:55 IST — China Ad 40 on. User ne bola last china miss.
 
 Pehle §125 mein DDpay CPA 1.14 pe skip. User: last china lagao. Spare se **Ad 40** `china ddpay only` (`ddpay9999` only) **+4** → Active, left 4. Spare **0.63**. Purana pack 20/22 abhi bhi off.
+
+## 127) 2026-11-25 21:10 IST — Cursor ID change ke liye FULL git handoff
+
+User: chat + web research + har data Git pe rahe taaki naya Cursor ID + git connect pe bhi chal jaye.
+
+**Git pe refresh:**
+- `memory/chat-transcripts/TELEGRAM_AD_PERFORMANCE_bc-29fb44ad.md` — full sanitized transcript re-export
+- `memory/HANDOFF_OTHER_CURSOR.md` — winners §125–126 + copy-paste prompt
+- `memory/RESTORE_ON_NEW_CURSOR.md` — step checklist
+- `memory/OPS_SNAPSHOT.md` — live ads snapshot
+- `memory/SECRETS.TEMPLATE.env` — key **names** only (values = `local/` / password manager)
+
+**Git pe nahi:** 2FA password, cookies, API keys, wallet seeds. Ads phone `+447436763940` ops field ke tor pe handoff mein hai.
